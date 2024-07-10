@@ -29,6 +29,6 @@ Features a CPN model for capturing the IoT-enhanced cargo pickup process and a c
   - A _CargoPickup_IoT.sqlite_: The resulting OCEL log.
  
 #### Simulation Instructions for IoT-enhanced Cargo Pickup Process
-- Run _Random_data_generation.ipynb_ to generate the required IoT data.
 - Run the simulation on _object_initialisation_iot.cpn_ in the **object_initialiser_iot** folder.
+- Run _Random_data_generation.ipynb_ to generate the required IoT data.
 - Run the simulation on _truck_bp_iot.cpn_ in the **truck_bp_iot** folder.
