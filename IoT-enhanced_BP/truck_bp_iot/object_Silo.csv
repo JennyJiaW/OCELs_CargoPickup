@@ -1,0 +1,558 @@
+ocel_id;ocel_time;ocel_changed_field;Silo Status;Temperature;Humidity;Silo Temperature;Grain Temperature
+Silo17;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo7;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo20;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo1;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo5;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo18;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo16;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo13;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo12;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo19;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo6;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo4;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo3;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo10;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo2;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo15;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo14;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo8;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo11;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo9;2024-03-04 00:00:00;;occupied;0.0;0.0;0.0;0.0
+Silo20;2024-05-02 08:16:22;Temperature;;24.2
+Silo20;2024-05-02 08:16:22;Humidity;;;13.1
+Silo20;2024-05-02 08:16:22;Grain Temperature;;;;;6.6
+Silo20;2024-05-02 08:20:43;Temperature;;24.2
+Silo20;2024-05-02 08:20:43;Humidity;;;13.1
+Silo20;2024-05-02 08:20:43;Grain Temperature;;;;;6.6
+Silo20;2024-05-02 09:55:10;Temperature;;24.2
+Silo20;2024-05-02 09:55:10;Humidity;;;13.1
+Silo20;2024-05-02 09:55:10;Grain Temperature;;;;;6.6
+Silo20;2024-05-02 09:56:29;Temperature;;24.2
+Silo20;2024-05-02 09:56:29;Humidity;;;13.1
+Silo20;2024-05-02 09:56:29;Grain Temperature;;;;;5.5
+Silo20;2024-05-02 10:16:08;Temperature;;24.2
+Silo20;2024-05-02 10:16:08;Humidity;;;13.1
+Silo20;2024-05-02 10:16:08;Grain Temperature;;;;;6.7
+Silo20;2024-05-02 10:55:25;Temperature;;24.2
+Silo20;2024-05-02 10:55:25;Humidity;;;13.1
+Silo20;2024-05-02 10:55:25;Grain Temperature;;;;;6.7
+Silo20;2024-05-02 11:04:12;Temperature;;24.2
+Silo20;2024-05-02 11:04:12;Humidity;;;13.1
+Silo20;2024-05-02 11:04:12;Grain Temperature;;;;;5.5
+Silo20;2024-05-02 12:06:41;Temperature;;24.2
+Silo20;2024-05-02 12:06:41;Humidity;;;13.1
+Silo20;2024-05-02 12:06:41;Grain Temperature;;;;;6.7
+Silo20;2024-05-02 13:56:28;Temperature;;24.2
+Silo20;2024-05-02 13:56:28;Humidity;;;13.1
+Silo20;2024-05-02 13:56:28;Grain Temperature;;;;;5.0
+Silo20;2024-05-02 14:08:19;Temperature;;20.0
+Silo20;2024-05-02 14:08:19;Humidity;;;19.0
+Silo20;2024-05-02 14:08:19;Grain Temperature;;;;;5.2
+Silo20;2024-05-02 14:27:55;Temperature;;20.0
+Silo20;2024-05-02 14:27:55;Humidity;;;19.0
+Silo20;2024-05-02 14:27:55;Grain Temperature;;;;;5.2
+Silo20;2024-05-02 14:42:30;Temperature;;20.0
+Silo20;2024-05-02 14:42:30;Humidity;;;19.0
+Silo20;2024-05-02 14:42:30;Grain Temperature;;;;;5.2
+Silo20;2024-05-02 14:48:40;Temperature;;20.0
+Silo20;2024-05-02 14:48:40;Humidity;;;19.0
+Silo20;2024-05-02 14:48:40;Grain Temperature;;;;;5.2
+Silo20;2024-05-02 14:53:40;Temperature;;20.0
+Silo20;2024-05-02 14:53:40;Humidity;;;19.0
+Silo20;2024-05-02 14:53:40;Grain Temperature;;;;;5.2
+Silo20;2024-05-02 15:51:06;Temperature;;20.0
+Silo20;2024-05-02 15:51:06;Humidity;;;19.0
+Silo20;2024-05-02 15:51:06;Grain Temperature;;;;;8.6
+Silo20;2024-05-02 15:54:13;Temperature;;20.0
+Silo20;2024-05-02 15:54:13;Humidity;;;19.0
+Silo20;2024-05-02 15:54:13;Grain Temperature;;;;;5.2
+Silo20;2024-05-02 16:00:34;Temperature;;20.0
+Silo20;2024-05-02 16:00:34;Humidity;;;19.0
+Silo20;2024-05-02 16:00:34;Grain Temperature;;;;;5.2
+Silo20;2024-05-02 16:47:53;Temperature;;20.0
+Silo20;2024-05-02 16:47:53;Humidity;;;19.0
+Silo20;2024-05-02 16:47:53;Grain Temperature;;;;;6.8
+Silo20;2024-05-02 16:51:11;Temperature;;20.0
+Silo20;2024-05-02 16:51:11;Humidity;;;19.0
+Silo20;2024-05-02 16:51:11;Grain Temperature;;;;;8.6
+Silo20;2024-05-02 17:08:02;Temperature;;20.0
+Silo20;2024-05-02 17:08:02;Humidity;;;19.0
+Silo20;2024-05-02 17:08:02;Grain Temperature;;;;;8.6
+Silo20;2024-05-02 17:47:40;Temperature;;20.0
+Silo20;2024-05-02 17:47:40;Humidity;;;19.0
+Silo20;2024-05-02 17:47:40;Grain Temperature;;;;;8.6
+Silo20;2024-05-02 18:55:10;Temperature;;20.0
+Silo20;2024-05-02 18:55:10;Humidity;;;19.0
+Silo20;2024-05-02 18:55:10;Grain Temperature;;;;;6.8
+Silo20;2024-05-03 07:19:20;Temperature;;20.0
+Silo20;2024-05-03 07:19:20;Humidity;;;19.0
+Silo20;2024-05-03 07:19:20;Grain Temperature;;;;;8.5
+Silo20;2024-05-03 08:50:51;Temperature;;20.0
+Silo20;2024-05-03 08:50:51;Humidity;;;19.0
+Silo20;2024-05-03 08:50:51;Grain Temperature;;;;;8.5
+Silo20;2024-05-03 10:07:42;Temperature;;9.0
+Silo20;2024-05-03 10:07:42;Humidity;;;31.0
+Silo20;2024-05-03 10:07:42;Grain Temperature;;;;;7.9
+Silo20;2024-05-03 10:36:39;Temperature;;9.0
+Silo20;2024-05-03 10:36:39;Humidity;;;31.0
+Silo20;2024-05-03 10:36:39;Grain Temperature;;;;;6.2
+Silo20;2024-05-03 11:23:57;Temperature;;9.0
+Silo20;2024-05-03 11:23:57;Humidity;;;31.0
+Silo20;2024-05-03 11:23:57;Grain Temperature;;;;;8.9
+Silo20;2024-05-03 14:05:22;Temperature;;9.0
+Silo20;2024-05-03 14:05:22;Humidity;;;31.0
+Silo20;2024-05-03 14:05:22;Grain Temperature;;;;;8.9
+Silo20;2024-05-03 14:43:02;Temperature;;15.9
+Silo20;2024-05-03 14:43:02;Humidity;;;5.1
+Silo20;2024-05-03 14:43:02;Grain Temperature;;;;;6.8
+Silo20;2024-05-03 15:41:03;Temperature;;15.9
+Silo20;2024-05-03 15:41:03;Humidity;;;5.1
+Silo20;2024-05-03 15:41:03;Grain Temperature;;;;;6.8
+Silo20;2024-05-03 16:43:54;Temperature;;15.9
+Silo20;2024-05-03 16:43:54;Humidity;;;5.1
+Silo20;2024-05-03 16:43:54;Grain Temperature;;;;;7.3
+Silo10;2024-05-03 16:48:49;Temperature;;16.8
+Silo10;2024-05-03 16:48:49;Humidity;;;20.5
+Silo10;2024-05-03 16:48:49;Grain Temperature;;;;;6.6
+Silo20;2024-05-06 09:22:32;Temperature;;10.6
+Silo20;2024-05-06 09:22:32;Humidity;;;29.4
+Silo20;2024-05-06 09:22:32;Grain Temperature;;;;;8.1
+Silo3;2024-05-06 09:40:45;Temperature;;18.0
+Silo3;2024-05-06 09:40:45;Humidity;;;29.3
+Silo3;2024-05-06 09:40:45;Grain Temperature;;;;;7.3
+Silo6;2024-05-06 14:01:04;Temperature;;9.1
+Silo6;2024-05-06 14:01:04;Humidity;;;31.0
+Silo6;2024-05-06 14:01:04;Grain Temperature;;;;;7.4
+Silo1;2024-05-06 14:21:11;Temperature;;19.9
+Silo1;2024-05-06 14:21:11;Humidity;;;18.0
+Silo1;2024-05-06 14:21:11;Grain Temperature;;;;;9.2
+Silo2;2024-05-06 17:19:35;Temperature;;22.9
+Silo2;2024-05-06 17:19:35;Humidity;;;28.9
+Silo2;2024-05-06 17:19:35;Grain Temperature;;;;;12.2
+Silo20;2024-05-06 18:11:52;Temperature;;12.2
+Silo20;2024-05-06 18:11:52;Humidity;;;22.9
+Silo20;2024-05-06 18:11:52;Grain Temperature;;;;;7.4
+Silo7;2024-05-07 08:40:40;Temperature;;15.3
+Silo7;2024-05-07 08:40:40;Humidity;;;32.2
+Silo7;2024-05-07 08:40:40;Grain Temperature;;;;;9.0
+Silo1;2024-05-07 11:55:38;Temperature;;23.4
+Silo1;2024-05-07 11:55:38;Humidity;;;31.2
+Silo1;2024-05-07 11:55:38;Grain Temperature;;;;;10.0
+Silo7;2024-05-07 14:08:34;Temperature;;8.6
+Silo7;2024-05-07 14:08:34;Humidity;;;34.4
+Silo7;2024-05-07 14:08:34;Grain Temperature;;;;;9.6
+Silo10;2024-05-07 15:58:23;Temperature;;16.5
+Silo10;2024-05-07 15:58:23;Humidity;;;20.4
+Silo10;2024-05-07 15:58:23;Grain Temperature;;;;;8.1
+Silo10;2024-05-07 15:58:44;Temperature;;16.5
+Silo10;2024-05-07 15:58:44;Humidity;;;20.4
+Silo10;2024-05-07 15:58:44;Grain Temperature;;;;;8.1
+Silo16;2024-05-08 10:51:25;Temperature;;9.0
+Silo16;2024-05-08 10:51:25;Humidity;;;17.8
+Silo16;2024-05-08 10:51:25;Grain Temperature;;;;;8.7
+Silo16;2024-05-08 11:58:52;Temperature;;9.0
+Silo16;2024-05-08 11:58:52;Humidity;;;17.8
+Silo16;2024-05-08 11:58:52;Grain Temperature;;;;;8.6
+Silo8;2024-05-08 12:11:06;Temperature;;10.8
+Silo8;2024-05-08 12:11:06;Humidity;;;7.2
+Silo8;2024-05-08 12:11:06;Grain Temperature;;;;;7.8
+Silo2;2024-05-08 17:16:23;Temperature;;8.0
+Silo2;2024-05-08 17:16:23;Humidity;;;23.4
+Silo2;2024-05-08 17:16:23;Grain Temperature;;;;;2.6
+Silo16;2024-05-09 08:16:29;Temperature;;21.1
+Silo16;2024-05-09 08:16:29;Humidity;;;21.5
+Silo16;2024-05-09 08:16:29;Grain Temperature;;;;;10.4
+Silo16;2024-05-09 08:53:31;Temperature;;21.8
+Silo16;2024-05-09 08:53:31;Humidity;;;18.7
+Silo16;2024-05-09 08:53:31;Grain Temperature;;;;;7.1
+Silo16;2024-05-09 09:56:50;Temperature;;21.8
+Silo16;2024-05-09 09:56:50;Humidity;;;18.7
+Silo16;2024-05-09 09:56:50;Grain Temperature;;;;;7.1
+Silo8;2024-05-09 10:59:58;Temperature;;17.1
+Silo8;2024-05-09 10:59:58;Humidity;;;9.2
+Silo8;2024-05-09 10:59:58;Grain Temperature;;;;;8.8
+Silo8;2024-05-09 11:37:12;Temperature;;17.1
+Silo8;2024-05-09 11:37:12;Humidity;;;9.2
+Silo8;2024-05-09 11:37:12;Grain Temperature;;;;;3.2
+Silo7;2024-05-09 12:11:05;Temperature;;15.1
+Silo7;2024-05-09 12:11:05;Humidity;;;20.5
+Silo7;2024-05-09 12:11:05;Grain Temperature;;;;;10.5
+Silo7;2024-05-09 13:56:56;Temperature;;15.1
+Silo7;2024-05-09 13:56:56;Humidity;;;20.5
+Silo7;2024-05-09 13:56:56;Grain Temperature;;;;;8.6
+Silo10;2024-05-09 14:32:20;Temperature;;22.1
+Silo10;2024-05-09 14:32:20;Humidity;;;27.2
+Silo10;2024-05-09 14:32:20;Grain Temperature;;;;;10.4
+Silo3;2024-05-09 16:34:10;Temperature;;21.2
+Silo3;2024-05-09 16:34:10;Humidity;;;9.3
+Silo3;2024-05-09 16:34:10;Grain Temperature;;;;;6.8
+Silo15;2024-05-10 07:44:51;Temperature;;18.0
+Silo15;2024-05-10 07:44:51;Humidity;;;13.8
+Silo15;2024-05-10 07:44:51;Grain Temperature;;;;;9.9
+Silo10;2024-05-10 08:04:17;Temperature;;21.7
+Silo10;2024-05-10 08:04:17;Humidity;;;30.9
+Silo10;2024-05-10 08:04:17;Grain Temperature;;;;;10.8
+Silo15;2024-05-10 09:00:05;Temperature;;18.0
+Silo15;2024-05-10 09:00:05;Humidity;;;13.8
+Silo15;2024-05-10 09:00:05;Grain Temperature;;;;;9.9
+Silo10;2024-05-10 09:55:47;Temperature;;9.2
+Silo10;2024-05-10 09:55:47;Humidity;;;31.8
+Silo10;2024-05-10 09:55:47;Grain Temperature;;;;;4.7
+Silo3;2024-05-10 09:59:59;Temperature;;22.9
+Silo3;2024-05-10 09:59:59;Humidity;;;19.3
+Silo3;2024-05-10 09:59:59;Grain Temperature;;;;;11.7
+Silo8;2024-05-10 10:46:14;Temperature;;17.5
+Silo8;2024-05-10 10:46:14;Humidity;;;29.0
+Silo8;2024-05-10 10:46:14;Grain Temperature;;;;;5.6
+Silo3;2024-05-10 11:18:31;Temperature;;22.9
+Silo3;2024-05-10 11:18:31;Humidity;;;19.3
+Silo3;2024-05-10 11:18:31;Grain Temperature;;;;;11.7
+Silo6;2024-05-10 12:00:33;Temperature;;12.0
+Silo6;2024-05-10 12:00:33;Humidity;;;30.1
+Silo6;2024-05-10 12:00:33;Grain Temperature;;;;;9.7
+Silo10;2024-05-10 14:15:40;Temperature;;9.2
+Silo10;2024-05-10 14:15:40;Humidity;;;31.8
+Silo10;2024-05-10 14:15:40;Grain Temperature;;;;;8.0
+Silo2;2024-05-10 16:52:14;Temperature;;14.1
+Silo2;2024-05-10 16:52:14;Humidity;;;25.7
+Silo2;2024-05-10 16:52:14;Grain Temperature;;;;;11.5
+Silo6;2024-05-10 18:17:41;Temperature;;19.5
+Silo6;2024-05-10 18:17:41;Humidity;;;30.5
+Silo6;2024-05-10 18:17:41;Grain Temperature;;;;;8.5
+Silo1;2024-05-13 08:42:40;Temperature;;17.4
+Silo1;2024-05-13 08:42:40;Humidity;;;21.4
+Silo1;2024-05-13 08:42:40;Grain Temperature;;;;;4.9
+Silo15;2024-05-13 08:55:34;Temperature;;13.6
+Silo15;2024-05-13 08:55:34;Humidity;;;25.3
+Silo15;2024-05-13 08:55:34;Grain Temperature;;;;;5.4
+Silo7;2024-05-13 10:30:55;Temperature;;16.5
+Silo7;2024-05-13 10:30:55;Humidity;;;29.2
+Silo7;2024-05-13 10:30:55;Grain Temperature;;;;;11.4
+Silo15;2024-05-13 10:59:31;Temperature;;13.6
+Silo15;2024-05-13 10:59:31;Humidity;;;25.3
+Silo15;2024-05-13 10:59:31;Grain Temperature;;;;;6.3
+Silo3;2024-05-14 10:11:32;Temperature;;8.6
+Silo3;2024-05-14 10:11:32;Humidity;;;10.8
+Silo3;2024-05-14 10:11:32;Grain Temperature;;;;;6.2
+Silo15;2024-05-14 11:52:11;Temperature;;15.8
+Silo15;2024-05-14 11:52:11;Humidity;;;14.9
+Silo15;2024-05-14 11:52:11;Grain Temperature;;;;;5.5
+Silo10;2024-05-14 14:54:56;Temperature;;18.7
+Silo10;2024-05-14 14:54:56;Humidity;;;12.7
+Silo10;2024-05-14 14:54:56;Grain Temperature;;;;;5.5
+Silo15;2024-05-14 14:55:05;Temperature;;14.8
+Silo15;2024-05-14 14:55:05;Humidity;;;12.4
+Silo15;2024-05-14 14:55:05;Grain Temperature;;;;;9.8
+Silo10;2024-05-14 15:40:46;Temperature;;18.7
+Silo10;2024-05-14 15:40:46;Humidity;;;12.7
+Silo10;2024-05-14 15:40:46;Grain Temperature;;;;;5.5
+Silo3;2024-05-14 15:50:25;Temperature;;9.6
+Silo3;2024-05-14 15:50:25;Humidity;;;16.4
+Silo3;2024-05-14 15:50:25;Grain Temperature;;;;;3.1
+Silo2;2024-05-14 15:57:50;Temperature;;19.6
+Silo2;2024-05-14 15:57:50;Humidity;;;20.2
+Silo2;2024-05-14 15:57:50;Grain Temperature;;;;;8.7
+Silo16;2024-05-14 18:23:59;Temperature;;15.2
+Silo16;2024-05-14 18:23:59;Humidity;;;9.6
+Silo16;2024-05-14 18:23:59;Grain Temperature;;;;;5.3
+Silo3;2024-05-15 07:10:18;Temperature;;9.6
+Silo3;2024-05-15 07:10:18;Humidity;;;16.4
+Silo3;2024-05-15 07:10:18;Grain Temperature;;;;;7.3
+Silo2;2024-05-15 08:51:00;Temperature;;19.6
+Silo2;2024-05-15 08:51:00;Humidity;;;20.2
+Silo2;2024-05-15 08:51:00;Grain Temperature;;;;;8.0
+Silo3;2024-05-15 09:39:08;Temperature;;16.7
+Silo3;2024-05-15 09:39:08;Humidity;;;26.9
+Silo3;2024-05-15 09:39:08;Grain Temperature;;;;;6.7
+Silo1;2024-05-15 09:57:02;Temperature;;22.2
+Silo1;2024-05-15 09:57:02;Humidity;;;32.2
+Silo1;2024-05-15 09:57:02;Grain Temperature;;;;;8.6
+Silo8;2024-05-15 10:25:44;Temperature;;21.8
+Silo8;2024-05-15 10:25:44;Humidity;;;7.4
+Silo8;2024-05-15 10:25:44;Grain Temperature;;;;;5.6
+Silo7;2024-05-15 14:27:22;Temperature;;20.7
+Silo7;2024-05-15 14:27:22;Humidity;;;11.5
+Silo7;2024-05-15 14:27:22;Grain Temperature;;;;;8.1
+Silo16;2024-05-15 14:38:47;Temperature;;9.5
+Silo16;2024-05-15 14:38:47;Humidity;;;29.5
+Silo16;2024-05-15 14:38:47;Grain Temperature;;;;;3.7
+Silo7;2024-05-15 15:15:33;Temperature;;20.7
+Silo7;2024-05-15 15:15:33;Humidity;;;11.5
+Silo7;2024-05-15 15:15:33;Grain Temperature;;;;;10.5
+Silo1;2024-05-15 16:14:41;Temperature;;19.4
+Silo1;2024-05-15 16:14:41;Humidity;;;25.5
+Silo1;2024-05-15 16:14:41;Grain Temperature;;;;;8.8
+Silo7;2024-05-15 17:15:41;Temperature;;20.7
+Silo7;2024-05-15 17:15:41;Humidity;;;11.5
+Silo7;2024-05-15 17:15:41;Grain Temperature;;;;;10.5
+Silo7;2024-05-16 09:29:04;Temperature;;21.5
+Silo7;2024-05-16 09:29:04;Humidity;;;13.6
+Silo7;2024-05-16 09:29:04;Grain Temperature;;;;;5.5
+Silo1;2024-05-16 09:58:51;Temperature;;12.8
+Silo1;2024-05-16 09:58:51;Humidity;;;8.9
+Silo1;2024-05-16 09:58:51;Grain Temperature;;;;;10.5
+Silo6;2024-05-16 14:54:34;Temperature;;13.2
+Silo6;2024-05-16 14:54:34;Humidity;;;16.9
+Silo6;2024-05-16 14:54:34;Grain Temperature;;;;;7.0
+Silo7;2024-05-16 15:26:54;Temperature;;12.7
+Silo7;2024-05-16 15:26:54;Humidity;;;31.9
+Silo7;2024-05-16 15:26:54;Grain Temperature;;;;;8.8
+Silo8;2024-05-16 16:57:22;Temperature;;13.5
+Silo8;2024-05-16 16:57:22;Humidity;;;17.0
+Silo8;2024-05-16 16:57:22;Grain Temperature;;;;;8.0
+Silo15;2024-05-17 08:48:28;Temperature;;18.1
+Silo15;2024-05-17 08:48:28;Humidity;;;25.5
+Silo15;2024-05-17 08:48:28;Grain Temperature;;;;;8.0
+Silo1;2024-05-17 10:09:34;Temperature;;15.4
+Silo1;2024-05-17 10:09:34;Humidity;;;20.1
+Silo1;2024-05-17 10:09:34;Grain Temperature;;;;;6.9
+Silo8;2024-05-17 11:54:11;Temperature;;14.7
+Silo8;2024-05-17 11:54:11;Humidity;;;22.5
+Silo8;2024-05-17 11:54:11;Grain Temperature;;;;;10.1
+Silo10;2024-05-17 11:56:06;Temperature;;22.8
+Silo10;2024-05-17 11:56:06;Humidity;;;9.3
+Silo10;2024-05-17 11:56:06;Grain Temperature;;;;;10.6
+Silo16;2024-05-17 17:08:52;Temperature;;12.6
+Silo16;2024-05-17 17:08:52;Humidity;;;25.6
+Silo16;2024-05-17 17:08:52;Grain Temperature;;;;;8.5
+Silo2;2024-05-20 09:31:10;Temperature;;19.2
+Silo2;2024-05-20 09:31:10;Humidity;;;21.0
+Silo2;2024-05-20 09:31:10;Grain Temperature;;;;;8.3
+Silo15;2024-05-20 10:03:30;Temperature;;10.8
+Silo15;2024-05-20 10:03:30;Humidity;;;19.5
+Silo15;2024-05-20 10:03:30;Grain Temperature;;;;;9.9
+Silo3;2024-05-20 15:00:16;Temperature;;16.6
+Silo3;2024-05-20 15:00:16;Humidity;;;10.4
+Silo3;2024-05-20 15:00:16;Grain Temperature;;;;;8.0
+Silo16;2024-05-20 15:43:30;Temperature;;9.8
+Silo16;2024-05-20 15:43:30;Humidity;;;6.0
+Silo16;2024-05-20 15:43:30;Grain Temperature;;;;;10.6
+Silo3;2024-05-20 16:08:12;Temperature;;21.9
+Silo3;2024-05-20 16:08:12;Humidity;;;33.7
+Silo3;2024-05-20 16:08:12;Grain Temperature;;;;;9.4
+Silo7;2024-05-20 17:31:17;Temperature;;13.0
+Silo7;2024-05-20 17:31:17;Humidity;;;9.3
+Silo7;2024-05-20 17:31:17;Grain Temperature;;;;;11.2
+Silo16;2024-05-20 18:13:29;Temperature;;9.8
+Silo16;2024-05-20 18:13:29;Humidity;;;6.0
+Silo16;2024-05-20 18:13:29;Grain Temperature;;;;;11.3
+Silo7;2024-05-20 18:20:45;Temperature;;13.0
+Silo7;2024-05-20 18:20:45;Humidity;;;9.3
+Silo7;2024-05-20 18:20:45;Grain Temperature;;;;;6.2
+Silo3;2024-05-21 09:14:52;Temperature;;21.9
+Silo3;2024-05-21 09:14:52;Humidity;;;33.7
+Silo3;2024-05-21 09:14:52;Grain Temperature;;;;;7.7
+Silo3;2024-05-21 09:34:13;Temperature;;10.4
+Silo3;2024-05-21 09:34:13;Humidity;;;22.1
+Silo3;2024-05-21 09:34:13;Grain Temperature;;;;;11.4
+Silo16;2024-05-21 09:51:00;Temperature;;11.3
+Silo16;2024-05-21 09:51:00;Humidity;;;16.3
+Silo16;2024-05-21 09:51:00;Grain Temperature;;;;;8.2
+Silo3;2024-05-21 16:06:52;Temperature;;9.3
+Silo3;2024-05-21 16:06:52;Humidity;;;25.7
+Silo3;2024-05-21 16:06:52;Grain Temperature;;;;;7.1
+Silo1;2024-05-21 17:07:58;Temperature;;24.7
+Silo1;2024-05-21 17:07:58;Humidity;;;19.8
+Silo1;2024-05-21 17:07:58;Grain Temperature;;;;;5.8
+Silo16;2024-05-21 17:48:32;Temperature;;22.6
+Silo16;2024-05-21 17:48:32;Humidity;;;28.6
+Silo16;2024-05-21 17:48:32;Grain Temperature;;;;;4.8
+Silo10;2024-05-21 18:59:46;Temperature;;16.4
+Silo10;2024-05-21 18:59:46;Humidity;;;10.3
+Silo10;2024-05-21 18:59:46;Grain Temperature;;;;;6.7
+Silo10;2024-05-22 08:56:02;Temperature;;12.7
+Silo10;2024-05-22 08:56:02;Humidity;;;11.9
+Silo10;2024-05-22 08:56:02;Grain Temperature;;;;;6.0
+Silo7;2024-05-22 09:49:06;Temperature;;24.9
+Silo7;2024-05-22 09:49:06;Humidity;;;5.8
+Silo7;2024-05-22 09:49:06;Grain Temperature;;;;;9.8
+Silo3;2024-05-22 13:44:05;Temperature;;11.2
+Silo3;2024-05-22 13:44:05;Humidity;;;30.3
+Silo3;2024-05-22 13:44:05;Grain Temperature;;;;;9.2
+Silo7;2024-05-22 14:03:25;Temperature;;24.9
+Silo7;2024-05-22 14:03:25;Humidity;;;5.8
+Silo7;2024-05-22 14:03:25;Grain Temperature;;;;;10.0
+Silo15;2024-05-22 15:59:39;Temperature;;17.8
+Silo15;2024-05-22 15:59:39;Humidity;;;31.8
+Silo15;2024-05-22 15:59:39;Grain Temperature;;;;;7.4
+Silo1;2024-05-22 17:56:16;Temperature;;11.2
+Silo1;2024-05-22 17:56:16;Humidity;;;12.2
+Silo1;2024-05-22 17:56:16;Grain Temperature;;;;;11.7
+Silo1;2024-05-22 19:18:26;Temperature;;11.2
+Silo1;2024-05-22 19:18:26;Humidity;;;12.2
+Silo1;2024-05-22 19:18:26;Grain Temperature;;;;;11.7
+Silo2;2024-05-23 10:00:07;Temperature;;12.1
+Silo2;2024-05-23 10:00:07;Humidity;;;21.3
+Silo2;2024-05-23 10:00:07;Grain Temperature;;;;;10.7
+Silo2;2024-05-23 11:42:10;Temperature;;12.1
+Silo2;2024-05-23 11:42:10;Humidity;;;21.3
+Silo2;2024-05-23 11:42:10;Grain Temperature;;;;;13.1
+Silo2;2024-05-23 14:56:48;Temperature;;24.9
+Silo2;2024-05-23 14:56:48;Humidity;;;11.6
+Silo2;2024-05-23 14:56:48;Grain Temperature;;;;;8.3
+Silo6;2024-05-23 16:33:54;Temperature;;16.5
+Silo6;2024-05-23 16:33:54;Humidity;;;20.1
+Silo6;2024-05-23 16:33:54;Grain Temperature;;;;;7.6
+Silo10;2024-05-23 17:41:21;Temperature;;12.1
+Silo10;2024-05-23 17:41:21;Humidity;;;34.5
+Silo10;2024-05-23 17:41:21;Grain Temperature;;;;;10.3
+Silo7;2024-05-23 18:07:20;Temperature;;15.9
+Silo7;2024-05-23 18:07:20;Humidity;;;24.5
+Silo7;2024-05-23 18:07:20;Grain Temperature;;;;;9.4
+Silo15;2024-05-24 11:39:47;Temperature;;19.6
+Silo15;2024-05-24 11:39:47;Humidity;;;25.7
+Silo15;2024-05-24 11:39:47;Grain Temperature;;;;;9.4
+Silo10;2024-05-27 07:41:44;Temperature;;21.4
+Silo10;2024-05-27 07:41:44;Humidity;;;16.8
+Silo10;2024-05-27 07:41:44;Grain Temperature;;;;;4.8
+Silo10;2024-05-27 10:53:26;Temperature;;10.3
+Silo10;2024-05-27 10:53:26;Humidity;;;7.1
+Silo10;2024-05-27 10:53:26;Grain Temperature;;;;;7.2
+Silo2;2024-05-27 11:25:55;Temperature;;24.0
+Silo2;2024-05-27 11:25:55;Humidity;;;30.8
+Silo2;2024-05-27 11:25:55;Grain Temperature;;;;;7.8
+Silo16;2024-05-27 11:52:47;Temperature;;21.9
+Silo16;2024-05-27 11:52:47;Humidity;;;12.0
+Silo16;2024-05-27 11:52:47;Grain Temperature;;;;;8.9
+Silo2;2024-05-27 13:55:44;Temperature;;24.0
+Silo2;2024-05-27 13:55:44;Humidity;;;30.8
+Silo2;2024-05-27 13:55:44;Grain Temperature;;;;;7.8
+Silo8;2024-05-27 15:06:55;Temperature;;9.8
+Silo8;2024-05-27 15:06:55;Humidity;;;11.7
+Silo8;2024-05-27 15:06:55;Grain Temperature;;;;;9.7
+Silo2;2024-05-28 07:23:26;Temperature;;11.0
+Silo2;2024-05-28 07:23:26;Humidity;;;28.5
+Silo2;2024-05-28 07:23:26;Grain Temperature;;;;;7.4
+Silo6;2024-05-28 08:21:56;Temperature;;9.4
+Silo6;2024-05-28 08:21:56;Humidity;;;9.2
+Silo6;2024-05-28 08:21:56;Grain Temperature;;;;;11.3
+Silo10;2024-05-28 09:37:45;Temperature;;19.1
+Silo10;2024-05-28 09:37:45;Humidity;;;13.1
+Silo10;2024-05-28 09:37:45;Grain Temperature;;;;;6.9
+Silo8;2024-05-28 09:41:11;Temperature;;16.6
+Silo8;2024-05-28 09:41:11;Humidity;;;11.6
+Silo8;2024-05-28 09:41:11;Grain Temperature;;;;;7.2
+Silo1;2024-05-28 09:41:19;Temperature;;19.1
+Silo1;2024-05-28 09:41:19;Humidity;;;8.4
+Silo1;2024-05-28 09:41:19;Grain Temperature;;;;;9.9
+Silo2;2024-05-28 11:44:55;Temperature;;24.9
+Silo2;2024-05-28 11:44:55;Humidity;;;23.8
+Silo2;2024-05-28 11:44:55;Grain Temperature;;;;;9.7
+Silo1;2024-05-28 12:08:51;Temperature;;19.1
+Silo1;2024-05-28 12:08:51;Humidity;;;8.4
+Silo1;2024-05-28 12:08:51;Grain Temperature;;;;;5.6
+Silo10;2024-05-28 14:12:02;Temperature;;19.1
+Silo10;2024-05-28 14:12:02;Humidity;;;13.1
+Silo10;2024-05-28 14:12:02;Grain Temperature;;;;;7.8
+Silo1;2024-05-28 14:53:41;Temperature;;24.8
+Silo1;2024-05-28 14:53:41;Humidity;;;13.8
+Silo1;2024-05-28 14:53:41;Grain Temperature;;;;;5.6
+Silo10;2024-05-28 14:56:41;Temperature;;21.5
+Silo10;2024-05-28 14:56:41;Humidity;;;9.6
+Silo10;2024-05-28 14:56:41;Grain Temperature;;;;;5.7
+Silo2;2024-05-28 15:32:29;Temperature;;15.1
+Silo2;2024-05-28 15:32:29;Humidity;;;17.7
+Silo2;2024-05-28 15:32:29;Grain Temperature;;;;;11.7
+Silo16;2024-05-29 09:10:04;Temperature;;24.1
+Silo16;2024-05-29 09:10:04;Humidity;;;6.9
+Silo16;2024-05-29 09:10:04;Grain Temperature;;;;;7.6
+Silo16;2024-05-29 10:52:21;Temperature;;10.1
+Silo16;2024-05-29 10:52:21;Humidity;;;26.4
+Silo16;2024-05-29 10:52:21;Grain Temperature;;;;;8.7
+Silo8;2024-05-29 10:57:43;Temperature;;14.1
+Silo8;2024-05-29 10:57:43;Humidity;;;24.1
+Silo8;2024-05-29 10:57:43;Grain Temperature;;;;;5.6
+Silo8;2024-05-29 13:14:04;Temperature;;14.1
+Silo8;2024-05-29 13:14:04;Humidity;;;24.1
+Silo8;2024-05-29 13:14:04;Grain Temperature;;;;;6.1
+Silo8;2024-05-29 13:54:00;Temperature;;14.1
+Silo8;2024-05-29 13:54:00;Humidity;;;24.1
+Silo8;2024-05-29 13:54:00;Grain Temperature;;;;;11.6
+Silo16;2024-05-29 13:56:06;Temperature;;10.1
+Silo16;2024-05-29 13:56:06;Humidity;;;26.4
+Silo16;2024-05-29 13:56:06;Grain Temperature;;;;;10.2
+Silo16;2024-05-29 13:59:26;Temperature;;10.1
+Silo16;2024-05-29 13:59:26;Humidity;;;26.4
+Silo16;2024-05-29 13:59:26;Grain Temperature;;;;;10.2
+Silo2;2024-05-29 16:31:28;Temperature;;23.5
+Silo2;2024-05-29 16:31:28;Humidity;;;16.5
+Silo2;2024-05-29 16:31:28;Grain Temperature;;;;;8.2
+Silo8;2024-05-30 09:30:47;Temperature;;21.0
+Silo8;2024-05-30 09:30:47;Humidity;;;27.7
+Silo8;2024-05-30 09:30:47;Grain Temperature;;;;;5.4
+Silo16;2024-05-30 10:48:51;Temperature;;23.7
+Silo16;2024-05-30 10:48:51;Humidity;;;24.4
+Silo16;2024-05-30 10:48:51;Grain Temperature;;;;;5.9
+Silo16;2024-05-30 10:59:05;Temperature;;23.7
+Silo16;2024-05-30 10:59:05;Humidity;;;24.4
+Silo16;2024-05-30 10:59:05;Grain Temperature;;;;;5.9
+Silo8;2024-05-30 13:58:34;Temperature;;21.0
+Silo8;2024-05-30 13:58:34;Humidity;;;27.7
+Silo8;2024-05-30 13:58:34;Grain Temperature;;;;;7.2
+Silo16;2024-05-30 16:58:04;Temperature;;19.8
+Silo16;2024-05-30 16:58:04;Humidity;;;13.5
+Silo16;2024-05-30 16:58:04;Grain Temperature;;;;;7.9
+Silo6;2024-05-30 18:42:48;Temperature;;9.9
+Silo6;2024-05-30 18:42:48;Humidity;;;29.3
+Silo6;2024-05-30 18:42:48;Grain Temperature;;;;;4.4
+Silo8;2024-05-31 09:18:03;Temperature;;13.4
+Silo8;2024-05-31 09:18:03;Humidity;;;29.8
+Silo8;2024-05-31 09:18:03;Grain Temperature;;;;;4.4
+Silo2;2024-05-31 10:09:27;Temperature;;12.4
+Silo2;2024-05-31 10:09:27;Humidity;;;17.0
+Silo2;2024-05-31 10:09:27;Grain Temperature;;;;;9.2
+Silo2;2024-05-31 10:33:07;Temperature;;12.4
+Silo2;2024-05-31 10:33:07;Humidity;;;17.0
+Silo2;2024-05-31 10:33:07;Grain Temperature;;;;;9.2
+Silo2;2024-06-03 08:17:17;Temperature;;11.2
+Silo2;2024-06-03 08:17:17;Humidity;;;15.4
+Silo2;2024-06-03 08:17:17;Grain Temperature;;;;;6.0
+Silo10;2024-06-03 09:17:12;Temperature;;21.5
+Silo10;2024-06-03 09:17:12;Humidity;;;8.1
+Silo10;2024-06-03 09:17:12;Grain Temperature;;;;;7.4
+Silo16;2024-06-03 09:45:47;Temperature;;22.7
+Silo16;2024-06-03 09:45:47;Humidity;;;30.3
+Silo16;2024-06-03 09:45:47;Grain Temperature;;;;;8.6
+Silo8;2024-06-03 10:36:34;Temperature;;16.1
+Silo8;2024-06-03 10:36:34;Humidity;;;15.2
+Silo8;2024-06-03 10:36:34;Grain Temperature;;;;;4.8
+Silo16;2024-06-03 11:09:18;Temperature;;22.7
+Silo16;2024-06-03 11:09:18;Humidity;;;30.3
+Silo16;2024-06-03 11:09:18;Grain Temperature;;;;;10.0
+Silo16;2024-06-03 15:54:16;Temperature;;15.3
+Silo16;2024-06-03 15:54:16;Humidity;;;14.9
+Silo16;2024-06-03 15:54:16;Grain Temperature;;;;;7.6
+Silo2;2024-06-03 19:05:04;Temperature;;15.2
+Silo2;2024-06-03 19:05:04;Humidity;;;22.1
+Silo2;2024-06-03 19:05:04;Grain Temperature;;;;;11.5
+Silo10;2024-06-04 07:44:56;Temperature;;19.9
+Silo10;2024-06-04 07:44:56;Humidity;;;7.1
+Silo10;2024-06-04 07:44:56;Grain Temperature;;;;;11.7
+Silo16;2024-06-04 08:02:45;Temperature;;15.3
+Silo16;2024-06-04 08:02:45;Humidity;;;14.9
+Silo16;2024-06-04 08:02:45;Grain Temperature;;;;;8.1
+Silo10;2024-06-04 09:51:21;Temperature;;19.6
+Silo10;2024-06-04 09:51:21;Humidity;;;10.2
+Silo10;2024-06-04 09:51:21;Grain Temperature;;;;;8.9
+Silo16;2024-06-04 09:51:35;Temperature;;8.8
+Silo16;2024-06-04 09:51:35;Humidity;;;12.6
+Silo16;2024-06-04 09:51:35;Grain Temperature;;;;;9.5
+Silo8;2024-06-04 10:31:06;Temperature;;22.0
+Silo8;2024-06-04 10:31:06;Humidity;;;13.9
+Silo8;2024-06-04 10:31:06;Grain Temperature;;;;;3.4
+Silo10;2024-06-04 11:47:01;Temperature;;19.6
+Silo10;2024-06-04 11:47:01;Humidity;;;10.2
+Silo10;2024-06-04 11:47:01;Grain Temperature;;;;;12.0
+Silo10;2024-06-04 13:36:12;Temperature;;19.6
+Silo10;2024-06-04 13:36:12;Humidity;;;10.2
+Silo10;2024-06-04 13:36:12;Grain Temperature;;;;;10.8
+Silo16;2024-06-04 14:18:28;Temperature;;18.6
+Silo16;2024-06-04 14:18:28;Humidity;;;31.5
+Silo16;2024-06-04 14:18:28;Grain Temperature;;;;;5.9
+Silo16;2024-06-04 15:49:35;Temperature;;18.6
+Silo16;2024-06-04 15:49:35;Humidity;;;31.5
+Silo16;2024-06-04 15:49:35;Grain Temperature;;;;;5.3
+Silo8;2024-06-04 18:28:52;Temperature;;16.4
+Silo8;2024-06-04 18:28:52;Humidity;;;9.2
+Silo8;2024-06-04 18:28:52;Grain Temperature;;;;;6.0
