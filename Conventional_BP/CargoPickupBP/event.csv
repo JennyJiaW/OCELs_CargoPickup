@@ -1,0 +1,3448 @@
+ocel_id;ocel_type
+Lodge_Pcp9;Lodge Pickup Plan
+Lodge_Pcp6;Lodge Pickup Plan
+Lodge_Pcp1;Lodge Pickup Plan
+Lodge_Pcp8;Lodge Pickup Plan
+Lodge_Pcp3;Lodge Pickup Plan
+Lodge_Pcp5;Lodge Pickup Plan
+Lodge_Pcp4;Lodge Pickup Plan
+Lodge_Pcp10;Lodge Pickup Plan
+Lodge_Pcp2;Lodge Pickup Plan
+Lodge_Pcp7;Lodge Pickup Plan
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+weigh_empty_trucktr18;Weigh the Empty Truck
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp6;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+weigh_empty_trucktr10;Weigh the Empty Truck
+assign_trs_Pcp6;Assign Trucks
+weigh_empty_trucktr14;Weigh the Empty Truck
+weigh_empty_trucktr7;Weigh the Empty Truck
+load_trucktr18;Load Truck
+load_trucktr7;Load Truck
+weigh_empty_trucktr33;Weigh the Empty Truck
+load_trucktr10;Load Truck
+assign_trs_Pcp6;Assign Trucks
+load_trucktr33;Load Truck
+assign_trs_Pcp1;Assign Trucks
+weigh_empty_trucktr20;Weigh the Empty Truck
+load_trucktr14;Load Truck
+weigh_empty_trucktr39;Weigh the Empty Truck
+weigh_empty_trucktr4;Weigh the Empty Truck
+weigh_empty_trucktr34;Weigh the Empty Truck
+load_trucktr4;Load Truck
+load_trucktr20;Load Truck
+assign_trs_Pcp1;Assign Trucks
+load_trucktr34;Load Truck
+weigh_empty_trucktr42;Weigh the Empty Truck
+weigh_empty_trucktr50;Weigh the Empty Truck
+load_trucktr39;Load Truck
+weigh_empty_trucktr5;Weigh the Empty Truck
+weigh_empty_trucktr36;Weigh the Empty Truck
+load_trucktr36;Load Truck
+weigh_empty_trucktr28;Weigh the Empty Truck
+weigh_empty_trucktr31;Weigh the Empty Truck
+load_trucktr31;Load Truck
+weigh_empty_trucktr9;Weigh the Empty Truck
+weigh_empty_trucktr32;Weigh the Empty Truck
+assign_trs_Pcp1;Assign Trucks
+load_trucktr32;Load Truck
+weigh_empty_trucktr46;Weigh the Empty Truck
+load_trucktr46;Load Truck
+load_trucktr50;Load Truck
+weigh_empty_trucktr11;Weigh the Empty Truck
+weigh_empty_trucktr37;Weigh the Empty Truck
+load_trucktr42;Load Truck
+weigh_empty_trucktr40;Weigh the Empty Truck
+weigh_empty_trucktr3;Weigh the Empty Truck
+load_trucktr5;Load Truck
+weigh_empty_trucktr35;Weigh the Empty Truck
+weigh_empty_trucktr23;Weigh the Empty Truck
+weigh_empty_trucktr49;Weigh the Empty Truck
+load_trucktr3;Load Truck
+weigh_empty_trucktr17;Weigh the Empty Truck
+load_trucktr37;Load Truck
+load_trucktr49;Load Truck
+load_trucktr28;Load Truck
+load_trucktr35;Load Truck
+weigh_empty_trucktr24;Weigh the Empty Truck
+load_trucktr9;Load Truck
+weigh_empty_trucktr25;Weigh the Empty Truck
+load_trucktr40;Load Truck
+load_trucktr23;Load Truck
+load_trucktr24;Load Truck
+weigh_empty_trucktr21;Weigh the Empty Truck
+weigh_empty_trucktr22;Weigh the Empty Truck
+load_trucktr11;Load Truck
+weigh_empty_trucktr38;Weigh the Empty Truck
+load_trucktr38;Load Truck
+load_trucktr22;Load Truck
+weigh_empty_trucktr16;Weigh the Empty Truck
+load_trucktr21;Load Truck
+weigh_empty_trucktr48;Weigh the Empty Truck
+weigh_empty_trucktr41;Weigh the Empty Truck
+load_trucktr25;Load Truck
+weigh_empty_trucktr12;Weigh the Empty Truck
+load_trucktr48;Load Truck
+load_trucktr17;Load Truck
+load_trucktr16;Load Truck
+weigh_empty_trucktr44;Weigh the Empty Truck
+load_trucktr41;Load Truck
+load_trucktr44;Load Truck
+weigh_empty_trucktr2;Weigh the Empty Truck
+load_trucktr12;Load Truck
+load_trucktr2;Load Truck
+weigh_empty_trucktr1;Weigh the Empty Truck
+weigh_empty_trucktr27;Weigh the Empty Truck
+load_trucktr27;Load Truck
+weigh_empty_trucktr15;Weigh the Empty Truck
+load_trucktr1;Load Truck
+weigh_empty_trucktr43;Weigh the Empty Truck
+weigh_empty_trucktr26;Weigh the Empty Truck
+load_trucktr26;Load Truck
+weigh_empty_trucktr8;Weigh the Empty Truck
+weigh_empty_trucktr29;Weigh the Empty Truck
+weigh_empty_trucktr13;Weigh the Empty Truck
+weigh_empty_trucktr47;Weigh the Empty Truck
+load_trucktr29;Load Truck
+weigh_empty_trucktr6;Weigh the Empty Truck
+load_trucktr13;Load Truck
+weigh_empty_trucktr45;Weigh the Empty Truck
+load_trucktr43;Load Truck
+load_trucktr15;Load Truck
+weigh_empty_trucktr30;Weigh the Empty Truck
+load_trucktr30;Load Truck
+load_trucktr47;Load Truck
+load_trucktr8;Load Truck
+load_trucktr6;Load Truck
+weigh_empty_trucktr19;Weigh the Empty Truck
+load_trucktr45;Load Truck
+load_trucktr19;Load Truck
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+input_tally_sheettr36;Input the Tally Sheet
+print_w_tickettr36;Print the Weighing Ticket
+print_w_tickettr10;Print the Weighing Ticket
+input_tally_sheettr10;Input the Tally Sheet
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+print_w_tickettr7;Print the Weighing Ticket
+input_tally_sheettr7;Input the Tally Sheet
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr49;Input the Tally Sheet
+eval_trs_exittr7_Pcp6;Evaluate the Truck Exit
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+input_tally_sheettr16;Input the Tally Sheet
+print_w_tickettr16;Print the Weighing Ticket
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+print_w_tickettr20;Print the Weighing Ticket
+input_tally_sheettr20;Input the Tally Sheet
+eval_trs_exittr36_Pcp1;Evaluate the Truck Exit
+eval_trs_exittr16_Pcp1;Evaluate the Truck Exit
+eval_trs_exittr10_Pcp6;Evaluate the Truck Exit
+eval_trs_exittr20_Pcp1;Evaluate the Truck Exit
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+eval_trs_exittr49_Pcp1;Evaluate the Truck Exit
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+input_tally_sheettr44;Input the Tally Sheet
+print_w_tickettr44;Print the Weighing Ticket
+input_tally_sheettr11;Input the Tally Sheet
+print_w_tickettr11;Print the Weighing Ticket
+eval_trs_exittr44_Pcp1;Evaluate the Truck Exit
+weigh_loaded_trucktr2;Weigh the Loaded Truck
+eval_trs_exittr11_Pcp6;Evaluate the Truck Exit
+print_w_tickettr42;Print the Weighing Ticket
+input_tally_sheettr42;Input the Tally Sheet
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+input_tally_sheettr32;Input the Tally Sheet
+print_w_tickettr32;Print the Weighing Ticket
+eval_trs_exittr42_Pcp6;Evaluate the Truck Exit
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr32_Pcp6;Evaluate the Truck Exit
+weigh_loaded_trucktr15;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+print_w_tickettr46;Print the Weighing Ticket
+input_tally_sheettr46;Input the Tally Sheet
+weigh_loaded_trucktr4;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+input_tally_sheettr4;Input the Tally Sheet
+print_w_tickettr4;Print the Weighing Ticket
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+eval_trs_exittr4_Pcp6;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+input_tally_sheettr25;Input the Tally Sheet
+print_w_tickettr25;Print the Weighing Ticket
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+print_w_tickettr2;Print the Weighing Ticket
+input_tally_sheettr2;Input the Tally Sheet
+eval_trs_exittr46_Pcp6;Evaluate the Truck Exit
+print_w_tickettr15;Print the Weighing Ticket
+input_tally_sheettr15;Input the Tally Sheet
+eval_trs_exittr2_Pcp6;Evaluate the Truck Exit
+weigh_empty_trucktr7;Weigh the Empty Truck
+eval_trs_exittr15_Pcp6;Evaluate the Truck Exit
+eval_trs_exittr25_Pcp6;Evaluate the Truck Exit
+eval_trs_exittr35_Pcp6;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+assign_trs_Pcp1;Assign Trucks
+input_tally_sheettr19;Input the Tally Sheet
+print_w_tickettr19;Print the Weighing Ticket
+eval_trs_exittr19_Pcp1;Evaluate the Truck Exit
+load_trucktr7;Load Truck
+weigh_loaded_trucktr41;Weigh the Loaded Truck
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+assign_trs_Pcp9;Assign Trucks
+input_tally_sheettr26;Input the Tally Sheet
+print_w_tickettr26;Print the Weighing Ticket
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+input_tally_sheettr48;Input the Tally Sheet
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr41;Input the Tally Sheet
+print_w_tickettr41;Print the Weighing Ticket
+weigh_loaded_trucktr12;Weigh the Loaded Truck
+input_tally_sheettr3;Input the Tally Sheet
+print_w_tickettr3;Print the Weighing Ticket
+assign_trs_Pcp10;Assign Trucks
+print_w_tickettr21;Print the Weighing Ticket
+input_tally_sheettr21;Input the Tally Sheet
+weigh_loaded_trucktr22;Weigh the Loaded Truck
+input_tally_sheettr24;Input the Tally Sheet
+print_w_tickettr24;Print the Weighing Ticket
+eval_trs_exittr48_Pcp6;Evaluate the Truck Exit
+weigh_empty_trucktr16;Weigh the Empty Truck
+eval_trs_exittr26_Pcp6;Evaluate the Truck Exit
+input_tally_sheettr27;Input the Tally Sheet
+print_w_tickettr27;Print the Weighing Ticket
+print_w_tickettr28;Print the Weighing Ticket
+input_tally_sheettr28;Input the Tally Sheet
+weigh_empty_trucktr25;Weigh the Empty Truck
+eval_trs_exittr3_Pcp1;Evaluate the Truck Exit
+load_trucktr25;Load Truck
+eval_trs_exittr21_Pcp6;Evaluate the Truck Exit
+load_trucktr16;Load Truck
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+weigh_empty_trucktr49;Weigh the Empty Truck
+eval_trs_exittr41_Pcp6;Evaluate the Truck Exit
+eval_trs_exittr28_Pcp1;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+eval_trs_exittr27_Pcp1;Evaluate the Truck Exit
+load_trucktr49;Load Truck
+eval_trs_exittr24_Pcp1;Evaluate the Truck Exit
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+weigh_empty_trucktr46;Weigh the Empty Truck
+print_w_tickettr33;Print the Weighing Ticket
+input_tally_sheettr33;Input the Tally Sheet
+print_w_tickettr12;Print the Weighing Ticket
+input_tally_sheettr12;Input the Tally Sheet
+assign_trs_Pcp1;Assign Trucks
+weigh_empty_trucktr44;Weigh the Empty Truck
+load_trucktr44;Load Truck
+weigh_empty_trucktr20;Weigh the Empty Truck
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+print_w_tickettr29;Print the Weighing Ticket
+input_tally_sheettr29;Input the Tally Sheet
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+eval_trs_exittr33_Pcp6;Evaluate the Truck Exit
+eval_trs_exittr12_Pcp1;Evaluate the Truck Exit
+eval_trs_exittr29_Pcp1;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+load_trucktr46;Load Truck
+weigh_empty_trucktr10;Weigh the Empty Truck
+weigh_empty_trucktr36;Weigh the Empty Truck
+load_trucktr20;Load Truck
+weigh_loaded_trucktr5;Weigh the Loaded Truck
+weigh_empty_trucktr11;Weigh the Empty Truck
+load_trucktr10;Load Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr45;Weigh the Loaded Truck
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+print_w_tickettr38;Print the Weighing Ticket
+input_tally_sheettr38;Input the Tally Sheet
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+input_tally_sheettr9;Input the Tally Sheet
+print_w_tickettr9;Print the Weighing Ticket
+input_tally_sheettr45;Input the Tally Sheet
+print_w_tickettr45;Print the Weighing Ticket
+eval_trs_exittr45_Pcp1;Evaluate the Truck Exit
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+eval_trs_exittr9_Pcp6;Evaluate the Truck Exit
+weigh_empty_trucktr48;Weigh the Empty Truck
+eval_trs_exittr38_Pcp1;Evaluate the Truck Exit
+input_tally_sheettr5;Input the Tally Sheet
+print_w_tickettr5;Print the Weighing Ticket
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+input_tally_sheettr39;Input the Tally Sheet
+print_w_tickettr39;Print the Weighing Ticket
+load_trucktr11;Load Truck
+load_trucktr36;Load Truck
+weigh_empty_trucktr3;Weigh the Empty Truck
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+weigh_empty_trucktr19;Weigh the Empty Truck
+load_trucktr19;Load Truck
+eval_trs_exittr39_Pcp1;Evaluate the Truck Exit
+assign_trs_Pcp1;Assign Trucks
+load_trucktr48;Load Truck
+eval_trs_exittr5_Pcp1;Evaluate the Truck Exit
+input_tally_sheettr34;Input the Tally Sheet
+print_w_tickettr34;Print the Weighing Ticket
+print_w_tickettr23;Print the Weighing Ticket
+input_tally_sheettr23;Input the Tally Sheet
+input_tally_sheettr30;Input the Tally Sheet
+print_w_tickettr30;Print the Weighing Ticket
+assign_trs_Pcp2;Assign Trucks
+load_trucktr3;Load Truck
+weigh_empty_trucktr26;Weigh the Empty Truck
+eval_trs_exittr30_Pcp1;Evaluate the Truck Exit
+weigh_empty_trucktr15;Weigh the Empty Truck
+load_trucktr26;Load Truck
+load_trucktr15;Load Truck
+eval_trs_exittr23_Pcp6;Evaluate the Truck Exit
+eval_trs_exittr34_Pcp6;Evaluate the Truck Exit
+weigh_empty_trucktr2;Weigh the Empty Truck
+assign_trs_Pcp1;Assign Trucks
+print_w_tickettr43;Print the Weighing Ticket
+input_tally_sheettr43;Input the Tally Sheet
+eval_trs_exittr43_Pcp6;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+weigh_empty_trucktr42;Weigh the Empty Truck
+weigh_empty_trucktr4;Weigh the Empty Truck
+weigh_empty_trucktr32;Weigh the Empty Truck
+weigh_loaded_trucktr8;Weigh the Loaded Truck
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+load_trucktr2;Load Truck
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+load_trucktr32;Load Truck
+weigh_empty_trucktr21;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+print_w_tickettr47;Print the Weighing Ticket
+input_tally_sheettr47;Input the Tally Sheet
+assign_trs_Pcp5;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+input_tally_sheettr8;Input the Tally Sheet
+print_w_tickettr8;Print the Weighing Ticket
+load_trucktr4;Load Truck
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr50;Weigh the Loaded Truck
+load_trucktr42;Load Truck
+load_trucktr21;Load Truck
+eval_trs_exittr47_Pcp1;Evaluate the Truck Exit
+weigh_empty_trucktr35;Weigh the Empty Truck
+assign_trs_Pcp3;Assign Trucks
+print_w_tickettr7;Print the Weighing Ticket
+input_tally_sheettr7;Input the Tally Sheet
+eval_trs_exittr8_Pcp6;Evaluate the Truck Exit
+weigh_loaded_trucktr17;Weigh the Loaded Truck
+eval_trs_exittr7_Pcp2;Evaluate the Truck Exit
+load_trucktr35;Load Truck
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr28;Weigh the Empty Truck
+weigh_empty_trucktr27;Weigh the Empty Truck
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+input_tally_sheettr17;Input the Tally Sheet
+print_w_tickettr17;Print the Weighing Ticket
+load_trucktr28;Load Truck
+load_trucktr27;Load Truck
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+weigh_empty_trucktr41;Weigh the Empty Truck
+eval_trs_exittr17_Pcp6;Evaluate the Truck Exit
+assign_trs_Pcp7;Assign Trucks
+input_tally_sheettr40;Input the Tally Sheet
+print_w_tickettr40;Print the Weighing Ticket
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+weigh_empty_trucktr38;Weigh the Empty Truck
+assign_trs_Pcp4;Assign Trucks
+print_w_tickettr25;Print the Weighing Ticket
+input_tally_sheettr25;Input the Tally Sheet
+eval_trs_exittr40_Pcp6;Evaluate the Truck Exit
+load_trucktr38;Load Truck
+assign_trs_Pcp9;Assign Trucks
+eval_trs_exittr25_Pcp2;Evaluate the Truck Exit
+load_trucktr41;Load Truck
+input_tally_sheettr16;Input the Tally Sheet
+print_w_tickettr16;Print the Weighing Ticket
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+weigh_empty_trucktr33;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+load_trucktr33;Load Truck
+assign_trs_Pcp8;Assign Trucks
+input_tally_sheettr36;Input the Tally Sheet
+print_w_tickettr36;Print the Weighing Ticket
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr45;Weigh the Empty Truck
+eval_trs_exittr36_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+eval_trs_exittr16_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr37;Weigh the Loaded Truck
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+weigh_empty_trucktr9;Weigh the Empty Truck
+load_trucktr9;Load Truck
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+load_trucktr45;Load Truck
+weigh_empty_trucktr43;Weigh the Empty Truck
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+load_trucktr43;Load Truck
+weigh_empty_trucktr12;Weigh the Empty Truck
+weigh_empty_trucktr8;Weigh the Empty Truck
+weigh_empty_trucktr29;Weigh the Empty Truck
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr49;Input the Tally Sheet
+assign_trs_Pcp10;Assign Trucks
+load_trucktr8;Load Truck
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+load_trucktr29;Load Truck
+weigh_empty_trucktr24;Weigh the Empty Truck
+weigh_empty_trucktr34;Weigh the Empty Truck
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr23;Weigh the Empty Truck
+input_tally_sheettr3;Input the Tally Sheet
+print_w_tickettr3;Print the Weighing Ticket
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+print_w_tickettr37;Print the Weighing Ticket
+input_tally_sheettr37;Input the Tally Sheet
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr48;Input the Tally Sheet
+input_tally_sheettr10;Input the Tally Sheet
+print_w_tickettr10;Print the Weighing Ticket
+load_trucktr23;Load Truck
+eval_trs_exittr10_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr37_Pcp6;Evaluate the Truck Exit
+load_trucktr12;Load Truck
+eval_trs_exittr48_Pcp9;Evaluate the Truck Exit
+eval_trs_exittr3_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr49_Pcp8;Evaluate the Truck Exit
+input_tally_sheettr26;Input the Tally Sheet
+print_w_tickettr26;Print the Weighing Ticket
+weigh_empty_trucktr5;Weigh the Empty Truck
+weigh_loaded_trucktr18;Weigh the Loaded Truck
+load_trucktr24;Load Truck
+load_trucktr34;Load Truck
+print_w_tickettr44;Print the Weighing Ticket
+input_tally_sheettr44;Input the Tally Sheet
+weigh_empty_trucktr7;Weigh the Empty Truck
+print_w_tickettr18;Print the Weighing Ticket
+input_tally_sheettr18;Input the Tally Sheet
+weigh_empty_trucktr30;Weigh the Empty Truck
+eval_trs_exittr44_Pcp2;Evaluate the Truck Exit
+load_trucktr30;Load Truck
+eval_trs_exittr18_Pcp6;Evaluate the Truck Exit
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+load_trucktr7;Load Truck
+weigh_empty_trucktr17;Weigh the Empty Truck
+load_trucktr5;Load Truck
+weigh_empty_trucktr25;Weigh the Empty Truck
+eval_trs_exittr26_Pcp3;Evaluate the Truck Exit
+print_w_tickettr6;Print the Weighing Ticket
+input_tally_sheettr6;Input the Tally Sheet
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+input_tally_sheettr21;Input the Tally Sheet
+print_w_tickettr21;Print the Weighing Ticket
+load_trucktr25;Load Truck
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+print_w_tickettr50;Print the Weighing Ticket
+input_tally_sheettr50;Input the Tally Sheet
+eval_trs_exittr6_Pcp6;Evaluate the Truck Exit
+eval_trs_exittr50_Pcp1;Evaluate the Truck Exit
+weigh_empty_trucktr36;Weigh the Empty Truck
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+weigh_empty_trucktr47;Weigh the Empty Truck
+load_trucktr47;Load Truck
+load_trucktr17;Load Truck
+print_w_tickettr20;Print the Weighing Ticket
+input_tally_sheettr20;Input the Tally Sheet
+eval_trs_exittr21_Pcp10;Evaluate the Truck Exit
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr15;Weigh the Loaded Truck
+print_w_tickettr15;Print the Weighing Ticket
+input_tally_sheettr15;Input the Tally Sheet
+weigh_empty_trucktr39;Weigh the Empty Truck
+load_trucktr36;Load Truck
+eval_trs_exittr15_Pcp1;Evaluate the Truck Exit
+input_tally_sheettr42;Input the Tally Sheet
+print_w_tickettr42;Print the Weighing Ticket
+weigh_loaded_trucktr14;Weigh the Loaded Truck
+eval_trs_exittr20_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+weigh_empty_trucktr16;Weigh the Empty Truck
+assign_trs_Pcp7;Assign Trucks
+print_w_tickettr14;Print the Weighing Ticket
+input_tally_sheettr14;Input the Tally Sheet
+assign_trs_Pcp9;Assign Trucks
+eval_trs_exittr14_Pcp1;Evaluate the Truck Exit
+eval_trs_exittr42_Pcp3;Evaluate the Truck Exit
+print_w_tickettr11;Print the Weighing Ticket
+input_tally_sheettr11;Input the Tally Sheet
+load_trucktr39;Load Truck
+weigh_empty_trucktr37;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+load_trucktr37;Load Truck
+load_trucktr16;Load Truck
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp9;Assign Trucks
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+weigh_loaded_trucktr31;Weigh the Loaded Truck
+assign_trs_Pcp5;Assign Trucks
+eval_trs_exittr11_Pcp1;Evaluate the Truck Exit
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+weigh_loaded_trucktr1;Weigh the Loaded Truck
+assign_trs_Pcp7;Assign Trucks
+eval_trs_exittr35_Pcp2;Evaluate the Truck Exit
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+weigh_empty_trucktr48;Weigh the Empty Truck
+load_trucktr48;Load Truck
+input_tally_sheettr19;Input the Tally Sheet
+print_w_tickettr19;Print the Weighing Ticket
+weigh_empty_trucktr40;Weigh the Empty Truck
+weigh_loaded_trucktr13;Weigh the Loaded Truck
+input_tally_sheettr38;Input the Tally Sheet
+print_w_tickettr38;Print the Weighing Ticket
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+assign_trs_Pcp9;Assign Trucks
+eval_trs_exittr38_Pcp4;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+input_tally_sheettr1;Input the Tally Sheet
+print_w_tickettr1;Print the Weighing Ticket
+weigh_empty_trucktr20;Weigh the Empty Truck
+input_tally_sheettr29;Input the Tally Sheet
+print_w_tickettr29;Print the Weighing Ticket
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+load_trucktr20;Load Truck
+weigh_empty_trucktr44;Weigh the Empty Truck
+weigh_loaded_trucktr12;Weigh the Loaded Truck
+load_trucktr40;Load Truck
+eval_trs_exittr19_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+input_tally_sheettr46;Input the Tally Sheet
+print_w_tickettr46;Print the Weighing Ticket
+eval_trs_exittr1_Pcp6;Evaluate the Truck Exit
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+weigh_loaded_trucktr45;Weigh the Loaded Truck
+print_w_tickettr12;Print the Weighing Ticket
+input_tally_sheettr12;Input the Tally Sheet
+eval_trs_exittr29_Pcp4;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+print_w_tickettr30;Print the Weighing Ticket
+input_tally_sheettr30;Input the Tally Sheet
+input_tally_sheettr31;Input the Tally Sheet
+print_w_tickettr31;Print the Weighing Ticket
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+print_w_tickettr13;Print the Weighing Ticket
+input_tally_sheettr13;Input the Tally Sheet
+load_trucktr44;Load Truck
+assign_trs_Pcp9;Assign Trucks
+eval_trs_exittr46_Pcp5;Evaluate the Truck Exit
+eval_trs_exittr13_Pcp1;Evaluate the Truck Exit
+input_tally_sheettr33;Input the Tally Sheet
+print_w_tickettr33;Print the Weighing Ticket
+print_w_tickettr45;Print the Weighing Ticket
+input_tally_sheettr45;Input the Tally Sheet
+eval_trs_exittr31_Pcp6;Evaluate the Truck Exit
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+eval_trs_exittr12_Pcp1;Evaluate the Truck Exit
+weigh_empty_trucktr14;Weigh the Empty Truck
+eval_trs_exittr30_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr45_Pcp2;Evaluate the Truck Exit
+weigh_empty_trucktr26;Weigh the Empty Truck
+load_trucktr14;Load Truck
+print_w_tickettr7;Print the Weighing Ticket
+input_tally_sheettr7;Input the Tally Sheet
+eval_trs_exittr33_Pcp7;Evaluate the Truck Exit
+input_tally_sheettr28;Input the Tally Sheet
+print_w_tickettr28;Print the Weighing Ticket
+input_tally_sheettr32;Input the Tally Sheet
+print_w_tickettr32;Print the Weighing Ticket
+input_tally_sheettr22;Input the Tally Sheet
+print_w_tickettr22;Print the Weighing Ticket
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+load_trucktr26;Load Truck
+weigh_empty_trucktr6;Weigh the Empty Truck
+eval_trs_exittr32_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr7_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp7;Assign Trucks
+eval_trs_exittr28_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr22_Pcp1;Evaluate the Truck Exit
+load_trucktr6;Load Truck
+input_tally_sheettr47;Input the Tally Sheet
+print_w_tickettr47;Print the Weighing Ticket
+weigh_empty_trucktr10;Weigh the Empty Truck
+weigh_empty_trucktr3;Weigh the Empty Truck
+load_trucktr10;Load Truck
+print_w_tickettr34;Print the Weighing Ticket
+input_tally_sheettr34;Input the Tally Sheet
+eval_trs_exittr47_Pcp4;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp7;Assign Trucks
+weigh_empty_trucktr50;Weigh the Empty Truck
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+weigh_empty_trucktr15;Weigh the Empty Truck
+weigh_empty_trucktr21;Weigh the Empty Truck
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+input_tally_sheettr43;Input the Tally Sheet
+print_w_tickettr43;Print the Weighing Ticket
+load_trucktr3;Load Truck
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+weigh_empty_trucktr18;Weigh the Empty Truck
+assign_trs_Pcp5;Assign Trucks
+eval_trs_exittr34_Pcp9;Evaluate the Truck Exit
+load_trucktr15;Load Truck
+weigh_empty_trucktr49;Weigh the Empty Truck
+load_trucktr50;Load Truck
+load_trucktr21;Load Truck
+load_trucktr49;Load Truck
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+eval_trs_exittr43_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr19;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+weigh_empty_trucktr12;Weigh the Empty Truck
+weigh_loaded_trucktr37;Weigh the Loaded Truck
+load_trucktr18;Load Truck
+load_trucktr19;Load Truck
+weigh_loaded_trucktr8;Weigh the Loaded Truck
+print_w_tickettr24;Print the Weighing Ticket
+input_tally_sheettr24;Input the Tally Sheet
+input_tally_sheettr39;Input the Tally Sheet
+print_w_tickettr39;Print the Weighing Ticket
+weigh_empty_trucktr42;Weigh the Empty Truck
+load_trucktr42;Load Truck
+eval_trs_exittr39_Pcp9;Evaluate the Truck Exit
+weigh_loaded_trucktr17;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+print_w_tickettr37;Print the Weighing Ticket
+input_tally_sheettr37;Input the Tally Sheet
+load_trucktr12;Load Truck
+weigh_empty_trucktr33;Weigh the Empty Truck
+weigh_empty_trucktr11;Weigh the Empty Truck
+weigh_empty_trucktr47;Weigh the Empty Truck
+eval_trs_exittr24_Pcp1;Evaluate the Truck Exit
+weigh_empty_trucktr30;Weigh the Empty Truck
+load_trucktr47;Load Truck
+load_trucktr30;Load Truck
+weigh_empty_trucktr46;Weigh the Empty Truck
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+load_trucktr46;Load Truck
+input_tally_sheettr17;Input the Tally Sheet
+print_w_tickettr17;Print the Weighing Ticket
+eval_trs_exittr37_Pcp1;Evaluate the Truck Exit
+assign_trs_Pcp7;Assign Trucks
+input_tally_sheettr9;Input the Tally Sheet
+print_w_tickettr9;Print the Weighing Ticket
+assign_trs_Pcp8;Assign Trucks
+load_trucktr33;Load Truck
+load_trucktr11;Load Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_empty_trucktr35;Weigh the Empty Truck
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+load_trucktr35;Load Truck
+weigh_loaded_trucktr2;Weigh the Loaded Truck
+print_w_tickettr25;Print the Weighing Ticket
+input_tally_sheettr25;Input the Tally Sheet
+weigh_loaded_trucktr41;Weigh the Loaded Truck
+weigh_empty_trucktr38;Weigh the Empty Truck
+load_trucktr38;Load Truck
+eval_trs_exittr17_Pcp8;Evaluate the Truck Exit
+input_tally_sheettr2;Input the Tally Sheet
+print_w_tickettr2;Print the Weighing Ticket
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+input_tally_sheettr8;Input the Tally Sheet
+print_w_tickettr8;Print the Weighing Ticket
+eval_trs_exittr2_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr9_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp7;Assign Trucks
+weigh_empty_trucktr43;Weigh the Empty Truck
+eval_trs_exittr8_Pcp7;Evaluate the Truck Exit
+eval_trs_exittr25_Pcp5;Evaluate the Truck Exit
+print_w_tickettr40;Print the Weighing Ticket
+input_tally_sheettr40;Input the Tally Sheet
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+weigh_empty_trucktr7;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+input_tally_sheettr41;Input the Tally Sheet
+print_w_tickettr41;Print the Weighing Ticket
+load_trucktr7;Load Truck
+weigh_empty_trucktr28;Weigh the Empty Truck
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+load_trucktr43;Load Truck
+weigh_empty_trucktr31;Weigh the Empty Truck
+weigh_empty_trucktr1;Weigh the Empty Truck
+weigh_empty_trucktr13;Weigh the Empty Truck
+eval_trs_exittr40_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr34;Weigh the Empty Truck
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+eval_trs_exittr41_Pcp3;Evaluate the Truck Exit
+load_trucktr31;Load Truck
+input_tally_sheettr44;Input the Tally Sheet
+print_w_tickettr44;Print the Weighing Ticket
+assign_trs_Pcp8;Assign Trucks
+load_trucktr13;Load Truck
+load_trucktr34;Load Truck
+load_trucktr1;Load Truck
+input_tally_sheettr6;Input the Tally Sheet
+print_w_tickettr6;Print the Weighing Ticket
+weigh_empty_trucktr29;Weigh the Empty Truck
+load_trucktr29;Load Truck
+load_trucktr28;Load Truck
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr48;Input the Tally Sheet
+eval_trs_exittr44_Pcp3;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+eval_trs_exittr6_Pcp9;Evaluate the Truck Exit
+eval_trs_exittr48_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+print_w_tickettr27;Print the Weighing Ticket
+input_tally_sheettr27;Input the Tally Sheet
+input_tally_sheettr16;Input the Tally Sheet
+print_w_tickettr16;Print the Weighing Ticket
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp9;Assign Trucks
+weigh_loaded_trucktr5;Weigh the Loaded Truck
+weigh_empty_trucktr32;Weigh the Empty Truck
+load_trucktr32;Load Truck
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+weigh_empty_trucktr24;Weigh the Empty Truck
+weigh_empty_trucktr22;Weigh the Empty Truck
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+weigh_empty_trucktr39;Weigh the Empty Truck
+weigh_empty_trucktr45;Weigh the Empty Truck
+load_trucktr39;Load Truck
+input_tally_sheettr20;Input the Tally Sheet
+print_w_tickettr20;Print the Weighing Ticket
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+load_trucktr22;Load Truck
+eval_trs_exittr27_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr16_Pcp10;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+input_tally_sheettr5;Input the Tally Sheet
+print_w_tickettr5;Print the Weighing Ticket
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+load_trucktr24;Load Truck
+load_trucktr45;Load Truck
+eval_trs_exittr5_Pcp5;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+eval_trs_exittr20_Pcp7;Evaluate the Truck Exit
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+weigh_empty_trucktr41;Weigh the Empty Truck
+input_tally_sheettr42;Input the Tally Sheet
+print_w_tickettr42;Print the Weighing Ticket
+weigh_loaded_trucktr4;Weigh the Loaded Truck
+eval_trs_exittr42_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+input_tally_sheettr19;Input the Tally Sheet
+print_w_tickettr19;Print the Weighing Ticket
+weigh_empty_trucktr25;Weigh the Empty Truck
+load_trucktr41;Load Truck
+input_tally_sheettr21;Input the Tally Sheet
+print_w_tickettr21;Print the Weighing Ticket
+load_trucktr25;Load Truck
+input_tally_sheettr49;Input the Tally Sheet
+print_w_tickettr49;Print the Weighing Ticket
+weigh_empty_trucktr6;Weigh the Empty Truck
+eval_trs_exittr19_Pcp8;Evaluate the Truck Exit
+load_trucktr6;Load Truck
+weigh_loaded_trucktr50;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+print_w_tickettr4;Print the Weighing Ticket
+input_tally_sheettr4;Input the Tally Sheet
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr21_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr15;Weigh the Loaded Truck
+weigh_empty_trucktr37;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+input_tally_sheettr11;Input the Tally Sheet
+print_w_tickettr11;Print the Weighing Ticket
+input_tally_sheettr36;Input the Tally Sheet
+print_w_tickettr36;Print the Weighing Ticket
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+eval_trs_exittr4_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr49_Pcp7;Evaluate the Truck Exit
+eval_trs_exittr11_Pcp9;Evaluate the Truck Exit
+load_trucktr37;Load Truck
+weigh_empty_trucktr17;Weigh the Empty Truck
+eval_trs_exittr36_Pcp10;Evaluate the Truck Exit
+input_tally_sheettr50;Input the Tally Sheet
+print_w_tickettr50;Print the Weighing Ticket
+load_trucktr17;Load Truck
+input_tally_sheettr46;Input the Tally Sheet
+print_w_tickettr46;Print the Weighing Ticket
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+weigh_empty_trucktr8;Weigh the Empty Truck
+eval_trs_exittr50_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr9;Weigh the Empty Truck
+assign_trs_Pcp4;Assign Trucks
+load_trucktr8;Load Truck
+input_tally_sheettr26;Input the Tally Sheet
+print_w_tickettr26;Print the Weighing Ticket
+eval_trs_exittr46_Pcp5;Evaluate the Truck Exit
+eval_trs_exittr26_Pcp9;Evaluate the Truck Exit
+input_tally_sheettr47;Input the Tally Sheet
+print_w_tickettr47;Print the Weighing Ticket
+weigh_empty_trucktr2;Weigh the Empty Truck
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+load_trucktr2;Load Truck
+input_tally_sheettr3;Input the Tally Sheet
+print_w_tickettr3;Print the Weighing Ticket
+eval_trs_exittr47_Pcp1;Evaluate the Truck Exit
+weigh_empty_trucktr42;Weigh the Empty Truck
+load_trucktr42;Load Truck
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+weigh_loaded_trucktr31;Weigh the Loaded Truck
+weigh_loaded_trucktr14;Weigh the Loaded Truck
+load_trucktr9;Load Truck
+print_w_tickettr23;Print the Weighing Ticket
+input_tally_sheettr23;Input the Tally Sheet
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr3_Pcp9;Evaluate the Truck Exit
+input_tally_sheettr31;Input the Tally Sheet
+print_w_tickettr31;Print the Weighing Ticket
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+assign_trs_Pcp5;Assign Trucks
+weigh_empty_trucktr40;Weigh the Empty Truck
+eval_trs_exittr31_Pcp10;Evaluate the Truck Exit
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+input_tally_sheettr14;Input the Tally Sheet
+print_w_tickettr14;Print the Weighing Ticket
+eval_trs_exittr23_Pcp1;Evaluate the Truck Exit
+assign_trs_Pcp7;Assign Trucks
+print_w_tickettr29;Print the Weighing Ticket
+input_tally_sheettr29;Input the Tally Sheet
+input_tally_sheettr10;Input the Tally Sheet
+print_w_tickettr10;Print the Weighing Ticket
+weigh_empty_trucktr44;Weigh the Empty Truck
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+load_trucktr40;Load Truck
+weigh_empty_trucktr27;Weigh the Empty Truck
+print_w_tickettr38;Print the Weighing Ticket
+input_tally_sheettr38;Input the Tally Sheet
+eval_trs_exittr14_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+print_w_tickettr32;Print the Weighing Ticket
+input_tally_sheettr32;Input the Tally Sheet
+load_trucktr27;Load Truck
+eval_trs_exittr38_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr10_Pcp5;Evaluate the Truck Exit
+eval_trs_exittr29_Pcp7;Evaluate the Truck Exit
+load_trucktr44;Load Truck
+weigh_empty_trucktr16;Weigh the Empty Truck
+load_trucktr16;Load Truck
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp7;Assign Trucks
+weigh_empty_trucktr48;Weigh the Empty Truck
+assign_trs_Pcp1;Assign Trucks
+input_tally_sheettr28;Input the Tally Sheet
+print_w_tickettr28;Print the Weighing Ticket
+eval_trs_exittr32_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+input_tally_sheettr39;Input the Tally Sheet
+print_w_tickettr39;Print the Weighing Ticket
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr39_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr47;Weigh the Empty Truck
+load_trucktr48;Load Truck
+weigh_empty_trucktr5;Weigh the Empty Truck
+eval_trs_exittr28_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr4;Weigh the Empty Truck
+load_trucktr5;Load Truck
+weigh_empty_trucktr20;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+input_tally_sheettr25;Input the Tally Sheet
+print_w_tickettr25;Print the Weighing Ticket
+weigh_loaded_trucktr12;Weigh the Loaded Truck
+load_trucktr47;Load Truck
+load_trucktr4;Load Truck
+load_trucktr20;Load Truck
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+weigh_loaded_trucktr22;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr25_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr36;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr21;Weigh the Empty Truck
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+load_trucktr21;Load Truck
+weigh_empty_trucktr23;Weigh the Empty Truck
+load_trucktr36;Load Truck
+weigh_empty_trucktr11;Weigh the Empty Truck
+load_trucktr11;Load Truck
+weigh_empty_trucktr31;Weigh the Empty Truck
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+input_tally_sheettr33;Input the Tally Sheet
+print_w_tickettr33;Print the Weighing Ticket
+eval_trs_exittr33_Pcp7;Evaluate the Truck Exit
+load_trucktr23;Load Truck
+input_tally_sheettr43;Input the Tally Sheet
+print_w_tickettr43;Print the Weighing Ticket
+assign_trs_Pcp5;Assign Trucks
+eval_trs_exittr43_Pcp7;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr19;Weigh the Empty Truck
+weigh_empty_trucktr50;Weigh the Empty Truck
+assign_trs_Pcp3;Assign Trucks
+load_trucktr31;Load Truck
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+weigh_empty_trucktr46;Weigh the Empty Truck
+assign_trs_Pcp7;Assign Trucks
+input_tally_sheettr9;Input the Tally Sheet
+print_w_tickettr9;Print the Weighing Ticket
+load_trucktr46;Load Truck
+weigh_empty_trucktr3;Weigh the Empty Truck
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+weigh_empty_trucktr10;Weigh the Empty Truck
+load_trucktr3;Load Truck
+eval_trs_exittr9_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+load_trucktr50;Load Truck
+load_trucktr19;Load Truck
+assign_trs_Pcp9;Assign Trucks
+weigh_empty_trucktr28;Weigh the Empty Truck
+load_trucktr28;Load Truck
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+weigh_empty_trucktr38;Weigh the Empty Truck
+weigh_empty_trucktr43;Weigh the Empty Truck
+load_trucktr38;Load Truck
+load_trucktr43;Load Truck
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+load_trucktr10;Load Truck
+weigh_empty_trucktr14;Weigh the Empty Truck
+weigh_empty_trucktr39;Weigh the Empty Truck
+load_trucktr39;Load Truck
+input_tally_sheettr44;Input the Tally Sheet
+print_w_tickettr44;Print the Weighing Ticket
+weigh_empty_trucktr25;Weigh the Empty Truck
+print_w_tickettr34;Print the Weighing Ticket
+input_tally_sheettr34;Input the Tally Sheet
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+weigh_empty_trucktr33;Weigh the Empty Truck
+eval_trs_exittr34_Pcp7;Evaluate the Truck Exit
+load_trucktr33;Load Truck
+weigh_empty_trucktr29;Weigh the Empty Truck
+weigh_empty_trucktr49;Weigh the Empty Truck
+load_trucktr25;Load Truck
+weigh_loaded_trucktr1;Weigh the Loaded Truck
+input_tally_sheettr7;Input the Tally Sheet
+print_w_tickettr7;Print the Weighing Ticket
+eval_trs_exittr44_Pcp4;Evaluate the Truck Exit
+load_trucktr49;Load Truck
+load_trucktr14;Load Truck
+print_w_tickettr1;Print the Weighing Ticket
+input_tally_sheettr1;Input the Tally Sheet
+weigh_empty_trucktr26;Weigh the Empty Truck
+weigh_empty_trucktr32;Weigh the Empty Truck
+print_w_tickettr6;Print the Weighing Ticket
+input_tally_sheettr6;Input the Tally Sheet
+load_trucktr32;Load Truck
+load_trucktr26;Load Truck
+eval_trs_exittr1_Pcp3;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+load_trucktr29;Load Truck
+print_w_tickettr30;Print the Weighing Ticket
+input_tally_sheettr30;Input the Tally Sheet
+eval_trs_exittr6_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr8;Weigh the Loaded Truck
+eval_trs_exittr30_Pcp9;Evaluate the Truck Exit
+eval_trs_exittr7_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+weigh_loaded_trucktr17;Weigh the Loaded Truck
+input_tally_sheettr8;Input the Tally Sheet
+print_w_tickettr8;Print the Weighing Ticket
+print_w_tickettr22;Print the Weighing Ticket
+input_tally_sheettr22;Input the Tally Sheet
+print_w_tickettr12;Print the Weighing Ticket
+input_tally_sheettr12;Input the Tally Sheet
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+eval_trs_exittr12_Pcp9;Evaluate the Truck Exit
+weigh_loaded_trucktr2;Weigh the Loaded Truck
+eval_trs_exittr22_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr8_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+weigh_empty_trucktr9;Weigh the Empty Truck
+input_tally_sheettr36;Input the Tally Sheet
+print_w_tickettr36;Print the Weighing Ticket
+input_tally_sheettr27;Input the Tally Sheet
+print_w_tickettr27;Print the Weighing Ticket
+eval_trs_exittr27_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr18;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+print_w_tickettr18;Print the Weighing Ticket
+input_tally_sheettr18;Input the Tally Sheet
+print_w_tickettr47;Print the Weighing Ticket
+input_tally_sheettr47;Input the Tally Sheet
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+load_trucktr9;Load Truck
+weigh_loaded_trucktr13;Weigh the Loaded Truck
+eval_trs_exittr18_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr36_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr47_Pcp2;Evaluate the Truck Exit
+input_tally_sheettr16;Input the Tally Sheet
+print_w_tickettr16;Print the Weighing Ticket
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+input_tally_sheettr23;Input the Tally Sheet
+print_w_tickettr23;Print the Weighing Ticket
+print_w_tickettr2;Print the Weighing Ticket
+input_tally_sheettr2;Input the Tally Sheet
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+eval_trs_exittr35_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+weigh_loaded_trucktr41;Weigh the Loaded Truck
+eval_trs_exittr2_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr23_Pcp8;Evaluate the Truck Exit
+input_tally_sheettr40;Input the Tally Sheet
+print_w_tickettr40;Print the Weighing Ticket
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+weigh_loaded_trucktr37;Weigh the Loaded Truck
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+print_w_tickettr13;Print the Weighing Ticket
+input_tally_sheettr13;Input the Tally Sheet
+eval_trs_exittr16_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr13_Pcp5;Evaluate the Truck Exit
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr40_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp1;Assign Trucks
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+weigh_empty_trucktr36;Weigh the Empty Truck
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+load_trucktr36;Load Truck
+print_w_tickettr37;Print the Weighing Ticket
+input_tally_sheettr37;Input the Tally Sheet
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr48;Input the Tally Sheet
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+weigh_loaded_trucktr50;Weigh the Loaded Truck
+weigh_empty_trucktr34;Weigh the Empty Truck
+print_w_tickettr42;Print the Weighing Ticket
+input_tally_sheettr42;Input the Tally Sheet
+weigh_empty_trucktr35;Weigh the Empty Truck
+load_trucktr34;Load Truck
+input_tally_sheettr50;Input the Tally Sheet
+print_w_tickettr50;Print the Weighing Ticket
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+weigh_empty_trucktr30;Weigh the Empty Truck
+print_w_tickettr46;Print the Weighing Ticket
+input_tally_sheettr46;Input the Tally Sheet
+eval_trs_exittr48_Pcp5;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+load_trucktr35;Load Truck
+eval_trs_exittr42_Pcp5;Evaluate the Truck Exit
+weigh_empty_trucktr1;Weigh the Empty Truck
+assign_trs_Pcp1;Assign Trucks
+print_w_tickettr26;Print the Weighing Ticket
+input_tally_sheettr26;Input the Tally Sheet
+print_w_tickettr41;Print the Weighing Ticket
+input_tally_sheettr41;Input the Tally Sheet
+eval_trs_exittr46_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr50_Pcp7;Evaluate the Truck Exit
+load_trucktr1;Load Truck
+weigh_empty_trucktr8;Weigh the Empty Truck
+eval_trs_exittr26_Pcp1;Evaluate the Truck Exit
+load_trucktr30;Load Truck
+load_trucktr8;Load Truck
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+print_w_tickettr19;Print the Weighing Ticket
+input_tally_sheettr19;Input the Tally Sheet
+eval_trs_exittr41_Pcp9;Evaluate the Truck Exit
+print_w_tickettr10;Print the Weighing Ticket
+input_tally_sheettr10;Input the Tally Sheet
+input_tally_sheettr24;Input the Tally Sheet
+print_w_tickettr24;Print the Weighing Ticket
+input_tally_sheettr3;Input the Tally Sheet
+print_w_tickettr3;Print the Weighing Ticket
+eval_trs_exittr24_Pcp7;Evaluate the Truck Exit
+eval_trs_exittr37_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr3_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr10_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr19_Pcp3;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+assign_trs_Pcp7;Assign Trucks
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+weigh_loaded_trucktr31;Weigh the Loaded Truck
+weigh_empty_trucktr47;Weigh the Empty Truck
+print_w_tickettr25;Print the Weighing Ticket
+input_tally_sheettr25;Input the Tally Sheet
+input_tally_sheettr31;Input the Tally Sheet
+print_w_tickettr31;Print the Weighing Ticket
+print_w_tickettr15;Print the Weighing Ticket
+input_tally_sheettr15;Input the Tally Sheet
+print_w_tickettr17;Print the Weighing Ticket
+input_tally_sheettr17;Input the Tally Sheet
+load_trucktr47;Load Truck
+eval_trs_exittr25_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr23;Weigh the Empty Truck
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+eval_trs_exittr31_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr44;Weigh the Empty Truck
+weigh_empty_trucktr7;Weigh the Empty Truck
+input_tally_sheettr20;Input the Tally Sheet
+print_w_tickettr20;Print the Weighing Ticket
+load_trucktr44;Load Truck
+load_trucktr23;Load Truck
+load_trucktr7;Load Truck
+eval_trs_exittr17_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr15_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+weigh_empty_trucktr10;Weigh the Empty Truck
+weigh_empty_trucktr16;Weigh the Empty Truck
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+weigh_empty_trucktr18;Weigh the Empty Truck
+eval_trs_exittr20_Pcp4;Evaluate the Truck Exit
+load_trucktr16;Load Truck
+load_trucktr18;Load Truck
+assign_trs_Pcp1;Assign Trucks
+weigh_loaded_trucktr5;Weigh the Loaded Truck
+assign_trs_Pcp1;Assign Trucks
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr27;Weigh the Empty Truck
+weigh_empty_trucktr12;Weigh the Empty Truck
+load_trucktr10;Load Truck
+input_tally_sheettr28;Input the Tally Sheet
+print_w_tickettr28;Print the Weighing Ticket
+weigh_empty_trucktr22;Weigh the Empty Truck
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+load_trucktr27;Load Truck
+load_trucktr12;Load Truck
+load_trucktr22;Load Truck
+eval_trs_exittr28_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr46;Weigh the Empty Truck
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+weigh_empty_trucktr2;Weigh the Empty Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_loaded_trucktr4;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+load_trucktr2;Load Truck
+weigh_empty_trucktr3;Weigh the Empty Truck
+weigh_empty_trucktr6;Weigh the Empty Truck
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+assign_trs_Pcp5;Assign Trucks
+assign_trs_Pcp9;Assign Trucks
+print_w_tickettr39;Print the Weighing Ticket
+input_tally_sheettr39;Input the Tally Sheet
+load_trucktr3;Load Truck
+print_w_tickettr21;Print the Weighing Ticket
+input_tally_sheettr21;Input the Tally Sheet
+load_trucktr6;Load Truck
+input_tally_sheettr43;Input the Tally Sheet
+print_w_tickettr43;Print the Weighing Ticket
+input_tally_sheettr38;Input the Tally Sheet
+print_w_tickettr38;Print the Weighing Ticket
+print_w_tickettr4;Print the Weighing Ticket
+input_tally_sheettr4;Input the Tally Sheet
+print_w_tickettr29;Print the Weighing Ticket
+input_tally_sheettr29;Input the Tally Sheet
+load_trucktr46;Load Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+print_w_tickettr33;Print the Weighing Ticket
+input_tally_sheettr33;Input the Tally Sheet
+input_tally_sheettr5;Input the Tally Sheet
+print_w_tickettr5;Print the Weighing Ticket
+eval_trs_exittr33_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr29_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr5_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr39_Pcp8;Evaluate the Truck Exit
+print_w_tickettr9;Print the Weighing Ticket
+input_tally_sheettr9;Input the Tally Sheet
+eval_trs_exittr43_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr21_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr4_Pcp7;Evaluate the Truck Exit
+eval_trs_exittr38_Pcp9;Evaluate the Truck Exit
+weigh_empty_trucktr19;Weigh the Empty Truck
+load_trucktr19;Load Truck
+weigh_empty_trucktr15;Weigh the Empty Truck
+load_trucktr15;Load Truck
+weigh_empty_trucktr13;Weigh the Empty Truck
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr49;Input the Tally Sheet
+eval_trs_exittr9_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr49_Pcp7;Evaluate the Truck Exit
+weigh_empty_trucktr42;Weigh the Empty Truck
+load_trucktr13;Load Truck
+weigh_empty_trucktr17;Weigh the Empty Truck
+load_trucktr17;Load Truck
+weigh_loaded_trucktr45;Weigh the Loaded Truck
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+load_trucktr42;Load Truck
+weigh_empty_trucktr40;Weigh the Empty Truck
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr48;Weigh the Empty Truck
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+weigh_empty_trucktr24;Weigh the Empty Truck
+load_trucktr40;Load Truck
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+load_trucktr24;Load Truck
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr14;Weigh the Loaded Truck
+weigh_empty_trucktr25;Weigh the Empty Truck
+weigh_empty_trucktr41;Weigh the Empty Truck
+load_trucktr25;Load Truck
+weigh_loaded_trucktr8;Weigh the Loaded Truck
+load_trucktr48;Load Truck
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+input_tally_sheettr47;Input the Tally Sheet
+print_w_tickettr47;Print the Weighing Ticket
+weigh_loaded_trucktr1;Weigh the Loaded Truck
+weigh_empty_trucktr50;Weigh the Empty Truck
+load_trucktr41;Load Truck
+eval_trs_exittr35_Pcp4;Evaluate the Truck Exit
+print_w_tickettr45;Print the Weighing Ticket
+input_tally_sheettr45;Input the Tally Sheet
+input_tally_sheettr8;Input the Tally Sheet
+print_w_tickettr8;Print the Weighing Ticket
+print_w_tickettr14;Print the Weighing Ticket
+input_tally_sheettr14;Input the Tally Sheet
+print_w_tickettr11;Print the Weighing Ticket
+input_tally_sheettr11;Input the Tally Sheet
+weigh_empty_trucktr33;Weigh the Empty Truck
+load_trucktr33;Load Truck
+eval_trs_exittr47_Pcp4;Evaluate the Truck Exit
+load_trucktr50;Load Truck
+assign_trs_Pcp1;Assign Trucks
+weigh_empty_trucktr43;Weigh the Empty Truck
+print_w_tickettr1;Print the Weighing Ticket
+input_tally_sheettr1;Input the Tally Sheet
+eval_trs_exittr8_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr14_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr26;Weigh the Empty Truck
+assign_trs_Pcp10;Assign Trucks
+load_trucktr43;Load Truck
+weigh_empty_trucktr37;Weigh the Empty Truck
+load_trucktr26;Load Truck
+eval_trs_exittr11_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr1_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+eval_trs_exittr45_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp1;Assign Trucks
+assign_trs_Pcp7;Assign Trucks
+load_trucktr37;Load Truck
+input_tally_sheettr32;Input the Tally Sheet
+print_w_tickettr32;Print the Weighing Ticket
+weigh_loaded_trucktr22;Weigh the Loaded Truck
+print_w_tickettr22;Print the Weighing Ticket
+input_tally_sheettr22;Input the Tally Sheet
+weigh_empty_trucktr4;Weigh the Empty Truck
+load_trucktr4;Load Truck
+input_tally_sheettr30;Input the Tally Sheet
+print_w_tickettr30;Print the Weighing Ticket
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+eval_trs_exittr32_Pcp7;Evaluate the Truck Exit
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+eval_trs_exittr22_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+print_w_tickettr16;Print the Weighing Ticket
+input_tally_sheettr16;Input the Tally Sheet
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp1;Assign Trucks
+weigh_loaded_trucktr18;Weigh the Loaded Truck
+eval_trs_exittr30_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr29;Weigh the Empty Truck
+print_w_tickettr23;Print the Weighing Ticket
+input_tally_sheettr23;Input the Tally Sheet
+eval_trs_exittr16_Pcp1;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr31;Weigh the Empty Truck
+weigh_empty_trucktr21;Weigh the Empty Truck
+input_tally_sheettr36;Input the Tally Sheet
+print_w_tickettr36;Print the Weighing Ticket
+print_w_tickettr18;Print the Weighing Ticket
+input_tally_sheettr18;Input the Tally Sheet
+weigh_empty_trucktr20;Weigh the Empty Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+weigh_empty_trucktr5;Weigh the Empty Truck
+eval_trs_exittr23_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr39;Weigh the Empty Truck
+load_trucktr29;Load Truck
+load_trucktr20;Load Truck
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+weigh_loaded_trucktr2;Weigh the Loaded Truck
+load_trucktr31;Load Truck
+load_trucktr21;Load Truck
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr36_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr18_Pcp3;Evaluate the Truck Exit
+input_tally_sheettr7;Input the Tally Sheet
+print_w_tickettr7;Print the Weighing Ticket
+load_trucktr5;Load Truck
+assign_trs_Pcp2;Assign Trucks
+input_tally_sheettr2;Input the Tally Sheet
+print_w_tickettr2;Print the Weighing Ticket
+print_w_tickettr44;Print the Weighing Ticket
+input_tally_sheettr44;Input the Tally Sheet
+load_trucktr39;Load Truck
+eval_trs_exittr44_Pcp2;Evaluate the Truck Exit
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+eval_trs_exittr2_Pcp2;Evaluate the Truck Exit
+weigh_empty_trucktr14;Weigh the Empty Truck
+weigh_empty_trucktr38;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+print_w_tickettr3;Print the Weighing Ticket
+input_tally_sheettr3;Input the Tally Sheet
+eval_trs_exittr7_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr3_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr1;Weigh the Empty Truck
+assign_trs_Pcp7;Assign Trucks
+load_trucktr38;Load Truck
+assign_trs_Pcp2;Assign Trucks
+load_trucktr14;Load Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+weigh_empty_trucktr45;Weigh the Empty Truck
+weigh_empty_trucktr47;Weigh the Empty Truck
+load_trucktr1;Load Truck
+input_tally_sheettr24;Input the Tally Sheet
+print_w_tickettr24;Print the Weighing Ticket
+input_tally_sheettr46;Input the Tally Sheet
+print_w_tickettr46;Print the Weighing Ticket
+weigh_empty_trucktr28;Weigh the Empty Truck
+load_trucktr28;Load Truck
+eval_trs_exittr24_Pcp8;Evaluate the Truck Exit
+load_trucktr45;Load Truck
+weigh_empty_trucktr9;Weigh the Empty Truck
+eval_trs_exittr46_Pcp8;Evaluate the Truck Exit
+load_trucktr9;Load Truck
+weigh_empty_trucktr23;Weigh the Empty Truck
+load_trucktr47;Load Truck
+weigh_empty_trucktr32;Weigh the Empty Truck
+load_trucktr23;Load Truck
+load_trucktr32;Load Truck
+input_tally_sheettr6;Input the Tally Sheet
+print_w_tickettr6;Print the Weighing Ticket
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_empty_trucktr35;Weigh the Empty Truck
+eval_trs_exittr6_Pcp1;Evaluate the Truck Exit
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+input_tally_sheettr34;Input the Tally Sheet
+print_w_tickettr34;Print the Weighing Ticket
+assign_trs_Pcp4;Assign Trucks
+eval_trs_exittr34_Pcp9;Evaluate the Truck Exit
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+weigh_loaded_trucktr50;Weigh the Loaded Truck
+load_trucktr35;Load Truck
+assign_trs_Pcp4;Assign Trucks
+print_w_tickettr40;Print the Weighing Ticket
+input_tally_sheettr40;Input the Tally Sheet
+assign_trs_Pcp2;Assign Trucks
+input_tally_sheettr25;Input the Tally Sheet
+print_w_tickettr25;Print the Weighing Ticket
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr11;Weigh the Empty Truck
+load_trucktr11;Load Truck
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr40_Pcp1;Evaluate the Truck Exit
+weigh_empty_trucktr22;Weigh the Empty Truck
+weigh_empty_trucktr16;Weigh the Empty Truck
+load_trucktr22;Load Truck
+eval_trs_exittr25_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr2;Weigh the Empty Truck
+input_tally_sheettr50;Input the Tally Sheet
+print_w_tickettr50;Print the Weighing Ticket
+input_tally_sheettr33;Input the Tally Sheet
+print_w_tickettr33;Print the Weighing Ticket
+assign_trs_Pcp4;Assign Trucks
+weigh_empty_trucktr8;Weigh the Empty Truck
+load_trucktr8;Load Truck
+eval_trs_exittr50_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr33_Pcp5;Evaluate the Truck Exit
+load_trucktr2;Load Truck
+load_trucktr16;Load Truck
+weigh_empty_trucktr49;Weigh the Empty Truck
+weigh_loaded_trucktr31;Weigh the Loaded Truck
+weigh_empty_trucktr36;Weigh the Empty Truck
+weigh_loaded_trucktr15;Weigh the Loaded Truck
+assign_trs_Pcp5;Assign Trucks
+input_tally_sheettr15;Input the Tally Sheet
+print_w_tickettr15;Print the Weighing Ticket
+weigh_loaded_trucktr41;Weigh the Loaded Truck
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+eval_trs_exittr15_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+print_w_tickettr41;Print the Weighing Ticket
+input_tally_sheettr41;Input the Tally Sheet
+input_tally_sheettr26;Input the Tally Sheet
+print_w_tickettr26;Print the Weighing Ticket
+weigh_loaded_trucktr4;Weigh the Loaded Truck
+print_w_tickettr43;Print the Weighing Ticket
+input_tally_sheettr43;Input the Tally Sheet
+eval_trs_exittr41_Pcp7;Evaluate the Truck Exit
+load_trucktr36;Load Truck
+assign_trs_Pcp7;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr24;Weigh the Empty Truck
+load_trucktr49;Load Truck
+eval_trs_exittr26_Pcp1;Evaluate the Truck Exit
+eval_trs_exittr43_Pcp3;Evaluate the Truck Exit
+load_trucktr24;Load Truck
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+weigh_empty_trucktr44;Weigh the Empty Truck
+input_tally_sheettr4;Input the Tally Sheet
+print_w_tickettr4;Print the Weighing Ticket
+load_trucktr44;Load Truck
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+weigh_empty_trucktr18;Weigh the Empty Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr13;Weigh the Loaded Truck
+load_trucktr18;Load Truck
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+eval_trs_exittr4_Pcp2;Evaluate the Truck Exit
+input_tally_sheettr21;Input the Tally Sheet
+print_w_tickettr21;Print the Weighing Ticket
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+print_w_tickettr13;Print the Weighing Ticket
+input_tally_sheettr13;Input the Tally Sheet
+print_w_tickettr19;Print the Weighing Ticket
+input_tally_sheettr19;Input the Tally Sheet
+assign_trs_Pcp8;Assign Trucks
+print_w_tickettr31;Print the Weighing Ticket
+input_tally_sheettr31;Input the Tally Sheet
+assign_trs_Pcp7;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+eval_trs_exittr21_Pcp1;Evaluate the Truck Exit
+print_w_tickettr10;Print the Weighing Ticket
+input_tally_sheettr10;Input the Tally Sheet
+eval_trs_exittr31_Pcp5;Evaluate the Truck Exit
+input_tally_sheettr27;Input the Tally Sheet
+print_w_tickettr27;Print the Weighing Ticket
+print_w_tickettr42;Print the Weighing Ticket
+input_tally_sheettr42;Input the Tally Sheet
+eval_trs_exittr13_Pcp7;Evaluate the Truck Exit
+weigh_empty_trucktr25;Weigh the Empty Truck
+eval_trs_exittr19_Pcp9;Evaluate the Truck Exit
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+eval_trs_exittr42_Pcp1;Evaluate the Truck Exit
+eval_trs_exittr27_Pcp1;Evaluate the Truck Exit
+eval_trs_exittr10_Pcp10;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr48;Input the Tally Sheet
+eval_trs_exittr48_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+load_trucktr25;Load Truck
+weigh_empty_trucktr3;Weigh the Empty Truck
+weigh_empty_trucktr6;Weigh the Empty Truck
+load_trucktr6;Load Truck
+print_w_tickettr9;Print the Weighing Ticket
+input_tally_sheettr9;Input the Tally Sheet
+weigh_empty_trucktr30;Weigh the Empty Truck
+weigh_empty_trucktr46;Weigh the Empty Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_empty_trucktr7;Weigh the Empty Truck
+weigh_empty_trucktr26;Weigh the Empty Truck
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+eval_trs_exittr9_Pcp2;Evaluate the Truck Exit
+weigh_empty_trucktr40;Weigh the Empty Truck
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+load_trucktr30;Load Truck
+load_trucktr7;Load Truck
+input_tally_sheettr29;Input the Tally Sheet
+print_w_tickettr29;Print the Weighing Ticket
+load_trucktr46;Load Truck
+load_trucktr40;Load Truck
+print_w_tickettr38;Print the Weighing Ticket
+input_tally_sheettr38;Input the Tally Sheet
+load_trucktr26;Load Truck
+load_trucktr3;Load Truck
+eval_trs_exittr29_Pcp10;Evaluate the Truck Exit
+assign_trs_Pcp5;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+weigh_empty_trucktr34;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+eval_trs_exittr38_Pcp7;Evaluate the Truck Exit
+weigh_empty_trucktr4;Weigh the Empty Truck
+load_trucktr4;Load Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_loaded_trucktr1;Weigh the Loaded Truck
+weigh_empty_trucktr33;Weigh the Empty Truck
+load_trucktr33;Load Truck
+load_trucktr34;Load Truck
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+print_w_tickettr16;Print the Weighing Ticket
+input_tally_sheettr16;Input the Tally Sheet
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+weigh_empty_trucktr15;Weigh the Empty Truck
+load_trucktr15;Load Truck
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr49;Input the Tally Sheet
+eval_trs_exittr16_Pcp9;Evaluate the Truck Exit
+print_w_tickettr39;Print the Weighing Ticket
+input_tally_sheettr39;Input the Tally Sheet
+weigh_empty_trucktr9;Weigh the Empty Truck
+print_w_tickettr1;Print the Weighing Ticket
+input_tally_sheettr1;Input the Tally Sheet
+weigh_empty_trucktr50;Weigh the Empty Truck
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+weigh_loaded_trucktr12;Weigh the Loaded Truck
+weigh_empty_trucktr21;Weigh the Empty Truck
+assign_trs_Pcp4;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr49_Pcp1;Evaluate the Truck Exit
+load_trucktr21;Load Truck
+print_w_tickettr36;Print the Weighing Ticket
+input_tally_sheettr36;Input the Tally Sheet
+input_tally_sheettr23;Input the Tally Sheet
+print_w_tickettr23;Print the Weighing Ticket
+weigh_empty_trucktr43;Weigh the Empty Truck
+input_tally_sheettr12;Input the Tally Sheet
+print_w_tickettr12;Print the Weighing Ticket
+load_trucktr9;Load Truck
+eval_trs_exittr1_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr27;Weigh the Empty Truck
+weigh_empty_trucktr41;Weigh the Empty Truck
+eval_trs_exittr39_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+load_trucktr50;Load Truck
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+weigh_loaded_trucktr17;Weigh the Loaded Truck
+weigh_empty_trucktr48;Weigh the Empty Truck
+eval_trs_exittr36_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr23_Pcp7;Evaluate the Truck Exit
+eval_trs_exittr12_Pcp1;Evaluate the Truck Exit
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+load_trucktr41;Load Truck
+load_trucktr48;Load Truck
+load_trucktr27;Load Truck
+weigh_empty_trucktr13;Weigh the Empty Truck
+weigh_loaded_trucktr18;Weigh the Loaded Truck
+weigh_loaded_trucktr14;Weigh the Loaded Truck
+load_trucktr43;Load Truck
+load_trucktr13;Load Truck
+weigh_empty_trucktr42;Weigh the Empty Truck
+input_tally_sheettr18;Input the Tally Sheet
+print_w_tickettr18;Print the Weighing Ticket
+load_trucktr42;Load Truck
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+weigh_empty_trucktr31;Weigh the Empty Truck
+eval_trs_exittr18_Pcp3;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+load_trucktr31;Load Truck
+assign_trs_Pcp9;Assign Trucks
+input_tally_sheettr11;Input the Tally Sheet
+print_w_tickettr11;Print the Weighing Ticket
+print_w_tickettr14;Print the Weighing Ticket
+input_tally_sheettr14;Input the Tally Sheet
+eval_trs_exittr14_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr11_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp9;Assign Trucks
+weigh_empty_trucktr10;Weigh the Empty Truck
+weigh_empty_trucktr19;Weigh the Empty Truck
+load_trucktr19;Load Truck
+load_trucktr10;Load Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+weigh_empty_trucktr38;Weigh the Empty Truck
+load_trucktr38;Load Truck
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+weigh_empty_trucktr29;Weigh the Empty Truck
+print_w_tickettr6;Print the Weighing Ticket
+input_tally_sheettr6;Input the Tally Sheet
+print_w_tickettr30;Print the Weighing Ticket
+input_tally_sheettr30;Input the Tally Sheet
+eval_trs_exittr6_Pcp7;Evaluate the Truck Exit
+print_w_tickettr24;Print the Weighing Ticket
+input_tally_sheettr24;Input the Tally Sheet
+input_tally_sheettr47;Input the Tally Sheet
+print_w_tickettr47;Print the Weighing Ticket
+eval_trs_exittr30_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr5;Weigh the Loaded Truck
+input_tally_sheettr5;Input the Tally Sheet
+print_w_tickettr5;Print the Weighing Ticket
+weigh_empty_trucktr23;Weigh the Empty Truck
+input_tally_sheettr25;Input the Tally Sheet
+print_w_tickettr25;Print the Weighing Ticket
+load_trucktr29;Load Truck
+eval_trs_exittr5_Pcp1;Evaluate the Truck Exit
+weigh_empty_trucktr12;Weigh the Empty Truck
+eval_trs_exittr25_Pcp2;Evaluate the Truck Exit
+load_trucktr23;Load Truck
+eval_trs_exittr47_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr16;Weigh the Empty Truck
+eval_trs_exittr24_Pcp2;Evaluate the Truck Exit
+load_trucktr16;Load Truck
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+print_w_tickettr9;Print the Weighing Ticket
+input_tally_sheettr9;Input the Tally Sheet
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr48;Input the Tally Sheet
+load_trucktr12;Load Truck
+weigh_empty_trucktr1;Weigh the Empty Truck
+weigh_loaded_trucktr8;Weigh the Loaded Truck
+input_tally_sheettr21;Input the Tally Sheet
+print_w_tickettr21;Print the Weighing Ticket
+eval_trs_exittr9_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr21_Pcp7;Evaluate the Truck Exit
+input_tally_sheettr8;Input the Tally Sheet
+print_w_tickettr8;Print the Weighing Ticket
+input_tally_sheettr28;Input the Tally Sheet
+print_w_tickettr28;Print the Weighing Ticket
+input_tally_sheettr32;Input the Tally Sheet
+print_w_tickettr32;Print the Weighing Ticket
+input_tally_sheettr17;Input the Tally Sheet
+print_w_tickettr17;Print the Weighing Ticket
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+eval_trs_exittr48_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+load_trucktr1;Load Truck
+weigh_empty_trucktr49;Weigh the Empty Truck
+eval_trs_exittr17_Pcp9;Evaluate the Truck Exit
+eval_trs_exittr28_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr32_Pcp7;Evaluate the Truck Exit
+assign_trs_Pcp5;Assign Trucks
+input_tally_sheettr42;Input the Tally Sheet
+print_w_tickettr42;Print the Weighing Ticket
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+eval_trs_exittr35_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr8_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+load_trucktr49;Load Truck
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr42_Pcp5;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr39;Weigh the Empty Truck
+print_w_tickettr20;Print the Weighing Ticket
+input_tally_sheettr20;Input the Tally Sheet
+assign_trs_Pcp9;Assign Trucks
+load_trucktr39;Load Truck
+weigh_loaded_trucktr37;Weigh the Loaded Truck
+weigh_empty_trucktr36;Weigh the Empty Truck
+input_tally_sheettr37;Input the Tally Sheet
+print_w_tickettr37;Print the Weighing Ticket
+eval_trs_exittr37_Pcp7;Evaluate the Truck Exit
+eval_trs_exittr20_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+weigh_empty_trucktr18;Weigh the Empty Truck
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+load_trucktr18;Load Truck
+weigh_empty_trucktr9;Weigh the Empty Truck
+weigh_empty_trucktr11;Weigh the Empty Truck
+weigh_empty_trucktr47;Weigh the Empty Truck
+load_trucktr36;Load Truck
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+weigh_empty_trucktr14;Weigh the Empty Truck
+assign_trs_Pcp4;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr13;Weigh the Loaded Truck
+input_tally_sheettr44;Input the Tally Sheet
+print_w_tickettr44;Print the Weighing Ticket
+assign_trs_Pcp10;Assign Trucks
+input_tally_sheettr34;Input the Tally Sheet
+print_w_tickettr34;Print the Weighing Ticket
+load_trucktr11;Load Truck
+input_tally_sheettr3;Input the Tally Sheet
+print_w_tickettr3;Print the Weighing Ticket
+load_trucktr47;Load Truck
+load_trucktr9;Load Truck
+load_trucktr14;Load Truck
+eval_trs_exittr3_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp7;Assign Trucks
+eval_trs_exittr34_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+eval_trs_exittr44_Pcp2;Evaluate the Truck Exit
+weigh_empty_trucktr30;Weigh the Empty Truck
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+input_tally_sheettr13;Input the Tally Sheet
+print_w_tickettr13;Print the Weighing Ticket
+eval_trs_exittr13_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr2;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+print_w_tickettr7;Print the Weighing Ticket
+input_tally_sheettr7;Input the Tally Sheet
+load_trucktr30;Load Truck
+weigh_empty_trucktr35;Weigh the Empty Truck
+weigh_empty_trucktr8;Weigh the Empty Truck
+print_w_tickettr26;Print the Weighing Ticket
+input_tally_sheettr26;Input the Tally Sheet
+load_trucktr35;Load Truck
+weigh_empty_trucktr6;Weigh the Empty Truck
+weigh_loaded_trucktr45;Weigh the Loaded Truck
+eval_trs_exittr7_Pcp4;Evaluate the Truck Exit
+assign_trs_Pcp7;Assign Trucks
+load_trucktr6;Load Truck
+print_w_tickettr45;Print the Weighing Ticket
+input_tally_sheettr45;Input the Tally Sheet
+load_trucktr8;Load Truck
+input_tally_sheettr2;Input the Tally Sheet
+print_w_tickettr2;Print the Weighing Ticket
+assign_trs_Pcp7;Assign Trucks
+assign_trs_Pcp7;Assign Trucks
+eval_trs_exittr26_Pcp7;Evaluate the Truck Exit
+weigh_empty_trucktr21;Weigh the Empty Truck
+eval_trs_exittr2_Pcp2;Evaluate the Truck Exit
+load_trucktr21;Load Truck
+weigh_loaded_trucktr15;Weigh the Loaded Truck
+eval_trs_exittr45_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr32;Weigh the Empty Truck
+weigh_empty_trucktr42;Weigh the Empty Truck
+weigh_loaded_trucktr41;Weigh the Loaded Truck
+weigh_empty_trucktr28;Weigh the Empty Truck
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp9;Assign Trucks
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+weigh_loaded_trucktr4;Weigh the Loaded Truck
+weigh_loaded_trucktr22;Weigh the Loaded Truck
+load_trucktr32;Load Truck
+load_trucktr42;Load Truck
+weigh_loaded_trucktr1;Weigh the Loaded Truck
+load_trucktr28;Load Truck
+input_tally_sheettr15;Input the Tally Sheet
+print_w_tickettr15;Print the Weighing Ticket
+print_w_tickettr41;Print the Weighing Ticket
+input_tally_sheettr41;Input the Tally Sheet
+weigh_empty_trucktr25;Weigh the Empty Truck
+input_tally_sheettr23;Input the Tally Sheet
+print_w_tickettr23;Print the Weighing Ticket
+weigh_empty_trucktr5;Weigh the Empty Truck
+weigh_empty_trucktr17;Weigh the Empty Truck
+load_trucktr25;Load Truck
+load_trucktr5;Load Truck
+eval_trs_exittr41_Pcp4;Evaluate the Truck Exit
+print_w_tickettr16;Print the Weighing Ticket
+input_tally_sheettr16;Input the Tally Sheet
+weigh_empty_trucktr24;Weigh the Empty Truck
+input_tally_sheettr22;Input the Tally Sheet
+print_w_tickettr22;Print the Weighing Ticket
+assign_trs_Pcp4;Assign Trucks
+eval_trs_exittr15_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr23_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr16_Pcp10;Evaluate the Truck Exit
+load_trucktr24;Load Truck
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+eval_trs_exittr22_Pcp3;Evaluate the Truck Exit
+print_w_tickettr4;Print the Weighing Ticket
+input_tally_sheettr4;Input the Tally Sheet
+load_trucktr17;Load Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+weigh_empty_trucktr37;Weigh the Empty Truck
+print_w_tickettr43;Print the Weighing Ticket
+input_tally_sheettr43;Input the Tally Sheet
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+eval_trs_exittr4_Pcp4;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+load_trucktr37;Load Truck
+eval_trs_exittr43_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr48;Weigh the Empty Truck
+input_tally_sheettr38;Input the Tally Sheet
+print_w_tickettr38;Print the Weighing Ticket
+load_trucktr48;Load Truck
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+input_tally_sheettr9;Input the Tally Sheet
+print_w_tickettr9;Print the Weighing Ticket
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr7;Weigh the Empty Truck
+print_w_tickettr27;Print the Weighing Ticket
+input_tally_sheettr27;Input the Tally Sheet
+load_trucktr7;Load Truck
+eval_trs_exittr27_Pcp9;Evaluate the Truck Exit
+eval_trs_exittr38_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr9_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+weigh_loaded_trucktr31;Weigh the Loaded Truck
+weigh_empty_trucktr20;Weigh the Empty Truck
+print_w_tickettr46;Print the Weighing Ticket
+input_tally_sheettr46;Input the Tally Sheet
+weigh_empty_trucktr13;Weigh the Empty Truck
+weigh_empty_trucktr44;Weigh the Empty Truck
+load_trucktr20;Load Truck
+eval_trs_exittr46_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr34;Weigh the Empty Truck
+load_trucktr13;Load Truck
+input_tally_sheettr31;Input the Tally Sheet
+print_w_tickettr31;Print the Weighing Ticket
+load_trucktr44;Load Truck
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+weigh_empty_trucktr16;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+weigh_empty_trucktr45;Weigh the Empty Truck
+load_trucktr45;Load Truck
+load_trucktr16;Load Truck
+assign_trs_Pcp5;Assign Trucks
+input_tally_sheettr49;Input the Tally Sheet
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr10;Input the Tally Sheet
+print_w_tickettr10;Print the Weighing Ticket
+load_trucktr34;Load Truck
+eval_trs_exittr31_Pcp7;Evaluate the Truck Exit
+print_w_tickettr1;Print the Weighing Ticket
+input_tally_sheettr1;Input the Tally Sheet
+eval_trs_exittr49_Pcp5;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr10_Pcp4;Evaluate the Truck Exit
+eval_trs_exittr1_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr3;Weigh the Empty Truck
+weigh_empty_trucktr2;Weigh the Empty Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_empty_trucktr23;Weigh the Empty Truck
+weigh_empty_trucktr38;Weigh the Empty Truck
+load_trucktr23;Load Truck
+load_trucktr38;Load Truck
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+load_trucktr2;Load Truck
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+print_w_tickettr19;Print the Weighing Ticket
+input_tally_sheettr19;Input the Tally Sheet
+load_trucktr3;Load Truck
+weigh_empty_trucktr9;Weigh the Empty Truck
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+input_tally_sheettr40;Input the Tally Sheet
+print_w_tickettr40;Print the Weighing Ticket
+load_trucktr9;Load Truck
+eval_trs_exittr19_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr40_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr41;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+load_trucktr41;Load Truck
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+input_tally_sheettr33;Input the Tally Sheet
+print_w_tickettr33;Print the Weighing Ticket
+weigh_empty_trucktr31;Weigh the Empty Truck
+weigh_loaded_trucktr50;Weigh the Loaded Truck
+input_tally_sheettr39;Input the Tally Sheet
+print_w_tickettr39;Print the Weighing Ticket
+eval_trs_exittr33_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+load_trucktr31;Load Truck
+weigh_empty_trucktr22;Weigh the Empty Truck
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+load_trucktr22;Load Truck
+assign_trs_Pcp4;Assign Trucks
+print_w_tickettr47;Print the Weighing Ticket
+input_tally_sheettr47;Input the Tally Sheet
+weigh_empty_trucktr15;Weigh the Empty Truck
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+weigh_empty_trucktr46;Weigh the Empty Truck
+weigh_empty_trucktr27;Weigh the Empty Truck
+load_trucktr15;Load Truck
+load_trucktr46;Load Truck
+weigh_empty_trucktr26;Weigh the Empty Truck
+eval_trs_exittr47_Pcp5;Evaluate the Truck Exit
+print_w_tickettr11;Print the Weighing Ticket
+input_tally_sheettr11;Input the Tally Sheet
+eval_trs_exittr39_Pcp9;Evaluate the Truck Exit
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+load_trucktr26;Load Truck
+weigh_empty_trucktr43;Weigh the Empty Truck
+load_trucktr27;Load Truck
+load_trucktr43;Load Truck
+input_tally_sheettr36;Input the Tally Sheet
+print_w_tickettr36;Print the Weighing Ticket
+print_w_tickettr50;Print the Weighing Ticket
+input_tally_sheettr50;Input the Tally Sheet
+print_w_tickettr42;Print the Weighing Ticket
+input_tally_sheettr42;Input the Tally Sheet
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr4;Weigh the Empty Truck
+eval_trs_exittr42_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr11_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr37;Weigh the Loaded Truck
+eval_trs_exittr50_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+load_trucktr4;Load Truck
+input_tally_sheettr37;Input the Tally Sheet
+print_w_tickettr37;Print the Weighing Ticket
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+print_w_tickettr20;Print the Weighing Ticket
+input_tally_sheettr20;Input the Tally Sheet
+eval_trs_exittr36_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr48;Input the Tally Sheet
+weigh_loaded_trucktr13;Weigh the Loaded Truck
+input_tally_sheettr7;Input the Tally Sheet
+print_w_tickettr7;Print the Weighing Ticket
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+input_tally_sheettr13;Input the Tally Sheet
+print_w_tickettr13;Print the Weighing Ticket
+eval_trs_exittr48_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr7_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr20_Pcp7;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+eval_trs_exittr37_Pcp7;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+input_tally_sheettr16;Input the Tally Sheet
+print_w_tickettr16;Print the Weighing Ticket
+weigh_empty_trucktr47;Weigh the Empty Truck
+eval_trs_exittr13_Pcp7;Evaluate the Truck Exit
+eval_trs_exittr16_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr49;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+print_w_tickettr30;Print the Weighing Ticket
+input_tally_sheettr30;Input the Tally Sheet
+load_trucktr47;Load Truck
+weigh_loaded_trucktr5;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr30_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp7;Assign Trucks
+load_trucktr49;Load Truck
+assign_trs_Pcp7;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+print_w_tickettr5;Print the Weighing Ticket
+input_tally_sheettr5;Input the Tally Sheet
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+eval_trs_exittr5_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr19;Weigh the Empty Truck
+weigh_empty_trucktr10;Weigh the Empty Truck
+input_tally_sheettr29;Input the Tally Sheet
+print_w_tickettr29;Print the Weighing Ticket
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr29_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+weigh_empty_trucktr37;Weigh the Empty Truck
+load_trucktr19;Load Truck
+load_trucktr37;Load Truck
+weigh_empty_trucktr40;Weigh the Empty Truck
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+weigh_loaded_trucktr45;Weigh the Loaded Truck
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+weigh_loaded_trucktr12;Weigh the Loaded Truck
+load_trucktr10;Load Truck
+print_w_tickettr6;Print the Weighing Ticket
+input_tally_sheettr6;Input the Tally Sheet
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+weigh_empty_trucktr1;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+print_w_tickettr45;Print the Weighing Ticket
+input_tally_sheettr45;Input the Tally Sheet
+eval_trs_exittr6_Pcp2;Evaluate the Truck Exit
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+print_w_tickettr21;Print the Weighing Ticket
+input_tally_sheettr21;Input the Tally Sheet
+print_w_tickettr25;Print the Weighing Ticket
+input_tally_sheettr25;Input the Tally Sheet
+input_tally_sheettr12;Input the Tally Sheet
+print_w_tickettr12;Print the Weighing Ticket
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr18;Weigh the Loaded Truck
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+load_trucktr40;Load Truck
+assign_trs_Pcp4;Assign Trucks
+eval_trs_exittr12_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr21_Pcp4;Evaluate the Truck Exit
+input_tally_sheettr44;Input the Tally Sheet
+print_w_tickettr44;Print the Weighing Ticket
+eval_trs_exittr25_Pcp8;Evaluate the Truck Exit
+load_trucktr1;Load Truck
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+eval_trs_exittr45_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr14;Weigh the Loaded Truck
+eval_trs_exittr44_Pcp7;Evaluate the Truck Exit
+print_w_tickettr14;Print the Weighing Ticket
+input_tally_sheettr14;Input the Tally Sheet
+input_tally_sheettr28;Input the Tally Sheet
+print_w_tickettr28;Print the Weighing Ticket
+assign_trs_Pcp7;Assign Trucks
+input_tally_sheettr18;Input the Tally Sheet
+print_w_tickettr18;Print the Weighing Ticket
+weigh_empty_trucktr20;Weigh the Empty Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_empty_trucktr33;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr28_Pcp3;Evaluate the Truck Exit
+load_trucktr33;Load Truck
+eval_trs_exittr18_Pcp7;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr14_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr7;Weigh the Empty Truck
+load_trucktr7;Load Truck
+print_w_tickettr32;Print the Weighing Ticket
+input_tally_sheettr32;Input the Tally Sheet
+assign_trs_Pcp9;Assign Trucks
+load_trucktr20;Load Truck
+weigh_empty_trucktr16;Weigh the Empty Truck
+weigh_empty_trucktr50;Weigh the Empty Truck
+eval_trs_exittr32_Pcp10;Evaluate the Truck Exit
+input_tally_sheettr38;Input the Tally Sheet
+print_w_tickettr38;Print the Weighing Ticket
+assign_trs_Pcp3;Assign Trucks
+weigh_empty_trucktr25;Weigh the Empty Truck
+weigh_empty_trucktr36;Weigh the Empty Truck
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+weigh_empty_trucktr39;Weigh the Empty Truck
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+load_trucktr16;Load Truck
+weigh_empty_trucktr11;Weigh the Empty Truck
+eval_trs_exittr38_Pcp9;Evaluate the Truck Exit
+load_trucktr25;Load Truck
+weigh_empty_trucktr12;Weigh the Empty Truck
+load_trucktr36;Load Truck
+load_trucktr11;Load Truck
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+weigh_empty_trucktr48;Weigh the Empty Truck
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+weigh_empty_trucktr13;Weigh the Empty Truck
+print_w_tickettr34;Print the Weighing Ticket
+input_tally_sheettr34;Input the Tally Sheet
+load_trucktr39;Load Truck
+weigh_empty_trucktr42;Weigh the Empty Truck
+assign_trs_Pcp7;Assign Trucks
+load_trucktr50;Load Truck
+load_trucktr42;Load Truck
+load_trucktr13;Load Truck
+load_trucktr12;Load Truck
+load_trucktr48;Load Truck
+eval_trs_exittr34_Pcp3;Evaluate the Truck Exit
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr49;Input the Tally Sheet
+weigh_loaded_trucktr2;Weigh the Loaded Truck
+weigh_empty_trucktr30;Weigh the Empty Truck
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+weigh_empty_trucktr29;Weigh the Empty Truck
+weigh_empty_trucktr6;Weigh the Empty Truck
+print_w_tickettr2;Print the Weighing Ticket
+input_tally_sheettr2;Input the Tally Sheet
+assign_trs_Pcp8;Assign Trucks
+eval_trs_exittr49_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr22;Weigh the Loaded Truck
+eval_trs_exittr2_Pcp4;Evaluate the Truck Exit
+load_trucktr30;Load Truck
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+load_trucktr29;Load Truck
+print_w_tickettr26;Print the Weighing Ticket
+input_tally_sheettr26;Input the Tally Sheet
+assign_trs_Pcp4;Assign Trucks
+load_trucktr6;Load Truck
+print_w_tickettr23;Print the Weighing Ticket
+input_tally_sheettr23;Input the Tally Sheet
+eval_trs_exittr26_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr4;Weigh the Loaded Truck
+input_tally_sheettr9;Input the Tally Sheet
+print_w_tickettr9;Print the Weighing Ticket
+print_w_tickettr22;Print the Weighing Ticket
+input_tally_sheettr22;Input the Tally Sheet
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+eval_trs_exittr22_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+weigh_empty_trucktr5;Weigh the Empty Truck
+weigh_empty_trucktr18;Weigh the Empty Truck
+assign_trs_Pcp2;Assign Trucks
+load_trucktr5;Load Truck
+print_w_tickettr27;Print the Weighing Ticket
+input_tally_sheettr27;Input the Tally Sheet
+load_trucktr18;Load Truck
+assign_trs_Pcp3;Assign Trucks
+print_w_tickettr43;Print the Weighing Ticket
+input_tally_sheettr43;Input the Tally Sheet
+eval_trs_exittr23_Pcp9;Evaluate the Truck Exit
+eval_trs_exittr9_Pcp5;Evaluate the Truck Exit
+print_w_tickettr4;Print the Weighing Ticket
+input_tally_sheettr4;Input the Tally Sheet
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+weigh_loaded_trucktr8;Weigh the Loaded Truck
+eval_trs_exittr27_Pcp8;Evaluate the Truck Exit
+input_tally_sheettr40;Input the Tally Sheet
+print_w_tickettr40;Print the Weighing Ticket
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr40_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr43_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+eval_trs_exittr4_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr41;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+input_tally_sheettr3;Input the Tally Sheet
+print_w_tickettr3;Print the Weighing Ticket
+weigh_loaded_trucktr17;Weigh the Loaded Truck
+print_w_tickettr8;Print the Weighing Ticket
+input_tally_sheettr8;Input the Tally Sheet
+weigh_empty_trucktr44;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+eval_trs_exittr8_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+print_w_tickettr17;Print the Weighing Ticket
+input_tally_sheettr17;Input the Tally Sheet
+eval_trs_exittr17_Pcp4;Evaluate the Truck Exit
+print_w_tickettr33;Print the Weighing Ticket
+input_tally_sheettr33;Input the Tally Sheet
+assign_trs_Pcp9;Assign Trucks
+weigh_empty_trucktr45;Weigh the Empty Truck
+eval_trs_exittr3_Pcp9;Evaluate the Truck Exit
+weigh_empty_trucktr32;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+print_w_tickettr41;Print the Weighing Ticket
+input_tally_sheettr41;Input the Tally Sheet
+load_trucktr32;Load Truck
+weigh_empty_trucktr28;Weigh the Empty Truck
+load_trucktr44;Load Truck
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+eval_trs_exittr41_Pcp9;Evaluate the Truck Exit
+print_w_tickettr24;Print the Weighing Ticket
+input_tally_sheettr24;Input the Tally Sheet
+weigh_empty_trucktr21;Weigh the Empty Truck
+load_trucktr45;Load Truck
+assign_trs_Pcp5;Assign Trucks
+eval_trs_exittr33_Pcp7;Evaluate the Truck Exit
+weigh_loaded_trucktr31;Weigh the Loaded Truck
+load_trucktr28;Load Truck
+assign_trs_Pcp10;Assign Trucks
+print_w_tickettr10;Print the Weighing Ticket
+input_tally_sheettr10;Input the Tally Sheet
+assign_trs_Pcp2;Assign Trucks
+load_trucktr21;Load Truck
+weigh_empty_trucktr34;Weigh the Empty Truck
+input_tally_sheettr31;Input the Tally Sheet
+print_w_tickettr31;Print the Weighing Ticket
+eval_trs_exittr24_Pcp8;Evaluate the Truck Exit
+input_tally_sheettr35;Input the Tally Sheet
+print_w_tickettr35;Print the Weighing Ticket
+eval_trs_exittr10_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+weigh_empty_trucktr14;Weigh the Empty Truck
+load_trucktr34;Load Truck
+weigh_empty_trucktr22;Weigh the Empty Truck
+eval_trs_exittr35_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr31_Pcp5;Evaluate the Truck Exit
+input_tally_sheettr20;Input the Tally Sheet
+print_w_tickettr20;Print the Weighing Ticket
+eval_trs_exittr20_Pcp7;Evaluate the Truck Exit
+load_trucktr22;Load Truck
+load_trucktr14;Load Truck
+assign_trs_Pcp9;Assign Trucks
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+weigh_empty_trucktr38;Weigh the Empty Truck
+print_w_tickettr46;Print the Weighing Ticket
+input_tally_sheettr46;Input the Tally Sheet
+assign_trs_Pcp3;Assign Trucks
+weigh_empty_trucktr40;Weigh the Empty Truck
+weigh_empty_trucktr43;Weigh the Empty Truck
+assign_trs_Pcp5;Assign Trucks
+load_trucktr43;Load Truck
+load_trucktr40;Load Truck
+assign_trs_Pcp4;Assign Trucks
+eval_trs_exittr46_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr8;Weigh the Empty Truck
+weigh_loaded_trucktr37;Weigh the Loaded Truck
+load_trucktr38;Load Truck
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+input_tally_sheettr16;Input the Tally Sheet
+print_w_tickettr16;Print the Weighing Ticket
+load_trucktr8;Load Truck
+assign_trs_Pcp4;Assign Trucks
+weigh_empty_trucktr23;Weigh the Empty Truck
+print_w_tickettr37;Print the Weighing Ticket
+input_tally_sheettr37;Input the Tally Sheet
+weigh_empty_trucktr24;Weigh the Empty Truck
+load_trucktr24;Load Truck
+eval_trs_exittr16_Pcp4;Evaluate the Truck Exit
+assign_trs_Pcp2;Assign Trucks
+weigh_empty_trucktr26;Weigh the Empty Truck
+print_w_tickettr29;Print the Weighing Ticket
+input_tally_sheettr29;Input the Tally Sheet
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+load_trucktr26;Load Truck
+weigh_empty_trucktr27;Weigh the Empty Truck
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr37_Pcp5;Evaluate the Truck Exit
+load_trucktr27;Load Truck
+load_trucktr23;Load Truck
+weigh_empty_trucktr9;Weigh the Empty Truck
+eval_trs_exittr29_Pcp7;Evaluate the Truck Exit
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+input_tally_sheettr36;Input the Tally Sheet
+print_w_tickettr36;Print the Weighing Ticket
+weigh_empty_trucktr4;Weigh the Empty Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+weigh_empty_trucktr49;Weigh the Empty Truck
+load_trucktr4;Load Truck
+load_trucktr9;Load Truck
+weigh_empty_trucktr2;Weigh the Empty Truck
+weigh_empty_trucktr3;Weigh the Empty Truck
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+print_w_tickettr47;Print the Weighing Ticket
+input_tally_sheettr47;Input the Tally Sheet
+load_trucktr3;Load Truck
+eval_trs_exittr47_Pcp5;Evaluate the Truck Exit
+assign_trs_Pcp9;Assign Trucks
+weigh_empty_trucktr10;Weigh the Empty Truck
+input_tally_sheettr11;Input the Tally Sheet
+print_w_tickettr11;Print the Weighing Ticket
+weigh_empty_trucktr17;Weigh the Empty Truck
+eval_trs_exittr36_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+print_w_tickettr39;Print the Weighing Ticket
+input_tally_sheettr39;Input the Tally Sheet
+eval_trs_exittr11_Pcp2;Evaluate the Truck Exit
+load_trucktr17;Load Truck
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+load_trucktr49;Load Truck
+print_w_tickettr6;Print the Weighing Ticket
+input_tally_sheettr6;Input the Tally Sheet
+weigh_loaded_trucktr12;Weigh the Loaded Truck
+eval_trs_exittr6_Pcp9;Evaluate the Truck Exit
+load_trucktr2;Load Truck
+weigh_empty_trucktr41;Weigh the Empty Truck
+input_tally_sheettr12;Input the Tally Sheet
+print_w_tickettr12;Print the Weighing Ticket
+input_tally_sheettr28;Input the Tally Sheet
+print_w_tickettr28;Print the Weighing Ticket
+load_trucktr10;Load Truck
+eval_trs_exittr39_Pcp9;Evaluate the Truck Exit
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+assign_trs_Pcp7;Assign Trucks
+weigh_empty_trucktr20;Weigh the Empty Truck
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+weigh_empty_trucktr46;Weigh the Empty Truck
+weigh_empty_trucktr35;Weigh the Empty Truck
+load_trucktr41;Load Truck
+weigh_empty_trucktr31;Weigh the Empty Truck
+eval_trs_exittr12_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr48;Input the Tally Sheet
+eval_trs_exittr28_Pcp7;Evaluate the Truck Exit
+input_tally_sheettr42;Input the Tally Sheet
+print_w_tickettr42;Print the Weighing Ticket
+weigh_empty_trucktr33;Weigh the Empty Truck
+load_trucktr20;Load Truck
+weigh_loaded_trucktr45;Weigh the Loaded Truck
+weigh_loaded_trucktr22;Weigh the Loaded Truck
+load_trucktr31;Load Truck
+load_trucktr33;Load Truck
+eval_trs_exittr48_Pcp8;Evaluate the Truck Exit
+print_w_tickettr34;Print the Weighing Ticket
+input_tally_sheettr34;Input the Tally Sheet
+eval_trs_exittr42_Pcp10;Evaluate the Truck Exit
+load_trucktr35;Load Truck
+weigh_loaded_trucktr15;Weigh the Loaded Truck
+load_trucktr46;Load Truck
+assign_trs_Pcp2;Assign Trucks
+input_tally_sheettr22;Input the Tally Sheet
+print_w_tickettr22;Print the Weighing Ticket
+eval_trs_exittr34_Pcp3;Evaluate the Truck Exit
+assign_trs_Pcp5;Assign Trucks
+eval_trs_exittr22_Pcp3;Evaluate the Truck Exit
+assign_trs_Pcp2;Assign Trucks
+print_w_tickettr15;Print the Weighing Ticket
+input_tally_sheettr15;Input the Tally Sheet
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr15_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+weigh_empty_trucktr39;Weigh the Empty Truck
+assign_trs_Pcp5;Assign Trucks
+assign_trs_Pcp7;Assign Trucks
+load_trucktr39;Load Truck
+weigh_empty_trucktr16;Weigh the Empty Truck
+weigh_empty_trucktr37;Weigh the Empty Truck
+weigh_empty_trucktr47;Weigh the Empty Truck
+load_trucktr47;Load Truck
+assign_trs_Pcp2;Assign Trucks
+input_tally_sheettr23;Input the Tally Sheet
+print_w_tickettr23;Print the Weighing Ticket
+weigh_loaded_trucktr1;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+weigh_empty_trucktr11;Weigh the Empty Truck
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+eval_trs_exittr23_Pcp9;Evaluate the Truck Exit
+load_trucktr11;Load Truck
+input_tally_sheettr26;Input the Tally Sheet
+print_w_tickettr26;Print the Weighing Ticket
+load_trucktr16;Load Truck
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+load_trucktr37;Load Truck
+weigh_empty_trucktr6;Weigh the Empty Truck
+weigh_empty_trucktr29;Weigh the Empty Truck
+weigh_empty_trucktr28;Weigh the Empty Truck
+load_trucktr29;Load Truck
+assign_trs_Pcp7;Assign Trucks
+load_trucktr6;Load Truck
+load_trucktr28;Load Truck
+print_w_tickettr1;Print the Weighing Ticket
+input_tally_sheettr1;Input the Tally Sheet
+weigh_empty_trucktr22;Weigh the Empty Truck
+eval_trs_exittr26_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+input_tally_sheettr27;Input the Tally Sheet
+print_w_tickettr27;Print the Weighing Ticket
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+weigh_empty_trucktr36;Weigh the Empty Truck
+weigh_loaded_trucktr50;Weigh the Loaded Truck
+eval_trs_exittr1_Pcp4;Evaluate the Truck Exit
+load_trucktr36;Load Truck
+input_tally_sheettr32;Input the Tally Sheet
+print_w_tickettr32;Print the Weighing Ticket
+print_w_tickettr44;Print the Weighing Ticket
+input_tally_sheettr44;Input the Tally Sheet
+input_tally_sheettr45;Input the Tally Sheet
+print_w_tickettr45;Print the Weighing Ticket
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+eval_trs_exittr32_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr27_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr18;Weigh the Loaded Truck
+input_tally_sheettr43;Input the Tally Sheet
+print_w_tickettr43;Print the Weighing Ticket
+eval_trs_exittr44_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr45_Pcp8;Evaluate the Truck Exit
+load_trucktr22;Load Truck
+eval_trs_exittr43_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+print_w_tickettr19;Print the Weighing Ticket
+input_tally_sheettr19;Input the Tally Sheet
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+assign_trs_Pcp7;Assign Trucks
+input_tally_sheettr18;Input the Tally Sheet
+print_w_tickettr18;Print the Weighing Ticket
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+assign_trs_Pcp4;Assign Trucks
+eval_trs_exittr18_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr15;Weigh the Empty Truck
+print_w_tickettr21;Print the Weighing Ticket
+input_tally_sheettr21;Input the Tally Sheet
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+eval_trs_exittr21_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr17;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+print_w_tickettr10;Print the Weighing Ticket
+input_tally_sheettr10;Input the Tally Sheet
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+input_tally_sheettr20;Input the Tally Sheet
+print_w_tickettr20;Print the Weighing Ticket
+eval_trs_exittr19_Pcp9;Evaluate the Truck Exit
+eval_trs_exittr20_Pcp4;Evaluate the Truck Exit
+assign_trs_Pcp5;Assign Trucks
+eval_trs_exittr10_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+input_tally_sheettr7;Input the Tally Sheet
+print_w_tickettr7;Print the Weighing Ticket
+weigh_empty_trucktr48;Weigh the Empty Truck
+load_trucktr15;Load Truck
+eval_trs_exittr7_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr12;Weigh the Empty Truck
+print_w_tickettr25;Print the Weighing Ticket
+input_tally_sheettr25;Input the Tally Sheet
+input_tally_sheettr17;Input the Tally Sheet
+print_w_tickettr17;Print the Weighing Ticket
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+print_w_tickettr40;Print the Weighing Ticket
+input_tally_sheettr40;Input the Tally Sheet
+eval_trs_exittr17_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr42;Weigh the Empty Truck
+load_trucktr48;Load Truck
+load_trucktr12;Load Truck
+eval_trs_exittr25_Pcp2;Evaluate the Truck Exit
+weigh_empty_trucktr34;Weigh the Empty Truck
+assign_trs_Pcp7;Assign Trucks
+load_trucktr34;Load Truck
+assign_trs_Pcp3;Assign Trucks
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+load_trucktr42;Load Truck
+eval_trs_exittr40_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp2;Assign Trucks
+print_w_tickettr30;Print the Weighing Ticket
+input_tally_sheettr30;Input the Tally Sheet
+weigh_empty_trucktr32;Weigh the Empty Truck
+weigh_loaded_trucktr13;Weigh the Loaded Truck
+weigh_loaded_trucktr5;Weigh the Loaded Truck
+print_w_tickettr24;Print the Weighing Ticket
+input_tally_sheettr24;Input the Tally Sheet
+weigh_loaded_trucktr14;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+eval_trs_exittr24_Pcp9;Evaluate the Truck Exit
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+input_tally_sheettr14;Input the Tally Sheet
+print_w_tickettr14;Print the Weighing Ticket
+assign_trs_Pcp10;Assign Trucks
+input_tally_sheettr5;Input the Tally Sheet
+print_w_tickettr5;Print the Weighing Ticket
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr30_Pcp5;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp5;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+load_trucktr32;Load Truck
+weigh_empty_trucktr1;Weigh the Empty Truck
+load_trucktr1;Load Truck
+weigh_loaded_trucktr31;Weigh the Loaded Truck
+eval_trs_exittr14_Pcp3;Evaluate the Truck Exit
+assign_trs_Pcp5;Assign Trucks
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+eval_trs_exittr35_Pcp2;Evaluate the Truck Exit
+weigh_empty_trucktr23;Weigh the Empty Truck
+weigh_empty_trucktr19;Weigh the Empty Truck
+input_tally_sheettr13;Input the Tally Sheet
+print_w_tickettr13;Print the Weighing Ticket
+eval_trs_exittr5_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr27;Weigh the Empty Truck
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+print_w_tickettr36;Print the Weighing Ticket
+input_tally_sheettr36;Input the Tally Sheet
+weigh_empty_trucktr7;Weigh the Empty Truck
+input_tally_sheettr29;Input the Tally Sheet
+print_w_tickettr29;Print the Weighing Ticket
+print_w_tickettr31;Print the Weighing Ticket
+input_tally_sheettr31;Input the Tally Sheet
+weigh_loaded_trucktr37;Weigh the Loaded Truck
+load_trucktr19;Load Truck
+load_trucktr7;Load Truck
+load_trucktr23;Load Truck
+eval_trs_exittr13_Pcp4;Evaluate the Truck Exit
+load_trucktr27;Load Truck
+eval_trs_exittr29_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr31_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+assign_trs_Pcp5;Assign Trucks
+eval_trs_exittr36_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+weigh_empty_trucktr25;Weigh the Empty Truck
+print_w_tickettr33;Print the Weighing Ticket
+input_tally_sheettr33;Input the Tally Sheet
+weigh_empty_trucktr17;Weigh the Empty Truck
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+weigh_empty_trucktr43;Weigh the Empty Truck
+input_tally_sheettr37;Input the Tally Sheet
+print_w_tickettr37;Print the Weighing Ticket
+load_trucktr43;Load Truck
+load_trucktr17;Load Truck
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+weigh_empty_trucktr44;Weigh the Empty Truck
+assign_trs_Pcp5;Assign Trucks
+eval_trs_exittr37_Pcp5;Evaluate the Truck Exit
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr49;Input the Tally Sheet
+print_w_tickettr46;Print the Weighing Ticket
+input_tally_sheettr46;Input the Tally Sheet
+load_trucktr25;Load Truck
+assign_trs_Pcp3;Assign Trucks
+print_w_tickettr47;Print the Weighing Ticket
+input_tally_sheettr47;Input the Tally Sheet
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+weigh_empty_trucktr10;Weigh the Empty Truck
+assign_trs_Pcp7;Assign Trucks
+eval_trs_exittr33_Pcp10;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+load_trucktr10;Load Truck
+print_w_tickettr3;Print the Weighing Ticket
+input_tally_sheettr3;Input the Tally Sheet
+eval_trs_exittr49_Pcp5;Evaluate the Truck Exit
+load_trucktr44;Load Truck
+eval_trs_exittr46_Pcp2;Evaluate the Truck Exit
+weigh_loaded_trucktr4;Weigh the Loaded Truck
+weigh_empty_trucktr20;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+weigh_empty_trucktr21;Weigh the Empty Truck
+eval_trs_exittr47_Pcp7;Evaluate the Truck Exit
+load_trucktr20;Load Truck
+weigh_empty_trucktr26;Weigh the Empty Truck
+load_trucktr26;Load Truck
+load_trucktr21;Load Truck
+input_tally_sheettr4;Input the Tally Sheet
+print_w_tickettr4;Print the Weighing Ticket
+eval_trs_exittr4_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr3_Pcp5;Evaluate the Truck Exit
+weigh_empty_trucktr40;Weigh the Empty Truck
+assign_trs_Pcp8;Assign Trucks
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+weigh_empty_trucktr35;Weigh the Empty Truck
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+load_trucktr35;Load Truck
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr14;Weigh the Empty Truck
+load_trucktr14;Load Truck
+assign_trs_Pcp4;Assign Trucks
+weigh_empty_trucktr18;Weigh the Empty Truck
+load_trucktr18;Load Truck
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+load_trucktr40;Load Truck
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+input_tally_sheettr11;Input the Tally Sheet
+print_w_tickettr11;Print the Weighing Ticket
+weigh_empty_trucktr45;Weigh the Empty Truck
+eval_trs_exittr11_Pcp2;Evaluate the Truck Exit
+weigh_loaded_trucktr1;Weigh the Loaded Truck
+assign_trs_Pcp7;Assign Trucks
+load_trucktr45;Load Truck
+weigh_empty_trucktr24;Weigh the Empty Truck
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+print_w_tickettr28;Print the Weighing Ticket
+input_tally_sheettr28;Input the Tally Sheet
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+weigh_empty_trucktr30;Weigh the Empty Truck
+eval_trs_exittr28_Pcp2;Evaluate the Truck Exit
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr48;Input the Tally Sheet
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr3;Weigh the Empty Truck
+print_w_tickettr1;Print the Weighing Ticket
+input_tally_sheettr1;Input the Tally Sheet
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+weigh_empty_trucktr13;Weigh the Empty Truck
+weigh_empty_trucktr5;Weigh the Empty Truck
+load_trucktr3;Load Truck
+input_tally_sheettr9;Input the Tally Sheet
+print_w_tickettr9;Print the Weighing Ticket
+input_tally_sheettr39;Input the Tally Sheet
+print_w_tickettr39;Print the Weighing Ticket
+load_trucktr30;Load Truck
+load_trucktr24;Load Truck
+assign_trs_Pcp10;Assign Trucks
+print_w_tickettr7;Print the Weighing Ticket
+input_tally_sheettr7;Input the Tally Sheet
+eval_trs_exittr48_Pcp7;Evaluate the Truck Exit
+input_tally_sheettr16;Input the Tally Sheet
+print_w_tickettr16;Print the Weighing Ticket
+eval_trs_exittr1_Pcp10;Evaluate the Truck Exit
+load_trucktr5;Load Truck
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr39_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+eval_trs_exittr7_Pcp10;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+eval_trs_exittr16_Pcp9;Evaluate the Truck Exit
+weigh_loaded_trucktr8;Weigh the Loaded Truck
+weigh_empty_trucktr31;Weigh the Empty Truck
+load_trucktr13;Load Truck
+input_tally_sheettr8;Input the Tally Sheet
+print_w_tickettr8;Print the Weighing Ticket
+eval_trs_exittr9_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr8_Pcp5;Evaluate the Truck Exit
+weigh_empty_trucktr49;Weigh the Empty Truck
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+load_trucktr31;Load Truck
+assign_trs_Pcp3;Assign Trucks
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+load_trucktr49;Load Truck
+weigh_empty_trucktr33;Weigh the Empty Truck
+weigh_loaded_trucktr17;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+weigh_loaded_trucktr12;Weigh the Loaded Truck
+load_trucktr33;Load Truck
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+input_tally_sheettr17;Input the Tally Sheet
+print_w_tickettr17;Print the Weighing Ticket
+print_w_tickettr19;Print the Weighing Ticket
+input_tally_sheettr19;Input the Tally Sheet
+assign_trs_Pcp3;Assign Trucks
+input_tally_sheettr38;Input the Tally Sheet
+print_w_tickettr38;Print the Weighing Ticket
+input_tally_sheettr12;Input the Tally Sheet
+print_w_tickettr12;Print the Weighing Ticket
+eval_trs_exittr19_Pcp7;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr46;Weigh the Empty Truck
+eval_trs_exittr38_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr39;Weigh the Empty Truck
+eval_trs_exittr12_Pcp5;Evaluate the Truck Exit
+weigh_empty_trucktr29;Weigh the Empty Truck
+load_trucktr39;Load Truck
+weigh_empty_trucktr47;Weigh the Empty Truck
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr4;Weigh the Empty Truck
+load_trucktr47;Load Truck
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+weigh_empty_trucktr16;Weigh the Empty Truck
+weigh_empty_trucktr28;Weigh the Empty Truck
+assign_trs_Pcp7;Assign Trucks
+eval_trs_exittr17_Pcp5;Evaluate the Truck Exit
+weigh_loaded_trucktr2;Weigh the Loaded Truck
+weigh_loaded_trucktr41;Weigh the Loaded Truck
+assign_trs_Pcp9;Assign Trucks
+input_tally_sheettr27;Input the Tally Sheet
+print_w_tickettr27;Print the Weighing Ticket
+weigh_empty_trucktr36;Weigh the Empty Truck
+weigh_empty_trucktr11;Weigh the Empty Truck
+load_trucktr46;Load Truck
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+load_trucktr11;Load Truck
+eval_trs_exittr27_Pcp7;Evaluate the Truck Exit
+load_trucktr29;Load Truck
+load_trucktr4;Load Truck
+load_trucktr28;Load Truck
+load_trucktr36;Load Truck
+assign_trs_Pcp2;Assign Trucks
+load_trucktr16;Load Truck
+weigh_loaded_trucktr14;Weigh the Loaded Truck
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+eval_trs_exittr35_Pcp5;Evaluate the Truck Exit
+input_tally_sheettr41;Input the Tally Sheet
+print_w_tickettr41;Print the Weighing Ticket
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+weigh_empty_trucktr37;Weigh the Empty Truck
+input_tally_sheettr21;Input the Tally Sheet
+print_w_tickettr21;Print the Weighing Ticket
+input_tally_sheettr14;Input the Tally Sheet
+print_w_tickettr14;Print the Weighing Ticket
+print_w_tickettr2;Print the Weighing Ticket
+input_tally_sheettr2;Input the Tally Sheet
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr14_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr8;Weigh the Empty Truck
+eval_trs_exittr21_Pcp3;Evaluate the Truck Exit
+load_trucktr8;Load Truck
+eval_trs_exittr2_Pcp9;Evaluate the Truck Exit
+weigh_empty_trucktr38;Weigh the Empty Truck
+load_trucktr37;Load Truck
+print_w_tickettr42;Print the Weighing Ticket
+input_tally_sheettr42;Input the Tally Sheet
+assign_trs_Pcp10;Assign Trucks
+eval_trs_exittr41_Pcp4;Evaluate the Truck Exit
+print_w_tickettr24;Print the Weighing Ticket
+input_tally_sheettr24;Input the Tally Sheet
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+weigh_loaded_trucktr45;Weigh the Loaded Truck
+eval_trs_exittr42_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr24_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+assign_trs_Pcp4;Assign Trucks
+assign_trs_Pcp4;Assign Trucks
+input_tally_sheettr43;Input the Tally Sheet
+print_w_tickettr43;Print the Weighing Ticket
+weigh_loaded_trucktr18;Weigh the Loaded Truck
+weigh_empty_trucktr7;Weigh the Empty Truck
+assign_trs_Pcp4;Assign Trucks
+load_trucktr38;Load Truck
+assign_trs_Pcp9;Assign Trucks
+input_tally_sheettr45;Input the Tally Sheet
+print_w_tickettr45;Print the Weighing Ticket
+input_tally_sheettr44;Input the Tally Sheet
+print_w_tickettr44;Print the Weighing Ticket
+weigh_empty_trucktr19;Weigh the Empty Truck
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr44_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr17;Weigh the Empty Truck
+print_w_tickettr40;Print the Weighing Ticket
+input_tally_sheettr40;Input the Tally Sheet
+eval_trs_exittr43_Pcp10;Evaluate the Truck Exit
+print_w_tickettr18;Print the Weighing Ticket
+input_tally_sheettr18;Input the Tally Sheet
+print_w_tickettr23;Print the Weighing Ticket
+input_tally_sheettr23;Input the Tally Sheet
+print_w_tickettr50;Print the Weighing Ticket
+input_tally_sheettr50;Input the Tally Sheet
+print_w_tickettr34;Print the Weighing Ticket
+input_tally_sheettr34;Input the Tally Sheet
+load_trucktr17;Load Truck
+eval_trs_exittr34_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr40_Pcp5;Evaluate the Truck Exit
+eval_trs_exittr45_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr18_Pcp2;Evaluate the Truck Exit
+load_trucktr7;Load Truck
+eval_trs_exittr50_Pcp2;Evaluate the Truck Exit
+load_trucktr19;Load Truck
+eval_trs_exittr23_Pcp5;Evaluate the Truck Exit
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp9;Assign Trucks
+weigh_empty_trucktr42;Weigh the Empty Truck
+weigh_loaded_trucktr31;Weigh the Loaded Truck
+weigh_empty_trucktr45;Weigh the Empty Truck
+assign_trs_Pcp9;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+print_w_tickettr31;Print the Weighing Ticket
+input_tally_sheettr31;Input the Tally Sheet
+assign_trs_Pcp9;Assign Trucks
+weigh_loaded_trucktr22;Weigh the Loaded Truck
+assign_trs_Pcp4;Assign Trucks
+weigh_empty_trucktr9;Weigh the Empty Truck
+print_w_tickettr22;Print the Weighing Ticket
+input_tally_sheettr22;Input the Tally Sheet
+load_trucktr9;Load Truck
+weigh_empty_trucktr2;Weigh the Empty Truck
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr1;Weigh the Empty Truck
+weigh_loaded_trucktr13;Weigh the Loaded Truck
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+load_trucktr42;Load Truck
+load_trucktr1;Load Truck
+eval_trs_exittr22_Pcp7;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+load_trucktr2;Load Truck
+load_trucktr45;Load Truck
+input_tally_sheettr28;Input the Tally Sheet
+print_w_tickettr28;Print the Weighing Ticket
+weigh_empty_trucktr27;Weigh the Empty Truck
+input_tally_sheettr13;Input the Tally Sheet
+print_w_tickettr13;Print the Weighing Ticket
+weigh_empty_trucktr21;Weigh the Empty Truck
+eval_trs_exittr31_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr48;Weigh the Empty Truck
+load_trucktr21;Load Truck
+weigh_loaded_trucktr4;Weigh the Loaded Truck
+weigh_empty_trucktr34;Weigh the Empty Truck
+eval_trs_exittr13_Pcp7;Evaluate the Truck Exit
+load_trucktr48;Load Truck
+print_w_tickettr4;Print the Weighing Ticket
+input_tally_sheettr4;Input the Tally Sheet
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+load_trucktr27;Load Truck
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+eval_trs_exittr28_Pcp3;Evaluate the Truck Exit
+input_tally_sheettr6;Input the Tally Sheet
+print_w_tickettr6;Print the Weighing Ticket
+weigh_empty_trucktr43;Weigh the Empty Truck
+weigh_empty_trucktr12;Weigh the Empty Truck
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr49;Input the Tally Sheet
+eval_trs_exittr6_Pcp10;Evaluate the Truck Exit
+load_trucktr34;Load Truck
+load_trucktr43;Load Truck
+weigh_empty_trucktr44;Weigh the Empty Truck
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+weigh_loaded_trucktr15;Weigh the Loaded Truck
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+eval_trs_exittr4_Pcp2;Evaluate the Truck Exit
+weigh_empty_trucktr41;Weigh the Empty Truck
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+assign_trs_Pcp4;Assign Trucks
+input_tally_sheettr33;Input the Tally Sheet
+print_w_tickettr33;Print the Weighing Ticket
+load_trucktr12;Load Truck
+load_trucktr41;Load Truck
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+print_w_tickettr15;Print the Weighing Ticket
+input_tally_sheettr15;Input the Tally Sheet
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr49_Pcp2;Evaluate the Truck Exit
+input_tally_sheettr16;Input the Tally Sheet
+print_w_tickettr16;Print the Weighing Ticket
+weigh_empty_trucktr18;Weigh the Empty Truck
+weigh_empty_trucktr23;Weigh the Empty Truck
+load_trucktr44;Load Truck
+weigh_empty_trucktr35;Weigh the Empty Truck
+eval_trs_exittr33_Pcp4;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+weigh_loaded_trucktr37;Weigh the Loaded Truck
+input_tally_sheettr30;Input the Tally Sheet
+print_w_tickettr30;Print the Weighing Ticket
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+load_trucktr35;Load Truck
+eval_trs_exittr15_Pcp10;Evaluate the Truck Exit
+print_w_tickettr25;Print the Weighing Ticket
+input_tally_sheettr25;Input the Tally Sheet
+input_tally_sheettr32;Input the Tally Sheet
+print_w_tickettr32;Print the Weighing Ticket
+weigh_empty_trucktr40;Weigh the Empty Truck
+load_trucktr23;Load Truck
+weigh_empty_trucktr14;Weigh the Empty Truck
+assign_trs_Pcp10;Assign Trucks
+eval_trs_exittr16_Pcp3;Evaluate the Truck Exit
+load_trucktr18;Load Truck
+print_w_tickettr39;Print the Weighing Ticket
+input_tally_sheettr39;Input the Tally Sheet
+load_trucktr14;Load Truck
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr25_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+print_w_tickettr19;Print the Weighing Ticket
+input_tally_sheettr19;Input the Tally Sheet
+print_w_tickettr37;Print the Weighing Ticket
+input_tally_sheettr37;Input the Tally Sheet
+eval_trs_exittr30_Pcp3;Evaluate the Truck Exit
+input_tally_sheettr29;Input the Tally Sheet
+print_w_tickettr29;Print the Weighing Ticket
+eval_trs_exittr32_Pcp5;Evaluate the Truck Exit
+load_trucktr40;Load Truck
+eval_trs_exittr39_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr37_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr4;Weigh the Empty Truck
+eval_trs_exittr19_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr29_Pcp8;Evaluate the Truck Exit
+assign_trs_Pcp3;Assign Trucks
+load_trucktr4;Load Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_empty_trucktr31;Weigh the Empty Truck
+load_trucktr31;Load Truck
+weigh_empty_trucktr50;Weigh the Empty Truck
+load_trucktr50;Load Truck
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp8;Assign Trucks
+input_tally_sheettr9;Input the Tally Sheet
+print_w_tickettr9;Print the Weighing Ticket
+weigh_empty_trucktr24;Weigh the Empty Truck
+load_trucktr24;Load Truck
+eval_trs_exittr9_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+weigh_empty_trucktr6;Weigh the Empty Truck
+weigh_empty_trucktr22;Weigh the Empty Truck
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+load_trucktr22;Load Truck
+load_trucktr6;Load Truck
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+assign_trs_Pcp8;Assign Trucks
+weigh_empty_trucktr13;Weigh the Empty Truck
+assign_trs_Pcp2;Assign Trucks
+load_trucktr13;Load Truck
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+assign_trs_Pcp4;Assign Trucks
+input_tally_sheettr42;Input the Tally Sheet
+print_w_tickettr42;Print the Weighing Ticket
+assign_trs_Pcp4;Assign Trucks
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+eval_trs_exittr42_Pcp2;Evaluate the Truck Exit
+weigh_empty_trucktr33;Weigh the Empty Truck
+input_tally_sheettr27;Input the Tally Sheet
+print_w_tickettr27;Print the Weighing Ticket
+weigh_empty_trucktr30;Weigh the Empty Truck
+input_tally_sheettr20;Input the Tally Sheet
+print_w_tickettr20;Print the Weighing Ticket
+weigh_loaded_trucktr17;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr20_Pcp2;Evaluate the Truck Exit
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+weigh_empty_trucktr15;Weigh the Empty Truck
+weigh_loaded_trucktr12;Weigh the Loaded Truck
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+print_w_tickettr11;Print the Weighing Ticket
+input_tally_sheettr11;Input the Tally Sheet
+load_trucktr33;Load Truck
+print_w_tickettr17;Print the Weighing Ticket
+input_tally_sheettr17;Input the Tally Sheet
+eval_trs_exittr27_Pcp4;Evaluate the Truck Exit
+print_w_tickettr43;Print the Weighing Ticket
+input_tally_sheettr43;Input the Tally Sheet
+assign_trs_Pcp8;Assign Trucks
+print_w_tickettr7;Print the Weighing Ticket
+input_tally_sheettr7;Input the Tally Sheet
+input_tally_sheettr46;Input the Tally Sheet
+print_w_tickettr46;Print the Weighing Ticket
+weigh_loaded_trucktr41;Weigh the Loaded Truck
+load_trucktr15;Load Truck
+load_trucktr30;Load Truck
+print_w_tickettr12;Print the Weighing Ticket
+input_tally_sheettr12;Input the Tally Sheet
+eval_trs_exittr17_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr32;Weigh the Empty Truck
+eval_trs_exittr11_Pcp10;Evaluate the Truck Exit
+input_tally_sheettr48;Input the Tally Sheet
+print_w_tickettr48;Print the Weighing Ticket
+print_w_tickettr3;Print the Weighing Ticket
+input_tally_sheettr3;Input the Tally Sheet
+eval_trs_exittr43_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr28;Weigh the Empty Truck
+eval_trs_exittr7_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+eval_trs_exittr12_Pcp10;Evaluate the Truck Exit
+load_trucktr28;Load Truck
+eval_trs_exittr48_Pcp10;Evaluate the Truck Exit
+assign_trs_Pcp4;Assign Trucks
+load_trucktr32;Load Truck
+eval_trs_exittr46_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr39;Weigh the Empty Truck
+weigh_loaded_trucktr8;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+eval_trs_exittr3_Pcp7;Evaluate the Truck Exit
+weigh_empty_trucktr37;Weigh the Empty Truck
+print_w_tickettr36;Print the Weighing Ticket
+input_tally_sheettr36;Input the Tally Sheet
+load_trucktr37;Load Truck
+load_trucktr39;Load Truck
+print_w_tickettr8;Print the Weighing Ticket
+input_tally_sheettr8;Input the Tally Sheet
+assign_trs_Pcp4;Assign Trucks
+weigh_empty_trucktr16;Weigh the Empty Truck
+weigh_loaded_trucktr1;Weigh the Loaded Truck
+weigh_empty_trucktr19;Weigh the Empty Truck
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+load_trucktr19;Load Truck
+assign_trs_Pcp8;Assign Trucks
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+eval_trs_exittr36_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp10;Assign Trucks
+eval_trs_exittr8_Pcp9;Evaluate the Truck Exit
+load_trucktr16;Load Truck
+weigh_empty_trucktr49;Weigh the Empty Truck
+print_w_tickettr1;Print the Weighing Ticket
+input_tally_sheettr1;Input the Tally Sheet
+load_trucktr49;Load Truck
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr1_Pcp7;Evaluate the Truck Exit
+weigh_empty_trucktr27;Weigh the Empty Truck
+print_w_tickettr26;Print the Weighing Ticket
+input_tally_sheettr26;Input the Tally Sheet
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+weigh_empty_trucktr29;Weigh the Empty Truck
+eval_trs_exittr26_Pcp4;Evaluate the Truck Exit
+eval_trs_exittr35_Pcp9;Evaluate the Truck Exit
+weigh_empty_trucktr9;Weigh the Empty Truck
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+load_trucktr27;Load Truck
+assign_trs_Pcp3;Assign Trucks
+input_tally_sheettr38;Input the Tally Sheet
+print_w_tickettr38;Print the Weighing Ticket
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+eval_trs_exittr38_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp8;Assign Trucks
+load_trucktr9;Load Truck
+load_trucktr29;Load Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_empty_trucktr46;Weigh the Empty Truck
+load_trucktr46;Load Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+weigh_loaded_trucktr2;Weigh the Loaded Truck
+weigh_empty_trucktr36;Weigh the Empty Truck
+input_tally_sheettr24;Input the Tally Sheet
+print_w_tickettr24;Print the Weighing Ticket
+weigh_empty_trucktr42;Weigh the Empty Truck
+load_trucktr42;Load Truck
+eval_trs_exittr24_Pcp3;Evaluate the Truck Exit
+input_tally_sheettr10;Input the Tally Sheet
+print_w_tickettr10;Print the Weighing Ticket
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr20;Weigh the Empty Truck
+eval_trs_exittr10_Pcp5;Evaluate the Truck Exit
+weigh_empty_trucktr43;Weigh the Empty Truck
+input_tally_sheettr44;Input the Tally Sheet
+print_w_tickettr44;Print the Weighing Ticket
+weigh_empty_trucktr25;Weigh the Empty Truck
+weigh_loaded_trucktr45;Weigh the Loaded Truck
+load_trucktr36;Load Truck
+load_trucktr25;Load Truck
+weigh_empty_trucktr12;Weigh the Empty Truck
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+input_tally_sheettr2;Input the Tally Sheet
+print_w_tickettr2;Print the Weighing Ticket
+load_trucktr20;Load Truck
+load_trucktr43;Load Truck
+input_tally_sheettr23;Input the Tally Sheet
+print_w_tickettr23;Print the Weighing Ticket
+assign_trs_Pcp10;Assign Trucks
+eval_trs_exittr44_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr23_Pcp8;Evaluate the Truck Exit
+eval_trs_exittr2_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr3;Weigh the Empty Truck
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+load_trucktr12;Load Truck
+assign_trs_Pcp10;Assign Trucks
+load_trucktr3;Load Truck
+print_w_tickettr6;Print the Weighing Ticket
+input_tally_sheettr6;Input the Tally Sheet
+weigh_empty_trucktr48;Weigh the Empty Truck
+eval_trs_exittr6_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr8;Weigh the Empty Truck
+weigh_empty_trucktr7;Weigh the Empty Truck
+load_trucktr8;Load Truck
+weigh_empty_trucktr26;Weigh the Empty Truck
+load_trucktr48;Load Truck
+load_trucktr7;Load Truck
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+weigh_empty_trucktr17;Weigh the Empty Truck
+print_w_tickettr34;Print the Weighing Ticket
+input_tally_sheettr34;Input the Tally Sheet
+weigh_empty_trucktr11;Weigh the Empty Truck
+load_trucktr17;Load Truck
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr15;Weigh the Loaded Truck
+input_tally_sheettr19;Input the Tally Sheet
+print_w_tickettr19;Print the Weighing Ticket
+eval_trs_exittr34_Pcp9;Evaluate the Truck Exit
+weigh_loaded_trucktr5;Weigh the Loaded Truck
+weigh_loaded_trucktr18;Weigh the Loaded Truck
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+load_trucktr26;Load Truck
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+weigh_loaded_trucktr13;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+assign_trs_Pcp2;Assign Trucks
+weigh_empty_trucktr1;Weigh the Empty Truck
+load_trucktr11;Load Truck
+weigh_loaded_trucktr31;Weigh the Loaded Truck
+input_tally_sheettr30;Input the Tally Sheet
+print_w_tickettr30;Print the Weighing Ticket
+weigh_loaded_trucktr47;Weigh the Loaded Truck
+print_w_tickettr5;Print the Weighing Ticket
+input_tally_sheettr5;Input the Tally Sheet
+eval_trs_exittr19_Pcp4;Evaluate the Truck Exit
+input_tally_sheettr13;Input the Tally Sheet
+print_w_tickettr13;Print the Weighing Ticket
+input_tally_sheettr15;Input the Tally Sheet
+print_w_tickettr15;Print the Weighing Ticket
+eval_trs_exittr5_Pcp3;Evaluate the Truck Exit
+input_tally_sheettr18;Input the Tally Sheet
+print_w_tickettr18;Print the Weighing Ticket
+eval_trs_exittr13_Pcp2;Evaluate the Truck Exit
+load_trucktr1;Load Truck
+eval_trs_exittr15_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr23;Weigh the Empty Truck
+eval_trs_exittr30_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+print_w_tickettr32;Print the Weighing Ticket
+input_tally_sheettr32;Input the Tally Sheet
+load_trucktr23;Load Truck
+eval_trs_exittr18_Pcp4;Evaluate the Truck Exit
+input_tally_sheettr16;Input the Tally Sheet
+print_w_tickettr16;Print the Weighing Ticket
+assign_trs_Pcp3;Assign Trucks
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+eval_trs_exittr16_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+assign_trs_Pcp2;Assign Trucks
+eval_trs_exittr32_Pcp8;Evaluate the Truck Exit
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr49;Input the Tally Sheet
+input_tally_sheettr40;Input the Tally Sheet
+print_w_tickettr40;Print the Weighing Ticket
+input_tally_sheettr28;Input the Tally Sheet
+print_w_tickettr28;Print the Weighing Ticket
+weigh_loaded_trucktr20;Weigh the Loaded Truck
+input_tally_sheettr31;Input the Tally Sheet
+print_w_tickettr31;Print the Weighing Ticket
+eval_trs_exittr28_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr27;Weigh the Loaded Truck
+eval_trs_exittr40_Pcp9;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+input_tally_sheettr47;Input the Tally Sheet
+print_w_tickettr47;Print the Weighing Ticket
+assign_trs_Pcp3;Assign Trucks
+print_w_tickettr20;Print the Weighing Ticket
+input_tally_sheettr20;Input the Tally Sheet
+eval_trs_exittr31_Pcp4;Evaluate the Truck Exit
+weigh_loaded_trucktr39;Weigh the Loaded Truck
+weigh_loaded_trucktr14;Weigh the Loaded Truck
+weigh_empty_trucktr35;Weigh the Empty Truck
+weigh_empty_trucktr19;Weigh the Empty Truck
+eval_trs_exittr49_Pcp2;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+weigh_loaded_trucktr42;Weigh the Loaded Truck
+weigh_loaded_trucktr25;Weigh the Loaded Truck
+assign_trs_Pcp10;Assign Trucks
+weigh_empty_trucktr38;Weigh the Empty Truck
+weigh_empty_trucktr6;Weigh the Empty Truck
+eval_trs_exittr20_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr12;Weigh the Loaded Truck
+eval_trs_exittr47_Pcp4;Evaluate the Truck Exit
+assign_trs_Pcp10;Assign Trucks
+input_tally_sheettr27;Input the Tally Sheet
+print_w_tickettr27;Print the Weighing Ticket
+input_tally_sheettr25;Input the Tally Sheet
+print_w_tickettr25;Print the Weighing Ticket
+load_trucktr38;Load Truck
+weigh_loaded_trucktr8;Weigh the Loaded Truck
+input_tally_sheettr39;Input the Tally Sheet
+print_w_tickettr39;Print the Weighing Ticket
+print_w_tickettr45;Print the Weighing Ticket
+input_tally_sheettr45;Input the Tally Sheet
+input_tally_sheettr14;Input the Tally Sheet
+print_w_tickettr14;Print the Weighing Ticket
+load_trucktr19;Load Truck
+load_trucktr35;Load Truck
+weigh_loaded_trucktr50;Weigh the Loaded Truck
+eval_trs_exittr27_Pcp4;Evaluate the Truck Exit
+eval_trs_exittr39_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr2;Weigh the Empty Truck
+load_trucktr6;Load Truck
+input_tally_sheettr42;Input the Tally Sheet
+print_w_tickettr42;Print the Weighing Ticket
+weigh_loaded_trucktr4;Weigh the Loaded Truck
+load_trucktr2;Load Truck
+eval_trs_exittr25_Pcp2;Evaluate the Truck Exit
+input_tally_sheettr50;Input the Tally Sheet
+print_w_tickettr50;Print the Weighing Ticket
+assign_trs_Pcp3;Assign Trucks
+weigh_empty_trucktr24;Weigh the Empty Truck
+eval_trs_exittr50_Pcp10;Evaluate the Truck Exit
+load_trucktr24;Load Truck
+assign_trs_Pcp3;Assign Trucks
+eval_trs_exittr45_Pcp9;Evaluate the Truck Exit
+eval_trs_exittr14_Pcp4;Evaluate the Truck Exit
+eval_trs_exittr42_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr10;Weigh the Empty Truck
+weigh_loaded_trucktr9;Weigh the Loaded Truck
+weigh_empty_trucktr5;Weigh the Empty Truck
+weigh_empty_trucktr40;Weigh the Empty Truck
+load_trucktr5;Load Truck
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+assign_trs_Pcp3;Assign Trucks
+load_trucktr10;Load Truck
+input_tally_sheettr9;Input the Tally Sheet
+print_w_tickettr9;Print the Weighing Ticket
+print_w_tickettr4;Print the Weighing Ticket
+input_tally_sheettr4;Input the Tally Sheet
+weigh_loaded_trucktr43;Weigh the Loaded Truck
+weigh_loaded_trucktr7;Weigh the Loaded Truck
+weigh_loaded_trucktr11;Weigh the Loaded Truck
+eval_trs_exittr9_Pcp8;Evaluate the Truck Exit
+load_trucktr40;Load Truck
+weigh_empty_trucktr13;Weigh the Empty Truck
+assign_trs_Pcp3;Assign Trucks
+input_tally_sheettr43;Input the Tally Sheet
+print_w_tickettr43;Print the Weighing Ticket
+eval_trs_exittr4_Pcp3;Evaluate the Truck Exit
+weigh_empty_trucktr44;Weigh the Empty Truck
+input_tally_sheettr11;Input the Tally Sheet
+print_w_tickettr11;Print the Weighing Ticket
+load_trucktr44;Load Truck
+eval_trs_exittr11_Pcp3;Evaluate the Truck Exit
+input_tally_sheettr7;Input the Tally Sheet
+print_w_tickettr7;Print the Weighing Ticket
+weigh_loaded_trucktr21;Weigh the Loaded Truck
+eval_trs_exittr43_Pcp8;Evaluate the Truck Exit
+load_trucktr13;Load Truck
+weigh_loaded_trucktr22;Weigh the Loaded Truck
+weigh_loaded_trucktr37;Weigh the Loaded Truck
+weigh_empty_trucktr18;Weigh the Empty Truck
+load_trucktr18;Load Truck
+weigh_loaded_trucktr17;Weigh the Loaded Truck
+input_tally_sheettr22;Input the Tally Sheet
+print_w_tickettr22;Print the Weighing Ticket
+weigh_loaded_trucktr48;Weigh the Loaded Truck
+input_tally_sheettr37;Input the Tally Sheet
+print_w_tickettr37;Print the Weighing Ticket
+eval_trs_exittr7_Pcp2;Evaluate the Truck Exit
+weigh_loaded_trucktr1;Weigh the Loaded Truck
+weigh_empty_trucktr49;Weigh the Empty Truck
+weigh_empty_trucktr30;Weigh the Empty Truck
+input_tally_sheettr17;Input the Tally Sheet
+print_w_tickettr17;Print the Weighing Ticket
+eval_trs_exittr37_Pcp8;Evaluate the Truck Exit
+input_tally_sheettr1;Input the Tally Sheet
+print_w_tickettr1;Print the Weighing Ticket
+print_w_tickettr48;Print the Weighing Ticket
+input_tally_sheettr48;Input the Tally Sheet
+eval_trs_exittr22_Pcp4;Evaluate the Truck Exit
+weigh_empty_trucktr15;Weigh the Empty Truck
+input_tally_sheettr21;Input the Tally Sheet
+print_w_tickettr21;Print the Weighing Ticket
+eval_trs_exittr48_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr23;Weigh the Loaded Truck
+load_trucktr49;Load Truck
+eval_trs_exittr17_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr1_Pcp2;Evaluate the Truck Exit
+print_w_tickettr23;Print the Weighing Ticket
+input_tally_sheettr23;Input the Tally Sheet
+weigh_empty_trucktr34;Weigh the Empty Truck
+load_trucktr30;Load Truck
+weigh_loaded_trucktr38;Weigh the Loaded Truck
+weigh_empty_trucktr28;Weigh the Empty Truck
+weigh_loaded_trucktr6;Weigh the Loaded Truck
+eval_trs_exittr23_Pcp2;Evaluate the Truck Exit
+load_trucktr15;Load Truck
+eval_trs_exittr21_Pcp10;Evaluate the Truck Exit
+print_w_tickettr8;Print the Weighing Ticket
+input_tally_sheettr8;Input the Tally Sheet
+input_tally_sheettr38;Input the Tally Sheet
+print_w_tickettr38;Print the Weighing Ticket
+print_w_tickettr12;Print the Weighing Ticket
+input_tally_sheettr12;Input the Tally Sheet
+print_w_tickettr41;Print the Weighing Ticket
+input_tally_sheettr41;Input the Tally Sheet
+load_trucktr34;Load Truck
+weigh_loaded_trucktr26;Weigh the Loaded Truck
+load_trucktr28;Load Truck
+eval_trs_exittr8_Pcp10;Evaluate the Truck Exit
+weigh_empty_trucktr16;Weigh the Empty Truck
+eval_trs_exittr12_Pcp2;Evaluate the Truck Exit
+eval_trs_exittr38_Pcp2;Evaluate the Truck Exit
+load_trucktr16;Load Truck
+weigh_loaded_trucktr33;Weigh the Loaded Truck
+eval_trs_exittr41_Pcp8;Evaluate the Truck Exit
+print_w_tickettr6;Print the Weighing Ticket
+input_tally_sheettr6;Input the Tally Sheet
+input_tally_sheettr26;Input the Tally Sheet
+print_w_tickettr26;Print the Weighing Ticket
+weigh_loaded_trucktr3;Weigh the Loaded Truck
+eval_trs_exittr6_Pcp10;Evaluate the Truck Exit
+eval_trs_exittr26_Pcp10;Evaluate the Truck Exit
+print_w_tickettr3;Print the Weighing Ticket
+input_tally_sheettr3;Input the Tally Sheet
+print_w_tickettr33;Print the Weighing Ticket
+input_tally_sheettr33;Input the Tally Sheet
+weigh_loaded_trucktr29;Weigh the Loaded Truck
+eval_trs_exittr3_Pcp8;Evaluate the Truck Exit
+weigh_loaded_trucktr2;Weigh the Loaded Truck
+eval_trs_exittr33_Pcp8;Evaluate the Truck Exit
+weigh_empty_trucktr32;Weigh the Empty Truck
+input_tally_sheettr2;Input the Tally Sheet
+print_w_tickettr2;Print the Weighing Ticket
+input_tally_sheettr29;Input the Tally Sheet
+print_w_tickettr29;Print the Weighing Ticket
+eval_trs_exittr2_Pcp3;Evaluate the Truck Exit
+load_trucktr32;Load Truck
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+eval_trs_exittr29_Pcp2;Evaluate the Truck Exit
+weigh_loaded_trucktr5;Weigh the Loaded Truck
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+weigh_loaded_trucktr46;Weigh the Loaded Truck
+input_tally_sheettr5;Input the Tally Sheet
+print_w_tickettr5;Print the Weighing Ticket
+eval_trs_exittr35_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr40;Weigh the Loaded Truck
+weigh_loaded_trucktr49;Weigh the Loaded Truck
+eval_trs_exittr5_Pcp10;Evaluate the Truck Exit
+input_tally_sheettr46;Input the Tally Sheet
+print_w_tickettr46;Print the Weighing Ticket
+weigh_loaded_trucktr28;Weigh the Loaded Truck
+weigh_loaded_trucktr19;Weigh the Loaded Truck
+eval_trs_exittr46_Pcp8;Evaluate the Truck Exit
+input_tally_sheettr40;Input the Tally Sheet
+print_w_tickettr40;Print the Weighing Ticket
+input_tally_sheettr49;Input the Tally Sheet
+print_w_tickettr49;Print the Weighing Ticket
+input_tally_sheettr19;Input the Tally Sheet
+print_w_tickettr19;Print the Weighing Ticket
+eval_trs_exittr19_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr40_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr49_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr36;Weigh the Loaded Truck
+print_w_tickettr28;Print the Weighing Ticket
+input_tally_sheettr28;Input the Tally Sheet
+weigh_loaded_trucktr30;Weigh the Loaded Truck
+eval_trs_exittr28_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr15;Weigh the Loaded Truck
+input_tally_sheettr30;Input the Tally Sheet
+print_w_tickettr30;Print the Weighing Ticket
+eval_trs_exittr30_Pcp10;Evaluate the Truck Exit
+weigh_loaded_trucktr44;Weigh the Loaded Truck
+print_w_tickettr36;Print the Weighing Ticket
+input_tally_sheettr36;Input the Tally Sheet
+input_tally_sheettr15;Input the Tally Sheet
+print_w_tickettr15;Print the Weighing Ticket
+weigh_loaded_trucktr16;Weigh the Loaded Truck
+eval_trs_exittr36_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr34;Weigh the Loaded Truck
+eval_trs_exittr15_Pcp10;Evaluate the Truck Exit
+print_w_tickettr44;Print the Weighing Ticket
+input_tally_sheettr44;Input the Tally Sheet
+eval_trs_exittr44_Pcp2;Evaluate the Truck Exit
+weigh_loaded_trucktr24;Weigh the Loaded Truck
+print_w_tickettr16;Print the Weighing Ticket
+input_tally_sheettr16;Input the Tally Sheet
+eval_trs_exittr16_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr32;Weigh the Loaded Truck
+input_tally_sheettr34;Input the Tally Sheet
+print_w_tickettr34;Print the Weighing Ticket
+print_w_tickettr24;Print the Weighing Ticket
+input_tally_sheettr24;Input the Tally Sheet
+weigh_loaded_trucktr10;Weigh the Loaded Truck
+eval_trs_exittr34_Pcp3;Evaluate the Truck Exit
+eval_trs_exittr24_Pcp2;Evaluate the Truck Exit
+input_tally_sheettr10;Input the Tally Sheet
+print_w_tickettr10;Print the Weighing Ticket
+eval_trs_exittr10_Pcp2;Evaluate the Truck Exit
+input_tally_sheettr32;Input the Tally Sheet
+print_w_tickettr32;Print the Weighing Ticket
+eval_trs_exittr32_Pcp3;Evaluate the Truck Exit
+weigh_loaded_trucktr13;Weigh the Loaded Truck
+weigh_loaded_trucktr18;Weigh the Loaded Truck
+print_w_tickettr13;Print the Weighing Ticket
+input_tally_sheettr13;Input the Tally Sheet
+eval_trs_exittr13_Pcp3;Evaluate the Truck Exit
+input_tally_sheettr18;Input the Tally Sheet
+print_w_tickettr18;Print the Weighing Ticket
+eval_trs_exittr18_Pcp10;Evaluate the Truck Exit

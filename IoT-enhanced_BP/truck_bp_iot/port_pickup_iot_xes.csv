@@ -1,0 +1,11 @@
+ocel:eid,time:timestamp,Silo ID,Truck ID,concept:name,case:concept:name,case:Cargo Type,case:Cargo stock weight(scheduled),case:Silo ID,case:Cargo ID,case:Num of trucks,case:Total pickup weight,case:Silo Status,case:Temperature,case:Humidity,case:Silo Temperature,case:Grain Temperature,case:RFID No,case:Pickup Plan ID,case:LPT,case:Axles,case:Scheduled Pickup Weight,case:Truck Status,case:Truck Weight,case:Is_normal,case:ocel:type
+Lodge_Pcp2,2024-04-29 07:33:49+00:00,,,Lodge Pickup Plan,Pcp2,,,,Cr16,43.0,365282.8,,,,,,,,,,,,,,Pickup Plan
+Lodge_Pcp7,2024-04-29 07:34:21+00:00,,,Lodge Pickup Plan,Pcp7,,,,Cr5,33.0,273127.5,,,,,,,,,,,,,,Pickup Plan
+Lodge_Pcp10,2024-04-29 07:40:30+00:00,,,Lodge Pickup Plan,Pcp10,,,,Cr1,63.0,529223.2,,,,,,,,,,,,,,Pickup Plan
+Lodge_Pcp4,2024-04-29 08:03:32+00:00,,,Lodge Pickup Plan,Pcp4,,,,Cr4,47.0,394124.0,,,,,,,,,,,,,,Pickup Plan
+Lodge_Pcp5,2024-04-29 08:03:41+00:00,,,Lodge Pickup Plan,Pcp5,,,,Cr8,64.0,538222.3,,,,,,,,,,,,,,Pickup Plan
+Lodge_Pcp9,2024-04-29 08:20:41+00:00,,,Lodge Pickup Plan,Pcp9,,,,Cr19,38.0,318863.1,,,,,,,,,,,,,,Pickup Plan
+Lodge_Pcp8,2024-04-29 08:31:20+00:00,,,Lodge Pickup Plan,Pcp8,,,,Cr6,40.0,338557.6,,,,,,,,,,,,,,Pickup Plan
+Lodge_Pcp6,2024-04-29 09:00:11+00:00,,,Lodge Pickup Plan,Pcp6,,,,Cr15,58.0,487353.0,,,,,,,,,,,,,,Pickup Plan
+Lodge_Pcp3,2024-04-29 09:01:50+00:00,,,Lodge Pickup Plan,Pcp3,,,,Cr10,34.0,286438.1,,,,,,,,,,,,,,Pickup Plan
+Lodge_Pcp1,2024-04-29 09:09:07+00:00,,,Lodge Pickup Plan,Pcp1,,,,Cr12,39.0,328792.1,,,,,,,,,,,,,,Pickup Plan
