@@ -1,0 +1,3260 @@
+ocel_event_id;ocel_object_id;ocel_qualifier
+Lodge_Pcp5;Pcp5;lodged pickup plan
+Lodge_Pcp5;Cr2;cargo to be picked up
+Lodge_Pcp3;Pcp3;lodged pickup plan
+Lodge_Pcp3;Cr7;cargo to be picked up
+Lodge_Pcp4;Pcp4;lodged pickup plan
+Lodge_Pcp4;Cr17;cargo to be picked up
+Lodge_Pcp10;Pcp10;lodged pickup plan
+Lodge_Pcp10;Cr6;cargo to be picked up
+Lodge_Pcp1;Pcp1;lodged pickup plan
+Lodge_Pcp1;Cr20;cargo to be picked up
+Lodge_Pcp6;Pcp6;lodged pickup plan
+Lodge_Pcp6;Cr18;cargo to be picked up
+Lodge_Pcp2;Pcp2;lodged pickup plan
+Lodge_Pcp2;Cr4;cargo to be picked up
+Lodge_Pcp9;Pcp9;lodged pickup plan
+Lodge_Pcp9;Cr9;cargo to be picked up
+Lodge_Pcp8;Pcp8;lodged pickup plan
+Lodge_Pcp8;Cr13;cargo to be picked up
+Lodge_Pcp7;Pcp7;lodged pickup plan
+Lodge_Pcp7;Cr1;cargo to be picked up
+assign_trs_Pcp5;tr36;Pickup plan trucks assignment
+assign_trs_Pcp5;tr35;Pickup plan trucks assignment
+assign_trs_Pcp5;tr26;Pickup plan trucks assignment
+assign_trs_Pcp5;tr23;Pickup plan trucks assignment
+assign_trs_Pcp5;tr17;Pickup plan trucks assignment
+assign_trs_Pcp5;tr25;Pickup plan trucks assignment
+assign_trs_Pcp5;tr9;Pickup plan trucks assignment
+assign_trs_Pcp5;tr45;Pickup plan trucks assignment
+assign_trs_Pcp5;tr3;Pickup plan trucks assignment
+assign_trs_Pcp5;tr10;Pickup plan trucks assignment
+assign_trs_Pcp5;tr27;Pickup plan trucks assignment
+assign_trs_Pcp5;tr1;Pickup plan trucks assignment
+assign_trs_Pcp5;tr40;Pickup plan trucks assignment
+assign_trs_Pcp5;tr44;Pickup plan trucks assignment
+assign_trs_Pcp5;tr4;Pickup plan trucks assignment
+assign_trs_Pcp5;tr28;Pickup plan trucks assignment
+assign_trs_Pcp5;tr20;Pickup plan trucks assignment
+assign_trs_Pcp5;tr30;Pickup plan trucks assignment
+assign_trs_Pcp5;tr2;Pickup plan trucks assignment
+assign_trs_Pcp5;tr18;Pickup plan trucks assignment
+assign_trs_Pcp5;tr12;Pickup plan trucks assignment
+assign_trs_Pcp5;tr32;Pickup plan trucks assignment
+assign_trs_Pcp5;tr41;Pickup plan trucks assignment
+assign_trs_Pcp5;tr14;Pickup plan trucks assignment
+assign_trs_Pcp5;tr13;Pickup plan trucks assignment
+assign_trs_Pcp5;tr11;Pickup plan trucks assignment
+assign_trs_Pcp5;tr5;Pickup plan trucks assignment
+assign_trs_Pcp5;tr46;Pickup plan trucks assignment
+assign_trs_Pcp5;tr39;Pickup plan trucks assignment
+assign_trs_Pcp5;tr42;Pickup plan trucks assignment
+assign_trs_Pcp5;tr47;Pickup plan trucks assignment
+assign_trs_Pcp5;tr48;Pickup plan trucks assignment
+assign_trs_Pcp5;tr34;Pickup plan trucks assignment
+assign_trs_Pcp5;tr33;Pickup plan trucks assignment
+assign_trs_Pcp5;tr6;Pickup plan trucks assignment
+assign_trs_Pcp5;tr24;Pickup plan trucks assignment
+assign_trs_Pcp5;tr43;Pickup plan trucks assignment
+assign_trs_Pcp5;tr16;Pickup plan trucks assignment
+assign_trs_Pcp5;tr50;Pickup plan trucks assignment
+assign_trs_Pcp5;tr38;Pickup plan trucks assignment
+assign_trs_Pcp5;tr31;Pickup plan trucks assignment
+assign_trs_Pcp5;tr15;Pickup plan trucks assignment
+assign_trs_Pcp5;tr7;Pickup plan trucks assignment
+assign_trs_Pcp5;tr49;Pickup plan trucks assignment
+assign_trs_Pcp5;tr21;Pickup plan trucks assignment
+assign_trs_Pcp5;tr22;Pickup plan trucks assignment
+assign_trs_Pcp5;tr8;Pickup plan trucks assignment
+assign_trs_Pcp5;tr29;Pickup plan trucks assignment
+assign_trs_Pcp5;tr37;Pickup plan trucks assignment
+trs_entrytr23;tr23;Entry evaluation for truck
+trs_entrytr3;tr3;Entry evaluation for truck
+assign_trs_Pcp5;tr19;Pickup plan trucks assignment
+trs_entrytr17;tr17;Entry evaluation for truck
+weigh_empty_trucktr17;tr17;Empty truck weighed
+weigh_empty_trucktr3;tr3;Empty truck weighed
+weigh_empty_trucktr23;tr23;Empty truck weighed
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+trs_entrytr25;tr25;Entry evaluation for truck
+check_abnormalitytr17;tr17;truck exmained for empty weight abnormality
+trs_entrytr40;tr40;Entry evaluation for truck
+trs_entrytr45;tr45;Entry evaluation for truck
+weigh_empty_trucktr40;tr40;Empty truck weighed
+check_abnormalitytr23;tr23;truck exmained for empty weight abnormality
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+weigh_empty_trucktr25;tr25;Empty truck weighed
+trs_entrytr2;tr2;Entry evaluation for truck
+trs_entrytr6;tr6;Entry evaluation for truck
+fail_weightr3;tr3;Truck failed to be weighed
+weigh_empty_trucktr45;tr45;Empty truck weighed
+trs_entrytr42;tr42;Entry evaluation for truck
+trs_entrytr30;tr30;Entry evaluation for truck
+trs_entrytr48;tr48;Entry evaluation for truck
+check_abnormalitytr25;tr25;truck exmained for empty weight abnormality
+weigh_empty_trucktr2;tr2;Empty truck weighed
+weigh_empty_trucktr30;tr30;Empty truck weighed
+trs_entrytr26;tr26;Entry evaluation for truck
+trs_entrytr38;tr38;Entry evaluation for truck
+weigh_empty_trucktr48;tr48;Empty truck weighed
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+weigh_empty_trucktr38;tr38;Empty truck weighed
+trs_entrytr20;tr20;Entry evaluation for truck
+trs_entrytr1;tr1;Entry evaluation for truck
+weigh_empty_trucktr6;tr6;Empty truck weighed
+weigh_empty_trucktr26;tr26;Empty truck weighed
+check_abnormalitytr38;tr38;truck exmained for empty weight abnormality
+weigh_empty_trucktr42;tr42;Empty truck weighed
+arrive_at_Silo20;Silo20;Silo for truck load
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+load_trucktr17;tr17;cargo load for truck
+check_abnormalitytr42;tr42;truck exmained for empty weight abnormality
+check_abnormalitytr30;tr30;truck exmained for empty weight abnormality
+trs_entrytr24;tr24;Entry evaluation for truck
+trs_entrytr10;tr10;Entry evaluation for truck
+weigh_empty_trucktr20;tr20;Empty truck weighed
+load_trucktr40;tr40;cargo load for truck
+arrive_at_Silo20;Silo20;Silo for truck load
+check_abnormalitytr6;tr6;truck exmained for empty weight abnormality
+weigh_empty_trucktr24;tr24;Empty truck weighed
+check_abnormalitytr26;tr26;truck exmained for empty weight abnormality
+fail_weightr45;tr45;Truck failed to be weighed
+trs_entrytr41;tr41;Entry evaluation for truck
+weigh_empty_trucktr41;tr41;Empty truck weighed
+arrive_at_Silo20;Silo20;Silo for truck load
+weigh_empty_trucktr1;tr1;Empty truck weighed
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+assign_trs_Pcp8;tr3;Pickup plan trucks assignment
+weigh_empty_trucktr10;tr10;Empty truck weighed
+trs_entrytr12;tr12;Entry evaluation for truck
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+fail_weightr30;tr30;Truck failed to be weighed
+trs_entrytr27;tr27;Entry evaluation for truck
+fail_weightr2;tr2;Truck failed to be weighed
+check_abnormalitytr20;tr20;truck exmained for empty weight abnormality
+arrive_at_Silo20;Silo20;Silo for truck load
+fail_weightr48;tr48;Truck failed to be weighed
+trs_entrytr33;tr33;Entry evaluation for truck
+fail_weightr42;tr42;Truck failed to be weighed
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+weigh_empty_trucktr33;tr33;Empty truck weighed
+load_trucktr38;tr38;cargo load for truck
+weigh_empty_trucktr27;tr27;Empty truck weighed
+trs_entrytr7;tr7;Entry evaluation for truck
+check_abnormalitytr27;tr27;truck exmained for empty weight abnormality
+check_abnormalitytr33;tr33;truck exmained for empty weight abnormality
+fail_weightr24;tr24;Truck failed to be weighed
+arrive_at_Silo20;Silo20;Silo for truck load
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+load_trucktr25;tr25;cargo load for truck
+load_trucktr23;tr23;cargo load for truck
+arrive_at_Silo20;Silo20;Silo for truck load
+trs_entrytr50;tr50;Entry evaluation for truck
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+weigh_empty_trucktr12;tr12;Empty truck weighed
+trs_entrytr37;tr37;Entry evaluation for truck
+check_abnormalitytr10;tr10;truck exmained for empty weight abnormality
+check_abnormalitytr12;tr12;truck exmained for empty weight abnormality
+load_trucktr26;tr26;cargo load for truck
+trs_entrytr16;tr16;Entry evaluation for truck
+assign_trs_Pcp1;tr48;Pickup plan trucks assignment
+trs_entrytr39;tr39;Entry evaluation for truck
+trs_entrytr43;tr43;Entry evaluation for truck
+trs_entrytr49;tr49;Entry evaluation for truck
+weigh_empty_trucktr50;tr50;Empty truck weighed
+weigh_empty_trucktr16;tr16;Empty truck weighed
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+fail_weightr10;tr10;Truck failed to be weighed
+weigh_empty_trucktr39;tr39;Empty truck weighed
+fail_weightr33;tr33;Truck failed to be weighed
+weigh_empty_trucktr37;tr37;Empty truck weighed
+trs_entrytr29;tr29;Entry evaluation for truck
+weigh_empty_trucktr7;tr7;Empty truck weighed
+check_abnormalitytr50;tr50;truck exmained for empty weight abnormality
+weigh_empty_trucktr49;tr49;Empty truck weighed
+arrive_at_Silo20;Silo20;Silo for truck load
+check_abnormalitytr39;tr39;truck exmained for empty weight abnormality
+fail_weightr12;tr12;Truck failed to be weighed
+weigh_empty_trucktr29;tr29;Empty truck weighed
+weigh_empty_trucktr43;tr43;Empty truck weighed
+trs_entrytr13;tr13;Entry evaluation for truck
+load_trucktr6;tr6;cargo load for truck
+trs_entrytr28;tr28;Entry evaluation for truck
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+trs_entrytr8;tr8;Entry evaluation for truck
+trs_entrytr31;tr31;Entry evaluation for truck
+assign_trs_Pcp10;tr42;Pickup plan trucks assignment
+load_trucktr20;tr20;cargo load for truck
+assign_trs_Pcp7;tr45;Pickup plan trucks assignment
+trs_entrytr46;tr46;Entry evaluation for truck
+trs_entrytr9;tr9;Entry evaluation for truck
+weigh_empty_trucktr8;tr8;Empty truck weighed
+trs_entrytr32;tr32;Entry evaluation for truck
+weigh_empty_trucktr31;tr31;Empty truck weighed
+weigh_empty_trucktr9;tr9;Empty truck weighed
+trs_entrytr36;tr36;Entry evaluation for truck
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+check_abnormalitytr31;tr31;truck exmained for empty weight abnormality
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+weigh_empty_trucktr32;tr32;Empty truck weighed
+assign_trs_Pcp9;tr24;Pickup plan trucks assignment
+arrive_at_Silo20;Silo20;Silo for truck load
+trs_entrytr35;tr35;Entry evaluation for truck
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+check_abnormalitytr49;tr49;truck exmained for empty weight abnormality
+weigh_empty_trucktr28;tr28;Empty truck weighed
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+weigh_empty_trucktr13;tr13;Empty truck weighed
+arrive_at_Silo20;Silo20;Silo for truck load
+check_abnormalitytr29;tr29;truck exmained for empty weight abnormality
+check_abnormalitytr28;tr28;truck exmained for empty weight abnormality
+arrive_at_Silo20;Silo20;Silo for truck load
+weigh_empty_trucktr35;tr35;Empty truck weighed
+load_trucktr27;tr27;cargo load for truck
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+arrive_at_Silo20;Silo20;Silo for truck load
+assign_trs_Pcp5;tr12;Pickup plan trucks assignment
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+load_trucktr1;tr1;cargo load for truck
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+weigh_empty_trucktr36;tr36;Empty truck weighed
+weigh_empty_trucktr46;tr46;Empty truck weighed
+check_abnormalitytr13;tr13;truck exmained for empty weight abnormality
+assign_trs_Pcp6;tr2;Pickup plan trucks assignment
+trs_entrytr5;tr5;Entry evaluation for truck
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+load_trucktr16;tr16;cargo load for truck
+trs_entrytr44;tr44;Entry evaluation for truck
+load_trucktr39;tr39;cargo load for truck
+trs_entrytr4;tr4;Entry evaluation for truck
+trs_entrytr15;tr15;Entry evaluation for truck
+load_trucktr41;tr41;cargo load for truck
+fail_weightr37;tr37;Truck failed to be weighed
+fail_weightr7;tr7;Truck failed to be weighed
+check_abnormalitytr32;tr32;truck exmained for empty weight abnormality
+weigh_empty_trucktr15;tr15;Empty truck weighed
+check_abnormalitytr8;tr8;truck exmained for empty weight abnormality
+fail_weightr43;tr43;Truck failed to be weighed
+check_abnormalitytr9;tr9;truck exmained for empty weight abnormality
+check_abnormalitytr35;tr35;truck exmained for empty weight abnormality
+assign_trs_Pcp3;tr33;Pickup plan trucks assignment
+trs_entrytr18;tr18;Entry evaluation for truck
+check_abnormalitytr15;tr15;truck exmained for empty weight abnormality
+arrive_at_Silo20;Silo20;Silo for truck load
+arrive_at_Silo20;Silo20;Silo for truck load
+assign_trs_Pcp5;tr30;Pickup plan trucks assignment
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+weigh_empty_trucktr5;tr5;Empty truck weighed
+load_trucktr49;tr49;cargo load for truck
+trs_entrytr19;tr19;Entry evaluation for truck
+arrive_at_Silo20;Silo20;Silo for truck load
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+weigh_empty_trucktr4;tr4;Empty truck weighed
+load_trucktr29;tr29;cargo load for truck
+weigh_empty_trucktr44;tr44;Empty truck weighed
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+assign_trs_Pcp4;tr37;Pickup plan trucks assignment
+check_abnormalitytr44;tr44;truck exmained for empty weight abnormality
+assign_trs_Pcp4;tr10;Pickup plan trucks assignment
+weigh_empty_trucktr18;tr18;Empty truck weighed
+check_abnormalitytr36;tr36;truck exmained for empty weight abnormality
+assign_trs_Pcp9;tr43;Pickup plan trucks assignment
+arrive_at_Silo20;Silo20;Silo for truck load
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+check_abnormalitytr18;tr18;truck exmained for empty weight abnormality
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+arrive_at_Silo20;Silo20;Silo for truck load
+load_trucktr28;tr28;cargo load for truck
+load_trucktr50;tr50;cargo load for truck
+assign_trs_Pcp2;tr7;Pickup plan trucks assignment
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+fail_weightr46;tr46;Truck failed to be weighed
+weigh_empty_trucktr19;tr19;Empty truck weighed
+check_abnormalitytr5;tr5;truck exmained for empty weight abnormality
+load_trucktr31;tr31;cargo load for truck
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+check_abnormalitytr19;tr19;truck exmained for empty weight abnormality
+load_trucktr13;tr13;cargo load for truck
+fail_weightr36;tr36;Truck failed to be weighed
+load_trucktr32;tr32;cargo load for truck
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+load_trucktr35;tr35;cargo load for truck
+arrive_at_Silo20;Silo20;Silo for truck load
+load_trucktr9;tr9;cargo load for truck
+fail_weightr18;tr18;Truck failed to be weighed
+load_trucktr8;tr8;cargo load for truck
+trs_entrytr24;tr24;Entry evaluation for truck
+fail_weightr19;tr19;Truck failed to be weighed
+trs_entrytr22;tr22;Entry evaluation for truck
+weigh_empty_trucktr22;tr22;Empty truck weighed
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+arrive_at_Silo20;Silo20;Silo for truck load
+weigh_empty_trucktr24;tr24;Empty truck weighed
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+trs_entrytr11;tr11;Entry evaluation for truck
+check_abnormalitytr22;tr22;truck exmained for empty weight abnormality
+load_trucktr15;tr15;cargo load for truck
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+load_trucktr4;tr4;cargo load for truck
+trs_entrytr34;tr34;Entry evaluation for truck
+assign_trs_Pcp2;tr18;Pickup plan trucks assignment
+weigh_empty_trucktr34;tr34;Empty truck weighed
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+trs_entrytr14;tr14;Entry evaluation for truck
+weigh_empty_trucktr11;tr11;Empty truck weighed
+weigh_loaded_trucktr40;tr40;Truck weighed
+weigh_empty_trucktr14;tr14;Empty truck weighed
+check_abnormalitytr11;tr11;truck exmained for empty weight abnormality
+load_trucktr44;tr44;cargo load for truck
+check_abnormalitytr34;tr34;truck exmained for empty weight abnormality
+assign_trs_Pcp8;tr46;Pickup plan trucks assignment
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+load_trucktr5;tr5;cargo load for truck
+trs_entrytr21;tr21;Entry evaluation for truck
+fail_weightr24;tr24;Truck failed to be weighed
+assign_trs_Pcp9;tr36;Pickup plan trucks assignment
+weigh_empty_trucktr21;tr21;Empty truck weighed
+trs_entrytr42;tr42;Entry evaluation for truck
+arrive_at_Silo20;Silo20;Silo for truck load
+assign_trs_Pcp4;tr19;Pickup plan trucks assignment
+trs_entrytr45;tr45;Entry evaluation for truck
+fail_weightr11;tr11;Truck failed to be weighed
+trs_entrytr43;tr43;Entry evaluation for truck
+check_abnormalitytr14;tr14;truck exmained for empty weight abnormality
+input_tally_sheettr40;tr40;Tally Sheet for pickup plan
+print_w_tickettr40;tr40;Printed weighing ticket for pickup plan
+weigh_empty_trucktr45;tr45;Empty truck weighed
+trs_entrytr47;tr47;Entry evaluation for truck
+weigh_empty_trucktr43;tr43;Empty truck weighed
+weigh_empty_trucktr42;tr42;Empty truck weighed
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+eval_trs_exittr40_Pcp5;tr40;Exit evaluation for truck
+load_trucktr22;tr22;cargo load for truck
+check_abnormalitytr21;tr21;truck exmained for empty weight abnormality
+check_abnormalitytr42;tr42;truck exmained for empty weight abnormality
+arrive_at_Silo20;Silo20;Silo for truck load
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+weigh_loaded_trucktr39;tr39;Truck weighed
+trs_entrytr33;tr33;Entry evaluation for truck
+load_trucktr34;tr34;cargo load for truck
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+assign_trs_Pcp6;tr24;Pickup plan trucks assignment
+assign_trs_Pcp6;tr11;Pickup plan trucks assignment
+weigh_empty_trucktr47;tr47;Empty truck weighed
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+trs_entrytr48;tr48;Entry evaluation for truck
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+load_trucktr14;tr14;cargo load for truck
+weigh_loaded_trucktr6;tr6;Truck weighed
+assign_trs_Pcp3;tr40;Pickup plan trucks assignment
+weigh_empty_trucktr48;tr48;Empty truck weighed
+check_abnormalitytr47;tr47;truck exmained for empty weight abnormality
+weigh_empty_trucktr33;tr33;Empty truck weighed
+arrive_at_Silo10;Silo10;Silo for truck load
+fail_weightr43;tr43;Truck failed to be weighed
+check_abnormalitytr33;tr33;truck exmained for empty weight abnormality
+arrive_at_Silo20;Silo20;Silo for truck load
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+load_trucktr21;tr21;cargo load for truck
+input_tally_sheettr6;tr6;Tally Sheet for pickup plan
+print_w_tickettr6;tr6;Printed weighing ticket for pickup plan
+print_w_tickettr39;tr39;Printed weighing ticket for pickup plan
+input_tally_sheettr39;tr39;Tally Sheet for pickup plan
+fail_weightr45;tr45;Truck failed to be weighed
+trs_entrytr30;tr30;Entry evaluation for truck
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+load_trucktr42;tr42;cargo load for truck
+weigh_loaded_trucktr1;tr1;Truck weighed
+weigh_empty_trucktr30;tr30;Empty truck weighed
+eval_trs_exittr6_Pcp5;tr6;Exit evaluation for truck
+eval_trs_exittr39_Pcp5;tr39;Exit evaluation for truck
+weigh_loaded_trucktr29;tr29;Truck weighed
+arrive_at_Silo20;Silo20;Silo for truck load
+check_abnormalitytr30;tr30;truck exmained for empty weight abnormality
+trs_entrytr19;tr19;Entry evaluation for truck
+fail_weightr48;tr48;Truck failed to be weighed
+trs_entrytr18;tr18;Entry evaluation for truck
+weigh_loaded_trucktr9;tr9;Truck weighed
+weigh_empty_trucktr18;tr18;Empty truck weighed
+check_abnormalitytr18;tr18;truck exmained for empty weight abnormality
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+arrive_at_Silo3;Silo3;Silo for truck load
+load_trucktr47;tr47;cargo load for truck
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+trs_entrytr3;tr3;Entry evaluation for truck
+weigh_empty_trucktr19;tr19;Empty truck weighed
+load_trucktr33;tr33;cargo load for truck
+check_abnormalitytr19;tr19;truck exmained for empty weight abnormality
+fail_weightr30;tr30;Truck failed to be weighed
+weigh_loaded_trucktr28;tr28;Truck weighed
+trs_entrytr10;tr10;Entry evaluation for truck
+print_w_tickettr9;tr9;Printed weighing ticket for pickup plan
+input_tally_sheettr9;tr9;Tally Sheet for pickup plan
+assign_trs_Pcp7;tr45;Pickup plan trucks assignment
+input_tally_sheettr28;tr28;Tally Sheet for pickup plan
+print_w_tickettr28;tr28;Printed weighing ticket for pickup plan
+trs_entrytr11;tr11;Entry evaluation for truck
+weigh_empty_trucktr10;tr10;Empty truck weighed
+weigh_loaded_trucktr16;tr16;Truck weighed
+trs_entrytr7;tr7;Entry evaluation for truck
+weigh_empty_trucktr11;tr11;Empty truck weighed
+eval_trs_exittr9_Pcp5;tr9;Exit evaluation for truck
+trs_entrytr2;tr2;Entry evaluation for truck
+input_tally_sheettr29;tr29;Tally Sheet for pickup plan
+print_w_tickettr29;tr29;Printed weighing ticket for pickup plan
+weigh_empty_trucktr7;tr7;Empty truck weighed
+check_abnormalitytr10;tr10;truck exmained for empty weight abnormality
+eval_trs_exittr28_Pcp5;tr28;Exit evaluation for truck
+assign_trs_Pcp2;tr6;Pickup plan trucks assignment
+weigh_empty_trucktr3;tr3;Empty truck weighed
+input_tally_sheettr16;tr16;Tally Sheet for pickup plan
+print_w_tickettr16;tr16;Printed weighing ticket for pickup plan
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+weigh_loaded_trucktr27;tr27;Truck weighed
+weigh_loaded_trucktr5;tr5;Truck weighed
+eval_trs_exittr16_Pcp5;tr16;Exit evaluation for truck
+weigh_loaded_trucktr50;tr50;Truck weighed
+check_abnormalitytr11;tr11;truck exmained for empty weight abnormality
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+fail_weightr19;tr19;Truck failed to be weighed
+assign_trs_Pcp1;tr43;Pickup plan trucks assignment
+input_tally_sheettr5;tr5;Tally Sheet for pickup plan
+print_w_tickettr5;tr5;Printed weighing ticket for pickup plan
+eval_trs_exittr29_Pcp5;tr29;Exit evaluation for truck
+weigh_empty_trucktr2;tr2;Empty truck weighed
+arrive_at_Silo6;Silo6;Silo for truck load
+print_w_tickettr50;tr50;Printed weighing ticket for pickup plan
+input_tally_sheettr50;tr50;Tally Sheet for pickup plan
+trs_entrytr12;tr12;Entry evaluation for truck
+assign_trs_Pcp9;tr48;Pickup plan trucks assignment
+assign_trs_Pcp1;tr39;Pickup plan trucks assignment
+weigh_loaded_trucktr25;tr25;Truck weighed
+input_tally_sheettr27;tr27;Tally Sheet for pickup plan
+print_w_tickettr27;tr27;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr32;tr32;Truck weighed
+trs_entrytr24;tr24;Entry evaluation for truck
+fail_weightr7;tr7;Truck failed to be weighed
+trs_entrytr36;tr36;Entry evaluation for truck
+weigh_empty_trucktr12;tr12;Empty truck weighed
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+eval_trs_exittr27_Pcp5;tr27;Exit evaluation for truck
+determine_continuanceSilo6;Silo6;silo evaluated for pickup continuance
+arrive_at_Silo1;Silo1;Silo for truck load
+weigh_loaded_trucktr17;tr17;Truck weighed
+load_trucktr18;tr18;cargo load for truck
+fail_weightr3;tr3;Truck failed to be weighed
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+eval_trs_exittr5_Pcp5;tr5;Exit evaluation for truck
+eval_trs_exittr50_Pcp5;tr50;Exit evaluation for truck
+input_tally_sheettr17;tr17;Tally Sheet for pickup plan
+print_w_tickettr17;tr17;Printed weighing ticket for pickup plan
+load_trucktr10;tr10;cargo load for truck
+weigh_empty_trucktr36;tr36;Empty truck weighed
+weigh_loaded_trucktr49;tr49;Truck weighed
+assign_trs_Pcp8;tr19;Pickup plan trucks assignment
+weigh_empty_trucktr24;tr24;Empty truck weighed
+check_abnormalitytr12;tr12;truck exmained for empty weight abnormality
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+fail_weightr2;tr2;Truck failed to be weighed
+assign_trs_Pcp10;tr9;Pickup plan trucks assignment
+eval_trs_exittr17_Pcp5;tr17;Exit evaluation for truck
+print_w_tickettr25;tr25;Printed weighing ticket for pickup plan
+input_tally_sheettr25;tr25;Tally Sheet for pickup plan
+arrive_at_Silo2;Silo2;Silo for truck load
+weigh_loaded_trucktr23;tr23;Truck weighed
+print_w_tickettr32;tr32;Printed weighing ticket for pickup plan
+input_tally_sheettr32;tr32;Tally Sheet for pickup plan
+assign_trs_Pcp8;tr28;Pickup plan trucks assignment
+fail_weightr24;tr24;Truck failed to be weighed
+assign_trs_Pcp7;tr3;Pickup plan trucks assignment
+check_abnormalitytr36;tr36;truck exmained for empty weight abnormality
+assign_trs_Pcp7;tr50;Pickup plan trucks assignment
+assign_trs_Pcp4;tr27;Pickup plan trucks assignment
+assign_trs_Pcp10;tr7;Pickup plan trucks assignment
+assign_trs_Pcp10;tr29;Pickup plan trucks assignment
+assign_trs_Pcp10;tr5;Pickup plan trucks assignment
+assign_trs_Pcp1;tr30;Pickup plan trucks assignment
+assign_trs_Pcp10;tr16;Pickup plan trucks assignment
+arrive_at_Silo20;Silo20;Silo for truck load
+weigh_loaded_trucktr35;tr35;Truck weighed
+eval_trs_exittr25_Pcp5;tr25;Exit evaluation for truck
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+eval_trs_exittr32_Pcp5;tr32;Exit evaluation for truck
+print_w_tickettr49;tr49;Printed weighing ticket for pickup plan
+input_tally_sheettr49;tr49;Tally Sheet for pickup plan
+load_trucktr11;tr11;cargo load for truck
+input_tally_sheettr23;tr23;Tally Sheet for pickup plan
+print_w_tickettr23;tr23;Printed weighing ticket for pickup plan
+determine_continuanceSilo20;Silo20;silo evaluated for pickup continuance
+input_tally_sheettr35;tr35;Tally Sheet for pickup plan
+print_w_tickettr35;tr35;Printed weighing ticket for pickup plan
+arrive_at_Silo7;Silo7;Silo for truck load
+eval_trs_exittr49_Pcp5;tr49;Exit evaluation for truck
+load_trucktr12;tr12;cargo load for truck
+eval_trs_exittr23_Pcp5;tr23;Exit evaluation for truck
+weigh_loaded_trucktr41;tr41;Truck weighed
+eval_trs_exittr35_Pcp5;tr35;Exit evaluation for truck
+assign_trs_Pcp7;tr17;Pickup plan trucks assignment
+trs_entrytr37;tr37;Entry evaluation for truck
+assign_trs_Pcp8;tr24;Pickup plan trucks assignment
+weigh_empty_trucktr37;tr37;Empty truck weighed
+trs_entrytr46;tr46;Entry evaluation for truck
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+weigh_loaded_trucktr44;tr44;Truck weighed
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+weigh_empty_trucktr46;tr46;Empty truck weighed
+load_trucktr36;tr36;cargo load for truck
+assign_trs_Pcp7;tr2;Pickup plan trucks assignment
+weigh_loaded_trucktr31;tr31;Truck weighed
+assign_trs_Pcp1;tr49;Pickup plan trucks assignment
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+print_w_tickettr31;tr31;Printed weighing ticket for pickup plan
+input_tally_sheettr31;tr31;Tally Sheet for pickup plan
+print_w_tickettr41;tr41;Printed weighing ticket for pickup plan
+input_tally_sheettr41;tr41;Tally Sheet for pickup plan
+eval_trs_exittr41_Pcp5;tr41;Exit evaluation for truck
+assign_trs_Pcp9;tr25;Pickup plan trucks assignment
+weigh_loaded_trucktr15;tr15;Truck weighed
+weigh_loaded_trucktr47;tr47;Truck weighed
+trs_entrytr48;tr48;Entry evaluation for truck
+assign_trs_Pcp7;tr32;Pickup plan trucks assignment
+print_w_tickettr44;tr44;Printed weighing ticket for pickup plan
+input_tally_sheettr44;tr44;Tally Sheet for pickup plan
+eval_trs_exittr31_Pcp5;tr31;Exit evaluation for truck
+weigh_empty_trucktr48;tr48;Empty truck weighed
+arrive_at_Silo1;Silo1;Silo for truck load
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+weigh_loaded_trucktr34;tr34;Truck weighed
+assign_trs_Pcp7;tr35;Pickup plan trucks assignment
+trs_entrytr9;tr9;Entry evaluation for truck
+fail_weightr46;tr46;Truck failed to be weighed
+weigh_empty_trucktr9;tr9;Empty truck weighed
+trs_entrytr50;tr50;Entry evaluation for truck
+check_abnormalitytr9;tr9;truck exmained for empty weight abnormality
+weigh_empty_trucktr50;tr50;Empty truck weighed
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+trs_entrytr40;tr40;Entry evaluation for truck
+eval_trs_exittr44_Pcp5;tr44;Exit evaluation for truck
+trs_entrytr29;tr29;Entry evaluation for truck
+input_tally_sheettr47;tr47;Tally Sheet for pickup plan
+print_w_tickettr47;tr47;Printed weighing ticket for pickup plan
+assign_trs_Pcp9;tr23;Pickup plan trucks assignment
+input_tally_sheettr15;tr15;Tally Sheet for pickup plan
+print_w_tickettr15;tr15;Printed weighing ticket for pickup plan
+input_tally_sheettr34;tr34;Tally Sheet for pickup plan
+print_w_tickettr34;tr34;Printed weighing ticket for pickup plan
+eval_trs_exittr34_Pcp5;tr34;Exit evaluation for truck
+eval_trs_exittr47_Pcp5;tr47;Exit evaluation for truck
+weigh_loaded_trucktr26;tr26;Truck weighed
+trs_entrytr16;tr16;Entry evaluation for truck
+load_trucktr37;tr37;cargo load for truck
+weigh_empty_trucktr40;tr40;Empty truck weighed
+arrive_at_Silo7;Silo7;Silo for truck load
+assign_trs_Pcp2;tr41;Pickup plan trucks assignment
+input_tally_sheettr26;tr26;Tally Sheet for pickup plan
+print_w_tickettr26;tr26;Printed weighing ticket for pickup plan
+trs_entrytr5;tr5;Entry evaluation for truck
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+weigh_loaded_trucktr33;tr33;Truck weighed
+weigh_empty_trucktr29;tr29;Empty truck weighed
+weigh_empty_trucktr5;tr5;Empty truck weighed
+check_abnormalitytr50;tr50;truck exmained for empty weight abnormality
+load_trucktr48;tr48;cargo load for truck
+check_abnormalitytr29;tr29;truck exmained for empty weight abnormality
+check_abnormalitytr5;tr5;truck exmained for empty weight abnormality
+trs_entrytr30;tr30;Entry evaluation for truck
+weigh_empty_trucktr30;tr30;Empty truck weighed
+eval_trs_exittr15_Pcp5;tr15;Exit evaluation for truck
+check_abnormalitytr30;tr30;truck exmained for empty weight abnormality
+eval_trs_exittr26_Pcp5;tr26;Exit evaluation for truck
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+weigh_empty_trucktr16;tr16;Empty truck weighed
+assign_trs_Pcp9;tr47;Pickup plan trucks assignment
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+print_w_tickettr33;tr33;Printed weighing ticket for pickup plan
+input_tally_sheettr33;tr33;Tally Sheet for pickup plan
+eval_trs_exittr33_Pcp3;tr33;Exit evaluation for truck
+arrive_at_Silo10;Silo10;Silo for truck load
+fail_weightr16;tr16;Truck failed to be weighed
+fail_weightr5;tr5;Truck failed to be weighed
+fail_weightr50;tr50;Truck failed to be weighed
+arrive_at_Silo10;Silo10;Silo for truck load
+weigh_loaded_trucktr13;tr13;Truck weighed
+fail_weightr30;tr30;Truck failed to be weighed
+assign_trs_Pcp6;tr44;Pickup plan trucks assignment
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+print_w_tickettr13;tr13;Printed weighing ticket for pickup plan
+input_tally_sheettr13;tr13;Tally Sheet for pickup plan
+trs_entrytr6;tr6;Entry evaluation for truck
+weigh_loaded_trucktr12;tr12;Truck weighed
+fail_weightr40;tr40;Truck failed to be weighed
+weigh_empty_trucktr6;tr6;Empty truck weighed
+trs_entrytr43;tr43;Entry evaluation for truck
+assign_trs_Pcp1;tr46;Pickup plan trucks assignment
+trs_entrytr24;tr24;Entry evaluation for truck
+check_abnormalitytr6;tr6;truck exmained for empty weight abnormality
+eval_trs_exittr13_Pcp5;tr13;Exit evaluation for truck
+assign_trs_Pcp3;tr26;Pickup plan trucks assignment
+assign_trs_Pcp1;tr31;Pickup plan trucks assignment
+weigh_empty_trucktr43;tr43;Empty truck weighed
+trs_entrytr3;tr3;Entry evaluation for truck
+weigh_loaded_trucktr22;tr22;Truck weighed
+assign_trs_Pcp3;tr15;Pickup plan trucks assignment
+load_trucktr9;tr9;cargo load for truck
+trs_entrytr27;tr27;Entry evaluation for truck
+load_trucktr29;tr29;cargo load for truck
+assign_trs_Pcp4;tr5;Pickup plan trucks assignment
+assign_trs_Pcp8;tr50;Pickup plan trucks assignment
+input_tally_sheettr12;tr12;Tally Sheet for pickup plan
+print_w_tickettr12;tr12;Printed weighing ticket for pickup plan
+fail_weightr6;tr6;Truck failed to be weighed
+weigh_empty_trucktr24;tr24;Empty truck weighed
+weigh_empty_trucktr3;tr3;Empty truck weighed
+trs_entrytr25;tr25;Entry evaluation for truck
+weigh_empty_trucktr27;tr27;Empty truck weighed
+assign_trs_Pcp8;tr16;Pickup plan trucks assignment
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+trs_entrytr45;tr45;Entry evaluation for truck
+trs_entrytr23;tr23;Entry evaluation for truck
+weigh_empty_trucktr45;tr45;Empty truck weighed
+trs_entrytr32;tr32;Entry evaluation for truck
+weigh_empty_trucktr25;tr25;Empty truck weighed
+trs_entrytr28;tr28;Entry evaluation for truck
+weigh_loaded_trucktr18;tr18;Truck weighed
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+weigh_loaded_trucktr4;tr4;Truck weighed
+assign_trs_Pcp9;tr34;Pickup plan trucks assignment
+eval_trs_exittr12_Pcp5;tr12;Exit evaluation for truck
+weigh_empty_trucktr28;tr28;Empty truck weighed
+check_abnormalitytr25;tr25;truck exmained for empty weight abnormality
+weigh_empty_trucktr23;tr23;Empty truck weighed
+check_abnormalitytr28;tr28;truck exmained for empty weight abnormality
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+check_abnormalitytr27;tr27;truck exmained for empty weight abnormality
+trs_entrytr41;tr41;Entry evaluation for truck
+weigh_loaded_trucktr11;tr11;Truck weighed
+fail_weightr43;tr43;Truck failed to be weighed
+assign_trs_Pcp10;tr6;Pickup plan trucks assignment
+input_tally_sheettr22;tr22;Tally Sheet for pickup plan
+print_w_tickettr22;tr22;Printed weighing ticket for pickup plan
+eval_trs_exittr22_Pcp5;tr22;Exit evaluation for truck
+weigh_empty_trucktr32;tr32;Empty truck weighed
+print_w_tickettr18;tr18;Printed weighing ticket for pickup plan
+input_tally_sheettr18;tr18;Tally Sheet for pickup plan
+check_abnormalitytr32;tr32;truck exmained for empty weight abnormality
+input_tally_sheettr4;tr4;Tally Sheet for pickup plan
+print_w_tickettr4;tr4;Printed weighing ticket for pickup plan
+fail_weightr45;tr45;Truck failed to be weighed
+trs_entrytr39;tr39;Entry evaluation for truck
+fail_weightr25;tr25;Truck failed to be weighed
+weigh_empty_trucktr41;tr41;Empty truck weighed
+check_abnormalitytr23;tr23;truck exmained for empty weight abnormality
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+print_w_tickettr11;tr11;Printed weighing ticket for pickup plan
+input_tally_sheettr11;tr11;Tally Sheet for pickup plan
+weigh_empty_trucktr39;tr39;Empty truck weighed
+assign_trs_Pcp9;tr33;Pickup plan trucks assignment
+fail_weightr27;tr27;Truck failed to be weighed
+check_abnormalitytr39;tr39;truck exmained for empty weight abnormality
+arrive_at_Silo16;Silo16;Silo for truck load
+assign_trs_Pcp4;tr30;Pickup plan trucks assignment
+arrive_at_Silo8;Silo8;Silo for truck load
+eval_trs_exittr18_Pcp2;tr18;Exit evaluation for truck
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+eval_trs_exittr11_Pcp6;tr11;Exit evaluation for truck
+load_trucktr24;tr24;cargo load for truck
+weigh_loaded_trucktr21;tr21;Truck weighed
+eval_trs_exittr4_Pcp5;tr4;Exit evaluation for truck
+fail_weightr32;tr32;Truck failed to be weighed
+weigh_loaded_trucktr14;tr14;Truck weighed
+assign_trs_Pcp8;tr13;Pickup plan trucks assignment
+trs_entrytr44;tr44;Entry evaluation for truck
+fail_weightr41;tr41;Truck failed to be weighed
+weigh_loaded_trucktr42;tr42;Truck weighed
+input_tally_sheettr21;tr21;Tally Sheet for pickup plan
+print_w_tickettr21;tr21;Printed weighing ticket for pickup plan
+input_tally_sheettr14;tr14;Tally Sheet for pickup plan
+print_w_tickettr14;tr14;Printed weighing ticket for pickup plan
+weigh_empty_trucktr44;tr44;Empty truck weighed
+check_abnormalitytr44;tr44;truck exmained for empty weight abnormality
+assign_trs_Pcp2;tr25;Pickup plan trucks assignment
+trs_entrytr7;tr7;Entry evaluation for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+trs_entrytr31;tr31;Entry evaluation for truck
+fail_weightr23;tr23;Truck failed to be weighed
+weigh_empty_trucktr7;tr7;Empty truck weighed
+eval_trs_exittr14_Pcp5;tr14;Exit evaluation for truck
+fail_weightr39;tr39;Truck failed to be weighed
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+assign_trs_Pcp4;tr43;Pickup plan trucks assignment
+trs_entrytr50;tr50;Entry evaluation for truck
+print_w_tickettr42;tr42;Printed weighing ticket for pickup plan
+input_tally_sheettr42;tr42;Tally Sheet for pickup plan
+assign_trs_Pcp9;tr40;Pickup plan trucks assignment
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+assign_trs_Pcp10;tr12;Pickup plan trucks assignment
+load_trucktr3;tr3;cargo load for truck
+assign_trs_Pcp2;tr32;Pickup plan trucks assignment
+eval_trs_exittr21_Pcp5;tr21;Exit evaluation for truck
+assign_trs_Pcp1;tr4;Pickup plan trucks assignment
+trs_entrytr49;tr49;Entry evaluation for truck
+load_trucktr28;tr28;cargo load for truck
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+weigh_empty_trucktr31;tr31;Empty truck weighed
+eval_trs_exittr42_Pcp10;tr42;Exit evaluation for truck
+check_abnormalitytr31;tr31;truck exmained for empty weight abnormality
+assign_trs_Pcp3;tr22;Pickup plan trucks assignment
+weigh_empty_trucktr50;tr50;Empty truck weighed
+trs_entrytr5;tr5;Entry evaluation for truck
+assign_trs_Pcp1;tr18;Pickup plan trucks assignment
+fail_weightr7;tr7;Truck failed to be weighed
+assign_trs_Pcp10;tr27;Pickup plan trucks assignment
+trs_entrytr19;tr19;Entry evaluation for truck
+assign_trs_Pcp7;tr41;Pickup plan trucks assignment
+weigh_empty_trucktr19;tr19;Empty truck weighed
+weigh_empty_trucktr49;tr49;Empty truck weighed
+assign_trs_Pcp10;tr45;Pickup plan trucks assignment
+check_abnormalitytr49;tr49;truck exmained for empty weight abnormality
+assign_trs_Pcp3;tr39;Pickup plan trucks assignment
+assign_trs_Pcp10;tr11;Pickup plan trucks assignment
+trs_entrytr16;tr16;Entry evaluation for truck
+check_abnormalitytr19;tr19;truck exmained for empty weight abnormality
+arrive_at_Silo2;Silo2;Silo for truck load
+fail_weightr31;tr31;Truck failed to be weighed
+weigh_empty_trucktr5;tr5;Empty truck weighed
+weigh_empty_trucktr16;tr16;Empty truck weighed
+assign_trs_Pcp1;tr21;Pickup plan trucks assignment
+weigh_loaded_trucktr29;tr29;Truck weighed
+check_abnormalitytr50;tr50;truck exmained for empty weight abnormality
+assign_trs_Pcp6;tr23;Pickup plan trucks assignment
+fail_weightr49;tr49;Truck failed to be weighed
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+input_tally_sheettr29;tr29;Tally Sheet for pickup plan
+print_w_tickettr29;tr29;Printed weighing ticket for pickup plan
+check_abnormalitytr5;tr5;truck exmained for empty weight abnormality
+weigh_loaded_trucktr38;tr38;Truck weighed
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+eval_trs_exittr29_Pcp10;tr29;Exit evaluation for truck
+assign_trs_Pcp4;tr7;Pickup plan trucks assignment
+load_trucktr44;tr44;cargo load for truck
+weigh_loaded_trucktr10;tr10;Truck weighed
+input_tally_sheettr38;tr38;Tally Sheet for pickup plan
+print_w_tickettr38;tr38;Printed weighing ticket for pickup plan
+trs_entrytr25;tr25;Entry evaluation for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+input_tally_sheettr1;tr1;Tally Sheet for pickup plan
+print_w_tickettr1;tr1;Printed weighing ticket for pickup plan
+eval_trs_exittr38_Pcp5;tr38;Exit evaluation for truck
+weigh_empty_trucktr25;tr25;Empty truck weighed
+weigh_loaded_trucktr20;tr20;Truck weighed
+trs_entrytr35;tr35;Entry evaluation for truck
+trs_entrytr17;tr17;Entry evaluation for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+eval_trs_exittr1_Pcp5;tr1;Exit evaluation for truck
+trs_entrytr32;tr32;Entry evaluation for truck
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+assign_trs_Pcp9;tr49;Pickup plan trucks assignment
+weigh_empty_trucktr17;tr17;Empty truck weighed
+fail_weightr5;tr5;Truck failed to be weighed
+check_abnormalitytr25;tr25;truck exmained for empty weight abnormality
+assign_trs_Pcp4;tr14;Pickup plan trucks assignment
+load_trucktr50;tr50;cargo load for truck
+trs_entrytr34;tr34;Entry evaluation for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+trs_entrytr33;tr33;Entry evaluation for truck
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+weigh_empty_trucktr32;tr32;Empty truck weighed
+trs_entrytr2;tr2;Entry evaluation for truck
+weigh_empty_trucktr35;tr35;Empty truck weighed
+weigh_empty_trucktr2;tr2;Empty truck weighed
+check_abnormalitytr35;tr35;truck exmained for empty weight abnormality
+check_abnormalitytr17;tr17;truck exmained for empty weight abnormality
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+assign_trs_Pcp7;tr31;Pickup plan trucks assignment
+fail_weightr25;tr25;Truck failed to be weighed
+load_trucktr19;tr19;cargo load for truck
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+weigh_empty_trucktr34;tr34;Empty truck weighed
+trs_entrytr12;tr12;Entry evaluation for truck
+weigh_empty_trucktr33;tr33;Empty truck weighed
+trs_entrytr47;tr47;Entry evaluation for truck
+weigh_loaded_trucktr8;tr8;Truck weighed
+assign_trs_Pcp10;tr29;Pickup plan trucks assignment
+check_abnormalitytr33;tr33;truck exmained for empty weight abnormality
+weigh_empty_trucktr12;tr12;Empty truck weighed
+assign_trs_Pcp2;tr42;Pickup plan trucks assignment
+check_abnormalitytr12;tr12;truck exmained for empty weight abnormality
+weigh_empty_trucktr47;tr47;Empty truck weighed
+input_tally_sheettr8;tr8;Tally Sheet for pickup plan
+print_w_tickettr8;tr8;Printed weighing ticket for pickup plan
+check_abnormalitytr34;tr34;truck exmained for empty weight abnormality
+weigh_loaded_trucktr48;tr48;Truck weighed
+fail_weightr2;tr2;Truck failed to be weighed
+assign_trs_Pcp10;tr1;Pickup plan trucks assignment
+check_abnormalitytr32;tr32;truck exmained for empty weight abnormality
+input_tally_sheettr48;tr48;Tally Sheet for pickup plan
+print_w_tickettr48;tr48;Printed weighing ticket for pickup plan
+arrive_at_Silo7;Silo7;Silo for truck load
+eval_trs_exittr8_Pcp5;tr8;Exit evaluation for truck
+arrive_at_Silo8;Silo8;Silo for truck load
+print_w_tickettr20;tr20;Printed weighing ticket for pickup plan
+input_tally_sheettr20;tr20;Tally Sheet for pickup plan
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+weigh_loaded_trucktr9;tr9;Truck weighed
+weigh_loaded_trucktr24;tr24;Truck weighed
+load_trucktr16;tr16;cargo load for truck
+arrive_at_Silo8;Silo8;Silo for truck load
+input_tally_sheettr24;tr24;Tally Sheet for pickup plan
+print_w_tickettr24;tr24;Printed weighing ticket for pickup plan
+input_tally_sheettr9;tr9;Tally Sheet for pickup plan
+print_w_tickettr9;tr9;Printed weighing ticket for pickup plan
+trs_entrytr26;tr26;Entry evaluation for truck
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+check_abnormalitytr47;tr47;truck exmained for empty weight abnormality
+weigh_empty_trucktr26;tr26;Empty truck weighed
+check_abnormalitytr26;tr26;truck exmained for empty weight abnormality
+load_trucktr17;tr17;cargo load for truck
+eval_trs_exittr48_Pcp9;tr48;Exit evaluation for truck
+eval_trs_exittr24_Pcp8;tr24;Exit evaluation for truck
+fail_weightr32;tr32;Truck failed to be weighed
+trs_entrytr23;tr23;Entry evaluation for truck
+assign_trs_Pcp1;tr25;Pickup plan trucks assignment
+arrive_at_Silo10;Silo10;Silo for truck load
+eval_trs_exittr20_Pcp5;tr20;Exit evaluation for truck
+load_trucktr35;tr35;cargo load for truck
+weigh_loaded_trucktr37;tr37;Truck weighed
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+weigh_loaded_trucktr36;tr36;Truck weighed
+trs_entrytr27;tr27;Entry evaluation for truck
+assign_trs_Pcp6;tr38;Pickup plan trucks assignment
+trs_entrytr4;tr4;Entry evaluation for truck
+trs_entrytr30;tr30;Entry evaluation for truck
+load_trucktr33;tr33;cargo load for truck
+eval_trs_exittr9_Pcp10;tr9;Exit evaluation for truck
+weigh_loaded_trucktr3;tr3;Truck weighed
+assign_trs_Pcp1;tr5;Pickup plan trucks assignment
+arrive_at_Silo7;Silo7;Silo for truck load
+fail_weightr47;tr47;Truck failed to be weighed
+weigh_empty_trucktr27;tr27;Empty truck weighed
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+weigh_empty_trucktr4;tr4;Empty truck weighed
+weigh_empty_trucktr30;tr30;Empty truck weighed
+weigh_empty_trucktr23;tr23;Empty truck weighed
+check_abnormalitytr30;tr30;truck exmained for empty weight abnormality
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+check_abnormalitytr23;tr23;truck exmained for empty weight abnormality
+print_w_tickettr37;tr37;Printed weighing ticket for pickup plan
+input_tally_sheettr37;tr37;Tally Sheet for pickup plan
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+load_trucktr12;tr12;cargo load for truck
+input_tally_sheettr3;tr3;Tally Sheet for pickup plan
+print_w_tickettr3;tr3;Printed weighing ticket for pickup plan
+trs_entrytr46;tr46;Entry evaluation for truck
+fail_weightr30;tr30;Truck failed to be weighed
+weigh_empty_trucktr46;tr46;Empty truck weighed
+trs_entrytr39;tr39;Entry evaluation for truck
+check_abnormalitytr27;tr27;truck exmained for empty weight abnormality
+load_trucktr34;tr34;cargo load for truck
+assign_trs_Pcp3;tr48;Pickup plan trucks assignment
+assign_trs_Pcp10;tr2;Pickup plan trucks assignment
+input_tally_sheettr36;tr36;Tally Sheet for pickup plan
+print_w_tickettr36;tr36;Printed weighing ticket for pickup plan
+assign_trs_Pcp7;tr8;Pickup plan trucks assignment
+trs_entrytr45;tr45;Entry evaluation for truck
+trs_entrytr21;tr21;Entry evaluation for truck
+eval_trs_exittr37_Pcp4;tr37;Exit evaluation for truck
+fail_weightr23;tr23;Truck failed to be weighed
+weigh_empty_trucktr45;tr45;Empty truck weighed
+eval_trs_exittr3_Pcp7;tr3;Exit evaluation for truck
+weigh_empty_trucktr21;tr21;Empty truck weighed
+eval_trs_exittr36_Pcp9;tr36;Exit evaluation for truck
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+trs_entrytr31;tr31;Entry evaluation for truck
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+fail_weightr4;tr4;Truck failed to be weighed
+assign_trs_Pcp8;tr20;Pickup plan trucks assignment
+assign_trs_Pcp2;tr47;Pickup plan trucks assignment
+weigh_empty_trucktr39;tr39;Empty truck weighed
+arrive_at_Silo3;Silo3;Silo for truck load
+assign_trs_Pcp1;tr32;Pickup plan trucks assignment
+trs_entrytr41;tr41;Entry evaluation for truck
+trs_entrytr6;tr6;Entry evaluation for truck
+trs_entrytr13;tr13;Entry evaluation for truck
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+weigh_empty_trucktr41;tr41;Empty truck weighed
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+load_trucktr26;tr26;cargo load for truck
+assign_trs_Pcp1;tr30;Pickup plan trucks assignment
+check_abnormalitytr39;tr39;truck exmained for empty weight abnormality
+weigh_empty_trucktr6;tr6;Empty truck weighed
+weigh_empty_trucktr31;tr31;Empty truck weighed
+assign_trs_Pcp1;tr9;Pickup plan trucks assignment
+check_abnormalitytr21;tr21;truck exmained for empty weight abnormality
+trs_entrytr15;tr15;Entry evaluation for truck
+trs_entrytr11;tr11;Entry evaluation for truck
+assign_trs_Pcp7;tr4;Pickup plan trucks assignment
+fail_weightr45;tr45;Truck failed to be weighed
+check_abnormalitytr31;tr31;truck exmained for empty weight abnormality
+weigh_empty_trucktr13;tr13;Empty truck weighed
+arrive_at_Silo15;Silo15;Silo for truck load
+assign_trs_Pcp10;tr36;Pickup plan trucks assignment
+arrive_at_Silo10;Silo10;Silo for truck load
+check_abnormalitytr6;tr6;truck exmained for empty weight abnormality
+fail_weightr41;tr41;Truck failed to be weighed
+input_tally_sheettr10;tr10;Tally Sheet for pickup plan
+print_w_tickettr10;tr10;Printed weighing ticket for pickup plan
+weigh_empty_trucktr15;tr15;Empty truck weighed
+check_abnormalitytr15;tr15;truck exmained for empty weight abnormality
+check_abnormalitytr13;tr13;truck exmained for empty weight abnormality
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+weigh_empty_trucktr11;tr11;Empty truck weighed
+arrive_at_Silo15;Silo15;Silo for truck load
+trs_entrytr42;tr42;Entry evaluation for truck
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+load_trucktr27;tr27;cargo load for truck
+load_trucktr46;tr46;cargo load for truck
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+load_trucktr21;tr21;cargo load for truck
+weigh_empty_trucktr42;tr42;Empty truck weighed
+check_abnormalitytr42;tr42;truck exmained for empty weight abnormality
+eval_trs_exittr10_Pcp4;tr10;Exit evaluation for truck
+arrive_at_Silo3;Silo3;Silo for truck load
+assign_trs_Pcp4;tr45;Pickup plan trucks assignment
+assign_trs_Pcp2;tr41;Pickup plan trucks assignment
+arrive_at_Silo10;Silo10;Silo for truck load
+fail_weightr13;tr13;Truck failed to be weighed
+assign_trs_Pcp2;tr24;Pickup plan trucks assignment
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+trs_entrytr1;tr1;Entry evaluation for truck
+arrive_at_Silo3;Silo3;Silo for truck load
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+trs_entrytr25;tr25;Entry evaluation for truck
+check_abnormalitytr11;tr11;truck exmained for empty weight abnormality
+weigh_empty_trucktr25;tr25;Empty truck weighed
+trs_entrytr40;tr40;Entry evaluation for truck
+assign_trs_Pcp6;tr37;Pickup plan trucks assignment
+weigh_empty_trucktr40;tr40;Empty truck weighed
+arrive_at_Silo8;Silo8;Silo for truck load
+check_abnormalitytr25;tr25;truck exmained for empty weight abnormality
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+arrive_at_Silo6;Silo6;Silo for truck load
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+load_trucktr6;tr6;cargo load for truck
+weigh_empty_trucktr1;tr1;Empty truck weighed
+trs_entrytr2;tr2;Entry evaluation for truck
+load_trucktr15;tr15;cargo load for truck
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+trs_entrytr29;tr29;Entry evaluation for truck
+weigh_empty_trucktr2;tr2;Empty truck weighed
+load_trucktr39;tr39;cargo load for truck
+trs_entrytr22;tr22;Entry evaluation for truck
+weigh_empty_trucktr29;tr29;Empty truck weighed
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+assign_trs_Pcp3;tr10;Pickup plan trucks assignment
+load_trucktr31;tr31;cargo load for truck
+weigh_empty_trucktr22;tr22;Empty truck weighed
+assign_trs_Pcp8;tr23;Pickup plan trucks assignment
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+arrive_at_Silo10;Silo10;Silo for truck load
+weigh_loaded_trucktr44;tr44;Truck weighed
+check_abnormalitytr29;tr29;truck exmained for empty weight abnormality
+determine_continuanceSilo6;Silo6;silo evaluated for pickup continuance
+fail_weightr25;tr25;Truck failed to be weighed
+fail_weightr40;tr40;Truck failed to be weighed
+assign_trs_Pcp1;tr3;Pickup plan trucks assignment
+load_trucktr42;tr42;cargo load for truck
+trs_entrytr20;tr20;Entry evaluation for truck
+fail_weightr2;tr2;Truck failed to be weighed
+assign_trs_Pcp9;tr13;Pickup plan trucks assignment
+weigh_empty_trucktr20;tr20;Empty truck weighed
+trs_entrytr38;tr38;Entry evaluation for truck
+trs_entrytr47;tr47;Entry evaluation for truck
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+weigh_empty_trucktr38;tr38;Empty truck weighed
+weigh_empty_trucktr47;tr47;Empty truck weighed
+assign_trs_Pcp3;tr25;Pickup plan trucks assignment
+check_abnormalitytr22;tr22;truck exmained for empty weight abnormality
+trs_entrytr5;tr5;Entry evaluation for truck
+load_trucktr11;tr11;cargo load for truck
+check_abnormalitytr38;tr38;truck exmained for empty weight abnormality
+check_abnormalitytr47;tr47;truck exmained for empty weight abnormality
+fail_weightr1;tr1;Truck failed to be weighed
+trs_entrytr14;tr14;Entry evaluation for truck
+check_abnormalitytr20;tr20;truck exmained for empty weight abnormality
+trs_entrytr43;tr43;Entry evaluation for truck
+weigh_empty_trucktr14;tr14;Empty truck weighed
+weigh_empty_trucktr5;tr5;Empty truck weighed
+weigh_empty_trucktr43;tr43;Empty truck weighed
+fail_weightr29;tr29;Truck failed to be weighed
+check_abnormalitytr5;tr5;truck exmained for empty weight abnormality
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+fail_weightr20;tr20;Truck failed to be weighed
+trs_entrytr49;tr49;Entry evaluation for truck
+assign_trs_Pcp3;tr40;Pickup plan trucks assignment
+fail_weightr22;tr22;Truck failed to be weighed
+weigh_loaded_trucktr17;tr17;Truck weighed
+trs_entrytr18;tr18;Entry evaluation for truck
+weigh_empty_trucktr49;tr49;Empty truck weighed
+arrive_at_Silo6;Silo6;Silo for truck load
+arrive_at_Silo2;Silo2;Silo for truck load
+input_tally_sheettr17;tr17;Tally Sheet for pickup plan
+print_w_tickettr17;tr17;Printed weighing ticket for pickup plan
+weigh_empty_trucktr18;tr18;Empty truck weighed
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+check_abnormalitytr14;tr14;truck exmained for empty weight abnormality
+trs_entrytr4;tr4;Entry evaluation for truck
+assign_trs_Pcp3;tr1;Pickup plan trucks assignment
+input_tally_sheettr44;tr44;Tally Sheet for pickup plan
+print_w_tickettr44;tr44;Printed weighing ticket for pickup plan
+check_abnormalitytr18;tr18;truck exmained for empty weight abnormality
+assign_trs_Pcp7;tr2;Pickup plan trucks assignment
+trs_entrytr7;tr7;Entry evaluation for truck
+load_trucktr38;tr38;cargo load for truck
+check_abnormalitytr49;tr49;truck exmained for empty weight abnormality
+determine_continuanceSilo6;Silo6;silo evaluated for pickup continuance
+weigh_empty_trucktr4;tr4;Empty truck weighed
+weigh_empty_trucktr7;tr7;Empty truck weighed
+load_trucktr47;tr47;cargo load for truck
+arrive_at_Silo1;Silo1;Silo for truck load
+eval_trs_exittr17_Pcp7;tr17;Exit evaluation for truck
+fail_weightr14;tr14;Truck failed to be weighed
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+trs_entrytr41;tr41;Entry evaluation for truck
+arrive_at_Silo15;Silo15;Silo for truck load
+eval_trs_exittr44_Pcp6;tr44;Exit evaluation for truck
+trs_entrytr24;tr24;Entry evaluation for truck
+weigh_empty_trucktr41;tr41;Empty truck weighed
+trs_entrytr32;tr32;Entry evaluation for truck
+weigh_loaded_trucktr21;tr21;Truck weighed
+assign_trs_Pcp6;tr29;Pickup plan trucks assignment
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+weigh_empty_trucktr32;tr32;Empty truck weighed
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+load_trucktr43;tr43;cargo load for truck
+fail_weightr7;tr7;Truck failed to be weighed
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+weigh_empty_trucktr24;tr24;Empty truck weighed
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+assign_trs_Pcp3;tr22;Pickup plan trucks assignment
+assign_trs_Pcp1;tr14;Pickup plan trucks assignment
+weigh_loaded_trucktr50;tr50;Truck weighed
+trs_entrytr37;tr37;Entry evaluation for truck
+assign_trs_Pcp1;tr20;Pickup plan trucks assignment
+fail_weightr4;tr4;Truck failed to be weighed
+fail_weightr24;tr24;Truck failed to be weighed
+load_trucktr5;tr5;cargo load for truck
+trs_entrytr8;tr8;Entry evaluation for truck
+trs_entrytr3;tr3;Entry evaluation for truck
+arrive_at_Silo7;Silo7;Silo for truck load
+trs_entrytr45;tr45;Entry evaluation for truck
+check_abnormalitytr32;tr32;truck exmained for empty weight abnormality
+weigh_loaded_trucktr6;tr6;Truck weighed
+weigh_empty_trucktr45;tr45;Empty truck weighed
+fail_weightr41;tr41;Truck failed to be weighed
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+weigh_empty_trucktr8;tr8;Empty truck weighed
+weigh_empty_trucktr3;tr3;Empty truck weighed
+load_trucktr49;tr49;cargo load for truck
+trs_entrytr48;tr48;Entry evaluation for truck
+arrive_at_Silo15;Silo15;Silo for truck load
+fail_weightr32;tr32;Truck failed to be weighed
+assign_trs_Pcp6;tr44;Pickup plan trucks assignment
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+weigh_empty_trucktr48;tr48;Empty truck weighed
+weigh_loaded_trucktr15;tr15;Truck weighed
+check_abnormalitytr8;tr8;truck exmained for empty weight abnormality
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+print_w_tickettr6;tr6;Printed weighing ticket for pickup plan
+input_tally_sheettr6;tr6;Tally Sheet for pickup plan
+print_w_tickettr21;tr21;Printed weighing ticket for pickup plan
+input_tally_sheettr21;tr21;Tally Sheet for pickup plan
+weigh_empty_trucktr37;tr37;Empty truck weighed
+eval_trs_exittr6_Pcp10;tr6;Exit evaluation for truck
+weigh_loaded_trucktr26;tr26;Truck weighed
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+assign_trs_Pcp10;tr17;Pickup plan trucks assignment
+weigh_loaded_trucktr34;tr34;Truck weighed
+eval_trs_exittr21_Pcp1;tr21;Exit evaluation for truck
+trs_entrytr40;tr40;Entry evaluation for truck
+input_tally_sheettr50;tr50;Tally Sheet for pickup plan
+print_w_tickettr50;tr50;Printed weighing ticket for pickup plan
+weigh_empty_trucktr40;tr40;Empty truck weighed
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+input_tally_sheettr26;tr26;Tally Sheet for pickup plan
+print_w_tickettr26;tr26;Printed weighing ticket for pickup plan
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+print_w_tickettr34;tr34;Printed weighing ticket for pickup plan
+input_tally_sheettr34;tr34;Tally Sheet for pickup plan
+load_trucktr18;tr18;cargo load for truck
+fail_weightr45;tr45;Truck failed to be weighed
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+weigh_loaded_trucktr12;tr12;Truck weighed
+fail_weightr8;tr8;Truck failed to be weighed
+fail_weightr37;tr37;Truck failed to be weighed
+eval_trs_exittr34_Pcp9;tr34;Exit evaluation for truck
+assign_trs_Pcp3;tr41;Pickup plan trucks assignment
+eval_trs_exittr50_Pcp8;tr50;Exit evaluation for truck
+print_w_tickettr15;tr15;Printed weighing ticket for pickup plan
+input_tally_sheettr15;tr15;Tally Sheet for pickup plan
+fail_weightr3;tr3;Truck failed to be weighed
+fail_weightr48;tr48;Truck failed to be weighed
+assign_trs_Pcp6;tr45;Pickup plan trucks assignment
+weigh_loaded_trucktr11;tr11;Truck weighed
+assign_trs_Pcp9;tr24;Pickup plan trucks assignment
+eval_trs_exittr26_Pcp3;tr26;Exit evaluation for truck
+fail_weightr40;tr40;Truck failed to be weighed
+eval_trs_exittr15_Pcp3;tr15;Exit evaluation for truck
+input_tally_sheettr11;tr11;Tally Sheet for pickup plan
+print_w_tickettr11;tr11;Printed weighing ticket for pickup plan
+trs_entrytr25;tr25;Entry evaluation for truck
+eval_trs_exittr11_Pcp10;tr11;Exit evaluation for truck
+trs_entrytr9;tr9;Entry evaluation for truck
+weigh_loaded_trucktr42;tr42;Truck weighed
+assign_trs_Pcp8;tr7;Pickup plan trucks assignment
+weigh_empty_trucktr9;tr9;Empty truck weighed
+weigh_empty_trucktr25;tr25;Empty truck weighed
+check_abnormalitytr9;tr9;truck exmained for empty weight abnormality
+assign_trs_Pcp1;tr6;Pickup plan trucks assignment
+weigh_loaded_trucktr16;tr16;Truck weighed
+trs_entrytr13;tr13;Entry evaluation for truck
+weigh_empty_trucktr13;tr13;Empty truck weighed
+trs_entrytr1;tr1;Entry evaluation for truck
+check_abnormalitytr13;tr13;truck exmained for empty weight abnormality
+weigh_empty_trucktr1;tr1;Empty truck weighed
+input_tally_sheettr12;tr12;Tally Sheet for pickup plan
+print_w_tickettr12;tr12;Printed weighing ticket for pickup plan
+assign_trs_Pcp6;tr32;Pickup plan trucks assignment
+input_tally_sheettr16;tr16;Tally Sheet for pickup plan
+print_w_tickettr16;tr16;Printed weighing ticket for pickup plan
+eval_trs_exittr12_Pcp10;tr12;Exit evaluation for truck
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+eval_trs_exittr16_Pcp8;tr16;Exit evaluation for truck
+assign_trs_Pcp3;tr50;Pickup plan trucks assignment
+trs_entrytr2;tr2;Entry evaluation for truck
+assign_trs_Pcp4;tr40;Pickup plan trucks assignment
+check_abnormalitytr25;tr25;truck exmained for empty weight abnormality
+assign_trs_Pcp9;tr34;Pickup plan trucks assignment
+fail_weightr9;tr9;Truck failed to be weighed
+weigh_empty_trucktr2;tr2;Empty truck weighed
+assign_trs_Pcp3;tr26;Pickup plan trucks assignment
+assign_trs_Pcp8;tr4;Pickup plan trucks assignment
+input_tally_sheettr42;tr42;Tally Sheet for pickup plan
+print_w_tickettr42;tr42;Printed weighing ticket for pickup plan
+trs_entrytr20;tr20;Entry evaluation for truck
+fail_weightr13;tr13;Truck failed to be weighed
+trs_entrytr30;tr30;Entry evaluation for truck
+assign_trs_Pcp2;tr48;Pickup plan trucks assignment
+assign_trs_Pcp6;tr37;Pickup plan trucks assignment
+eval_trs_exittr42_Pcp2;tr42;Exit evaluation for truck
+assign_trs_Pcp2;tr21;Pickup plan trucks assignment
+fail_weightr1;tr1;Truck failed to be weighed
+weigh_empty_trucktr20;tr20;Empty truck weighed
+weigh_empty_trucktr30;tr30;Empty truck weighed
+assign_trs_Pcp7;tr15;Pickup plan trucks assignment
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+weigh_loaded_trucktr31;tr31;Truck weighed
+check_abnormalitytr30;tr30;truck exmained for empty weight abnormality
+assign_trs_Pcp4;tr8;Pickup plan trucks assignment
+weigh_loaded_trucktr43;tr43;Truck weighed
+check_abnormalitytr20;tr20;truck exmained for empty weight abnormality
+assign_trs_Pcp6;tr3;Pickup plan trucks assignment
+print_w_tickettr43;tr43;Printed weighing ticket for pickup plan
+input_tally_sheettr43;tr43;Tally Sheet for pickup plan
+fail_weightr2;tr2;Truck failed to be weighed
+fail_weightr30;tr30;Truck failed to be weighed
+trs_entrytr36;tr36;Entry evaluation for truck
+weigh_loaded_trucktr28;tr28;Truck weighed
+assign_trs_Pcp4;tr12;Pickup plan trucks assignment
+trs_entrytr24;tr24;Entry evaluation for truck
+arrive_at_Silo3;Silo3;Silo for truck load
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+assign_trs_Pcp6;tr9;Pickup plan trucks assignment
+load_trucktr25;tr25;cargo load for truck
+assign_trs_Pcp2;tr13;Pickup plan trucks assignment
+trs_entrytr10;tr10;Entry evaluation for truck
+eval_trs_exittr43_Pcp4;tr43;Exit evaluation for truck
+weigh_empty_trucktr36;tr36;Empty truck weighed
+assign_trs_Pcp7;tr16;Pickup plan trucks assignment
+assign_trs_Pcp2;tr42;Pickup plan trucks assignment
+weigh_loaded_trucktr46;tr46;Truck weighed
+weigh_empty_trucktr24;tr24;Empty truck weighed
+assign_trs_Pcp9;tr2;Pickup plan trucks assignment
+input_tally_sheettr31;tr31;Tally Sheet for pickup plan
+print_w_tickettr31;tr31;Printed weighing ticket for pickup plan
+trs_entrytr14;tr14;Entry evaluation for truck
+assign_trs_Pcp9;tr11;Pickup plan trucks assignment
+assign_trs_Pcp7;tr1;Pickup plan trucks assignment
+trs_entrytr29;tr29;Entry evaluation for truck
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+trs_entrytr17;tr17;Entry evaluation for truck
+weigh_empty_trucktr14;tr14;Empty truck weighed
+eval_trs_exittr31_Pcp7;tr31;Exit evaluation for truck
+arrive_at_Silo15;Silo15;Silo for truck load
+weigh_empty_trucktr10;tr10;Empty truck weighed
+check_abnormalitytr14;tr14;truck exmained for empty weight abnormality
+assign_trs_Pcp8;tr30;Pickup plan trucks assignment
+weigh_empty_trucktr17;tr17;Empty truck weighed
+weigh_empty_trucktr29;tr29;Empty truck weighed
+check_abnormalitytr29;tr29;truck exmained for empty weight abnormality
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+check_abnormalitytr17;tr17;truck exmained for empty weight abnormality
+check_abnormalitytr36;tr36;truck exmained for empty weight abnormality
+check_abnormalitytr10;tr10;truck exmained for empty weight abnormality
+trs_entrytr34;tr34;Entry evaluation for truck
+trs_entrytr26;tr26;Entry evaluation for truck
+input_tally_sheettr28;tr28;Tally Sheet for pickup plan
+print_w_tickettr28;tr28;Printed weighing ticket for pickup plan
+print_w_tickettr46;tr46;Printed weighing ticket for pickup plan
+input_tally_sheettr46;tr46;Tally Sheet for pickup plan
+eval_trs_exittr46_Pcp1;tr46;Exit evaluation for truck
+trs_entrytr48;tr48;Entry evaluation for truck
+trs_entrytr44;tr44;Entry evaluation for truck
+load_trucktr20;tr20;cargo load for truck
+weigh_empty_trucktr26;tr26;Empty truck weighed
+weigh_empty_trucktr44;tr44;Empty truck weighed
+fail_weightr24;tr24;Truck failed to be weighed
+weigh_empty_trucktr34;tr34;Empty truck weighed
+eval_trs_exittr28_Pcp8;tr28;Exit evaluation for truck
+assign_trs_Pcp7;tr43;Pickup plan trucks assignment
+check_abnormalitytr34;tr34;truck exmained for empty weight abnormality
+trs_entrytr41;tr41;Entry evaluation for truck
+weigh_loaded_trucktr35;tr35;Truck weighed
+weigh_empty_trucktr41;tr41;Empty truck weighed
+arrive_at_Silo10;Silo10;Silo for truck load
+weigh_loaded_trucktr49;tr49;Truck weighed
+arrive_at_Silo10;Silo10;Silo for truck load
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+arrive_at_Silo15;Silo15;Silo for truck load
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+arrive_at_Silo2;Silo2;Silo for truck load
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+trs_entrytr15;tr15;Entry evaluation for truck
+weigh_empty_trucktr48;tr48;Empty truck weighed
+check_abnormalitytr44;tr44;truck exmained for empty weight abnormality
+trs_entrytr6;tr6;Entry evaluation for truck
+trs_entrytr23;tr23;Entry evaluation for truck
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+weigh_empty_trucktr6;tr6;Empty truck weighed
+weigh_empty_trucktr23;tr23;Empty truck weighed
+check_abnormalitytr6;tr6;truck exmained for empty weight abnormality
+trs_entrytr9;tr9;Entry evaluation for truck
+check_abnormalitytr26;tr26;truck exmained for empty weight abnormality
+check_abnormalitytr23;tr23;truck exmained for empty weight abnormality
+print_w_tickettr35;tr35;Printed weighing ticket for pickup plan
+input_tally_sheettr35;tr35;Tally Sheet for pickup plan
+arrive_at_Silo3;Silo3;Silo for truck load
+fail_weightr48;tr48;Truck failed to be weighed
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+trs_entrytr22;tr22;Entry evaluation for truck
+fail_weightr34;tr34;Truck failed to be weighed
+weigh_empty_trucktr9;tr9;Empty truck weighed
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+check_abnormalitytr9;tr9;truck exmained for empty weight abnormality
+load_trucktr17;tr17;cargo load for truck
+weigh_empty_trucktr22;tr22;Empty truck weighed
+fail_weightr6;tr6;Truck failed to be weighed
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+print_w_tickettr49;tr49;Printed weighing ticket for pickup plan
+input_tally_sheettr49;tr49;Tally Sheet for pickup plan
+load_trucktr10;tr10;cargo load for truck
+load_trucktr36;tr36;cargo load for truck
+weigh_empty_trucktr15;tr15;Empty truck weighed
+load_trucktr14;tr14;cargo load for truck
+assign_trs_Pcp9;tr28;Pickup plan trucks assignment
+trs_entrytr40;tr40;Entry evaluation for truck
+fail_weightr41;tr41;Truck failed to be weighed
+trs_entrytr37;tr37;Entry evaluation for truck
+weigh_empty_trucktr40;tr40;Empty truck weighed
+assign_trs_Pcp2;tr46;Pickup plan trucks assignment
+trs_entrytr1;tr1;Entry evaluation for truck
+weigh_loaded_trucktr19;tr19;Truck weighed
+weigh_empty_trucktr37;tr37;Empty truck weighed
+trs_entrytr3;tr3;Entry evaluation for truck
+fail_weightr44;tr44;Truck failed to be weighed
+eval_trs_exittr35_Pcp7;tr35;Exit evaluation for truck
+assign_trs_Pcp9;tr31;Pickup plan trucks assignment
+check_abnormalitytr15;tr15;truck exmained for empty weight abnormality
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+weigh_empty_trucktr1;tr1;Empty truck weighed
+trs_entrytr7;tr7;Entry evaluation for truck
+load_trucktr29;tr29;cargo load for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+eval_trs_exittr49_Pcp9;tr49;Exit evaluation for truck
+assign_trs_Pcp4;tr34;Pickup plan trucks assignment
+check_abnormalitytr22;tr22;truck exmained for empty weight abnormality
+weigh_loaded_trucktr47;tr47;Truck weighed
+weigh_empty_trucktr3;tr3;Empty truck weighed
+print_w_tickettr19;tr19;Printed weighing ticket for pickup plan
+input_tally_sheettr19;tr19;Tally Sheet for pickup plan
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+arrive_at_Silo3;Silo3;Silo for truck load
+assign_trs_Pcp3;tr48;Pickup plan trucks assignment
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+load_trucktr26;tr26;cargo load for truck
+weigh_empty_trucktr7;tr7;Empty truck weighed
+load_trucktr23;tr23;cargo load for truck
+arrive_at_Silo2;Silo2;Silo for truck load
+assign_trs_Pcp9;tr24;Pickup plan trucks assignment
+trs_entrytr4;tr4;Entry evaluation for truck
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+fail_weightr1;tr1;Truck failed to be weighed
+eval_trs_exittr19_Pcp8;tr19;Exit evaluation for truck
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+arrive_at_Silo8;Silo8;Silo for truck load
+fail_weightr37;tr37;Truck failed to be weighed
+weigh_empty_trucktr4;tr4;Empty truck weighed
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+assign_trs_Pcp10;tr41;Pickup plan trucks assignment
+arrive_at_Silo3;Silo3;Silo for truck load
+trs_entrytr45;tr45;Entry evaluation for truck
+weigh_empty_trucktr45;tr45;Empty truck weighed
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+trs_entrytr43;tr43;Entry evaluation for truck
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+weigh_loaded_trucktr18;tr18;Truck weighed
+arrive_at_Silo1;Silo1;Silo for truck load
+load_trucktr22;tr22;cargo load for truck
+fail_weightr3;tr3;Truck failed to be weighed
+assign_trs_Pcp8;tr1;Pickup plan trucks assignment
+fail_weightr7;tr7;Truck failed to be weighed
+weigh_empty_trucktr43;tr43;Empty truck weighed
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+load_trucktr9;tr9;cargo load for truck
+assign_trs_Pcp3;tr44;Pickup plan trucks assignment
+trs_entrytr12;tr12;Entry evaluation for truck
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+fail_weightr4;tr4;Truck failed to be weighed
+weigh_empty_trucktr12;tr12;Empty truck weighed
+trs_entrytr30;tr30;Entry evaluation for truck
+load_trucktr15;tr15;cargo load for truck
+trs_entrytr28;tr28;Entry evaluation for truck
+weigh_loaded_trucktr33;tr33;Truck weighed
+weigh_empty_trucktr28;tr28;Empty truck weighed
+assign_trs_Pcp6;tr6;Pickup plan trucks assignment
+weigh_empty_trucktr30;tr30;Empty truck weighed
+check_abnormalitytr12;tr12;truck exmained for empty weight abnormality
+check_abnormalitytr28;tr28;truck exmained for empty weight abnormality
+trs_entrytr16;tr16;Entry evaluation for truck
+input_tally_sheettr33;tr33;Tally Sheet for pickup plan
+print_w_tickettr33;tr33;Printed weighing ticket for pickup plan
+load_trucktr40;tr40;cargo load for truck
+input_tally_sheettr18;tr18;Tally Sheet for pickup plan
+print_w_tickettr18;tr18;Printed weighing ticket for pickup plan
+fail_weightr45;tr45;Truck failed to be weighed
+eval_trs_exittr33_Pcp9;tr33;Exit evaluation for truck
+assign_trs_Pcp4;tr35;Pickup plan trucks assignment
+trs_entrytr21;tr21;Entry evaluation for truck
+eval_trs_exittr18_Pcp1;tr18;Exit evaluation for truck
+trs_entrytr32;tr32;Entry evaluation for truck
+weigh_empty_trucktr21;tr21;Empty truck weighed
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+check_abnormalitytr21;tr21;truck exmained for empty weight abnormality
+assign_trs_Pcp9;tr49;Pickup plan trucks assignment
+assign_trs_Pcp1;tr37;Pickup plan trucks assignment
+check_abnormalitytr30;tr30;truck exmained for empty weight abnormality
+assign_trs_Pcp7;tr4;Pickup plan trucks assignment
+trs_entrytr2;tr2;Entry evaluation for truck
+weigh_empty_trucktr16;tr16;Empty truck weighed
+assign_trs_Pcp2;tr19;Pickup plan trucks assignment
+fail_weightr12;tr12;Truck failed to be weighed
+weigh_empty_trucktr2;tr2;Empty truck weighed
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+trs_entrytr8;tr8;Entry evaluation for truck
+trs_entrytr46;tr46;Entry evaluation for truck
+weigh_empty_trucktr8;tr8;Empty truck weighed
+check_abnormalitytr8;tr8;truck exmained for empty weight abnormality
+trs_entrytr13;tr13;Entry evaluation for truck
+weigh_empty_trucktr46;tr46;Empty truck weighed
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+weigh_empty_trucktr13;tr13;Empty truck weighed
+fail_weightr43;tr43;Truck failed to be weighed
+weigh_empty_trucktr32;tr32;Empty truck weighed
+check_abnormalitytr13;tr13;truck exmained for empty weight abnormality
+weigh_loaded_trucktr27;tr27;Truck weighed
+trs_entrytr11;tr11;Entry evaluation for truck
+assign_trs_Pcp7;tr7;Pickup plan trucks assignment
+arrive_at_Silo7;Silo7;Silo for truck load
+weigh_empty_trucktr11;tr11;Empty truck weighed
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+arrive_at_Silo16;Silo16;Silo for truck load
+assign_trs_Pcp9;tr3;Pickup plan trucks assignment
+fail_weightr21;tr21;Truck failed to be weighed
+load_trucktr28;tr28;cargo load for truck
+check_abnormalitytr11;tr11;truck exmained for empty weight abnormality
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+input_tally_sheettr27;tr27;Tally Sheet for pickup plan
+print_w_tickettr27;tr27;Printed weighing ticket for pickup plan
+load_trucktr30;tr30;cargo load for truck
+arrive_at_Silo7;Silo7;Silo for truck load
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+trs_entrytr34;tr34;Entry evaluation for truck
+load_trucktr2;tr2;cargo load for truck
+fail_weightr16;tr16;Truck failed to be weighed
+check_abnormalitytr32;tr32;truck exmained for empty weight abnormality
+weigh_empty_trucktr34;tr34;Empty truck weighed
+weigh_loaded_trucktr5;tr5;Truck weighed
+fail_weightr13;tr13;Truck failed to be weighed
+trs_entrytr48;tr48;Entry evaluation for truck
+fail_weightr46;tr46;Truck failed to be weighed
+check_abnormalitytr34;tr34;truck exmained for empty weight abnormality
+eval_trs_exittr27_Pcp10;tr27;Exit evaluation for truck
+weigh_empty_trucktr48;tr48;Empty truck weighed
+assign_trs_Pcp4;tr33;Pickup plan trucks assignment
+input_tally_sheettr5;tr5;Tally Sheet for pickup plan
+print_w_tickettr5;tr5;Printed weighing ticket for pickup plan
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+trs_entrytr50;tr50;Entry evaluation for truck
+arrive_at_Silo7;Silo7;Silo for truck load
+weigh_loaded_trucktr10;tr10;Truck weighed
+arrive_at_Silo1;Silo1;Silo for truck load
+trs_entrytr31;tr31;Entry evaluation for truck
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+assign_trs_Pcp3;tr18;Pickup plan trucks assignment
+load_trucktr8;tr8;cargo load for truck
+weigh_loaded_trucktr38;tr38;Truck weighed
+assign_trs_Pcp1;tr45;Pickup plan trucks assignment
+assign_trs_Pcp4;tr43;Pickup plan trucks assignment
+trs_entrytr35;tr35;Entry evaluation for truck
+print_w_tickettr10;tr10;Printed weighing ticket for pickup plan
+input_tally_sheettr10;tr10;Tally Sheet for pickup plan
+weigh_empty_trucktr31;tr31;Empty truck weighed
+fail_weightr32;tr32;Truck failed to be weighed
+print_w_tickettr38;tr38;Printed weighing ticket for pickup plan
+input_tally_sheettr38;tr38;Tally Sheet for pickup plan
+weigh_empty_trucktr50;tr50;Empty truck weighed
+assign_trs_Pcp2;tr13;Pickup plan trucks assignment
+fail_weightr34;tr34;Truck failed to be weighed
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+assign_trs_Pcp1;tr46;Pickup plan trucks assignment
+trs_entrytr4;tr4;Entry evaluation for truck
+eval_trs_exittr5_Pcp1;tr5;Exit evaluation for truck
+assign_trs_Pcp8;tr12;Pickup plan trucks assignment
+fail_weightr48;tr48;Truck failed to be weighed
+load_trucktr11;tr11;cargo load for truck
+assign_trs_Pcp3;tr16;Pickup plan trucks assignment
+check_abnormalitytr31;tr31;truck exmained for empty weight abnormality
+weigh_empty_trucktr35;tr35;Empty truck weighed
+weigh_loaded_trucktr22;tr22;Truck weighed
+input_tally_sheettr47;tr47;Tally Sheet for pickup plan
+print_w_tickettr47;tr47;Printed weighing ticket for pickup plan
+eval_trs_exittr38_Pcp6;tr38;Exit evaluation for truck
+check_abnormalitytr50;tr50;truck exmained for empty weight abnormality
+weigh_empty_trucktr4;tr4;Empty truck weighed
+check_abnormalitytr35;tr35;truck exmained for empty weight abnormality
+trs_entrytr6;tr6;Entry evaluation for truck
+eval_trs_exittr10_Pcp3;tr10;Exit evaluation for truck
+eval_trs_exittr47_Pcp2;tr47;Exit evaluation for truck
+trs_entrytr19;tr19;Entry evaluation for truck
+weigh_empty_trucktr19;tr19;Empty truck weighed
+check_abnormalitytr19;tr19;truck exmained for empty weight abnormality
+fail_weightr50;tr50;Truck failed to be weighed
+weigh_loaded_trucktr36;tr36;Truck weighed
+weigh_loaded_trucktr26;tr26;Truck weighed
+weigh_loaded_trucktr39;tr39;Truck weighed
+weigh_empty_trucktr6;tr6;Empty truck weighed
+arrive_at_Silo7;Silo7;Silo for truck load
+input_tally_sheettr39;tr39;Tally Sheet for pickup plan
+print_w_tickettr39;tr39;Printed weighing ticket for pickup plan
+print_w_tickettr36;tr36;Printed weighing ticket for pickup plan
+input_tally_sheettr36;tr36;Tally Sheet for pickup plan
+check_abnormalitytr6;tr6;truck exmained for empty weight abnormality
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+load_trucktr31;tr31;cargo load for truck
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+eval_trs_exittr39_Pcp3;tr39;Exit evaluation for truck
+print_w_tickettr26;tr26;Printed weighing ticket for pickup plan
+input_tally_sheettr26;tr26;Tally Sheet for pickup plan
+arrive_at_Silo1;Silo1;Silo for truck load
+eval_trs_exittr36_Pcp10;tr36;Exit evaluation for truck
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+fail_weightr4;tr4;Truck failed to be weighed
+assign_trs_Pcp6;tr21;Pickup plan trucks assignment
+fail_weightr19;tr19;Truck failed to be weighed
+fail_weightr6;tr6;Truck failed to be weighed
+assign_trs_Pcp10;tr50;Pickup plan trucks assignment
+trs_entrytr49;tr49;Entry evaluation for truck
+trs_entrytr24;tr24;Entry evaluation for truck
+weigh_empty_trucktr49;tr49;Empty truck weighed
+weigh_empty_trucktr24;tr24;Empty truck weighed
+trs_entrytr41;tr41;Entry evaluation for truck
+assign_trs_Pcp3;tr5;Pickup plan trucks assignment
+load_trucktr35;tr35;cargo load for truck
+eval_trs_exittr26_Pcp3;tr26;Exit evaluation for truck
+trs_entrytr42;tr42;Entry evaluation for truck
+assign_trs_Pcp2;tr34;Pickup plan trucks assignment
+weigh_empty_trucktr41;tr41;Empty truck weighed
+assign_trs_Pcp4;tr27;Pickup plan trucks assignment
+weigh_empty_trucktr42;tr42;Empty truck weighed
+check_abnormalitytr42;tr42;truck exmained for empty weight abnormality
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+assign_trs_Pcp3;tr39;Pickup plan trucks assignment
+check_abnormalitytr49;tr49;truck exmained for empty weight abnormality
+weigh_loaded_trucktr15;tr15;Truck weighed
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+assign_trs_Pcp8;tr10;Pickup plan trucks assignment
+assign_trs_Pcp7;tr6;Pickup plan trucks assignment
+weigh_loaded_trucktr17;tr17;Truck weighed
+trs_entrytr7;tr7;Entry evaluation for truck
+assign_trs_Pcp3;tr47;Pickup plan trucks assignment
+weigh_empty_trucktr7;tr7;Empty truck weighed
+trs_entrytr46;tr46;Entry evaluation for truck
+assign_trs_Pcp3;tr19;Pickup plan trucks assignment
+trs_entrytr1;tr1;Entry evaluation for truck
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+fail_weightr41;tr41;Truck failed to be weighed
+assign_trs_Pcp3;tr32;Pickup plan trucks assignment
+assign_trs_Pcp1;tr48;Pickup plan trucks assignment
+arrive_at_Silo6;Silo6;Silo for truck load
+weigh_empty_trucktr46;tr46;Empty truck weighed
+assign_trs_Pcp2;tr4;Pickup plan trucks assignment
+assign_trs_Pcp7;tr36;Pickup plan trucks assignment
+determine_continuanceSilo6;Silo6;silo evaluated for pickup continuance
+trs_entrytr43;tr43;Entry evaluation for truck
+print_w_tickettr15;tr15;Printed weighing ticket for pickup plan
+input_tally_sheettr15;tr15;Tally Sheet for pickup plan
+assign_trs_Pcp8;tr26;Pickup plan trucks assignment
+assign_trs_Pcp7;tr38;Pickup plan trucks assignment
+weigh_loaded_trucktr40;tr40;Truck weighed
+fail_weightr49;tr49;Truck failed to be weighed
+arrive_at_Silo7;Silo7;Silo for truck load
+weigh_empty_trucktr1;tr1;Empty truck weighed
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+eval_trs_exittr15_Pcp7;tr15;Exit evaluation for truck
+trs_entrytr45;tr45;Entry evaluation for truck
+weigh_loaded_trucktr30;tr30;Truck weighed
+input_tally_sheettr40;tr40;Tally Sheet for pickup plan
+print_w_tickettr40;tr40;Printed weighing ticket for pickup plan
+load_trucktr24;tr24;cargo load for truck
+weigh_empty_trucktr45;tr45;Empty truck weighed
+trs_entrytr33;tr33;Entry evaluation for truck
+print_w_tickettr17;tr17;Printed weighing ticket for pickup plan
+input_tally_sheettr17;tr17;Tally Sheet for pickup plan
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+eval_trs_exittr40_Pcp4;tr40;Exit evaluation for truck
+arrive_at_Silo8;Silo8;Silo for truck load
+print_w_tickettr30;tr30;Printed weighing ticket for pickup plan
+input_tally_sheettr30;tr30;Tally Sheet for pickup plan
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+load_trucktr42;tr42;cargo load for truck
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+weigh_loaded_trucktr20;tr20;Truck weighed
+weigh_empty_trucktr43;tr43;Empty truck weighed
+print_w_tickettr20;tr20;Printed weighing ticket for pickup plan
+input_tally_sheettr20;tr20;Tally Sheet for pickup plan
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+weigh_empty_trucktr33;tr33;Empty truck weighed
+eval_trs_exittr17_Pcp10;tr17;Exit evaluation for truck
+eval_trs_exittr30_Pcp8;tr30;Exit evaluation for truck
+fail_weightr1;tr1;Truck failed to be weighed
+assign_trs_Pcp1;tr15;Pickup plan trucks assignment
+trs_entrytr37;tr37;Entry evaluation for truck
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+eval_trs_exittr20_Pcp1;tr20;Exit evaluation for truck
+fail_weightr45;tr45;Truck failed to be weighed
+trs_entrytr18;tr18;Entry evaluation for truck
+trs_entrytr50;tr50;Entry evaluation for truck
+check_abnormalitytr33;tr33;truck exmained for empty weight abnormality
+load_trucktr7;tr7;cargo load for truck
+print_w_tickettr22;tr22;Printed weighing ticket for pickup plan
+input_tally_sheettr22;tr22;Tally Sheet for pickup plan
+trs_entrytr44;tr44;Entry evaluation for truck
+arrive_at_Silo15;Silo15;Silo for truck load
+weigh_empty_trucktr18;tr18;Empty truck weighed
+weigh_empty_trucktr37;tr37;Empty truck weighed
+weigh_empty_trucktr50;tr50;Empty truck weighed
+check_abnormalitytr50;tr50;truck exmained for empty weight abnormality
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+assign_trs_Pcp10;tr1;Pickup plan trucks assignment
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+weigh_empty_trucktr44;tr44;Empty truck weighed
+check_abnormalitytr44;tr44;truck exmained for empty weight abnormality
+eval_trs_exittr22_Pcp3;tr22;Exit evaluation for truck
+trs_entrytr6;tr6;Entry evaluation for truck
+assign_trs_Pcp6;tr41;Pickup plan trucks assignment
+weigh_empty_trucktr6;tr6;Empty truck weighed
+trs_entrytr32;tr32;Entry evaluation for truck
+check_abnormalitytr6;tr6;truck exmained for empty weight abnormality
+check_abnormalitytr18;tr18;truck exmained for empty weight abnormality
+weigh_empty_trucktr32;tr32;Empty truck weighed
+load_trucktr46;tr46;cargo load for truck
+assign_trs_Pcp1;tr49;Pickup plan trucks assignment
+weigh_loaded_trucktr29;tr29;Truck weighed
+weigh_loaded_trucktr14;tr14;Truck weighed
+arrive_at_Silo1;Silo1;Silo for truck load
+fail_weightr43;tr43;Truck failed to be weighed
+fail_weightr37;tr37;Truck failed to be weighed
+fail_weightr44;tr44;Truck failed to be weighed
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+trs_entrytr10;tr10;Entry evaluation for truck
+load_trucktr33;tr33;cargo load for truck
+assign_trs_Pcp3;tr40;Pickup plan trucks assignment
+print_w_tickettr14;tr14;Printed weighing ticket for pickup plan
+input_tally_sheettr14;tr14;Tally Sheet for pickup plan
+weigh_empty_trucktr10;tr10;Empty truck weighed
+assign_trs_Pcp2;tr45;Pickup plan trucks assignment
+check_abnormalitytr32;tr32;truck exmained for empty weight abnormality
+trs_entrytr4;tr4;Entry evaluation for truck
+fail_weightr18;tr18;Truck failed to be weighed
+assign_trs_Pcp3;tr17;Pickup plan trucks assignment
+eval_trs_exittr14_Pcp1;tr14;Exit evaluation for truck
+trs_entrytr16;tr16;Entry evaluation for truck
+check_abnormalitytr10;tr10;truck exmained for empty weight abnormality
+arrive_at_Silo10;Silo10;Silo for truck load
+arrive_at_Silo8;Silo8;Silo for truck load
+weigh_loaded_trucktr35;tr35;Truck weighed
+trs_entrytr3;tr3;Entry evaluation for truck
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+trs_entrytr26;tr26;Entry evaluation for truck
+input_tally_sheettr29;tr29;Tally Sheet for pickup plan
+print_w_tickettr29;tr29;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr28;tr28;Truck weighed
+weigh_loaded_trucktr9;tr9;Truck weighed
+weigh_empty_trucktr4;tr4;Empty truck weighed
+fail_weightr32;tr32;Truck failed to be weighed
+assign_trs_Pcp9;tr30;Pickup plan trucks assignment
+weigh_empty_trucktr26;tr26;Empty truck weighed
+eval_trs_exittr29_Pcp6;tr29;Exit evaluation for truck
+check_abnormalitytr26;tr26;truck exmained for empty weight abnormality
+weigh_empty_trucktr16;tr16;Empty truck weighed
+assign_trs_Pcp8;tr37;Pickup plan trucks assignment
+trs_entrytr34;tr34;Entry evaluation for truck
+weigh_empty_trucktr3;tr3;Empty truck weighed
+load_trucktr6;tr6;cargo load for truck
+print_w_tickettr35;tr35;Printed weighing ticket for pickup plan
+input_tally_sheettr35;tr35;Tally Sheet for pickup plan
+load_trucktr50;tr50;cargo load for truck
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+trs_entrytr38;tr38;Entry evaluation for truck
+eval_trs_exittr35_Pcp4;tr35;Exit evaluation for truck
+weigh_loaded_trucktr23;tr23;Truck weighed
+assign_trs_Pcp10;tr22;Pickup plan trucks assignment
+assign_trs_Pcp9;tr14;Pickup plan trucks assignment
+assign_trs_Pcp8;tr43;Pickup plan trucks assignment
+trs_entrytr48;tr48;Entry evaluation for truck
+weigh_empty_trucktr38;tr38;Empty truck weighed
+assign_trs_Pcp10;tr20;Pickup plan trucks assignment
+check_abnormalitytr38;tr38;truck exmained for empty weight abnormality
+fail_weightr10;tr10;Truck failed to be weighed
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+print_w_tickettr9;tr9;Printed weighing ticket for pickup plan
+input_tally_sheettr9;tr9;Tally Sheet for pickup plan
+weigh_empty_trucktr34;tr34;Empty truck weighed
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+trs_entrytr21;tr21;Entry evaluation for truck
+input_tally_sheettr28;tr28;Tally Sheet for pickup plan
+print_w_tickettr28;tr28;Printed weighing ticket for pickup plan
+weigh_empty_trucktr21;tr21;Empty truck weighed
+eval_trs_exittr9_Pcp6;tr9;Exit evaluation for truck
+input_tally_sheettr23;tr23;Tally Sheet for pickup plan
+print_w_tickettr23;tr23;Printed weighing ticket for pickup plan
+weigh_empty_trucktr48;tr48;Empty truck weighed
+check_abnormalitytr34;tr34;truck exmained for empty weight abnormality
+arrive_at_Silo16;Silo16;Silo for truck load
+fail_weightr3;tr3;Truck failed to be weighed
+check_abnormalitytr21;tr21;truck exmained for empty weight abnormality
+fail_weightr4;tr4;Truck failed to be weighed
+assign_trs_Pcp2;tr29;Pickup plan trucks assignment
+assign_trs_Pcp4;tr32;Pickup plan trucks assignment
+eval_trs_exittr28_Pcp9;tr28;Exit evaluation for truck
+fail_weightr16;tr16;Truck failed to be weighed
+eval_trs_exittr23_Pcp8;tr23;Exit evaluation for truck
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+trs_entrytr15;tr15;Entry evaluation for truck
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+trs_entrytr36;tr36;Entry evaluation for truck
+trs_entrytr45;tr45;Entry evaluation for truck
+weigh_empty_trucktr15;tr15;Empty truck weighed
+assign_trs_Pcp9;tr10;Pickup plan trucks assignment
+load_trucktr26;tr26;cargo load for truck
+fail_weightr38;tr38;Truck failed to be weighed
+weigh_empty_trucktr45;tr45;Empty truck weighed
+assign_trs_Pcp3;tr44;Pickup plan trucks assignment
+assign_trs_Pcp7;tr18;Pickup plan trucks assignment
+check_abnormalitytr15;tr15;truck exmained for empty weight abnormality
+trs_entrytr5;tr5;Entry evaluation for truck
+arrive_at_Silo2;Silo2;Silo for truck load
+fail_weightr34;tr34;Truck failed to be weighed
+weigh_empty_trucktr36;tr36;Empty truck weighed
+trs_entrytr41;tr41;Entry evaluation for truck
+arrive_at_Silo15;Silo15;Silo for truck load
+weigh_loaded_trucktr7;tr7;Truck weighed
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+check_abnormalitytr36;tr36;truck exmained for empty weight abnormality
+weigh_empty_trucktr41;tr41;Empty truck weighed
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+trs_entrytr13;tr13;Entry evaluation for truck
+weigh_loaded_trucktr2;tr2;Truck weighed
+load_trucktr21;tr21;cargo load for truck
+assign_trs_Pcp2;tr9;Pickup plan trucks assignment
+fail_weightr45;tr45;Truck failed to be weighed
+fail_weightr36;tr36;Truck failed to be weighed
+weigh_empty_trucktr13;tr13;Empty truck weighed
+weigh_empty_trucktr5;tr5;Empty truck weighed
+fail_weightr15;tr15;Truck failed to be weighed
+assign_trs_Pcp9;tr4;Pickup plan trucks assignment
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+assign_trs_Pcp8;tr28;Pickup plan trucks assignment
+load_trucktr48;tr48;cargo load for truck
+trs_entrytr39;tr39;Entry evaluation for truck
+weigh_empty_trucktr39;tr39;Empty truck weighed
+check_abnormalitytr39;tr39;truck exmained for empty weight abnormality
+assign_trs_Pcp1;tr23;Pickup plan trucks assignment
+trs_entrytr12;tr12;Entry evaluation for truck
+assign_trs_Pcp4;tr35;Pickup plan trucks assignment
+check_abnormalitytr13;tr13;truck exmained for empty weight abnormality
+assign_trs_Pcp9;tr3;Pickup plan trucks assignment
+check_abnormalitytr5;tr5;truck exmained for empty weight abnormality
+input_tally_sheettr2;tr2;Tally Sheet for pickup plan
+print_w_tickettr2;tr2;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr25;tr25;Truck weighed
+trs_entrytr47;tr47;Entry evaluation for truck
+fail_weightr41;tr41;Truck failed to be weighed
+trs_entrytr22;tr22;Entry evaluation for truck
+assign_trs_Pcp3;tr38;Pickup plan trucks assignment
+weigh_empty_trucktr47;tr47;Empty truck weighed
+weigh_empty_trucktr22;tr22;Empty truck weighed
+trs_entrytr37;tr37;Entry evaluation for truck
+trs_entrytr43;tr43;Entry evaluation for truck
+assign_trs_Pcp2;tr45;Pickup plan trucks assignment
+input_tally_sheettr7;tr7;Tally Sheet for pickup plan
+print_w_tickettr7;tr7;Printed weighing ticket for pickup plan
+weigh_empty_trucktr12;tr12;Empty truck weighed
+check_abnormalitytr12;tr12;truck exmained for empty weight abnormality
+assign_trs_Pcp7;tr16;Pickup plan trucks assignment
+input_tally_sheettr25;tr25;Tally Sheet for pickup plan
+print_w_tickettr25;tr25;Printed weighing ticket for pickup plan
+assign_trs_Pcp3;tr36;Pickup plan trucks assignment
+weigh_empty_trucktr43;tr43;Empty truck weighed
+trs_entrytr30;tr30;Entry evaluation for truck
+eval_trs_exittr2_Pcp9;tr2;Exit evaluation for truck
+fail_weightr13;tr13;Truck failed to be weighed
+trs_entrytr10;tr10;Entry evaluation for truck
+trs_entrytr19;tr19;Entry evaluation for truck
+fail_weightr5;tr5;Truck failed to be weighed
+weigh_empty_trucktr30;tr30;Empty truck weighed
+weigh_empty_trucktr10;tr10;Empty truck weighed
+check_abnormalitytr30;tr30;truck exmained for empty weight abnormality
+check_abnormalitytr22;tr22;truck exmained for empty weight abnormality
+arrive_at_Silo3;Silo3;Silo for truck load
+weigh_loaded_trucktr24;tr24;Truck weighed
+weigh_empty_trucktr37;tr37;Empty truck weighed
+weigh_empty_trucktr19;tr19;Empty truck weighed
+trs_entrytr1;tr1;Entry evaluation for truck
+check_abnormalitytr10;tr10;truck exmained for empty weight abnormality
+weigh_loaded_trucktr50;tr50;Truck weighed
+eval_trs_exittr7_Pcp7;tr7;Exit evaluation for truck
+check_abnormalitytr47;tr47;truck exmained for empty weight abnormality
+eval_trs_exittr25_Pcp3;tr25;Exit evaluation for truck
+assign_trs_Pcp2;tr41;Pickup plan trucks assignment
+assign_trs_Pcp10;tr15;Pickup plan trucks assignment
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+arrive_at_Silo3;Silo3;Silo for truck load
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+load_trucktr39;tr39;cargo load for truck
+weigh_empty_trucktr1;tr1;Empty truck weighed
+trs_entrytr17;tr17;Entry evaluation for truck
+check_abnormalitytr19;tr19;truck exmained for empty weight abnormality
+trs_entrytr44;tr44;Entry evaluation for truck
+trs_entrytr28;tr28;Entry evaluation for truck
+fail_weightr22;tr22;Truck failed to be weighed
+trs_entrytr27;tr27;Entry evaluation for truck
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+weigh_empty_trucktr28;tr28;Empty truck weighed
+weigh_empty_trucktr17;tr17;Empty truck weighed
+arrive_at_Silo16;Silo16;Silo for truck load
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+fail_weightr37;tr37;Truck failed to be weighed
+weigh_empty_trucktr27;tr27;Empty truck weighed
+weigh_empty_trucktr44;tr44;Empty truck weighed
+load_trucktr12;tr12;cargo load for truck
+fail_weightr19;tr19;Truck failed to be weighed
+fail_weightr1;tr1;Truck failed to be weighed
+check_abnormalitytr28;tr28;truck exmained for empty weight abnormality
+check_abnormalitytr27;tr27;truck exmained for empty weight abnormality
+arrive_at_Silo7;Silo7;Silo for truck load
+check_abnormalitytr44;tr44;truck exmained for empty weight abnormality
+assign_trs_Pcp9;tr34;Pickup plan trucks assignment
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+assign_trs_Pcp8;tr25;Pickup plan trucks assignment
+trs_entrytr23;tr23;Entry evaluation for truck
+load_trucktr47;tr47;cargo load for truck
+input_tally_sheettr50;tr50;Tally Sheet for pickup plan
+print_w_tickettr50;tr50;Printed weighing ticket for pickup plan
+input_tally_sheettr24;tr24;Tally Sheet for pickup plan
+print_w_tickettr24;tr24;Printed weighing ticket for pickup plan
+weigh_empty_trucktr23;tr23;Empty truck weighed
+check_abnormalitytr17;tr17;truck exmained for empty weight abnormality
+arrive_at_Silo7;Silo7;Silo for truck load
+arrive_at_Silo16;Silo16;Silo for truck load
+trs_entrytr14;tr14;Entry evaluation for truck
+fail_weightr27;tr27;Truck failed to be weighed
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+assign_trs_Pcp1;tr22;Pickup plan trucks assignment
+eval_trs_exittr24_Pcp9;tr24;Exit evaluation for truck
+weigh_loaded_trucktr46;tr46;Truck weighed
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+eval_trs_exittr50_Pcp10;tr50;Exit evaluation for truck
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+check_abnormalitytr23;tr23;truck exmained for empty weight abnormality
+weigh_empty_trucktr14;tr14;Empty truck weighed
+load_trucktr30;tr30;cargo load for truck
+assign_trs_Pcp10;tr13;Pickup plan trucks assignment
+load_trucktr43;tr43;cargo load for truck
+load_trucktr10;tr10;cargo load for truck
+arrive_at_Silo3;Silo3;Silo for truck load
+check_abnormalitytr14;tr14;truck exmained for empty weight abnormality
+assign_trs_Pcp2;tr7;Pickup plan trucks assignment
+fail_weightr23;tr23;Truck failed to be weighed
+assign_trs_Pcp4;tr37;Pickup plan trucks assignment
+trs_entrytr20;tr20;Entry evaluation for truck
+weigh_empty_trucktr20;tr20;Empty truck weighed
+assign_trs_Pcp9;tr1;Pickup plan trucks assignment
+arrive_at_Silo16;Silo16;Silo for truck load
+check_abnormalitytr20;tr20;truck exmained for empty weight abnormality
+assign_trs_Pcp9;tr5;Pickup plan trucks assignment
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+arrive_at_Silo3;Silo3;Silo for truck load
+load_trucktr44;tr44;cargo load for truck
+trs_entrytr49;tr49;Entry evaluation for truck
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+weigh_loaded_trucktr6;tr6;Truck weighed
+load_trucktr17;tr17;cargo load for truck
+print_w_tickettr6;tr6;Printed weighing ticket for pickup plan
+input_tally_sheettr6;tr6;Tally Sheet for pickup plan
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+eval_trs_exittr6_Pcp7;tr6;Exit evaluation for truck
+fail_weightr14;tr14;Truck failed to be weighed
+trs_entrytr18;tr18;Entry evaluation for truck
+trs_entrytr32;tr32;Entry evaluation for truck
+weigh_empty_trucktr49;tr49;Empty truck weighed
+assign_trs_Pcp2;tr2;Pickup plan trucks assignment
+trs_entrytr29;tr29;Entry evaluation for truck
+assign_trs_Pcp4;tr27;Pickup plan trucks assignment
+fail_weightr20;tr20;Truck failed to be weighed
+check_abnormalitytr49;tr49;truck exmained for empty weight abnormality
+load_trucktr28;tr28;cargo load for truck
+weigh_empty_trucktr32;tr32;Empty truck weighed
+weigh_empty_trucktr18;tr18;Empty truck weighed
+check_abnormalitytr18;tr18;truck exmained for empty weight abnormality
+weigh_loaded_trucktr21;tr21;Truck weighed
+assign_trs_Pcp2;tr19;Pickup plan trucks assignment
+assign_trs_Pcp1;tr23;Pickup plan trucks assignment
+input_tally_sheettr21;tr21;Tally Sheet for pickup plan
+print_w_tickettr21;tr21;Printed weighing ticket for pickup plan
+fail_weightr18;tr18;Truck failed to be weighed
+trs_entrytr25;tr25;Entry evaluation for truck
+eval_trs_exittr21_Pcp6;tr21;Exit evaluation for truck
+check_abnormalitytr32;tr32;truck exmained for empty weight abnormality
+weigh_empty_trucktr25;tr25;Empty truck weighed
+trs_entrytr38;tr38;Entry evaluation for truck
+weigh_empty_trucktr29;tr29;Empty truck weighed
+fail_weightr49;tr49;Truck failed to be weighed
+assign_trs_Pcp6;tr14;Pickup plan trucks assignment
+weigh_loaded_trucktr33;tr33;Truck weighed
+assign_trs_Pcp6;tr20;Pickup plan trucks assignment
+weigh_loaded_trucktr26;tr26;Truck weighed
+check_abnormalitytr29;tr29;truck exmained for empty weight abnormality
+weigh_empty_trucktr38;tr38;Empty truck weighed
+check_abnormalitytr38;tr38;truck exmained for empty weight abnormality
+assign_trs_Pcp4;tr24;Pickup plan trucks assignment
+fail_weightr29;tr29;Truck failed to be weighed
+trs_entrytr13;tr13;Entry evaluation for truck
+trs_entrytr45;tr45;Entry evaluation for truck
+weigh_empty_trucktr45;tr45;Empty truck weighed
+trs_entrytr40;tr40;Entry evaluation for truck
+assign_trs_Pcp2;tr49;Pickup plan trucks assignment
+check_abnormalitytr25;tr25;truck exmained for empty weight abnormality
+input_tally_sheettr33;tr33;Tally Sheet for pickup plan
+print_w_tickettr33;tr33;Printed weighing ticket for pickup plan
+trs_entrytr22;tr22;Entry evaluation for truck
+weigh_empty_trucktr40;tr40;Empty truck weighed
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+assign_trs_Pcp4;tr50;Pickup plan trucks assignment
+weigh_empty_trucktr22;tr22;Empty truck weighed
+input_tally_sheettr26;tr26;Tally Sheet for pickup plan
+print_w_tickettr26;tr26;Printed weighing ticket for pickup plan
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+arrive_at_Silo3;Silo3;Silo for truck load
+assign_trs_Pcp4;tr6;Pickup plan trucks assignment
+weigh_empty_trucktr13;tr13;Empty truck weighed
+trs_entrytr1;tr1;Entry evaluation for truck
+eval_trs_exittr33_Pcp4;tr33;Exit evaluation for truck
+check_abnormalitytr13;tr13;truck exmained for empty weight abnormality
+weigh_empty_trucktr1;tr1;Empty truck weighed
+arrive_at_Silo1;Silo1;Silo for truck load
+eval_trs_exittr26_Pcp8;tr26;Exit evaluation for truck
+check_abnormalitytr22;tr22;truck exmained for empty weight abnormality
+weigh_loaded_trucktr12;tr12;Truck weighed
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+trs_entrytr4;tr4;Entry evaluation for truck
+fail_weightr40;tr40;Truck failed to be weighed
+trs_entrytr15;tr15;Entry evaluation for truck
+load_trucktr38;tr38;cargo load for truck
+assign_trs_Pcp9;tr18;Pickup plan trucks assignment
+weigh_empty_trucktr4;tr4;Empty truck weighed
+weigh_loaded_trucktr10;tr10;Truck weighed
+fail_weightr45;tr45;Truck failed to be weighed
+weigh_loaded_trucktr48;tr48;Truck weighed
+assign_trs_Pcp8;tr29;Pickup plan trucks assignment
+trs_entrytr9;tr9;Entry evaluation for truck
+weigh_empty_trucktr15;tr15;Empty truck weighed
+weigh_empty_trucktr9;tr9;Empty truck weighed
+check_abnormalitytr15;tr15;truck exmained for empty weight abnormality
+arrive_at_Silo16;Silo16;Silo for truck load
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+trs_entrytr2;tr2;Entry evaluation for truck
+trs_entrytr34;tr34;Entry evaluation for truck
+assign_trs_Pcp1;tr33;Pickup plan trucks assignment
+load_trucktr32;tr32;cargo load for truck
+arrive_at_Silo10;Silo10;Silo for truck load
+check_abnormalitytr9;tr9;truck exmained for empty weight abnormality
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+fail_weightr22;tr22;Truck failed to be weighed
+weigh_empty_trucktr34;tr34;Empty truck weighed
+print_w_tickettr10;tr10;Printed weighing ticket for pickup plan
+input_tally_sheettr10;tr10;Tally Sheet for pickup plan
+print_w_tickettr48;tr48;Printed weighing ticket for pickup plan
+input_tally_sheettr48;tr48;Tally Sheet for pickup plan
+input_tally_sheettr12;tr12;Tally Sheet for pickup plan
+print_w_tickettr12;tr12;Printed weighing ticket for pickup plan
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+assign_trs_Pcp6;tr21;Pickup plan trucks assignment
+weigh_empty_trucktr2;tr2;Empty truck weighed
+print_w_tickettr46;tr46;Printed weighing ticket for pickup plan
+input_tally_sheettr46;tr46;Tally Sheet for pickup plan
+eval_trs_exittr48_Pcp1;tr48;Exit evaluation for truck
+fail_weightr1;tr1;Truck failed to be weighed
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+eval_trs_exittr46_Pcp1;tr46;Exit evaluation for truck
+load_trucktr25;tr25;cargo load for truck
+eval_trs_exittr12_Pcp8;tr12;Exit evaluation for truck
+load_trucktr13;tr13;cargo load for truck
+trs_entrytr36;tr36;Entry evaluation for truck
+eval_trs_exittr10_Pcp9;tr10;Exit evaluation for truck
+fail_weightr9;tr9;Truck failed to be weighed
+arrive_at_Silo10;Silo10;Silo for truck load
+weigh_empty_trucktr36;tr36;Empty truck weighed
+trs_entrytr3;tr3;Entry evaluation for truck
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+weigh_loaded_trucktr8;tr8;Truck weighed
+fail_weightr2;tr2;Truck failed to be weighed
+check_abnormalitytr34;tr34;truck exmained for empty weight abnormality
+arrive_at_Silo7;Silo7;Silo for truck load
+weigh_loaded_trucktr47;tr47;Truck weighed
+assign_trs_Pcp8;tr40;Pickup plan trucks assignment
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+check_abnormalitytr36;tr36;truck exmained for empty weight abnormality
+input_tally_sheettr47;tr47;Tally Sheet for pickup plan
+print_w_tickettr47;tr47;Printed weighing ticket for pickup plan
+load_trucktr4;tr4;cargo load for truck
+assign_trs_Pcp2;tr26;Pickup plan trucks assignment
+load_trucktr15;tr15;cargo load for truck
+assign_trs_Pcp8;tr1;Pickup plan trucks assignment
+assign_trs_Pcp4;tr48;Pickup plan trucks assignment
+trs_entrytr16;tr16;Entry evaluation for truck
+assign_trs_Pcp8;tr45;Pickup plan trucks assignment
+weigh_empty_trucktr16;tr16;Empty truck weighed
+weigh_empty_trucktr3;tr3;Empty truck weighed
+trs_entrytr41;tr41;Entry evaluation for truck
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+assign_trs_Pcp10;tr22;Pickup plan trucks assignment
+trs_entrytr35;tr35;Entry evaluation for truck
+weigh_loaded_trucktr28;tr28;Truck weighed
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+assign_trs_Pcp8;tr12;Pickup plan trucks assignment
+weigh_empty_trucktr35;tr35;Empty truck weighed
+check_abnormalitytr35;tr35;truck exmained for empty weight abnormality
+weigh_empty_trucktr41;tr41;Empty truck weighed
+fail_weightr16;tr16;Truck failed to be weighed
+assign_trs_Pcp6;tr10;Pickup plan trucks assignment
+print_w_tickettr28;tr28;Printed weighing ticket for pickup plan
+input_tally_sheettr28;tr28;Tally Sheet for pickup plan
+print_w_tickettr8;tr8;Printed weighing ticket for pickup plan
+input_tally_sheettr8;tr8;Tally Sheet for pickup plan
+trs_entrytr7;tr7;Entry evaluation for truck
+eval_trs_exittr8_Pcp4;tr8;Exit evaluation for truck
+assign_trs_Pcp10;tr9;Pickup plan trucks assignment
+eval_trs_exittr47_Pcp3;tr47;Exit evaluation for truck
+trs_entrytr5;tr5;Entry evaluation for truck
+weigh_empty_trucktr7;tr7;Empty truck weighed
+trs_entrytr50;tr50;Entry evaluation for truck
+arrive_at_Silo3;Silo3;Silo for truck load
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+weigh_empty_trucktr5;tr5;Empty truck weighed
+check_abnormalitytr5;tr5;truck exmained for empty weight abnormality
+arrive_at_Silo7;Silo7;Silo for truck load
+trs_entrytr23;tr23;Entry evaluation for truck
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+fail_weightr3;tr3;Truck failed to be weighed
+eval_trs_exittr28_Pcp8;tr28;Exit evaluation for truck
+weigh_loaded_trucktr43;tr43;Truck weighed
+trs_entrytr27;tr27;Entry evaluation for truck
+fail_weightr35;tr35;Truck failed to be weighed
+assign_trs_Pcp6;tr2;Pickup plan trucks assignment
+weigh_loaded_trucktr42;tr42;Truck weighed
+weigh_empty_trucktr27;tr27;Empty truck weighed
+assign_trs_Pcp1;tr46;Pickup plan trucks assignment
+determine_continuanceSilo3;Silo3;silo evaluated for pickup continuance
+weigh_empty_trucktr50;tr50;Empty truck weighed
+assign_trs_Pcp7;tr8;Pickup plan trucks assignment
+load_trucktr36;tr36;cargo load for truck
+assign_trs_Pcp8;tr3;Pickup plan trucks assignment
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+fail_weightr7;tr7;Truck failed to be weighed
+weigh_loaded_trucktr11;tr11;Truck weighed
+weigh_empty_trucktr23;tr23;Empty truck weighed
+load_trucktr34;tr34;cargo load for truck
+fail_weightr41;tr41;Truck failed to be weighed
+check_abnormalitytr23;tr23;truck exmained for empty weight abnormality
+assign_trs_Pcp1;tr35;Pickup plan trucks assignment
+print_w_tickettr11;tr11;Printed weighing ticket for pickup plan
+input_tally_sheettr11;tr11;Tally Sheet for pickup plan
+check_abnormalitytr27;tr27;truck exmained for empty weight abnormality
+check_abnormalitytr50;tr50;truck exmained for empty weight abnormality
+weigh_loaded_trucktr31;tr31;Truck weighed
+assign_trs_Pcp2;tr16;Pickup plan trucks assignment
+fail_weightr5;tr5;Truck failed to be weighed
+print_w_tickettr43;tr43;Printed weighing ticket for pickup plan
+input_tally_sheettr43;tr43;Tally Sheet for pickup plan
+assign_trs_Pcp1;tr47;Pickup plan trucks assignment
+trs_entrytr45;tr45;Entry evaluation for truck
+eval_trs_exittr11_Pcp9;tr11;Exit evaluation for truck
+weigh_empty_trucktr45;tr45;Empty truck weighed
+arrive_at_Silo15;Silo15;Silo for truck load
+assign_trs_Pcp1;tr28;Pickup plan trucks assignment
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+eval_trs_exittr43_Pcp8;tr43;Exit evaluation for truck
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+assign_trs_Pcp4;tr7;Pickup plan trucks assignment
+trs_entrytr14;tr14;Entry evaluation for truck
+print_w_tickettr31;tr31;Printed weighing ticket for pickup plan
+input_tally_sheettr31;tr31;Tally Sheet for pickup plan
+trs_entrytr19;tr19;Entry evaluation for truck
+print_w_tickettr42;tr42;Printed weighing ticket for pickup plan
+input_tally_sheettr42;tr42;Tally Sheet for pickup plan
+weigh_empty_trucktr19;tr19;Empty truck weighed
+eval_trs_exittr31_Pcp9;tr31;Exit evaluation for truck
+trs_entrytr26;tr26;Entry evaluation for truck
+check_abnormalitytr19;tr19;truck exmained for empty weight abnormality
+weigh_empty_trucktr26;tr26;Empty truck weighed
+eval_trs_exittr42_Pcp2;tr42;Exit evaluation for truck
+weigh_empty_trucktr14;tr14;Empty truck weighed
+check_abnormalitytr14;tr14;truck exmained for empty weight abnormality
+assign_trs_Pcp4;tr5;Pickup plan trucks assignment
+arrive_at_Silo1;Silo1;Silo for truck load
+load_trucktr23;tr23;cargo load for truck
+assign_trs_Pcp6;tr41;Pickup plan trucks assignment
+fail_weightr45;tr45;Truck failed to be weighed
+assign_trs_Pcp6;tr11;Pickup plan trucks assignment
+trs_entrytr22;tr22;Entry evaluation for truck
+arrive_at_Silo1;Silo1;Silo for truck load
+trs_entrytr37;tr37;Entry evaluation for truck
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+trs_entrytr24;tr24;Entry evaluation for truck
+trs_entrytr10;tr10;Entry evaluation for truck
+trs_entrytr20;tr20;Entry evaluation for truck
+trs_entrytr29;tr29;Entry evaluation for truck
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+weigh_empty_trucktr10;tr10;Empty truck weighed
+weigh_empty_trucktr24;tr24;Empty truck weighed
+fail_weightr19;tr19;Truck failed to be weighed
+trs_entrytr1;tr1;Entry evaluation for truck
+check_abnormalitytr26;tr26;truck exmained for empty weight abnormality
+load_trucktr50;tr50;cargo load for truck
+weigh_loaded_trucktr38;tr38;Truck weighed
+weigh_empty_trucktr22;tr22;Empty truck weighed
+weigh_empty_trucktr1;tr1;Empty truck weighed
+load_trucktr27;tr27;cargo load for truck
+weigh_empty_trucktr20;tr20;Empty truck weighed
+weigh_empty_trucktr29;tr29;Empty truck weighed
+weigh_empty_trucktr37;tr37;Empty truck weighed
+assign_trs_Pcp6;tr43;Pickup plan trucks assignment
+check_abnormalitytr20;tr20;truck exmained for empty weight abnormality
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+check_abnormalitytr22;tr22;truck exmained for empty weight abnormality
+arrive_at_Silo2;Silo2;Silo for truck load
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+assign_trs_Pcp7;tr45;Pickup plan trucks assignment
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+check_abnormalitytr10;tr10;truck exmained for empty weight abnormality
+fail_weightr1;tr1;Truck failed to be weighed
+input_tally_sheettr38;tr38;Tally Sheet for pickup plan
+print_w_tickettr38;tr38;Printed weighing ticket for pickup plan
+trs_entrytr21;tr21;Entry evaluation for truck
+fail_weightr20;tr20;Truck failed to be weighed
+check_abnormalitytr29;tr29;truck exmained for empty weight abnormality
+fail_weightr26;tr26;Truck failed to be weighed
+fail_weightr24;tr24;Truck failed to be weighed
+fail_weightr37;tr37;Truck failed to be weighed
+weigh_empty_trucktr21;tr21;Empty truck weighed
+eval_trs_exittr38_Pcp3;tr38;Exit evaluation for truck
+trs_entrytr46;tr46;Entry evaluation for truck
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+load_trucktr14;tr14;cargo load for truck
+fail_weightr22;tr22;Truck failed to be weighed
+assign_trs_Pcp6;tr31;Pickup plan trucks assignment
+weigh_loaded_trucktr13;tr13;Truck weighed
+assign_trs_Pcp8;tr19;Pickup plan trucks assignment
+trs_entrytr33;tr33;Entry evaluation for truck
+weigh_loaded_trucktr25;tr25;Truck weighed
+weigh_empty_trucktr33;tr33;Empty truck weighed
+trs_entrytr6;tr6;Entry evaluation for truck
+weigh_empty_trucktr46;tr46;Empty truck weighed
+trs_entrytr12;tr12;Entry evaluation for truck
+print_w_tickettr25;tr25;Printed weighing ticket for pickup plan
+input_tally_sheettr25;tr25;Tally Sheet for pickup plan
+fail_weightr29;tr29;Truck failed to be weighed
+input_tally_sheettr13;tr13;Tally Sheet for pickup plan
+print_w_tickettr13;tr13;Printed weighing ticket for pickup plan
+check_abnormalitytr21;tr21;truck exmained for empty weight abnormality
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+weigh_loaded_trucktr15;tr15;Truck weighed
+assign_trs_Pcp10;tr26;Pickup plan trucks assignment
+trs_entrytr9;tr9;Entry evaluation for truck
+weigh_empty_trucktr12;tr12;Empty truck weighed
+arrive_at_Silo2;Silo2;Silo for truck load
+eval_trs_exittr13_Pcp10;tr13;Exit evaluation for truck
+eval_trs_exittr25_Pcp8;tr25;Exit evaluation for truck
+assign_trs_Pcp7;tr20;Pickup plan trucks assignment
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+check_abnormalitytr12;tr12;truck exmained for empty weight abnormality
+weigh_empty_trucktr9;tr9;Empty truck weighed
+load_trucktr10;tr10;cargo load for truck
+assign_trs_Pcp10;tr22;Pickup plan trucks assignment
+weigh_loaded_trucktr17;tr17;Truck weighed
+check_abnormalitytr9;tr9;truck exmained for empty weight abnormality
+weigh_loaded_trucktr39;tr39;Truck weighed
+trs_entrytr41;tr41;Entry evaluation for truck
+assign_trs_Pcp2;tr37;Pickup plan trucks assignment
+weigh_empty_trucktr6;tr6;Empty truck weighed
+assign_trs_Pcp7;tr42;Pickup plan trucks assignment
+check_abnormalitytr33;tr33;truck exmained for empty weight abnormality
+trs_entrytr8;tr8;Entry evaluation for truck
+weigh_empty_trucktr41;tr41;Empty truck weighed
+trs_entrytr47;tr47;Entry evaluation for truck
+print_w_tickettr15;tr15;Printed weighing ticket for pickup plan
+input_tally_sheettr15;tr15;Tally Sheet for pickup plan
+weigh_empty_trucktr47;tr47;Empty truck weighed
+fail_weightr46;tr46;Truck failed to be weighed
+check_abnormalitytr6;tr6;truck exmained for empty weight abnormality
+print_w_tickettr17;tr17;Printed weighing ticket for pickup plan
+input_tally_sheettr17;tr17;Tally Sheet for pickup plan
+fail_weightr12;tr12;Truck failed to be weighed
+trs_entrytr18;tr18;Entry evaluation for truck
+weigh_empty_trucktr8;tr8;Empty truck weighed
+trs_entrytr49;tr49;Entry evaluation for truck
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+trs_entrytr45;tr45;Entry evaluation for truck
+weigh_empty_trucktr49;tr49;Empty truck weighed
+weigh_empty_trucktr18;tr18;Empty truck weighed
+fail_weightr33;tr33;Truck failed to be weighed
+check_abnormalitytr8;tr8;truck exmained for empty weight abnormality
+eval_trs_exittr17_Pcp3;tr17;Exit evaluation for truck
+assign_trs_Pcp6;tr38;Pickup plan trucks assignment
+eval_trs_exittr15_Pcp10;tr15;Exit evaluation for truck
+check_abnormalitytr18;tr18;truck exmained for empty weight abnormality
+check_abnormalitytr49;tr49;truck exmained for empty weight abnormality
+arrive_at_Silo2;Silo2;Silo for truck load
+check_abnormalitytr47;tr47;truck exmained for empty weight abnormality
+weigh_empty_trucktr45;tr45;Empty truck weighed
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+trs_entrytr48;tr48;Entry evaluation for truck
+fail_weightr6;tr6;Truck failed to be weighed
+assign_trs_Pcp6;tr12;Pickup plan trucks assignment
+fail_weightr41;tr41;Truck failed to be weighed
+assign_trs_Pcp6;tr29;Pickup plan trucks assignment
+weigh_empty_trucktr48;tr48;Empty truck weighed
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+assign_trs_Pcp6;tr1;Pickup plan trucks assignment
+assign_trs_Pcp10;tr25;Pickup plan trucks assignment
+arrive_at_Silo10;Silo10;Silo for truck load
+load_trucktr21;tr21;cargo load for truck
+assign_trs_Pcp10;tr33;Pickup plan trucks assignment
+trs_entrytr43;tr43;Entry evaluation for truck
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+assign_trs_Pcp2;tr46;Pickup plan trucks assignment
+arrive_at_Silo6;Silo6;Silo for truck load
+fail_weightr47;tr47;Truck failed to be weighed
+assign_trs_Pcp6;tr24;Pickup plan trucks assignment
+fail_weightr8;tr8;Truck failed to be weighed
+trs_entrytr2;tr2;Entry evaluation for truck
+determine_continuanceSilo6;Silo6;silo evaluated for pickup continuance
+weigh_empty_trucktr43;tr43;Empty truck weighed
+weigh_empty_trucktr2;tr2;Empty truck weighed
+load_trucktr49;tr49;cargo load for truck
+arrive_at_Silo7;Silo7;Silo for truck load
+fail_weightr45;tr45;Truck failed to be weighed
+trs_entrytr16;tr16;Entry evaluation for truck
+assign_trs_Pcp8;tr13;Pickup plan trucks assignment
+weigh_empty_trucktr16;tr16;Empty truck weighed
+assign_trs_Pcp7;tr41;Pickup plan trucks assignment
+fail_weightr48;tr48;Truck failed to be weighed
+print_w_tickettr39;tr39;Printed weighing ticket for pickup plan
+input_tally_sheettr39;tr39;Tally Sheet for pickup plan
+assign_trs_Pcp6;tr6;Pickup plan trucks assignment
+weigh_loaded_trucktr4;tr4;Truck weighed
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+eval_trs_exittr39_Pcp3;tr39;Exit evaluation for truck
+determine_continuanceSilo7;Silo7;silo evaluated for pickup continuance
+assign_trs_Pcp7;tr17;Pickup plan trucks assignment
+load_trucktr9;tr9;cargo load for truck
+load_trucktr18;tr18;cargo load for truck
+trs_entrytr35;tr35;Entry evaluation for truck
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+assign_trs_Pcp4;tr47;Pickup plan trucks assignment
+assign_trs_Pcp6;tr48;Pickup plan trucks assignment
+weigh_empty_trucktr35;tr35;Empty truck weighed
+fail_weightr2;tr2;Truck failed to be weighed
+trs_entrytr28;tr28;Entry evaluation for truck
+assign_trs_Pcp8;tr15;Pickup plan trucks assignment
+assign_trs_Pcp6;tr8;Pickup plan trucks assignment
+fail_weightr16;tr16;Truck failed to be weighed
+input_tally_sheettr4;tr4;Tally Sheet for pickup plan
+print_w_tickettr4;tr4;Printed weighing ticket for pickup plan
+trs_entrytr31;tr31;Entry evaluation for truck
+fail_weightr43;tr43;Truck failed to be weighed
+weigh_empty_trucktr28;tr28;Empty truck weighed
+eval_trs_exittr4_Pcp9;tr4;Exit evaluation for truck
+check_abnormalitytr28;tr28;truck exmained for empty weight abnormality
+check_abnormalitytr35;tr35;truck exmained for empty weight abnormality
+trs_entrytr7;tr7;Entry evaluation for truck
+trs_entrytr11;tr11;Entry evaluation for truck
+weigh_loaded_trucktr34;tr34;Truck weighed
+weigh_loaded_trucktr32;tr32;Truck weighed
+weigh_empty_trucktr11;tr11;Empty truck weighed
+weigh_loaded_trucktr44;tr44;Truck weighed
+weigh_empty_trucktr31;tr31;Empty truck weighed
+trs_entrytr40;tr40;Entry evaluation for truck
+check_abnormalitytr11;tr11;truck exmained for empty weight abnormality
+weigh_loaded_trucktr30;tr30;Truck weighed
+check_abnormalitytr31;tr31;truck exmained for empty weight abnormality
+weigh_empty_trucktr40;tr40;Empty truck weighed
+input_tally_sheettr32;tr32;Tally Sheet for pickup plan
+print_w_tickettr32;tr32;Printed weighing ticket for pickup plan
+weigh_empty_trucktr7;tr7;Empty truck weighed
+input_tally_sheettr44;tr44;Tally Sheet for pickup plan
+print_w_tickettr44;tr44;Printed weighing ticket for pickup plan
+print_w_tickettr34;tr34;Printed weighing ticket for pickup plan
+input_tally_sheettr34;tr34;Tally Sheet for pickup plan
+fail_weightr35;tr35;Truck failed to be weighed
+assign_trs_Pcp8;tr16;Pickup plan trucks assignment
+assign_trs_Pcp7;tr39;Pickup plan trucks assignment
+trs_entrytr20;tr20;Entry evaluation for truck
+arrive_at_Silo15;Silo15;Silo for truck load
+weigh_empty_trucktr20;tr20;Empty truck weighed
+determine_continuanceSilo15;Silo15;silo evaluated for pickup continuance
+trs_entrytr33;tr33;Entry evaluation for truck
+check_abnormalitytr20;tr20;truck exmained for empty weight abnormality
+assign_trs_Pcp7;tr43;Pickup plan trucks assignment
+load_trucktr28;tr28;cargo load for truck
+trs_entrytr24;tr24;Entry evaluation for truck
+weigh_empty_trucktr33;tr33;Empty truck weighed
+assign_trs_Pcp2;tr45;Pickup plan trucks assignment
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+input_tally_sheettr30;tr30;Tally Sheet for pickup plan
+print_w_tickettr30;tr30;Printed weighing ticket for pickup plan
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+weigh_empty_trucktr24;tr24;Empty truck weighed
+eval_trs_exittr44_Pcp3;tr44;Exit evaluation for truck
+eval_trs_exittr32_Pcp4;tr32;Exit evaluation for truck
+trs_entrytr25;tr25;Entry evaluation for truck
+eval_trs_exittr34_Pcp9;tr34;Exit evaluation for truck
+assign_trs_Pcp10;tr2;Pickup plan trucks assignment
+weigh_empty_trucktr25;tr25;Empty truck weighed
+check_abnormalitytr25;tr25;truck exmained for empty weight abnormality
+fail_weightr11;tr11;Truck failed to be weighed
+trs_entrytr37;tr37;Entry evaluation for truck
+eval_trs_exittr30_Pcp9;tr30;Exit evaluation for truck
+fail_weightr31;tr31;Truck failed to be weighed
+check_abnormalitytr33;tr33;truck exmained for empty weight abnormality
+weigh_empty_trucktr37;tr37;Empty truck weighed
+fail_weightr7;tr7;Truck failed to be weighed
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+fail_weightr20;tr20;Truck failed to be weighed
+weigh_loaded_trucktr27;tr27;Truck weighed
+trs_entrytr3;tr3;Entry evaluation for truck
+fail_weightr37;tr37;Truck failed to be weighed
+fail_weightr33;tr33;Truck failed to be weighed
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+assign_trs_Pcp8;tr4;Pickup plan trucks assignment
+fail_weightr40;tr40;Truck failed to be weighed
+assign_trs_Pcp2;tr31;Pickup plan trucks assignment
+assign_trs_Pcp4;tr44;Pickup plan trucks assignment
+weigh_empty_trucktr3;tr3;Empty truck weighed
+assign_trs_Pcp10;tr11;Pickup plan trucks assignment
+assign_trs_Pcp4;tr20;Pickup plan trucks assignment
+print_w_tickettr27;tr27;Printed weighing ticket for pickup plan
+input_tally_sheettr27;tr27;Tally Sheet for pickup plan
+trs_entrytr48;tr48;Entry evaluation for truck
+weigh_empty_trucktr48;tr48;Empty truck weighed
+fail_weightr24;tr24;Truck failed to be weighed
+eval_trs_exittr27_Pcp4;tr27;Exit evaluation for truck
+assign_trs_Pcp4;tr35;Pickup plan trucks assignment
+trs_entrytr46;tr46;Entry evaluation for truck
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+trs_entrytr13;tr13;Entry evaluation for truck
+weigh_empty_trucktr46;tr46;Empty truck weighed
+trs_entrytr26;tr26;Entry evaluation for truck
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+trs_entrytr41;tr41;Entry evaluation for truck
+assign_trs_Pcp10;tr34;Pickup plan trucks assignment
+weigh_empty_trucktr13;tr13;Empty truck weighed
+assign_trs_Pcp4;tr33;Pickup plan trucks assignment
+weigh_loaded_trucktr23;tr23;Truck weighed
+arrive_at_Silo10;Silo10;Silo for truck load
+assign_trs_Pcp7;tr30;Pickup plan trucks assignment
+weigh_empty_trucktr26;tr26;Empty truck weighed
+weigh_empty_trucktr41;tr41;Empty truck weighed
+check_abnormalitytr13;tr13;truck exmained for empty weight abnormality
+fail_weightr3;tr3;Truck failed to be weighed
+weigh_loaded_trucktr21;tr21;Truck weighed
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+check_abnormalitytr26;tr26;truck exmained for empty weight abnormality
+load_trucktr25;tr25;cargo load for truck
+trs_entrytr8;tr8;Entry evaluation for truck
+print_w_tickettr23;tr23;Printed weighing ticket for pickup plan
+input_tally_sheettr23;tr23;Tally Sheet for pickup plan
+assign_trs_Pcp10;tr32;Pickup plan trucks assignment
+assign_trs_Pcp10;tr40;Pickup plan trucks assignment
+assign_trs_Pcp4;tr7;Pickup plan trucks assignment
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+trs_entrytr39;tr39;Entry evaluation for truck
+weigh_loaded_trucktr14;tr14;Truck weighed
+assign_trs_Pcp8;tr3;Pickup plan trucks assignment
+weigh_empty_trucktr8;tr8;Empty truck weighed
+eval_trs_exittr23_Pcp1;tr23;Exit evaluation for truck
+check_abnormalitytr8;tr8;truck exmained for empty weight abnormality
+trs_entrytr1;tr1;Entry evaluation for truck
+assign_trs_Pcp10;tr24;Pickup plan trucks assignment
+fail_weightr48;tr48;Truck failed to be weighed
+weigh_empty_trucktr1;tr1;Empty truck weighed
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+fail_weightr46;tr46;Truck failed to be weighed
+trs_entrytr5;tr5;Entry evaluation for truck
+trs_entrytr22;tr22;Entry evaluation for truck
+weigh_empty_trucktr39;tr39;Empty truck weighed
+arrive_at_Silo10;Silo10;Silo for truck load
+trs_entrytr38;tr38;Entry evaluation for truck
+weigh_empty_trucktr38;tr38;Empty truck weighed
+check_abnormalitytr39;tr39;truck exmained for empty weight abnormality
+trs_entrytr45;tr45;Entry evaluation for truck
+fail_weightr41;tr41;Truck failed to be weighed
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+weigh_empty_trucktr5;tr5;Empty truck weighed
+assign_trs_Pcp8;tr48;Pickup plan trucks assignment
+trs_entrytr19;tr19;Entry evaluation for truck
+trs_entrytr31;tr31;Entry evaluation for truck
+arrive_at_Silo2;Silo2;Silo for truck load
+arrive_at_Silo16;Silo16;Silo for truck load
+assign_trs_Pcp6;tr37;Pickup plan trucks assignment
+assign_trs_Pcp8;tr46;Pickup plan trucks assignment
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+weigh_empty_trucktr22;tr22;Empty truck weighed
+weigh_empty_trucktr31;tr31;Empty truck weighed
+input_tally_sheettr14;tr14;Tally Sheet for pickup plan
+print_w_tickettr14;tr14;Printed weighing ticket for pickup plan
+assign_trs_Pcp4;tr27;Pickup plan trucks assignment
+load_trucktr8;tr8;cargo load for truck
+weigh_empty_trucktr19;tr19;Empty truck weighed
+eval_trs_exittr14_Pcp6;tr14;Exit evaluation for truck
+arrive_at_Silo2;Silo2;Silo for truck load
+check_abnormalitytr31;tr31;truck exmained for empty weight abnormality
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+load_trucktr26;tr26;cargo load for truck
+check_abnormalitytr22;tr22;truck exmained for empty weight abnormality
+trs_entrytr16;tr16;Entry evaluation for truck
+weigh_empty_trucktr45;tr45;Empty truck weighed
+check_abnormalitytr5;tr5;truck exmained for empty weight abnormality
+trs_entrytr12;tr12;Entry evaluation for truck
+assign_trs_Pcp8;tr23;Pickup plan trucks assignment
+check_abnormalitytr38;tr38;truck exmained for empty weight abnormality
+weigh_loaded_trucktr28;tr28;Truck weighed
+weigh_loaded_trucktr36;tr36;Truck weighed
+weigh_loaded_trucktr49;tr49;Truck weighed
+weigh_empty_trucktr16;tr16;Empty truck weighed
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+weigh_empty_trucktr12;tr12;Empty truck weighed
+trs_entrytr35;tr35;Entry evaluation for truck
+fail_weightr5;tr5;Truck failed to be weighed
+check_abnormalitytr19;tr19;truck exmained for empty weight abnormality
+load_trucktr13;tr13;cargo load for truck
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+arrive_at_Silo8;Silo8;Silo for truck load
+fail_weightr38;tr38;Truck failed to be weighed
+weigh_loaded_trucktr18;tr18;Truck weighed
+trs_entrytr2;tr2;Entry evaluation for truck
+weigh_empty_trucktr2;tr2;Empty truck weighed
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+fail_weightr31;tr31;Truck failed to be weighed
+check_abnormalitytr12;tr12;truck exmained for empty weight abnormality
+fail_weightr2;tr2;Truck failed to be weighed
+assign_trs_Pcp8;tr41;Pickup plan trucks assignment
+fail_weightr22;tr22;Truck failed to be weighed
+weigh_empty_trucktr35;tr35;Empty truck weighed
+load_trucktr1;tr1;cargo load for truck
+print_w_tickettr18;tr18;Printed weighing ticket for pickup plan
+input_tally_sheettr18;tr18;Tally Sheet for pickup plan
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+input_tally_sheettr28;tr28;Tally Sheet for pickup plan
+print_w_tickettr28;tr28;Printed weighing ticket for pickup plan
+fail_weightr19;tr19;Truck failed to be weighed
+load_trucktr39;tr39;cargo load for truck
+eval_trs_exittr28_Pcp1;tr28;Exit evaluation for truck
+assign_trs_Pcp2;tr38;Pickup plan trucks assignment
+trs_entrytr11;tr11;Entry evaluation for truck
+trs_entrytr42;tr42;Entry evaluation for truck
+input_tally_sheettr36;tr36;Tally Sheet for pickup plan
+print_w_tickettr36;tr36;Printed weighing ticket for pickup plan
+trs_entrytr4;tr4;Entry evaluation for truck
+trs_entrytr24;tr24;Entry evaluation for truck
+eval_trs_exittr18_Pcp9;tr18;Exit evaluation for truck
+fail_weightr16;tr16;Truck failed to be weighed
+weigh_empty_trucktr42;tr42;Empty truck weighed
+weigh_empty_trucktr11;tr11;Empty truck weighed
+weigh_empty_trucktr4;tr4;Empty truck weighed
+check_abnormalitytr42;tr42;truck exmained for empty weight abnormality
+print_w_tickettr49;tr49;Printed weighing ticket for pickup plan
+input_tally_sheettr49;tr49;Tally Sheet for pickup plan
+check_abnormalitytr35;tr35;truck exmained for empty weight abnormality
+assign_trs_Pcp2;tr14;Pickup plan trucks assignment
+trs_entrytr47;tr47;Entry evaluation for truck
+eval_trs_exittr36_Pcp3;tr36;Exit evaluation for truck
+weigh_empty_trucktr24;tr24;Empty truck weighed
+fail_weightr35;tr35;Truck failed to be weighed
+arrive_at_Silo6;Silo6;Silo for truck load
+assign_trs_Pcp6;tr2;Pickup plan trucks assignment
+check_abnormalitytr11;tr11;truck exmained for empty weight abnormality
+eval_trs_exittr49_Pcp2;tr49;Exit evaluation for truck
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+weigh_empty_trucktr47;tr47;Empty truck weighed
+trs_entrytr37;tr37;Entry evaluation for truck
+arrive_at_Silo2;Silo2;Silo for truck load
+assign_trs_Pcp7;tr5;Pickup plan trucks assignment
+assign_trs_Pcp7;tr22;Pickup plan trucks assignment
+assign_trs_Pcp7;tr31;Pickup plan trucks assignment
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+trs_entrytr33;tr33;Entry evaluation for truck
+load_trucktr12;tr12;cargo load for truck
+trs_entrytr32;tr32;Entry evaluation for truck
+arrive_at_Silo8;Silo8;Silo for truck load
+weigh_empty_trucktr33;tr33;Empty truck weighed
+weigh_empty_trucktr37;tr37;Empty truck weighed
+trs_entrytr29;tr29;Entry evaluation for truck
+check_abnormalitytr47;tr47;truck exmained for empty weight abnormality
+assign_trs_Pcp10;tr16;Pickup plan trucks assignment
+assign_trs_Pcp8;tr18;Pickup plan trucks assignment
+determine_continuanceSilo6;Silo6;silo evaluated for pickup continuance
+assign_trs_Pcp8;tr19;Pickup plan trucks assignment
+load_trucktr45;tr45;cargo load for truck
+trs_entrytr44;tr44;Entry evaluation for truck
+weigh_empty_trucktr29;tr29;Empty truck weighed
+weigh_empty_trucktr32;tr32;Empty truck weighed
+fail_weightr11;tr11;Truck failed to be weighed
+check_abnormalitytr33;tr33;truck exmained for empty weight abnormality
+arrive_at_Silo10;Silo10;Silo for truck load
+trs_entrytr34;tr34;Entry evaluation for truck
+trs_entrytr17;tr17;Entry evaluation for truck
+arrive_at_Silo1;Silo1;Silo for truck load
+weigh_empty_trucktr17;tr17;Empty truck weighed
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+weigh_empty_trucktr34;tr34;Empty truck weighed
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+load_trucktr24;tr24;cargo load for truck
+load_trucktr42;tr42;cargo load for truck
+trs_entrytr27;tr27;Entry evaluation for truck
+load_trucktr47;tr47;cargo load for truck
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+weigh_empty_trucktr44;tr44;Empty truck weighed
+check_abnormalitytr44;tr44;truck exmained for empty weight abnormality
+fail_weightr4;tr4;Truck failed to be weighed
+check_abnormalitytr29;tr29;truck exmained for empty weight abnormality
+check_abnormalitytr32;tr32;truck exmained for empty weight abnormality
+assign_trs_Pcp2;tr35;Pickup plan trucks assignment
+assign_trs_Pcp7;tr11;Pickup plan trucks assignment
+fail_weightr29;tr29;Truck failed to be weighed
+trs_entrytr43;tr43;Entry evaluation for truck
+trs_entrytr6;tr6;Entry evaluation for truck
+check_abnormalitytr17;tr17;truck exmained for empty weight abnormality
+check_abnormalitytr34;tr34;truck exmained for empty weight abnormality
+weigh_empty_trucktr43;tr43;Empty truck weighed
+weigh_empty_trucktr6;tr6;Empty truck weighed
+weigh_empty_trucktr27;tr27;Empty truck weighed
+trs_entrytr7;tr7;Entry evaluation for truck
+trs_entrytr3;tr3;Entry evaluation for truck
+arrive_at_Silo1;Silo1;Silo for truck load
+assign_trs_Pcp7;tr36;Pickup plan trucks assignment
+fail_weightr44;tr44;Truck failed to be weighed
+assign_trs_Pcp7;tr28;Pickup plan trucks assignment
+trs_entrytr20;tr20;Entry evaluation for truck
+arrive_at_Silo2;Silo2;Silo for truck load
+weigh_empty_trucktr20;tr20;Empty truck weighed
+check_abnormalitytr20;tr20;truck exmained for empty weight abnormality
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+fail_weightr17;tr17;Truck failed to be weighed
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+arrive_at_Silo10;Silo10;Silo for truck load
+trs_entrytr31;tr31;Entry evaluation for truck
+load_trucktr37;tr37;cargo load for truck
+trs_entrytr15;tr15;Entry evaluation for truck
+weigh_empty_trucktr7;tr7;Empty truck weighed
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+weigh_empty_trucktr3;tr3;Empty truck weighed
+check_abnormalitytr27;tr27;truck exmained for empty weight abnormality
+check_abnormalitytr6;tr6;truck exmained for empty weight abnormality
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+load_trucktr33;tr33;cargo load for truck
+weigh_empty_trucktr15;tr15;Empty truck weighed
+fail_weightr7;tr7;Truck failed to be weighed
+fail_weightr3;tr3;Truck failed to be weighed
+check_abnormalitytr15;tr15;truck exmained for empty weight abnormality
+weigh_loaded_trucktr50;tr50;Truck weighed
+trs_entrytr41;tr41;Entry evaluation for truck
+assign_trs_Pcp6;tr44;Pickup plan trucks assignment
+weigh_empty_trucktr31;tr31;Empty truck weighed
+check_abnormalitytr31;tr31;truck exmained for empty weight abnormality
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+fail_weightr20;tr20;Truck failed to be weighed
+trs_entrytr16;tr16;Entry evaluation for truck
+load_trucktr32;tr32;cargo load for truck
+assign_trs_Pcp7;tr4;Pickup plan trucks assignment
+arrive_at_Silo10;Silo10;Silo for truck load
+weigh_empty_trucktr16;tr16;Empty truck weighed
+trs_entrytr19;tr19;Entry evaluation for truck
+assign_trs_Pcp8;tr29;Pickup plan trucks assignment
+arrive_at_Silo1;Silo1;Silo for truck load
+weigh_empty_trucktr19;tr19;Empty truck weighed
+assign_trs_Pcp7;tr49;Pickup plan trucks assignment
+check_abnormalitytr19;tr19;truck exmained for empty weight abnormality
+determine_continuanceSilo1;Silo1;silo evaluated for pickup continuance
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+trs_entrytr40;tr40;Entry evaluation for truck
+fail_weightr31;tr31;Truck failed to be weighed
+arrive_at_Silo2;Silo2;Silo for truck load
+weigh_loaded_trucktr10;tr10;Truck weighed
+fail_weightr43;tr43;Truck failed to be weighed
+weigh_empty_trucktr41;tr41;Empty truck weighed
+trs_entrytr46;tr46;Entry evaluation for truck
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+load_trucktr6;tr6;cargo load for truck
+fail_weightr15;tr15;Truck failed to be weighed
+weigh_empty_trucktr46;tr46;Empty truck weighed
+load_trucktr27;tr27;cargo load for truck
+assign_trs_Pcp8;tr3;Pickup plan trucks assignment
+assign_trs_Pcp10;tr17;Pickup plan trucks assignment
+load_trucktr34;tr34;cargo load for truck
+print_w_tickettr10;tr10;Printed weighing ticket for pickup plan
+input_tally_sheettr10;tr10;Tally Sheet for pickup plan
+fail_weightr19;tr19;Truck failed to be weighed
+input_tally_sheettr50;tr50;Tally Sheet for pickup plan
+print_w_tickettr50;tr50;Printed weighing ticket for pickup plan
+weigh_empty_trucktr40;tr40;Empty truck weighed
+eval_trs_exittr50_Pcp4;tr50;Exit evaluation for truck
+fail_weightr16;tr16;Truck failed to be weighed
+eval_trs_exittr10_Pcp6;tr10;Exit evaluation for truck
+assign_trs_Pcp8;tr31;Pickup plan trucks assignment
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+assign_trs_Pcp2;tr7;Pickup plan trucks assignment
+fail_weightr41;tr41;Truck failed to be weighed
+trs_entrytr30;tr30;Entry evaluation for truck
+trs_entrytr11;tr11;Entry evaluation for truck
+trs_entrytr23;tr23;Entry evaluation for truck
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+weigh_loaded_trucktr26;tr26;Truck weighed
+weigh_loaded_trucktr9;tr9;Truck weighed
+weigh_empty_trucktr23;tr23;Empty truck weighed
+trs_entrytr2;tr2;Entry evaluation for truck
+weigh_empty_trucktr2;tr2;Empty truck weighed
+check_abnormalitytr23;tr23;truck exmained for empty weight abnormality
+weigh_empty_trucktr11;tr11;Empty truck weighed
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+arrive_at_Silo16;Silo16;Silo for truck load
+fail_weightr40;tr40;Truck failed to be weighed
+assign_trs_Pcp2;tr19;Pickup plan trucks assignment
+weigh_empty_trucktr30;tr30;Empty truck weighed
+check_abnormalitytr30;tr30;truck exmained for empty weight abnormality
+weigh_loaded_trucktr45;tr45;Truck weighed
+weigh_loaded_trucktr47;tr47;Truck weighed
+trs_entrytr36;tr36;Entry evaluation for truck
+assign_trs_Pcp7;tr43;Pickup plan trucks assignment
+assign_trs_Pcp8;tr20;Pickup plan trucks assignment
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+load_trucktr46;tr46;cargo load for truck
+trs_entrytr48;tr48;Entry evaluation for truck
+weigh_empty_trucktr48;tr48;Empty truck weighed
+check_abnormalitytr11;tr11;truck exmained for empty weight abnormality
+input_tally_sheettr45;tr45;Tally Sheet for pickup plan
+print_w_tickettr45;tr45;Printed weighing ticket for pickup plan
+arrive_at_Silo16;Silo16;Silo for truck load
+trs_entrytr5;tr5;Entry evaluation for truck
+assign_trs_Pcp6;tr10;Pickup plan trucks assignment
+assign_trs_Pcp10;tr16;Pickup plan trucks assignment
+input_tally_sheettr47;tr47;Tally Sheet for pickup plan
+print_w_tickettr47;tr47;Printed weighing ticket for pickup plan
+assign_trs_Pcp8;tr41;Pickup plan trucks assignment
+weigh_empty_trucktr36;tr36;Empty truck weighed
+check_abnormalitytr36;tr36;truck exmained for empty weight abnormality
+eval_trs_exittr47_Pcp4;tr47;Exit evaluation for truck
+assign_trs_Pcp8;tr50;Pickup plan trucks assignment
+fail_weightr2;tr2;Truck failed to be weighed
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+fail_weightr36;tr36;Truck failed to be weighed
+arrive_at_Silo8;Silo8;Silo for truck load
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+trs_entrytr38;tr38;Entry evaluation for truck
+weigh_empty_trucktr5;tr5;Empty truck weighed
+trs_entrytr18;tr18;Entry evaluation for truck
+eval_trs_exittr45_Pcp2;tr45;Exit evaluation for truck
+weigh_empty_trucktr38;tr38;Empty truck weighed
+weigh_loaded_trucktr12;tr12;Truck weighed
+check_abnormalitytr5;tr5;truck exmained for empty weight abnormality
+weigh_empty_trucktr18;tr18;Empty truck weighed
+assign_trs_Pcp6;tr40;Pickup plan trucks assignment
+assign_trs_Pcp10;tr15;Pickup plan trucks assignment
+check_abnormalitytr18;tr18;truck exmained for empty weight abnormality
+check_abnormalitytr38;tr38;truck exmained for empty weight abnormality
+input_tally_sheettr12;tr12;Tally Sheet for pickup plan
+print_w_tickettr12;tr12;Printed weighing ticket for pickup plan
+load_trucktr23;tr23;cargo load for truck
+load_trucktr30;tr30;cargo load for truck
+arrive_at_Silo8;Silo8;Silo for truck load
+weigh_loaded_trucktr42;tr42;Truck weighed
+assign_trs_Pcp8;tr47;Pickup plan trucks assignment
+assign_trs_Pcp8;tr36;Pickup plan trucks assignment
+trs_entrytr49;tr49;Entry evaluation for truck
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+load_trucktr11;tr11;cargo load for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+weigh_empty_trucktr49;tr49;Empty truck weighed
+fail_weightr38;tr38;Truck failed to be weighed
+arrive_at_Silo8;Silo8;Silo for truck load
+eval_trs_exittr12_Pcp6;tr12;Exit evaluation for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+trs_entrytr17;tr17;Entry evaluation for truck
+trs_entrytr44;tr44;Entry evaluation for truck
+trs_entrytr35;tr35;Entry evaluation for truck
+weigh_empty_trucktr35;tr35;Empty truck weighed
+weigh_empty_trucktr44;tr44;Empty truck weighed
+check_abnormalitytr35;tr35;truck exmained for empty weight abnormality
+weigh_empty_trucktr17;tr17;Empty truck weighed
+check_abnormalitytr17;tr17;truck exmained for empty weight abnormality
+check_abnormalitytr44;tr44;truck exmained for empty weight abnormality
+trs_entrytr29;tr29;Entry evaluation for truck
+input_tally_sheettr42;tr42;Tally Sheet for pickup plan
+print_w_tickettr42;tr42;Printed weighing ticket for pickup plan
+assign_trs_Pcp7;tr45;Pickup plan trucks assignment
+fail_weightr35;tr35;Truck failed to be weighed
+load_trucktr5;tr5;cargo load for truck
+load_trucktr48;tr48;cargo load for truck
+check_abnormalitytr49;tr49;truck exmained for empty weight abnormality
+weigh_loaded_trucktr33;tr33;Truck weighed
+load_trucktr18;tr18;cargo load for truck
+assign_trs_Pcp8;tr2;Pickup plan trucks assignment
+fail_weightr17;tr17;Truck failed to be weighed
+fail_weightr49;tr49;Truck failed to be weighed
+weigh_loaded_trucktr8;tr8;Truck weighed
+weigh_loaded_trucktr13;tr13;Truck weighed
+eval_trs_exittr42_Pcp7;tr42;Exit evaluation for truck
+weigh_empty_trucktr29;tr29;Empty truck weighed
+trs_entrytr3;tr3;Entry evaluation for truck
+input_tally_sheettr33;tr33;Tally Sheet for pickup plan
+print_w_tickettr33;tr33;Printed weighing ticket for pickup plan
+trs_entrytr10;tr10;Entry evaluation for truck
+eval_trs_exittr33_Pcp4;tr33;Exit evaluation for truck
+arrive_at_Silo2;Silo2;Silo for truck load
+weigh_empty_trucktr10;tr10;Empty truck weighed
+trs_entrytr14;tr14;Entry evaluation for truck
+weigh_empty_trucktr14;tr14;Empty truck weighed
+weigh_empty_trucktr3;tr3;Empty truck weighed
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+check_abnormalitytr14;tr14;truck exmained for empty weight abnormality
+assign_trs_Pcp6;tr12;Pickup plan trucks assignment
+load_trucktr44;tr44;cargo load for truck
+check_abnormalitytr10;tr10;truck exmained for empty weight abnormality
+weigh_loaded_trucktr25;tr25;Truck weighed
+trs_entrytr4;tr4;Entry evaluation for truck
+trs_entrytr28;tr28;Entry evaluation for truck
+check_abnormalitytr29;tr29;truck exmained for empty weight abnormality
+trs_entrytr41;tr41;Entry evaluation for truck
+weigh_empty_trucktr28;tr28;Empty truck weighed
+assign_trs_Pcp8;tr49;Pickup plan trucks assignment
+print_w_tickettr8;tr8;Printed weighing ticket for pickup plan
+input_tally_sheettr8;tr8;Tally Sheet for pickup plan
+print_w_tickettr13;tr13;Printed weighing ticket for pickup plan
+input_tally_sheettr13;tr13;Tally Sheet for pickup plan
+input_tally_sheettr25;tr25;Tally Sheet for pickup plan
+print_w_tickettr25;tr25;Printed weighing ticket for pickup plan
+assign_trs_Pcp10;tr38;Pickup plan trucks assignment
+weigh_empty_trucktr41;tr41;Empty truck weighed
+check_abnormalitytr28;tr28;truck exmained for empty weight abnormality
+assign_trs_Pcp6;tr42;Pickup plan trucks assignment
+input_tally_sheettr26;tr26;Tally Sheet for pickup plan
+print_w_tickettr26;tr26;Printed weighing ticket for pickup plan
+print_w_tickettr9;tr9;Printed weighing ticket for pickup plan
+input_tally_sheettr9;tr9;Tally Sheet for pickup plan
+print_w_tickettr21;tr21;Printed weighing ticket for pickup plan
+input_tally_sheettr21;tr21;Tally Sheet for pickup plan
+weigh_loaded_trucktr46;tr46;Truck weighed
+weigh_empty_trucktr4;tr4;Empty truck weighed
+eval_trs_exittr9_Pcp10;tr9;Exit evaluation for truck
+eval_trs_exittr26_Pcp10;tr26;Exit evaluation for truck
+weigh_loaded_trucktr32;tr32;Truck weighed
+eval_trs_exittr8_Pcp6;tr8;Exit evaluation for truck
+check_abnormalitytr3;tr3;truck exmained for empty weight abnormality
+assign_trs_Pcp6;tr33;Pickup plan trucks assignment
+input_tally_sheettr46;tr46;Tally Sheet for pickup plan
+print_w_tickettr46;tr46;Printed weighing ticket for pickup plan
+check_abnormalitytr41;tr41;truck exmained for empty weight abnormality
+eval_trs_exittr21_Pcp6;tr21;Exit evaluation for truck
+eval_trs_exittr13_Pcp8;tr13;Exit evaluation for truck
+fail_weightr29;tr29;Truck failed to be weighed
+fail_weightr14;tr14;Truck failed to be weighed
+trs_entrytr22;tr22;Entry evaluation for truck
+trs_entrytr15;tr15;Entry evaluation for truck
+assign_trs_Pcp7;tr35;Pickup plan trucks assignment
+trs_entrytr31;tr31;Entry evaluation for truck
+eval_trs_exittr25_Pcp10;tr25;Exit evaluation for truck
+weigh_empty_trucktr22;tr22;Empty truck weighed
+eval_trs_exittr46_Pcp8;tr46;Exit evaluation for truck
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+weigh_loaded_trucktr24;tr24;Truck weighed
+weigh_loaded_trucktr37;tr37;Truck weighed
+arrive_at_Silo8;Silo8;Silo for truck load
+print_w_tickettr32;tr32;Printed weighing ticket for pickup plan
+input_tally_sheettr32;tr32;Tally Sheet for pickup plan
+fail_weightr10;tr10;Truck failed to be weighed
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+fail_weightr4;tr4;Truck failed to be weighed
+weigh_empty_trucktr15;tr15;Empty truck weighed
+assign_trs_Pcp7;tr17;Pickup plan trucks assignment
+print_w_tickettr24;tr24;Printed weighing ticket for pickup plan
+input_tally_sheettr24;tr24;Tally Sheet for pickup plan
+check_abnormalitytr15;tr15;truck exmained for empty weight abnormality
+load_trucktr28;tr28;cargo load for truck
+eval_trs_exittr32_Pcp10;tr32;Exit evaluation for truck
+weigh_empty_trucktr31;tr31;Empty truck weighed
+check_abnormalitytr22;tr22;truck exmained for empty weight abnormality
+trs_entrytr16;tr16;Entry evaluation for truck
+input_tally_sheettr37;tr37;Tally Sheet for pickup plan
+print_w_tickettr37;tr37;Printed weighing ticket for pickup plan
+assign_trs_Pcp8;tr26;Pickup plan trucks assignment
+arrive_at_Silo16;Silo16;Silo for truck load
+trs_entrytr45;tr45;Entry evaluation for truck
+weigh_empty_trucktr16;tr16;Empty truck weighed
+weigh_empty_trucktr45;tr45;Empty truck weighed
+eval_trs_exittr37_Pcp6;tr37;Exit evaluation for truck
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+check_abnormalitytr45;tr45;truck exmained for empty weight abnormality
+assign_trs_Pcp6;tr13;Pickup plan trucks assignment
+assign_trs_Pcp6;tr8;Pickup plan trucks assignment
+arrive_at_Silo16;Silo16;Silo for truck load
+eval_trs_exittr24_Pcp10;tr24;Exit evaluation for truck
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+assign_trs_Pcp6;tr10;Pickup plan trucks assignment
+check_abnormalitytr31;tr31;truck exmained for empty weight abnormality
+load_trucktr3;tr3;cargo load for truck
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+trs_entrytr7;tr7;Entry evaluation for truck
+fail_weightr15;tr15;Truck failed to be weighed
+weigh_empty_trucktr7;tr7;Empty truck weighed
+fail_weightr22;tr22;Truck failed to be weighed
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+assign_trs_Pcp8;tr32;Pickup plan trucks assignment
+weigh_loaded_trucktr27;tr27;Truck weighed
+assign_trs_Pcp6;tr29;Pickup plan trucks assignment
+assign_trs_Pcp10;tr15;Pickup plan trucks assignment
+fail_weightr16;tr16;Truck failed to be weighed
+weigh_loaded_trucktr11;tr11;Truck weighed
+assign_trs_Pcp7;tr14;Pickup plan trucks assignment
+load_trucktr41;tr41;cargo load for truck
+assign_trs_Pcp8;tr9;Pickup plan trucks assignment
+assign_trs_Pcp6;tr4;Pickup plan trucks assignment
+assign_trs_Pcp7;tr21;Pickup plan trucks assignment
+assign_trs_Pcp8;tr25;Pickup plan trucks assignment
+arrive_at_Silo8;Silo8;Silo for truck load
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+weigh_loaded_trucktr18;tr18;Truck weighed
+print_w_tickettr27;tr27;Printed weighing ticket for pickup plan
+input_tally_sheettr27;tr27;Tally Sheet for pickup plan
+fail_weightr31;tr31;Truck failed to be weighed
+trs_entrytr2;tr2;Entry evaluation for truck
+assign_trs_Pcp7;tr16;Pickup plan trucks assignment
+print_w_tickettr11;tr11;Printed weighing ticket for pickup plan
+input_tally_sheettr11;tr11;Tally Sheet for pickup plan
+trs_entrytr19;tr19;Entry evaluation for truck
+input_tally_sheettr18;tr18;Tally Sheet for pickup plan
+print_w_tickettr18;tr18;Printed weighing ticket for pickup plan
+assign_trs_Pcp7;tr46;Pickup plan trucks assignment
+assign_trs_Pcp8;tr37;Pickup plan trucks assignment
+weigh_empty_trucktr2;tr2;Empty truck weighed
+weigh_empty_trucktr19;tr19;Empty truck weighed
+eval_trs_exittr27_Pcp4;tr27;Exit evaluation for truck
+fail_weightr7;tr7;Truck failed to be weighed
+eval_trs_exittr18_Pcp8;tr18;Exit evaluation for truck
+eval_trs_exittr11_Pcp7;tr11;Exit evaluation for truck
+check_abnormalitytr19;tr19;truck exmained for empty weight abnormality
+check_abnormalitytr2;tr2;truck exmained for empty weight abnormality
+weigh_loaded_trucktr48;tr48;Truck weighed
+load_trucktr45;tr45;cargo load for truck
+trs_entrytr35;tr35;Entry evaluation for truck
+trs_entrytr43;tr43;Entry evaluation for truck
+weigh_empty_trucktr35;tr35;Empty truck weighed
+assign_trs_Pcp10;tr22;Pickup plan trucks assignment
+print_w_tickettr48;tr48;Printed weighing ticket for pickup plan
+input_tally_sheettr48;tr48;Tally Sheet for pickup plan
+trs_entrytr33;tr33;Entry evaluation for truck
+weigh_empty_trucktr43;tr43;Empty truck weighed
+weigh_loaded_trucktr34;tr34;Truck weighed
+eval_trs_exittr48_Pcp8;tr48;Exit evaluation for truck
+trs_entrytr40;tr40;Entry evaluation for truck
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+check_abnormalitytr35;tr35;truck exmained for empty weight abnormality
+weigh_loaded_trucktr39;tr39;Truck weighed
+weigh_empty_trucktr33;tr33;Empty truck weighed
+weigh_empty_trucktr40;tr40;Empty truck weighed
+print_w_tickettr34;tr34;Printed weighing ticket for pickup plan
+input_tally_sheettr34;tr34;Tally Sheet for pickup plan
+assign_trs_Pcp8;tr27;Pickup plan trucks assignment
+trs_entrytr20;tr20;Entry evaluation for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+assign_trs_Pcp6;tr7;Pickup plan trucks assignment
+weigh_loaded_trucktr44;tr44;Truck weighed
+weigh_empty_trucktr20;tr20;Empty truck weighed
+arrive_at_Silo6;Silo6;Silo for truck load
+assign_trs_Pcp7;tr24;Pickup plan trucks assignment
+trs_entrytr36;tr36;Entry evaluation for truck
+assign_trs_Pcp10;tr31;Pickup plan trucks assignment
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+assign_trs_Pcp10;tr18;Pickup plan trucks assignment
+input_tally_sheettr39;tr39;Tally Sheet for pickup plan
+print_w_tickettr39;tr39;Printed weighing ticket for pickup plan
+check_abnormalitytr33;tr33;truck exmained for empty weight abnormality
+trs_entrytr13;tr13;Entry evaluation for truck
+eval_trs_exittr34_Pcp10;tr34;Exit evaluation for truck
+fail_weightr43;tr43;Truck failed to be weighed
+weigh_empty_trucktr13;tr13;Empty truck weighed
+check_abnormalitytr13;tr13;truck exmained for empty weight abnormality
+assign_trs_Pcp10;tr11;Pickup plan trucks assignment
+check_abnormalitytr20;tr20;truck exmained for empty weight abnormality
+load_trucktr2;tr2;cargo load for truck
+assign_trs_Pcp10;tr48;Pickup plan trucks assignment
+determine_continuanceSilo6;Silo6;silo evaluated for pickup continuance
+eval_trs_exittr39_Pcp7;tr39;Exit evaluation for truck
+weigh_empty_trucktr36;tr36;Empty truck weighed
+input_tally_sheettr44;tr44;Tally Sheet for pickup plan
+print_w_tickettr44;tr44;Printed weighing ticket for pickup plan
+load_trucktr19;tr19;cargo load for truck
+fail_weightr20;tr20;Truck failed to be weighed
+fail_weightr40;tr40;Truck failed to be weighed
+trs_entrytr42;tr42;Entry evaluation for truck
+arrive_at_Silo8;Silo8;Silo for truck load
+trs_entrytr49;tr49;Entry evaluation for truck
+weigh_empty_trucktr42;tr42;Empty truck weighed
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+load_trucktr35;tr35;cargo load for truck
+weigh_empty_trucktr49;tr49;Empty truck weighed
+eval_trs_exittr44_Pcp6;tr44;Exit evaluation for truck
+check_abnormalitytr49;tr49;truck exmained for empty weight abnormality
+trs_entrytr16;tr16;Entry evaluation for truck
+assign_trs_Pcp8;tr43;Pickup plan trucks assignment
+trs_entrytr50;tr50;Entry evaluation for truck
+weigh_empty_trucktr16;tr16;Empty truck weighed
+arrive_at_Silo2;Silo2;Silo for truck load
+check_abnormalitytr36;tr36;truck exmained for empty weight abnormality
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+trs_entrytr47;tr47;Entry evaluation for truck
+arrive_at_Silo2;Silo2;Silo for truck load
+load_trucktr33;tr33;cargo load for truck
+weigh_empty_trucktr47;tr47;Empty truck weighed
+check_abnormalitytr42;tr42;truck exmained for empty weight abnormality
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+assign_trs_Pcp8;tr40;Pickup plan trucks assignment
+check_abnormalitytr47;tr47;truck exmained for empty weight abnormality
+load_trucktr13;tr13;cargo load for truck
+trs_entrytr21;tr21;Entry evaluation for truck
+weigh_empty_trucktr50;tr50;Empty truck weighed
+fail_weightr36;tr36;Truck failed to be weighed
+check_abnormalitytr50;tr50;truck exmained for empty weight abnormality
+fail_weightr49;tr49;Truck failed to be weighed
+weigh_loaded_trucktr23;tr23;Truck weighed
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+weigh_empty_trucktr21;tr21;Empty truck weighed
+assign_trs_Pcp8;tr34;Pickup plan trucks assignment
+assign_trs_Pcp7;tr44;Pickup plan trucks assignment
+assign_trs_Pcp8;tr39;Pickup plan trucks assignment
+input_tally_sheettr23;tr23;Tally Sheet for pickup plan
+print_w_tickettr23;tr23;Printed weighing ticket for pickup plan
+trs_entrytr12;tr12;Entry evaluation for truck
+weigh_loaded_trucktr1;tr1;Truck weighed
+weigh_empty_trucktr12;tr12;Empty truck weighed
+fail_weightr42;tr42;Truck failed to be weighed
+weigh_loaded_trucktr28;tr28;Truck weighed
+trs_entrytr37;tr37;Entry evaluation for truck
+eval_trs_exittr23_Pcp8;tr23;Exit evaluation for truck
+trs_entrytr46;tr46;Entry evaluation for truck
+print_w_tickettr1;tr1;Printed weighing ticket for pickup plan
+input_tally_sheettr1;tr1;Tally Sheet for pickup plan
+weigh_empty_trucktr46;tr46;Empty truck weighed
+fail_weightr16;tr16;Truck failed to be weighed
+check_abnormalitytr21;tr21;truck exmained for empty weight abnormality
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+fail_weightr47;tr47;Truck failed to be weighed
+weigh_loaded_trucktr6;tr6;Truck weighed
+eval_trs_exittr1_Pcp6;tr1;Exit evaluation for truck
+assign_trs_Pcp10;tr49;Pickup plan trucks assignment
+trs_entrytr14;tr14;Entry evaluation for truck
+fail_weightr46;tr46;Truck failed to be weighed
+fail_weightr50;tr50;Truck failed to be weighed
+assign_trs_Pcp8;tr36;Pickup plan trucks assignment
+fail_weightr21;tr21;Truck failed to be weighed
+weigh_empty_trucktr37;tr37;Empty truck weighed
+check_abnormalitytr12;tr12;truck exmained for empty weight abnormality
+check_abnormalitytr37;tr37;truck exmained for empty weight abnormality
+trs_entrytr4;tr4;Entry evaluation for truck
+trs_entrytr38;tr38;Entry evaluation for truck
+weigh_loaded_trucktr3;tr3;Truck weighed
+weigh_empty_trucktr38;tr38;Empty truck weighed
+trs_entrytr48;tr48;Entry evaluation for truck
+weigh_empty_trucktr4;tr4;Empty truck weighed
+input_tally_sheettr28;tr28;Tally Sheet for pickup plan
+print_w_tickettr28;tr28;Printed weighing ticket for pickup plan
+weigh_empty_trucktr14;tr14;Empty truck weighed
+check_abnormalitytr4;tr4;truck exmained for empty weight abnormality
+assign_trs_Pcp10;tr42;Pickup plan trucks assignment
+fail_weightr37;tr37;Truck failed to be weighed
+check_abnormalitytr14;tr14;truck exmained for empty weight abnormality
+print_w_tickettr6;tr6;Printed weighing ticket for pickup plan
+input_tally_sheettr6;tr6;Tally Sheet for pickup plan
+trs_entrytr26;tr26;Entry evaluation for truck
+assign_trs_Pcp10;tr47;Pickup plan trucks assignment
+eval_trs_exittr28_Pcp7;tr28;Exit evaluation for truck
+assign_trs_Pcp8;tr16;Pickup plan trucks assignment
+trs_entrytr10;tr10;Entry evaluation for truck
+assign_trs_Pcp7;tr20;Pickup plan trucks assignment
+check_abnormalitytr38;tr38;truck exmained for empty weight abnormality
+assign_trs_Pcp8;tr50;Pickup plan trucks assignment
+assign_trs_Pcp8;tr21;Pickup plan trucks assignment
+weigh_empty_trucktr48;tr48;Empty truck weighed
+fail_weightr12;tr12;Truck failed to be weighed
+eval_trs_exittr6_Pcp6;tr6;Exit evaluation for truck
+trs_entrytr27;tr27;Entry evaluation for truck
+weigh_empty_trucktr26;tr26;Empty truck weighed
+trs_entrytr17;tr17;Entry evaluation for truck
+check_abnormalitytr26;tr26;truck exmained for empty weight abnormality
+input_tally_sheettr3;tr3;Tally Sheet for pickup plan
+print_w_tickettr3;tr3;Printed weighing ticket for pickup plan
+assign_trs_Pcp10;tr46;Pickup plan trucks assignment
+assign_trs_Pcp8;tr1;Pickup plan trucks assignment
+weigh_empty_trucktr10;tr10;Empty truck weighed
+check_abnormalitytr48;tr48;truck exmained for empty weight abnormality
+weigh_empty_trucktr17;tr17;Empty truck weighed
+weigh_empty_trucktr27;tr27;Empty truck weighed
+weigh_loaded_trucktr2;tr2;Truck weighed
+check_abnormalitytr27;tr27;truck exmained for empty weight abnormality
+check_abnormalitytr10;tr10;truck exmained for empty weight abnormality
+arrive_at_Silo10;Silo10;Silo for truck load
+eval_trs_exittr3_Pcp8;tr3;Exit evaluation for truck
+arrive_at_Silo2;Silo2;Silo for truck load
+check_abnormalitytr17;tr17;truck exmained for empty weight abnormality
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+trs_entrytr39;tr39;Entry evaluation for truck
+load_trucktr4;tr4;cargo load for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+trs_entrytr34;tr34;Entry evaluation for truck
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+fail_weightr48;tr48;Truck failed to be weighed
+load_trucktr38;tr38;cargo load for truck
+weigh_empty_trucktr39;tr39;Empty truck weighed
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+load_trucktr26;tr26;cargo load for truck
+fail_weightr10;tr10;Truck failed to be weighed
+assign_trs_Pcp10;tr23;Pickup plan trucks assignment
+arrive_at_Silo8;Silo8;Silo for truck load
+fail_weightr17;tr17;Truck failed to be weighed
+trs_entrytr32;tr32;Entry evaluation for truck
+weigh_empty_trucktr32;tr32;Empty truck weighed
+weigh_empty_trucktr34;tr34;Empty truck weighed
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+check_abnormalitytr39;tr39;truck exmained for empty weight abnormality
+load_trucktr14;tr14;cargo load for truck
+check_abnormalitytr32;tr32;truck exmained for empty weight abnormality
+check_abnormalitytr34;tr34;truck exmained for empty weight abnormality
+trs_entrytr7;tr7;Entry evaluation for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+trs_entrytr49;tr49;Entry evaluation for truck
+load_trucktr27;tr27;cargo load for truck
+weigh_empty_trucktr49;tr49;Empty truck weighed
+fail_weightr39;tr39;Truck failed to be weighed
+trs_entrytr9;tr9;Entry evaluation for truck
+weigh_empty_trucktr7;tr7;Empty truck weighed
+fail_weightr34;tr34;Truck failed to be weighed
+trs_entrytr31;tr31;Entry evaluation for truck
+trs_entrytr47;tr47;Entry evaluation for truck
+trs_entrytr24;tr24;Entry evaluation for truck
+weigh_empty_trucktr9;tr9;Empty truck weighed
+check_abnormalitytr7;tr7;truck exmained for empty weight abnormality
+check_abnormalitytr9;tr9;truck exmained for empty weight abnormality
+check_abnormalitytr49;tr49;truck exmained for empty weight abnormality
+trs_entrytr36;tr36;Entry evaluation for truck
+weigh_empty_trucktr47;tr47;Empty truck weighed
+trs_entrytr15;tr15;Entry evaluation for truck
+weigh_empty_trucktr31;tr31;Empty truck weighed
+weigh_empty_trucktr36;tr36;Empty truck weighed
+weigh_empty_trucktr15;tr15;Empty truck weighed
+trs_entrytr25;tr25;Entry evaluation for truck
+weigh_loaded_trucktr45;tr45;Truck weighed
+trs_entrytr29;tr29;Entry evaluation for truck
+trs_entrytr1;tr1;Entry evaluation for truck
+fail_weightr7;tr7;Truck failed to be weighed
+trs_entrytr20;tr20;Entry evaluation for truck
+weigh_empty_trucktr25;tr25;Empty truck weighed
+trs_entrytr8;tr8;Entry evaluation for truck
+weigh_empty_trucktr20;tr20;Empty truck weighed
+check_abnormalitytr36;tr36;truck exmained for empty weight abnormality
+weigh_empty_trucktr24;tr24;Empty truck weighed
+check_abnormalitytr31;tr31;truck exmained for empty weight abnormality
+weigh_empty_trucktr8;tr8;Empty truck weighed
+weigh_empty_trucktr1;tr1;Empty truck weighed
+trs_entrytr50;tr50;Entry evaluation for truck
+check_abnormalitytr15;tr15;truck exmained for empty weight abnormality
+trs_entrytr11;tr11;Entry evaluation for truck
+check_abnormalitytr20;tr20;truck exmained for empty weight abnormality
+weigh_loaded_trucktr5;tr5;Truck weighed
+check_abnormalitytr47;tr47;truck exmained for empty weight abnormality
+arrive_at_Silo16;Silo16;Silo for truck load
+weigh_empty_trucktr29;tr29;Empty truck weighed
+check_abnormalitytr29;tr29;truck exmained for empty weight abnormality
+fail_weightr47;tr47;Truck failed to be weighed
+fail_weightr9;tr9;Truck failed to be weighed
+fail_weightr49;tr49;Truck failed to be weighed
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+fail_weightr36;tr36;Truck failed to be weighed
+check_abnormalitytr25;tr25;truck exmained for empty weight abnormality
+trs_entrytr16;tr16;Entry evaluation for truck
+check_abnormalitytr24;tr24;truck exmained for empty weight abnormality
+weigh_empty_trucktr11;tr11;Empty truck weighed
+check_abnormalitytr8;tr8;truck exmained for empty weight abnormality
+print_w_tickettr45;tr45;Printed weighing ticket for pickup plan
+input_tally_sheettr45;tr45;Tally Sheet for pickup plan
+check_abnormalitytr1;tr1;truck exmained for empty weight abnormality
+fail_weightr31;tr31;Truck failed to be weighed
+weigh_empty_trucktr50;tr50;Empty truck weighed
+fail_weightr20;tr20;Truck failed to be weighed
+check_abnormalitytr50;tr50;truck exmained for empty weight abnormality
+fail_weightr29;tr29;Truck failed to be weighed
+weigh_loaded_trucktr33;tr33;Truck weighed
+arrive_at_Silo2;Silo2;Silo for truck load
+eval_trs_exittr45_Pcp7;tr45;Exit evaluation for truck
+load_trucktr32;tr32;cargo load for truck
+trs_entrytr18;tr18;Entry evaluation for truck
+weigh_empty_trucktr16;tr16;Empty truck weighed
+print_w_tickettr5;tr5;Printed weighing ticket for pickup plan
+input_tally_sheettr5;tr5;Tally Sheet for pickup plan
+check_abnormalitytr11;tr11;truck exmained for empty weight abnormality
+check_abnormalitytr16;tr16;truck exmained for empty weight abnormality
+arrive_at_Silo16;Silo16;Silo for truck load
+fail_weightr25;tr25;Truck failed to be weighed
+weigh_empty_trucktr18;tr18;Empty truck weighed
+determine_continuanceSilo2;Silo2;silo evaluated for pickup continuance
+load_trucktr8;tr8;cargo load for truck
+arrive_at_Silo10;Silo10;Silo for truck load
+check_abnormalitytr18;tr18;truck exmained for empty weight abnormality
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+fail_weightr50;tr50;Truck failed to be weighed
+eval_trs_exittr5_Pcp7;tr5;Exit evaluation for truck
+load_trucktr15;tr15;cargo load for truck
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+weigh_loaded_trucktr30;tr30;Truck weighed
+load_trucktr1;tr1;cargo load for truck
+print_w_tickettr30;tr30;Printed weighing ticket for pickup plan
+input_tally_sheettr30;tr30;Tally Sheet for pickup plan
+arrive_at_Silo8;Silo8;Silo for truck load
+trs_entrytr22;tr22;Entry evaluation for truck
+weigh_empty_trucktr22;tr22;Empty truck weighed
+check_abnormalitytr22;tr22;truck exmained for empty weight abnormality
+input_tally_sheettr33;tr33;Tally Sheet for pickup plan
+print_w_tickettr33;tr33;Printed weighing ticket for pickup plan
+arrive_at_Silo10;Silo10;Silo for truck load
+arrive_at_Silo16;Silo16;Silo for truck load
+fail_weightr22;tr22;Truck failed to be weighed
+eval_trs_exittr33_Pcp6;tr33;Exit evaluation for truck
+eval_trs_exittr30_Pcp7;tr30;Exit evaluation for truck
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+load_trucktr11;tr11;cargo load for truck
+trs_entrytr40;tr40;Entry evaluation for truck
+trs_entrytr23;tr23;Entry evaluation for truck
+weigh_empty_trucktr40;tr40;Empty truck weighed
+trs_entrytr43;tr43;Entry evaluation for truck
+weigh_empty_trucktr23;tr23;Empty truck weighed
+check_abnormalitytr40;tr40;truck exmained for empty weight abnormality
+trs_entrytr46;tr46;Entry evaluation for truck
+check_abnormalitytr23;tr23;truck exmained for empty weight abnormality
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+weigh_empty_trucktr43;tr43;Empty truck weighed
+weigh_empty_trucktr46;tr46;Empty truck weighed
+arrive_at_Silo10;Silo10;Silo for truck load
+load_trucktr24;tr24;cargo load for truck
+check_abnormalitytr46;tr46;truck exmained for empty weight abnormality
+load_trucktr16;tr16;cargo load for truck
+check_abnormalitytr43;tr43;truck exmained for empty weight abnormality
+fail_weightr40;tr40;Truck failed to be weighed
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+load_trucktr18;tr18;cargo load for truck
+fail_weightr46;tr46;Truck failed to be weighed
+trs_entrytr21;tr21;Entry evaluation for truck
+arrive_at_Silo10;Silo10;Silo for truck load
+trs_entrytr42;tr42;Entry evaluation for truck
+weigh_empty_trucktr21;tr21;Empty truck weighed
+trs_entrytr44;tr44;Entry evaluation for truck
+weigh_empty_trucktr44;tr44;Empty truck weighed
+check_abnormalitytr21;tr21;truck exmained for empty weight abnormality
+determine_continuanceSilo10;Silo10;silo evaluated for pickup continuance
+weigh_empty_trucktr42;tr42;Empty truck weighed
+load_trucktr23;tr23;cargo load for truck
+arrive_at_Silo16;Silo16;Silo for truck load
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+load_trucktr43;tr43;cargo load for truck
+check_abnormalitytr44;tr44;truck exmained for empty weight abnormality
+check_abnormalitytr42;tr42;truck exmained for empty weight abnormality
+weigh_loaded_trucktr27;tr27;Truck weighed
+arrive_at_Silo16;Silo16;Silo for truck load
+determine_continuanceSilo16;Silo16;silo evaluated for pickup continuance
+load_trucktr21;tr21;cargo load for truck
+input_tally_sheettr27;tr27;Tally Sheet for pickup plan
+print_w_tickettr27;tr27;Printed weighing ticket for pickup plan
+fail_weightr42;tr42;Truck failed to be weighed
+weigh_loaded_trucktr26;tr26;Truck weighed
+weigh_loaded_trucktr1;tr1;Truck weighed
+arrive_at_Silo8;Silo8;Silo for truck load
+eval_trs_exittr27_Pcp8;tr27;Exit evaluation for truck
+weigh_loaded_trucktr32;tr32;Truck weighed
+weigh_loaded_trucktr19;tr19;Truck weighed
+print_w_tickettr1;tr1;Printed weighing ticket for pickup plan
+input_tally_sheettr1;tr1;Tally Sheet for pickup plan
+determine_continuanceSilo8;Silo8;silo evaluated for pickup continuance
+print_w_tickettr26;tr26;Printed weighing ticket for pickup plan
+input_tally_sheettr26;tr26;Tally Sheet for pickup plan
+load_trucktr44;tr44;cargo load for truck
+eval_trs_exittr1_Pcp8;tr1;Exit evaluation for truck
+weigh_loaded_trucktr41;tr41;Truck weighed
+eval_trs_exittr26_Pcp8;tr26;Exit evaluation for truck
+input_tally_sheettr41;tr41;Tally Sheet for pickup plan
+print_w_tickettr41;tr41;Printed weighing ticket for pickup plan
+eval_trs_exittr41_Pcp8;tr41;Exit evaluation for truck
+weigh_loaded_trucktr35;tr35;Truck weighed
+weigh_loaded_trucktr14;tr14;Truck weighed
+input_tally_sheettr35;tr35;Tally Sheet for pickup plan
+print_w_tickettr35;tr35;Printed weighing ticket for pickup plan
+input_tally_sheettr14;tr14;Tally Sheet for pickup plan
+print_w_tickettr14;tr14;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr23;tr23;Truck weighed
+eval_trs_exittr14_Pcp7;tr14;Exit evaluation for truck
+eval_trs_exittr35_Pcp7;tr35;Exit evaluation for truck
+print_w_tickettr23;tr23;Printed weighing ticket for pickup plan
+input_tally_sheettr23;tr23;Tally Sheet for pickup plan
+weigh_loaded_trucktr16;tr16;Truck weighed
+weigh_loaded_trucktr15;tr15;Truck weighed
+eval_trs_exittr23_Pcp10;tr23;Exit evaluation for truck
+weigh_loaded_trucktr11;tr11;Truck weighed
+print_w_tickettr15;tr15;Printed weighing ticket for pickup plan
+input_tally_sheettr15;tr15;Tally Sheet for pickup plan
+input_tally_sheettr11;tr11;Tally Sheet for pickup plan
+print_w_tickettr11;tr11;Printed weighing ticket for pickup plan
+print_w_tickettr16;tr16;Printed weighing ticket for pickup plan
+input_tally_sheettr16;tr16;Tally Sheet for pickup plan
+weigh_loaded_trucktr43;tr43;Truck weighed
+weigh_loaded_trucktr24;tr24;Truck weighed
+eval_trs_exittr16_Pcp8;tr16;Exit evaluation for truck
+print_w_tickettr24;tr24;Printed weighing ticket for pickup plan
+input_tally_sheettr24;tr24;Tally Sheet for pickup plan
+input_tally_sheettr43;tr43;Tally Sheet for pickup plan
+print_w_tickettr43;tr43;Printed weighing ticket for pickup plan
+eval_trs_exittr43_Pcp8;tr43;Exit evaluation for truck
+eval_trs_exittr24_Pcp7;tr24;Exit evaluation for truck
+eval_trs_exittr15_Pcp10;tr15;Exit evaluation for truck
+eval_trs_exittr11_Pcp10;tr11;Exit evaluation for truck
+weigh_loaded_trucktr18;tr18;Truck weighed
+print_w_tickettr18;tr18;Printed weighing ticket for pickup plan
+input_tally_sheettr18;tr18;Tally Sheet for pickup plan
+eval_trs_exittr18_Pcp10;tr18;Exit evaluation for truck
+weigh_loaded_trucktr13;tr13;Truck weighed
+weigh_loaded_trucktr38;tr38;Truck weighed
+print_w_tickettr2;tr2;Printed weighing ticket for pickup plan
+input_tally_sheettr2;tr2;Tally Sheet for pickup plan
+print_w_tickettr32;tr32;Printed weighing ticket for pickup plan
+input_tally_sheettr32;tr32;Tally Sheet for pickup plan
+print_w_tickettr19;tr19;Printed weighing ticket for pickup plan
+input_tally_sheettr19;tr19;Tally Sheet for pickup plan
+eval_trs_exittr19_Pcp2;tr19;Exit evaluation for truck
+weigh_loaded_trucktr4;tr4;Truck weighed
+eval_trs_exittr2_Pcp8;tr2;Exit evaluation for truck
+eval_trs_exittr32_Pcp8;tr32;Exit evaluation for truck
+input_tally_sheettr4;tr4;Tally Sheet for pickup plan
+print_w_tickettr4;tr4;Printed weighing ticket for pickup plan
+eval_trs_exittr4_Pcp6;tr4;Exit evaluation for truck
+weigh_loaded_trucktr44;tr44;Truck weighed
+input_tally_sheettr44;tr44;Tally Sheet for pickup plan
+print_w_tickettr44;tr44;Printed weighing ticket for pickup plan
+eval_trs_exittr44_Pcp7;tr44;Exit evaluation for truck
+weigh_loaded_trucktr8;tr8;Truck weighed
+print_w_tickettr8;tr8;Printed weighing ticket for pickup plan
+input_tally_sheettr8;tr8;Tally Sheet for pickup plan
+eval_trs_exittr8_Pcp6;tr8;Exit evaluation for truck
+print_w_tickettr38;tr38;Printed weighing ticket for pickup plan
+input_tally_sheettr38;tr38;Tally Sheet for pickup plan
+print_w_tickettr13;tr13;Printed weighing ticket for pickup plan
+input_tally_sheettr13;tr13;Tally Sheet for pickup plan
+eval_trs_exittr38_Pcp10;tr38;Exit evaluation for truck
+eval_trs_exittr13_Pcp6;tr13;Exit evaluation for truck
+weigh_loaded_trucktr21;tr21;Truck weighed
+print_w_tickettr21;tr21;Printed weighing ticket for pickup plan
+input_tally_sheettr21;tr21;Tally Sheet for pickup plan
+eval_trs_exittr21_Pcp8;tr21;Exit evaluation for truck

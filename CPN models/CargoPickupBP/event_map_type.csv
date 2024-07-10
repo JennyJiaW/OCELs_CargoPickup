@@ -1,0 +1,9 @@
+ocel_type;ocel_type_map
+Lodge Pickup Plan;LodgePickupPlan
+Assign Trucks;AssignTrucks
+Weigh the Empty Truck;WeighEmptyTruck
+Load Truck;LoadTruck
+Weigh the Loaded Truck;WeighLoadedTruck
+Evaluate the Truck Exit;EvaluateTruckExit
+Input the Tally Sheet;InputTallySheet
+Print the Weighing Ticket;PrintWeighingTicket
