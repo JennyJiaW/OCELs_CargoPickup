@@ -1,0 +1,31 @@
+ocel_id;ocel_time;ocel_changed_field;Cargo Type;Cargo stock weight(scheduled);Silo ID
+Cr10;2024-03-04 00:00:00;;Wheat;16.0;Silo16
+Cr13;2024-03-04 00:00:00;;Corn;21.1;Silo14
+Cr2;2024-03-04 00:00:00;;Potato;9.2;Silo15
+Cr12;2024-03-04 00:00:00;;Other;23.2;Silo13
+Cr8;2024-03-04 00:00:00;;Wheat;11.7;Silo2
+Cr14;2024-03-04 00:00:00;;Other;6.8;Silo5
+Cr19;2024-03-04 00:00:00;;Corn;3.7;Silo1
+Cr5;2024-03-04 00:00:00;;Rice;10.2;Silo3
+Cr6;2024-03-04 00:00:00;;Wheat;15.5;Silo9
+Cr18;2024-03-04 00:00:00;;Rice;14.9;Silo11
+Cr3;2024-03-04 00:00:00;;Wheat;9.6;Silo12
+Cr17;2024-03-04 00:00:00;;Wheat;15.2;Silo7
+Cr4;2024-03-04 00:00:00;;Wheat;16.2;Silo17
+Cr15;2024-03-04 00:00:00;;Wheat;5.2;Silo4
+Cr20;2024-03-04 00:00:00;;Other;8.0;Silo20
+Cr9;2024-03-04 00:00:00;;Other;6.3;Silo19
+Cr11;2024-03-04 00:00:00;;Corn;2.9;Silo6
+Cr1;2024-03-04 00:00:00;;Other;1.2;Silo18
+Cr16;2024-03-04 00:00:00;;Corn;12.8;Silo8
+Cr7;2024-03-04 00:00:00;;Wheat;8.6;Silo10
+Cr1;2024-04-29 08:12:32;Cargo stock weight(scheduled);;0.0
+Cr14;2024-04-29 08:39:46;Cargo stock weight(scheduled);;0.0
+Cr17;2024-04-29 08:46:20;Cargo stock weight(scheduled);;0.0
+Cr11;2024-04-29 09:07:13;Cargo stock weight(scheduled);;0.0
+Cr4;2024-04-29 09:07:35;Cargo stock weight(scheduled);;0.0
+Cr9;2024-04-29 09:10:45;Cargo stock weight(scheduled);;0.0
+Cr7;2024-04-29 09:25:16;Cargo stock weight(scheduled);;0.0
+Cr10;2024-04-29 09:29:57;Cargo stock weight(scheduled);;0.0
+Cr16;2024-04-29 09:31:44;Cargo stock weight(scheduled);;0.0
+Cr18;2024-04-29 10:32:00;Cargo stock weight(scheduled);;0.0
