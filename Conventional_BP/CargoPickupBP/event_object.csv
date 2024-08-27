@@ -1,0 +1,987 @@
+ocel_event_id;ocel_object_id;ocel_qualifier
+Lodge_Pcp2;Pcp2;lodged pickup plan
+Lodge_Pcp2;Cr1;cargo scheduled to be pick up
+Lodge_Pcp1;Pcp1;lodged pickup plan
+Lodge_Pcp1;Cr13;cargo scheduled to be pick up
+Lodge_Pcp3;Pcp3;lodged pickup plan
+Lodge_Pcp3;Cr16;cargo scheduled to be pick up
+assign_trs_Pcp2;tr12;Pickup plan trucks assignment
+assign_trs_Pcp2;tr18;Pickup plan trucks assignment
+assign_trs_Pcp2;tr46;Pickup plan trucks assignment
+assign_trs_Pcp2;tr34;Pickup plan trucks assignment
+assign_trs_Pcp1;tr49;Pickup plan trucks assignment
+assign_trs_Pcp2;tr45;Pickup plan trucks assignment
+assign_trs_Pcp1;tr15;Pickup plan trucks assignment
+assign_trs_Pcp2;tr17;Pickup plan trucks assignment
+assign_trs_Pcp1;tr35;Pickup plan trucks assignment
+assign_trs_Pcp2;tr24;Pickup plan trucks assignment
+assign_trs_Pcp2;tr44;Pickup plan trucks assignment
+assign_trs_Pcp1;tr42;Pickup plan trucks assignment
+assign_trs_Pcp2;tr25;Pickup plan trucks assignment
+assign_trs_Pcp2;tr6;Pickup plan trucks assignment
+assign_trs_Pcp1;tr26;Pickup plan trucks assignment
+assign_trs_Pcp1;tr40;Pickup plan trucks assignment
+assign_trs_Pcp2;tr38;Pickup plan trucks assignment
+assign_trs_Pcp1;tr48;Pickup plan trucks assignment
+assign_trs_Pcp1;tr31;Pickup plan trucks assignment
+assign_trs_Pcp2;tr9;Pickup plan trucks assignment
+assign_trs_Pcp2;tr16;Pickup plan trucks assignment
+assign_trs_Pcp2;tr29;Pickup plan trucks assignment
+assign_trs_Pcp2;tr43;Pickup plan trucks assignment
+assign_trs_Pcp1;tr10;Pickup plan trucks assignment
+assign_trs_Pcp2;tr13;Pickup plan trucks assignment
+assign_trs_Pcp1;tr21;Pickup plan trucks assignment
+assign_trs_Pcp1;tr4;Pickup plan trucks assignment
+assign_trs_Pcp2;tr39;Pickup plan trucks assignment
+assign_trs_Pcp2;tr1;Pickup plan trucks assignment
+assign_trs_Pcp1;tr27;Pickup plan trucks assignment
+assign_trs_Pcp1;tr30;Pickup plan trucks assignment
+assign_trs_Pcp1;tr14;Pickup plan trucks assignment
+assign_trs_Pcp1;tr20;Pickup plan trucks assignment
+assign_trs_Pcp1;tr5;Pickup plan trucks assignment
+assign_trs_Pcp2;tr2;Pickup plan trucks assignment
+assign_trs_Pcp2;tr19;Pickup plan trucks assignment
+assign_trs_Pcp2;tr28;Pickup plan trucks assignment
+assign_trs_Pcp1;tr23;Pickup plan trucks assignment
+assign_trs_Pcp2;tr37;Pickup plan trucks assignment
+assign_trs_Pcp1;tr36;Pickup plan trucks assignment
+weigh_empty_trucktr35;tr35;Truck weighed
+assign_trs_Pcp2;tr11;Pickup plan trucks assignment
+assign_trs_Pcp2;tr50;Pickup plan trucks assignment
+weigh_empty_trucktr31;tr31;Truck weighed
+weigh_empty_trucktr25;tr25;Truck weighed
+assign_trs_Pcp1;tr7;Pickup plan trucks assignment
+load_trucktr25;tr25;cargo load for truck
+assign_trs_Pcp1;tr33;Pickup plan trucks assignment
+assign_trs_Pcp1;tr41;Pickup plan trucks assignment
+load_trucktr35;tr35;cargo load for truck
+weigh_empty_trucktr39;tr39;Truck weighed
+weigh_empty_trucktr15;tr15;Truck weighed
+load_trucktr31;tr31;cargo load for truck
+load_trucktr39;tr39;cargo load for truck
+assign_trs_Pcp2;tr22;Pickup plan trucks assignment
+load_trucktr15;tr15;cargo load for truck
+weigh_empty_trucktr9;tr9;Truck weighed
+weigh_empty_trucktr6;tr6;Truck weighed
+assign_trs_Pcp2;tr32;Pickup plan trucks assignment
+load_trucktr9;tr9;cargo load for truck
+weigh_empty_trucktr34;tr34;Truck weighed
+assign_trs_Pcp2;tr47;Pickup plan trucks assignment
+load_trucktr34;tr34;cargo load for truck
+load_trucktr6;tr6;cargo load for truck
+weigh_empty_trucktr20;tr20;Truck weighed
+weigh_empty_trucktr49;tr49;Truck weighed
+assign_trs_Pcp2;tr8;Pickup plan trucks assignment
+assign_trs_Pcp1;tr3;Pickup plan trucks assignment
+weigh_empty_trucktr32;tr32;Truck weighed
+weigh_empty_trucktr45;tr45;Truck weighed
+weigh_empty_trucktr12;tr12;Truck weighed
+weigh_empty_trucktr18;tr18;Truck weighed
+load_trucktr12;tr12;cargo load for truck
+weigh_empty_trucktr21;tr21;Truck weighed
+load_trucktr18;tr18;cargo load for truck
+weigh_empty_trucktr23;tr23;Truck weighed
+weigh_empty_trucktr38;tr38;Truck weighed
+weigh_empty_trucktr26;tr26;Truck weighed
+weigh_empty_trucktr17;tr17;Truck weighed
+load_trucktr38;tr38;cargo load for truck
+load_trucktr23;tr23;cargo load for truck
+load_trucktr21;tr21;cargo load for truck
+load_trucktr32;tr32;cargo load for truck
+load_trucktr17;tr17;cargo load for truck
+load_trucktr45;tr45;cargo load for truck
+load_trucktr20;tr20;cargo load for truck
+load_trucktr49;tr49;cargo load for truck
+weigh_empty_trucktr2;tr2;Truck weighed
+weigh_empty_trucktr44;tr44;Truck weighed
+load_trucktr44;tr44;cargo load for truck
+weigh_empty_trucktr13;tr13;Truck weighed
+weigh_empty_trucktr4;tr4;Truck weighed
+weigh_empty_trucktr5;tr5;Truck weighed
+weigh_empty_trucktr7;tr7;Truck weighed
+weigh_empty_trucktr46;tr46;Truck weighed
+load_trucktr5;tr5;cargo load for truck
+load_trucktr46;tr46;cargo load for truck
+load_trucktr7;tr7;cargo load for truck
+weigh_empty_trucktr3;tr3;Truck weighed
+load_trucktr2;tr2;cargo load for truck
+load_trucktr4;tr4;cargo load for truck
+load_trucktr13;tr13;cargo load for truck
+weigh_empty_trucktr43;tr43;Truck weighed
+load_trucktr43;tr43;cargo load for truck
+load_trucktr26;tr26;cargo load for truck
+weigh_empty_trucktr14;tr14;Truck weighed
+weigh_empty_trucktr30;tr30;Truck weighed
+weigh_empty_trucktr36;tr36;Truck weighed
+weigh_empty_trucktr1;tr1;Truck weighed
+load_trucktr14;tr14;cargo load for truck
+weigh_empty_trucktr37;tr37;Truck weighed
+load_trucktr3;tr3;cargo load for truck
+load_trucktr30;tr30;cargo load for truck
+weigh_empty_trucktr11;tr11;Truck weighed
+load_trucktr11;tr11;cargo load for truck
+weigh_empty_trucktr27;tr27;Truck weighed
+weigh_empty_trucktr48;tr48;Truck weighed
+weigh_empty_trucktr42;tr42;Truck weighed
+load_trucktr36;tr36;cargo load for truck
+load_trucktr48;tr48;cargo load for truck
+load_trucktr37;tr37;cargo load for truck
+load_trucktr42;tr42;cargo load for truck
+weigh_empty_trucktr50;tr50;Truck weighed
+weigh_empty_trucktr33;tr33;Truck weighed
+weigh_empty_trucktr19;tr19;Truck weighed
+load_trucktr1;tr1;cargo load for truck
+weigh_empty_trucktr28;tr28;Truck weighed
+load_trucktr27;tr27;cargo load for truck
+load_trucktr28;tr28;cargo load for truck
+weigh_empty_trucktr22;tr22;Truck weighed
+weigh_empty_trucktr16;tr16;Truck weighed
+load_trucktr22;tr22;cargo load for truck
+load_trucktr33;tr33;cargo load for truck
+load_trucktr50;tr50;cargo load for truck
+weigh_empty_trucktr40;tr40;Truck weighed
+load_trucktr19;tr19;cargo load for truck
+load_trucktr40;tr40;cargo load for truck
+weigh_empty_trucktr47;tr47;Truck weighed
+weigh_empty_trucktr24;tr24;Truck weighed
+load_trucktr24;tr24;cargo load for truck
+weigh_empty_trucktr41;tr41;Truck weighed
+load_trucktr41;tr41;cargo load for truck
+load_trucktr16;tr16;cargo load for truck
+weigh_empty_trucktr29;tr29;Truck weighed
+load_trucktr29;tr29;cargo load for truck
+weigh_empty_trucktr10;tr10;Truck weighed
+load_trucktr10;tr10;cargo load for truck
+load_trucktr47;tr47;cargo load for truck
+weigh_loaded_trucktr31;tr31;Truck weighed
+print_w_tickettr31;tr31;Printed weighing ticket for pickup plan
+input_tally_sheettr31;tr31;Tally Sheet for pickup plan
+weigh_loaded_trucktr20;tr20;Truck weighed
+weigh_loaded_trucktr38;tr38;Truck weighed
+weigh_empty_trucktr8;tr8;Truck weighed
+print_w_tickettr38;tr38;Printed weighing ticket for pickup plan
+input_tally_sheettr38;tr38;Tally Sheet for pickup plan
+eval_trs_exittr38_Pcp2;tr38;Exit evaluation for truck
+weigh_loaded_trucktr12;tr12;Truck weighed
+eval_trs_exittr31_Pcp1;tr31;Exit evaluation for truck
+input_tally_sheettr12;tr12;Tally Sheet for pickup plan
+print_w_tickettr12;tr12;Printed weighing ticket for pickup plan
+load_trucktr8;tr8;cargo load for truck
+weigh_loaded_trucktr15;tr15;Truck weighed
+print_w_tickettr20;tr20;Printed weighing ticket for pickup plan
+input_tally_sheettr20;tr20;Tally Sheet for pickup plan
+weigh_loaded_trucktr32;tr32;Truck weighed
+eval_trs_exittr12_Pcp2;tr12;Exit evaluation for truck
+weigh_loaded_trucktr43;tr43;Truck weighed
+input_tally_sheettr15;tr15;Tally Sheet for pickup plan
+print_w_tickettr15;tr15;Printed weighing ticket for pickup plan
+eval_trs_exittr20_Pcp1;tr20;Exit evaluation for truck
+assign_trs_Pcp1;tr31;Pickup plan trucks assignment
+eval_trs_exittr15_Pcp1;tr15;Exit evaluation for truck
+weigh_loaded_trucktr45;tr45;Truck weighed
+weigh_loaded_trucktr22;tr22;Truck weighed
+weigh_loaded_trucktr44;tr44;Truck weighed
+weigh_loaded_trucktr26;tr26;Truck weighed
+weigh_loaded_trucktr27;tr27;Truck weighed
+input_tally_sheettr45;tr45;Tally Sheet for pickup plan
+print_w_tickettr45;tr45;Printed weighing ticket for pickup plan
+print_w_tickettr27;tr27;Printed weighing ticket for pickup plan
+input_tally_sheettr27;tr27;Tally Sheet for pickup plan
+eval_trs_exittr45_Pcp2;tr45;Exit evaluation for truck
+weigh_loaded_trucktr30;tr30;Truck weighed
+print_w_tickettr26;tr26;Printed weighing ticket for pickup plan
+input_tally_sheettr26;tr26;Tally Sheet for pickup plan
+eval_trs_exittr27_Pcp1;tr27;Exit evaluation for truck
+print_w_tickettr44;tr44;Printed weighing ticket for pickup plan
+input_tally_sheettr44;tr44;Tally Sheet for pickup plan
+print_w_tickettr22;tr22;Printed weighing ticket for pickup plan
+input_tally_sheettr22;tr22;Tally Sheet for pickup plan
+weigh_loaded_trucktr19;tr19;Truck weighed
+weigh_loaded_trucktr46;tr46;Truck weighed
+weigh_loaded_trucktr7;tr7;Truck weighed
+weigh_loaded_trucktr10;tr10;Truck weighed
+weigh_loaded_trucktr6;tr6;Truck weighed
+eval_trs_exittr26_Pcp1;tr26;Exit evaluation for truck
+print_w_tickettr46;tr46;Printed weighing ticket for pickup plan
+input_tally_sheettr46;tr46;Tally Sheet for pickup plan
+weigh_loaded_trucktr36;tr36;Truck weighed
+weigh_loaded_trucktr37;tr37;Truck weighed
+print_w_tickettr19;tr19;Printed weighing ticket for pickup plan
+input_tally_sheettr19;tr19;Tally Sheet for pickup plan
+print_w_tickettr36;tr36;Printed weighing ticket for pickup plan
+input_tally_sheettr36;tr36;Tally Sheet for pickup plan
+assign_trs_Pcp1;tr12;Pickup plan trucks assignment
+eval_trs_exittr44_Pcp2;tr44;Exit evaluation for truck
+weigh_loaded_trucktr25;tr25;Truck weighed
+eval_trs_exittr22_Pcp2;tr22;Exit evaluation for truck
+eval_trs_exittr46_Pcp2;tr46;Exit evaluation for truck
+eval_trs_exittr19_Pcp2;tr19;Exit evaluation for truck
+eval_trs_exittr36_Pcp1;tr36;Exit evaluation for truck
+assign_trs_Pcp3;tr15;Pickup plan trucks assignment
+print_w_tickettr25;tr25;Printed weighing ticket for pickup plan
+input_tally_sheettr25;tr25;Tally Sheet for pickup plan
+weigh_empty_trucktr31;tr31;Truck weighed
+print_w_tickettr37;tr37;Printed weighing ticket for pickup plan
+input_tally_sheettr37;tr37;Tally Sheet for pickup plan
+print_w_tickettr30;tr30;Printed weighing ticket for pickup plan
+input_tally_sheettr30;tr30;Tally Sheet for pickup plan
+assign_trs_Pcp3;tr20;Pickup plan trucks assignment
+print_w_tickettr7;tr7;Printed weighing ticket for pickup plan
+input_tally_sheettr7;tr7;Tally Sheet for pickup plan
+print_w_tickettr10;tr10;Printed weighing ticket for pickup plan
+input_tally_sheettr10;tr10;Tally Sheet for pickup plan
+weigh_loaded_trucktr17;tr17;Truck weighed
+print_w_tickettr6;tr6;Printed weighing ticket for pickup plan
+input_tally_sheettr6;tr6;Tally Sheet for pickup plan
+weigh_loaded_trucktr48;tr48;Truck weighed
+eval_trs_exittr30_Pcp1;tr30;Exit evaluation for truck
+eval_trs_exittr37_Pcp2;tr37;Exit evaluation for truck
+weigh_loaded_trucktr35;tr35;Truck weighed
+assign_trs_Pcp1;tr38;Pickup plan trucks assignment
+eval_trs_exittr10_Pcp1;tr10;Exit evaluation for truck
+weigh_loaded_trucktr4;tr4;Truck weighed
+eval_trs_exittr7_Pcp1;tr7;Exit evaluation for truck
+eval_trs_exittr25_Pcp2;tr25;Exit evaluation for truck
+assign_trs_Pcp3;tr44;Pickup plan trucks assignment
+load_trucktr31;tr31;cargo load for truck
+print_w_tickettr4;tr4;Printed weighing ticket for pickup plan
+input_tally_sheettr4;tr4;Tally Sheet for pickup plan
+eval_trs_exittr6_Pcp2;tr6;Exit evaluation for truck
+assign_trs_Pcp3;tr45;Pickup plan trucks assignment
+print_w_tickettr48;tr48;Printed weighing ticket for pickup plan
+input_tally_sheettr48;tr48;Tally Sheet for pickup plan
+weigh_loaded_trucktr39;tr39;Truck weighed
+weigh_empty_trucktr12;tr12;Truck weighed
+eval_trs_exittr48_Pcp1;tr48;Exit evaluation for truck
+input_tally_sheettr17;tr17;Tally Sheet for pickup plan
+print_w_tickettr17;tr17;Printed weighing ticket for pickup plan
+assign_trs_Pcp3;tr22;Pickup plan trucks assignment
+load_trucktr12;tr12;cargo load for truck
+assign_trs_Pcp3;tr36;Pickup plan trucks assignment
+assign_trs_Pcp1;tr46;Pickup plan trucks assignment
+eval_trs_exittr4_Pcp1;tr4;Exit evaluation for truck
+assign_trs_Pcp1;tr27;Pickup plan trucks assignment
+weigh_loaded_trucktr49;tr49;Truck weighed
+assign_trs_Pcp1;tr19;Pickup plan trucks assignment
+input_tally_sheettr39;tr39;Tally Sheet for pickup plan
+print_w_tickettr39;tr39;Printed weighing ticket for pickup plan
+eval_trs_exittr17_Pcp2;tr17;Exit evaluation for truck
+weigh_loaded_trucktr40;tr40;Truck weighed
+input_tally_sheettr35;tr35;Tally Sheet for pickup plan
+print_w_tickettr35;tr35;Printed weighing ticket for pickup plan
+assign_trs_Pcp3;tr25;Pickup plan trucks assignment
+assign_trs_Pcp1;tr26;Pickup plan trucks assignment
+weigh_loaded_trucktr1;tr1;Truck weighed
+assign_trs_Pcp1;tr37;Pickup plan trucks assignment
+weigh_empty_trucktr44;tr44;Truck weighed
+assign_trs_Pcp3;tr30;Pickup plan trucks assignment
+eval_trs_exittr35_Pcp1;tr35;Exit evaluation for truck
+load_trucktr44;tr44;cargo load for truck
+input_tally_sheettr40;tr40;Tally Sheet for pickup plan
+print_w_tickettr40;tr40;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr2;tr2;Truck weighed
+weigh_empty_trucktr38;tr38;Truck weighed
+print_w_tickettr1;tr1;Printed weighing ticket for pickup plan
+input_tally_sheettr1;tr1;Tally Sheet for pickup plan
+weigh_empty_trucktr36;tr36;Truck weighed
+eval_trs_exittr39_Pcp2;tr39;Exit evaluation for truck
+load_trucktr38;tr38;cargo load for truck
+weigh_empty_trucktr20;tr20;Truck weighed
+print_w_tickettr49;tr49;Printed weighing ticket for pickup plan
+input_tally_sheettr49;tr49;Tally Sheet for pickup plan
+assign_trs_Pcp1;tr10;Pickup plan trucks assignment
+eval_trs_exittr40_Pcp1;tr40;Exit evaluation for truck
+print_w_tickettr32;tr32;Printed weighing ticket for pickup plan
+input_tally_sheettr32;tr32;Tally Sheet for pickup plan
+input_tally_sheettr43;tr43;Tally Sheet for pickup plan
+print_w_tickettr43;tr43;Printed weighing ticket for pickup plan
+eval_trs_exittr1_Pcp2;tr1;Exit evaluation for truck
+eval_trs_exittr49_Pcp1;tr49;Exit evaluation for truck
+weigh_loaded_trucktr28;tr28;Truck weighed
+load_trucktr36;tr36;cargo load for truck
+eval_trs_exittr43_Pcp2;tr43;Exit evaluation for truck
+weigh_loaded_trucktr16;tr16;Truck weighed
+eval_trs_exittr32_Pcp2;tr32;Exit evaluation for truck
+load_trucktr20;tr20;cargo load for truck
+weigh_empty_trucktr46;tr46;Truck weighed
+weigh_loaded_trucktr24;tr24;Truck weighed
+weigh_loaded_trucktr42;tr42;Truck weighed
+weigh_loaded_trucktr41;tr41;Truck weighed
+input_tally_sheettr2;tr2;Tally Sheet for pickup plan
+print_w_tickettr2;tr2;Printed weighing ticket for pickup plan
+load_trucktr46;tr46;cargo load for truck
+print_w_tickettr42;tr42;Printed weighing ticket for pickup plan
+input_tally_sheettr42;tr42;Tally Sheet for pickup plan
+assign_trs_Pcp3;tr35;Pickup plan trucks assignment
+input_tally_sheettr28;tr28;Tally Sheet for pickup plan
+print_w_tickettr28;tr28;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr34;tr34;Truck weighed
+eval_trs_exittr42_Pcp1;tr42;Exit evaluation for truck
+weigh_empty_trucktr15;tr15;Truck weighed
+eval_trs_exittr28_Pcp2;tr28;Exit evaluation for truck
+load_trucktr15;tr15;cargo load for truck
+input_tally_sheettr24;tr24;Tally Sheet for pickup plan
+print_w_tickettr24;tr24;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr29;tr29;Truck weighed
+assign_trs_Pcp3;tr7;Pickup plan trucks assignment
+eval_trs_exittr2_Pcp2;tr2;Exit evaluation for truck
+assign_trs_Pcp1;tr39;Pickup plan trucks assignment
+weigh_empty_trucktr37;tr37;Truck weighed
+load_trucktr37;tr37;cargo load for truck
+assign_trs_Pcp1;tr6;Pickup plan trucks assignment
+eval_trs_exittr24_Pcp2;tr24;Exit evaluation for truck
+input_tally_sheettr34;tr34;Tally Sheet for pickup plan
+print_w_tickettr34;tr34;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr11;tr11;Truck weighed
+weigh_empty_trucktr35;tr35;Truck weighed
+weigh_empty_trucktr39;tr39;Truck weighed
+assign_trs_Pcp3;tr17;Pickup plan trucks assignment
+assign_trs_Pcp1;tr4;Pickup plan trucks assignment
+weigh_empty_trucktr7;tr7;Truck weighed
+assign_trs_Pcp3;tr43;Pickup plan trucks assignment
+input_tally_sheettr29;tr29;Tally Sheet for pickup plan
+print_w_tickettr29;tr29;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr5;tr5;Truck weighed
+eval_trs_exittr29_Pcp2;tr29;Exit evaluation for truck
+assign_trs_Pcp1;tr40;Pickup plan trucks assignment
+input_tally_sheettr16;tr16;Tally Sheet for pickup plan
+print_w_tickettr16;tr16;Printed weighing ticket for pickup plan
+input_tally_sheettr41;tr41;Tally Sheet for pickup plan
+print_w_tickettr41;tr41;Printed weighing ticket for pickup plan
+print_w_tickettr5;tr5;Printed weighing ticket for pickup plan
+input_tally_sheettr5;tr5;Tally Sheet for pickup plan
+weigh_loaded_trucktr8;tr8;Truck weighed
+assign_trs_Pcp3;tr48;Pickup plan trucks assignment
+eval_trs_exittr34_Pcp2;tr34;Exit evaluation for truck
+load_trucktr35;tr35;cargo load for truck
+assign_trs_Pcp1;tr42;Pickup plan trucks assignment
+weigh_loaded_trucktr18;tr18;Truck weighed
+weigh_loaded_trucktr23;tr23;Truck weighed
+load_trucktr7;tr7;cargo load for truck
+eval_trs_exittr16_Pcp2;tr16;Exit evaluation for truck
+weigh_empty_trucktr25;tr25;Truck weighed
+print_w_tickettr11;tr11;Printed weighing ticket for pickup plan
+input_tally_sheettr11;tr11;Tally Sheet for pickup plan
+assign_trs_Pcp1;tr32;Pickup plan trucks assignment
+weigh_loaded_trucktr3;tr3;Truck weighed
+weigh_loaded_trucktr14;tr14;Truck weighed
+load_trucktr39;tr39;cargo load for truck
+weigh_empty_trucktr30;tr30;Truck weighed
+assign_trs_Pcp3;tr1;Pickup plan trucks assignment
+load_trucktr30;tr30;cargo load for truck
+load_trucktr25;tr25;cargo load for truck
+eval_trs_exittr5_Pcp1;tr5;Exit evaluation for truck
+eval_trs_exittr41_Pcp1;tr41;Exit evaluation for truck
+eval_trs_exittr11_Pcp2;tr11;Exit evaluation for truck
+input_tally_sheettr8;tr8;Tally Sheet for pickup plan
+print_w_tickettr8;tr8;Printed weighing ticket for pickup plan
+assign_trs_Pcp3;tr49;Pickup plan trucks assignment
+weigh_empty_trucktr26;tr26;Truck weighed
+load_trucktr26;tr26;cargo load for truck
+input_tally_sheettr14;tr14;Tally Sheet for pickup plan
+print_w_tickettr14;tr14;Printed weighing ticket for pickup plan
+input_tally_sheettr18;tr18;Tally Sheet for pickup plan
+print_w_tickettr18;tr18;Printed weighing ticket for pickup plan
+print_w_tickettr3;tr3;Printed weighing ticket for pickup plan
+input_tally_sheettr3;tr3;Tally Sheet for pickup plan
+assign_trs_Pcp3;tr29;Pickup plan trucks assignment
+eval_trs_exittr3_Pcp1;tr3;Exit evaluation for truck
+weigh_loaded_trucktr47;tr47;Truck weighed
+eval_trs_exittr8_Pcp2;tr8;Exit evaluation for truck
+assign_trs_Pcp1;tr24;Pickup plan trucks assignment
+weigh_empty_trucktr10;tr10;Truck weighed
+weigh_empty_trucktr45;tr45;Truck weighed
+weigh_empty_trucktr49;tr49;Truck weighed
+eval_trs_exittr14_Pcp1;tr14;Exit evaluation for truck
+weigh_loaded_trucktr33;tr33;Truck weighed
+assign_trs_Pcp3;tr28;Pickup plan trucks assignment
+load_trucktr49;tr49;cargo load for truck
+eval_trs_exittr18_Pcp2;tr18;Exit evaluation for truck
+assign_trs_Pcp1;tr2;Pickup plan trucks assignment
+weigh_empty_trucktr4;tr4;Truck weighed
+print_w_tickettr23;tr23;Printed weighing ticket for pickup plan
+input_tally_sheettr23;tr23;Tally Sheet for pickup plan
+weigh_empty_trucktr27;tr27;Truck weighed
+weigh_empty_trucktr19;tr19;Truck weighed
+print_w_tickettr33;tr33;Printed weighing ticket for pickup plan
+input_tally_sheettr33;tr33;Tally Sheet for pickup plan
+eval_trs_exittr33_Pcp1;tr33;Exit evaluation for truck
+load_trucktr10;tr10;cargo load for truck
+weigh_empty_trucktr22;tr22;Truck weighed
+load_trucktr19;tr19;cargo load for truck
+load_trucktr27;tr27;cargo load for truck
+load_trucktr22;tr22;cargo load for truck
+weigh_empty_trucktr32;tr32;Truck weighed
+load_trucktr45;tr45;cargo load for truck
+assign_trs_Pcp1;tr11;Pickup plan trucks assignment
+weigh_empty_trucktr6;tr6;Truck weighed
+assign_trs_Pcp3;tr34;Pickup plan trucks assignment
+print_w_tickettr47;tr47;Printed weighing ticket for pickup plan
+input_tally_sheettr47;tr47;Tally Sheet for pickup plan
+eval_trs_exittr23_Pcp1;tr23;Exit evaluation for truck
+load_trucktr4;tr4;cargo load for truck
+assign_trs_Pcp1;tr41;Pickup plan trucks assignment
+load_trucktr32;tr32;cargo load for truck
+eval_trs_exittr47_Pcp2;tr47;Exit evaluation for truck
+load_trucktr6;tr6;cargo load for truck
+weigh_loaded_trucktr38;tr38;Truck weighed
+assign_trs_Pcp3;tr14;Pickup plan trucks assignment
+assign_trs_Pcp1;tr3;Pickup plan trucks assignment
+weigh_empty_trucktr2;tr2;Truck weighed
+weigh_loaded_trucktr13;tr13;Truck weighed
+assign_trs_Pcp1;tr33;Pickup plan trucks assignment
+weigh_empty_trucktr42;tr42;Truck weighed
+assign_trs_Pcp3;tr8;Pickup plan trucks assignment
+assign_trs_Pcp3;tr16;Pickup plan trucks assignment
+print_w_tickettr13;tr13;Printed weighing ticket for pickup plan
+input_tally_sheettr13;tr13;Tally Sheet for pickup plan
+load_trucktr2;tr2;cargo load for truck
+load_trucktr42;tr42;cargo load for truck
+weigh_loaded_trucktr12;tr12;Truck weighed
+print_w_tickettr12;tr12;Printed weighing ticket for pickup plan
+input_tally_sheettr12;tr12;Tally Sheet for pickup plan
+weigh_loaded_trucktr44;tr44;Truck weighed
+eval_trs_exittr12_Pcp1;tr12;Exit evaluation for truck
+weigh_empty_trucktr40;tr40;Truck weighed
+assign_trs_Pcp3;tr18;Pickup plan trucks assignment
+print_w_tickettr44;tr44;Printed weighing ticket for pickup plan
+input_tally_sheettr44;tr44;Tally Sheet for pickup plan
+eval_trs_exittr13_Pcp2;tr13;Exit evaluation for truck
+assign_trs_Pcp1;tr5;Pickup plan trucks assignment
+weigh_loaded_trucktr37;tr37;Truck weighed
+weigh_loaded_trucktr15;tr15;Truck weighed
+assign_trs_Pcp1;tr47;Pickup plan trucks assignment
+weigh_empty_trucktr1;tr1;Truck weighed
+load_trucktr40;tr40;cargo load for truck
+print_w_tickettr15;tr15;Printed weighing ticket for pickup plan
+input_tally_sheettr15;tr15;Tally Sheet for pickup plan
+eval_trs_exittr15_Pcp3;tr15;Exit evaluation for truck
+input_tally_sheettr37;tr37;Tally Sheet for pickup plan
+print_w_tickettr37;tr37;Printed weighing ticket for pickup plan
+load_trucktr1;tr1;cargo load for truck
+eval_trs_exittr44_Pcp3;tr44;Exit evaluation for truck
+weigh_loaded_trucktr36;tr36;Truck weighed
+assign_trs_Pcp3;tr13;Pickup plan trucks assignment
+weigh_empty_trucktr3;tr3;Truck weighed
+weigh_empty_trucktr8;tr8;Truck weighed
+weigh_empty_trucktr17;tr17;Truck weighed
+load_trucktr8;tr8;cargo load for truck
+weigh_empty_trucktr11;tr11;Truck weighed
+load_trucktr17;tr17;cargo load for truck
+load_trucktr3;tr3;cargo load for truck
+weigh_loaded_trucktr20;tr20;Truck weighed
+input_tally_sheettr36;tr36;Tally Sheet for pickup plan
+print_w_tickettr36;tr36;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr35;tr35;Truck weighed
+weigh_empty_trucktr41;tr41;Truck weighed
+weigh_empty_trucktr47;tr47;Truck weighed
+eval_trs_exittr37_Pcp1;tr37;Exit evaluation for truck
+weigh_empty_trucktr43;tr43;Truck weighed
+load_trucktr47;tr47;cargo load for truck
+weigh_loaded_trucktr39;tr39;Truck weighed
+load_trucktr43;tr43;cargo load for truck
+print_w_tickettr39;tr39;Printed weighing ticket for pickup plan
+input_tally_sheettr39;tr39;Tally Sheet for pickup plan
+weigh_empty_trucktr5;tr5;Truck weighed
+assign_trs_Pcp1;tr12;Pickup plan trucks assignment
+weigh_empty_trucktr48;tr48;Truck weighed
+load_trucktr11;tr11;cargo load for truck
+weigh_empty_trucktr28;tr28;Truck weighed
+assign_trs_Pcp1;tr23;Pickup plan trucks assignment
+eval_trs_exittr36_Pcp3;tr36;Exit evaluation for truck
+load_trucktr41;tr41;cargo load for truck
+weigh_empty_trucktr16;tr16;Truck weighed
+load_trucktr16;tr16;cargo load for truck
+eval_trs_exittr39_Pcp1;tr39;Exit evaluation for truck
+assign_trs_Pcp3;tr15;Pickup plan trucks assignment
+load_trucktr48;tr48;cargo load for truck
+weigh_empty_trucktr24;tr24;Truck weighed
+assign_trs_Pcp1;tr44;Pickup plan trucks assignment
+load_trucktr5;tr5;cargo load for truck
+load_trucktr28;tr28;cargo load for truck
+weigh_empty_trucktr29;tr29;Truck weighed
+weigh_empty_trucktr13;tr13;Truck weighed
+weigh_empty_trucktr14;tr14;Truck weighed
+weigh_loaded_trucktr9;tr9;Truck weighed
+print_w_tickettr20;tr20;Printed weighing ticket for pickup plan
+input_tally_sheettr20;tr20;Tally Sheet for pickup plan
+weigh_empty_trucktr34;tr34;Truck weighed
+load_trucktr24;tr24;cargo load for truck
+weigh_loaded_trucktr6;tr6;Truck weighed
+load_trucktr34;tr34;cargo load for truck
+input_tally_sheettr6;tr6;Tally Sheet for pickup plan
+print_w_tickettr6;tr6;Printed weighing ticket for pickup plan
+assign_trs_Pcp3;tr36;Pickup plan trucks assignment
+input_tally_sheettr35;tr35;Tally Sheet for pickup plan
+print_w_tickettr35;tr35;Printed weighing ticket for pickup plan
+load_trucktr14;tr14;cargo load for truck
+weigh_empty_trucktr23;tr23;Truck weighed
+load_trucktr29;tr29;cargo load for truck
+weigh_loaded_trucktr4;tr4;Truck weighed
+load_trucktr13;tr13;cargo load for truck
+assign_trs_Pcp3;tr37;Pickup plan trucks assignment
+load_trucktr23;tr23;cargo load for truck
+weigh_loaded_trucktr46;tr46;Truck weighed
+weigh_loaded_trucktr19;tr19;Truck weighed
+eval_trs_exittr6_Pcp1;tr6;Exit evaluation for truck
+eval_trs_exittr20_Pcp3;tr20;Exit evaluation for truck
+eval_trs_exittr35_Pcp3;tr35;Exit evaluation for truck
+input_tally_sheettr9;tr9;Tally Sheet for pickup plan
+print_w_tickettr9;tr9;Printed weighing ticket for pickup plan
+weigh_empty_trucktr18;tr18;Truck weighed
+print_w_tickettr4;tr4;Printed weighing ticket for pickup plan
+input_tally_sheettr4;tr4;Tally Sheet for pickup plan
+print_w_tickettr38;tr38;Printed weighing ticket for pickup plan
+input_tally_sheettr38;tr38;Tally Sheet for pickup plan
+input_tally_sheettr46;tr46;Tally Sheet for pickup plan
+print_w_tickettr46;tr46;Printed weighing ticket for pickup plan
+load_trucktr18;tr18;cargo load for truck
+eval_trs_exittr4_Pcp1;tr4;Exit evaluation for truck
+eval_trs_exittr38_Pcp1;tr38;Exit evaluation for truck
+eval_trs_exittr9_Pcp2;tr9;Exit evaluation for truck
+weigh_empty_trucktr33;tr33;Truck weighed
+weigh_loaded_trucktr22;tr22;Truck weighed
+load_trucktr33;tr33;cargo load for truck
+input_tally_sheettr22;tr22;Tally Sheet for pickup plan
+print_w_tickettr22;tr22;Printed weighing ticket for pickup plan
+assign_trs_Pcp3;tr39;Pickup plan trucks assignment
+print_w_tickettr19;tr19;Printed weighing ticket for pickup plan
+input_tally_sheettr19;tr19;Tally Sheet for pickup plan
+eval_trs_exittr19_Pcp1;tr19;Exit evaluation for truck
+eval_trs_exittr46_Pcp1;tr46;Exit evaluation for truck
+assign_trs_Pcp3;tr20;Pickup plan trucks assignment
+eval_trs_exittr22_Pcp3;tr22;Exit evaluation for truck
+weigh_loaded_trucktr2;tr2;Truck weighed
+weigh_loaded_trucktr26;tr26;Truck weighed
+weigh_empty_trucktr12;tr12;Truck weighed
+print_w_tickettr26;tr26;Printed weighing ticket for pickup plan
+input_tally_sheettr26;tr26;Tally Sheet for pickup plan
+assign_trs_Pcp3;tr6;Pickup plan trucks assignment
+assign_trs_Pcp3;tr4;Pickup plan trucks assignment
+assign_trs_Pcp3;tr19;Pickup plan trucks assignment
+weigh_loaded_trucktr43;tr43;Truck weighed
+weigh_loaded_trucktr8;tr8;Truck weighed
+assign_trs_Pcp3;tr38;Pickup plan trucks assignment
+print_w_tickettr8;tr8;Printed weighing ticket for pickup plan
+input_tally_sheettr8;tr8;Tally Sheet for pickup plan
+assign_trs_Pcp3;tr35;Pickup plan trucks assignment
+weigh_loaded_trucktr25;tr25;Truck weighed
+weigh_loaded_trucktr40;tr40;Truck weighed
+load_trucktr12;tr12;cargo load for truck
+weigh_empty_trucktr15;tr15;Truck weighed
+eval_trs_exittr26_Pcp1;tr26;Exit evaluation for truck
+weigh_loaded_trucktr21;tr21;Truck weighed
+print_w_tickettr2;tr2;Printed weighing ticket for pickup plan
+input_tally_sheettr2;tr2;Tally Sheet for pickup plan
+weigh_empty_trucktr37;tr37;Truck weighed
+weigh_loaded_trucktr50;tr50;Truck weighed
+load_trucktr15;tr15;cargo load for truck
+eval_trs_exittr8_Pcp3;tr8;Exit evaluation for truck
+weigh_loaded_trucktr5;tr5;Truck weighed
+load_trucktr37;tr37;cargo load for truck
+weigh_loaded_trucktr49;tr49;Truck weighed
+eval_trs_exittr2_Pcp1;tr2;Exit evaluation for truck
+weigh_loaded_trucktr10;tr10;Truck weighed
+weigh_empty_trucktr44;tr44;Truck weighed
+assign_trs_Pcp3;tr46;Pickup plan trucks assignment
+assign_trs_Pcp3;tr22;Pickup plan trucks assignment
+load_trucktr44;tr44;cargo load for truck
+input_tally_sheettr43;tr43;Tally Sheet for pickup plan
+print_w_tickettr43;tr43;Printed weighing ticket for pickup plan
+print_w_tickettr25;tr25;Printed weighing ticket for pickup plan
+input_tally_sheettr25;tr25;Tally Sheet for pickup plan
+print_w_tickettr40;tr40;Printed weighing ticket for pickup plan
+input_tally_sheettr40;tr40;Tally Sheet for pickup plan
+weigh_empty_trucktr20;tr20;Truck weighed
+print_w_tickettr10;tr10;Printed weighing ticket for pickup plan
+input_tally_sheettr10;tr10;Tally Sheet for pickup plan
+weigh_loaded_trucktr48;tr48;Truck weighed
+eval_trs_exittr40_Pcp1;tr40;Exit evaluation for truck
+eval_trs_exittr43_Pcp3;tr43;Exit evaluation for truck
+eval_trs_exittr25_Pcp3;tr25;Exit evaluation for truck
+input_tally_sheettr5;tr5;Tally Sheet for pickup plan
+print_w_tickettr5;tr5;Printed weighing ticket for pickup plan
+assign_trs_Pcp3;tr26;Pickup plan trucks assignment
+input_tally_sheettr50;tr50;Tally Sheet for pickup plan
+print_w_tickettr50;tr50;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr31;tr31;Truck weighed
+print_w_tickettr21;tr21;Printed weighing ticket for pickup plan
+input_tally_sheettr21;tr21;Tally Sheet for pickup plan
+weigh_loaded_trucktr7;tr7;Truck weighed
+eval_trs_exittr50_Pcp2;tr50;Exit evaluation for truck
+eval_trs_exittr5_Pcp1;tr5;Exit evaluation for truck
+weigh_loaded_trucktr32;tr32;Truck weighed
+assign_trs_Pcp3;tr8;Pickup plan trucks assignment
+input_tally_sheettr31;tr31;Tally Sheet for pickup plan
+print_w_tickettr31;tr31;Printed weighing ticket for pickup plan
+input_tally_sheettr49;tr49;Tally Sheet for pickup plan
+print_w_tickettr49;tr49;Printed weighing ticket for pickup plan
+eval_trs_exittr21_Pcp1;tr21;Exit evaluation for truck
+load_trucktr20;tr20;cargo load for truck
+eval_trs_exittr10_Pcp1;tr10;Exit evaluation for truck
+weigh_loaded_trucktr29;tr29;Truck weighed
+weigh_empty_trucktr19;tr19;Truck weighed
+load_trucktr19;tr19;cargo load for truck
+weigh_loaded_trucktr28;tr28;Truck weighed
+assign_trs_Pcp3;tr9;Pickup plan trucks assignment
+weigh_empty_trucktr36;tr36;Truck weighed
+input_tally_sheettr29;tr29;Tally Sheet for pickup plan
+print_w_tickettr29;tr29;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr14;tr14;Truck weighed
+eval_trs_exittr29_Pcp3;tr29;Exit evaluation for truck
+assign_trs_Pcp3;tr2;Pickup plan trucks assignment
+eval_trs_exittr49_Pcp3;tr49;Exit evaluation for truck
+print_w_tickettr14;tr14;Printed weighing ticket for pickup plan
+input_tally_sheettr14;tr14;Tally Sheet for pickup plan
+print_w_tickettr7;tr7;Printed weighing ticket for pickup plan
+input_tally_sheettr7;tr7;Tally Sheet for pickup plan
+input_tally_sheettr48;tr48;Tally Sheet for pickup plan
+print_w_tickettr48;tr48;Printed weighing ticket for pickup plan
+eval_trs_exittr31_Pcp1;tr31;Exit evaluation for truck
+load_trucktr36;tr36;cargo load for truck
+input_tally_sheettr28;tr28;Tally Sheet for pickup plan
+print_w_tickettr28;tr28;Printed weighing ticket for pickup plan
+weigh_empty_trucktr26;tr26;Truck weighed
+eval_trs_exittr48_Pcp3;tr48;Exit evaluation for truck
+print_w_tickettr32;tr32;Printed weighing ticket for pickup plan
+input_tally_sheettr32;tr32;Tally Sheet for pickup plan
+assign_trs_Pcp3;tr25;Pickup plan trucks assignment
+eval_trs_exittr14_Pcp3;tr14;Exit evaluation for truck
+eval_trs_exittr7_Pcp3;tr7;Exit evaluation for truck
+eval_trs_exittr32_Pcp1;tr32;Exit evaluation for truck
+assign_trs_Pcp3;tr21;Pickup plan trucks assignment
+weigh_loaded_trucktr27;tr27;Truck weighed
+assign_trs_Pcp3;tr10;Pickup plan trucks assignment
+weigh_empty_trucktr39;tr39;Truck weighed
+eval_trs_exittr28_Pcp3;tr28;Exit evaluation for truck
+assign_trs_Pcp3;tr5;Pickup plan trucks assignment
+assign_trs_Pcp3;tr50;Pickup plan trucks assignment
+load_trucktr26;tr26;cargo load for truck
+weigh_empty_trucktr22;tr22;Truck weighed
+weigh_empty_trucktr35;tr35;Truck weighed
+load_trucktr39;tr39;cargo load for truck
+weigh_empty_trucktr4;tr4;Truck weighed
+weigh_empty_trucktr38;tr38;Truck weighed
+load_trucktr22;tr22;cargo load for truck
+weigh_empty_trucktr46;tr46;Truck weighed
+weigh_loaded_trucktr24;tr24;Truck weighed
+load_trucktr35;tr35;cargo load for truck
+assign_trs_Pcp3;tr40;Pickup plan trucks assignment
+weigh_loaded_trucktr41;tr41;Truck weighed
+print_w_tickettr27;tr27;Printed weighing ticket for pickup plan
+input_tally_sheettr27;tr27;Tally Sheet for pickup plan
+assign_trs_Pcp3;tr43;Pickup plan trucks assignment
+eval_trs_exittr27_Pcp1;tr27;Exit evaluation for truck
+assign_trs_Pcp3;tr14;Pickup plan trucks assignment
+assign_trs_Pcp3;tr28;Pickup plan trucks assignment
+weigh_empty_trucktr6;tr6;Truck weighed
+weigh_empty_trucktr50;tr50;Truck weighed
+assign_trs_Pcp3;tr48;Pickup plan trucks assignment
+input_tally_sheettr41;tr41;Tally Sheet for pickup plan
+print_w_tickettr41;tr41;Printed weighing ticket for pickup plan
+load_trucktr38;tr38;cargo load for truck
+load_trucktr4;tr4;cargo load for truck
+load_trucktr50;tr50;cargo load for truck
+assign_trs_Pcp3;tr29;Pickup plan trucks assignment
+load_trucktr46;tr46;cargo load for truck
+weigh_empty_trucktr9;tr9;Truck weighed
+assign_trs_Pcp3;tr32;Pickup plan trucks assignment
+weigh_loaded_trucktr33;tr33;Truck weighed
+load_trucktr9;tr9;cargo load for truck
+weigh_empty_trucktr43;tr43;Truck weighed
+assign_trs_Pcp3;tr31;Pickup plan trucks assignment
+input_tally_sheettr33;tr33;Tally Sheet for pickup plan
+print_w_tickettr33;tr33;Printed weighing ticket for pickup plan
+load_trucktr43;tr43;cargo load for truck
+weigh_loaded_trucktr15;tr15;Truck weighed
+load_trucktr6;tr6;cargo load for truck
+weigh_empty_trucktr32;tr32;Truck weighed
+assign_trs_Pcp3;tr49;Pickup plan trucks assignment
+eval_trs_exittr33_Pcp1;tr33;Exit evaluation for truck
+eval_trs_exittr41_Pcp1;tr41;Exit evaluation for truck
+assign_trs_Pcp3;tr27;Pickup plan trucks assignment
+weigh_empty_trucktr5;tr5;Truck weighed
+weigh_empty_trucktr8;tr8;Truck weighed
+load_trucktr32;tr32;cargo load for truck
+weigh_loaded_trucktr11;tr11;Truck weighed
+weigh_loaded_trucktr34;tr34;Truck weighed
+input_tally_sheettr24;tr24;Tally Sheet for pickup plan
+print_w_tickettr24;tr24;Printed weighing ticket for pickup plan
+weigh_empty_trucktr2;tr2;Truck weighed
+eval_trs_exittr24_Pcp1;tr24;Exit evaluation for truck
+load_trucktr8;tr8;cargo load for truck
+weigh_loaded_trucktr16;tr16;Truck weighed
+input_tally_sheettr15;tr15;Tally Sheet for pickup plan
+print_w_tickettr15;tr15;Printed weighing ticket for pickup plan
+load_trucktr5;tr5;cargo load for truck
+weigh_empty_trucktr29;tr29;Truck weighed
+input_tally_sheettr34;tr34;Tally Sheet for pickup plan
+print_w_tickettr34;tr34;Printed weighing ticket for pickup plan
+load_trucktr2;tr2;cargo load for truck
+eval_trs_exittr15_Pcp3;tr15;Exit evaluation for truck
+load_trucktr29;tr29;cargo load for truck
+weigh_empty_trucktr40;tr40;Truck weighed
+eval_trs_exittr34_Pcp3;tr34;Exit evaluation for truck
+load_trucktr40;tr40;cargo load for truck
+input_tally_sheettr16;tr16;Tally Sheet for pickup plan
+print_w_tickettr16;tr16;Printed weighing ticket for pickup plan
+assign_trs_Pcp3;tr7;Pickup plan trucks assignment
+weigh_empty_trucktr25;tr25;Truck weighed
+weigh_loaded_trucktr19;tr19;Truck weighed
+load_trucktr25;tr25;cargo load for truck
+print_w_tickettr11;tr11;Printed weighing ticket for pickup plan
+input_tally_sheettr11;tr11;Tally Sheet for pickup plan
+input_tally_sheettr19;tr19;Tally Sheet for pickup plan
+print_w_tickettr19;tr19;Printed weighing ticket for pickup plan
+assign_trs_Pcp3;tr15;Pickup plan trucks assignment
+eval_trs_exittr11_Pcp1;tr11;Exit evaluation for truck
+assign_trs_Pcp3;tr33;Pickup plan trucks assignment
+weigh_empty_trucktr14;tr14;Truck weighed
+weigh_empty_trucktr49;tr49;Truck weighed
+load_trucktr49;tr49;cargo load for truck
+eval_trs_exittr16_Pcp3;tr16;Exit evaluation for truck
+assign_trs_Pcp3;tr34;Pickup plan trucks assignment
+eval_trs_exittr19_Pcp3;tr19;Exit evaluation for truck
+weigh_loaded_trucktr18;tr18;Truck weighed
+load_trucktr14;tr14;cargo load for truck
+weigh_loaded_trucktr1;tr1;Truck weighed
+weigh_empty_trucktr21;tr21;Truck weighed
+weigh_empty_trucktr31;tr31;Truck weighed
+print_w_tickettr18;tr18;Printed weighing ticket for pickup plan
+input_tally_sheettr18;tr18;Tally Sheet for pickup plan
+load_trucktr21;tr21;cargo load for truck
+assign_trs_Pcp3;tr41;Pickup plan trucks assignment
+load_trucktr31;tr31;cargo load for truck
+weigh_empty_trucktr28;tr28;Truck weighed
+eval_trs_exittr18_Pcp3;tr18;Exit evaluation for truck
+weigh_empty_trucktr48;tr48;Truck weighed
+weigh_loaded_trucktr12;tr12;Truck weighed
+weigh_empty_trucktr10;tr10;Truck weighed
+load_trucktr48;tr48;cargo load for truck
+weigh_loaded_trucktr23;tr23;Truck weighed
+assign_trs_Pcp3;tr16;Pickup plan trucks assignment
+load_trucktr10;tr10;cargo load for truck
+input_tally_sheettr12;tr12;Tally Sheet for pickup plan
+print_w_tickettr12;tr12;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr30;tr30;Truck weighed
+load_trucktr28;tr28;cargo load for truck
+weigh_empty_trucktr15;tr15;Truck weighed
+load_trucktr15;tr15;cargo load for truck
+weigh_empty_trucktr34;tr34;Truck weighed
+print_w_tickettr30;tr30;Printed weighing ticket for pickup plan
+input_tally_sheettr30;tr30;Tally Sheet for pickup plan
+load_trucktr34;tr34;cargo load for truck
+weigh_loaded_trucktr17;tr17;Truck weighed
+weigh_loaded_trucktr20;tr20;Truck weighed
+eval_trs_exittr30_Pcp3;tr30;Exit evaluation for truck
+assign_trs_Pcp3;tr24;Pickup plan trucks assignment
+input_tally_sheettr20;tr20;Tally Sheet for pickup plan
+print_w_tickettr20;tr20;Printed weighing ticket for pickup plan
+input_tally_sheettr23;tr23;Tally Sheet for pickup plan
+print_w_tickettr23;tr23;Printed weighing ticket for pickup plan
+weigh_empty_trucktr33;tr33;Truck weighed
+eval_trs_exittr23_Pcp1;tr23;Exit evaluation for truck
+load_trucktr33;tr33;cargo load for truck
+input_tally_sheettr1;tr1;Tally Sheet for pickup plan
+print_w_tickettr1;tr1;Printed weighing ticket for pickup plan
+eval_trs_exittr12_Pcp1;tr12;Exit evaluation for truck
+assign_trs_Pcp3;tr18;Pickup plan trucks assignment
+eval_trs_exittr20_Pcp3;tr20;Exit evaluation for truck
+print_w_tickettr17;tr17;Printed weighing ticket for pickup plan
+input_tally_sheettr17;tr17;Tally Sheet for pickup plan
+assign_trs_Pcp3;tr19;Pickup plan trucks assignment
+weigh_loaded_trucktr45;tr45;Truck weighed
+eval_trs_exittr1_Pcp3;tr1;Exit evaluation for truck
+weigh_loaded_trucktr4;tr4;Truck weighed
+eval_trs_exittr17_Pcp3;tr17;Exit evaluation for truck
+print_w_tickettr45;tr45;Printed weighing ticket for pickup plan
+input_tally_sheettr45;tr45;Tally Sheet for pickup plan
+weigh_empty_trucktr16;tr16;Truck weighed
+weigh_loaded_trucktr50;tr50;Truck weighed
+weigh_loaded_trucktr36;tr36;Truck weighed
+load_trucktr16;tr16;cargo load for truck
+eval_trs_exittr45_Pcp3;tr45;Exit evaluation for truck
+weigh_loaded_trucktr9;tr9;Truck weighed
+weigh_empty_trucktr41;tr41;Truck weighed
+weigh_empty_trucktr27;tr27;Truck weighed
+weigh_loaded_trucktr32;tr32;Truck weighed
+input_tally_sheettr9;tr9;Tally Sheet for pickup plan
+print_w_tickettr9;tr9;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr39;tr39;Truck weighed
+weigh_empty_trucktr24;tr24;Truck weighed
+assign_trs_Pcp3;tr11;Pickup plan trucks assignment
+input_tally_sheettr50;tr50;Tally Sheet for pickup plan
+print_w_tickettr50;tr50;Printed weighing ticket for pickup plan
+eval_trs_exittr9_Pcp3;tr9;Exit evaluation for truck
+load_trucktr24;tr24;cargo load for truck
+load_trucktr27;tr27;cargo load for truck
+input_tally_sheettr4;tr4;Tally Sheet for pickup plan
+print_w_tickettr4;tr4;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr22;tr22;Truck weighed
+weigh_loaded_trucktr13;tr13;Truck weighed
+print_w_tickettr36;tr36;Printed weighing ticket for pickup plan
+input_tally_sheettr36;tr36;Tally Sheet for pickup plan
+weigh_empty_trucktr7;tr7;Truck weighed
+weigh_loaded_trucktr38;tr38;Truck weighed
+weigh_loaded_trucktr35;tr35;Truck weighed
+load_trucktr41;tr41;cargo load for truck
+eval_trs_exittr50_Pcp3;tr50;Exit evaluation for truck
+print_w_tickettr38;tr38;Printed weighing ticket for pickup plan
+input_tally_sheettr38;tr38;Tally Sheet for pickup plan
+weigh_empty_trucktr19;tr19;Truck weighed
+print_w_tickettr13;tr13;Printed weighing ticket for pickup plan
+input_tally_sheettr13;tr13;Tally Sheet for pickup plan
+eval_trs_exittr36_Pcp3;tr36;Exit evaluation for truck
+load_trucktr7;tr7;cargo load for truck
+print_w_tickettr35;tr35;Printed weighing ticket for pickup plan
+input_tally_sheettr35;tr35;Tally Sheet for pickup plan
+print_w_tickettr32;tr32;Printed weighing ticket for pickup plan
+input_tally_sheettr32;tr32;Tally Sheet for pickup plan
+eval_trs_exittr4_Pcp3;tr4;Exit evaluation for truck
+print_w_tickettr39;tr39;Printed weighing ticket for pickup plan
+input_tally_sheettr39;tr39;Tally Sheet for pickup plan
+eval_trs_exittr38_Pcp3;tr38;Exit evaluation for truck
+print_w_tickettr22;tr22;Printed weighing ticket for pickup plan
+input_tally_sheettr22;tr22;Tally Sheet for pickup plan
+load_trucktr19;tr19;cargo load for truck
+eval_trs_exittr35_Pcp3;tr35;Exit evaluation for truck
+eval_trs_exittr32_Pcp3;tr32;Exit evaluation for truck
+weigh_loaded_trucktr25;tr25;Truck weighed
+eval_trs_exittr13_Pcp3;tr13;Exit evaluation for truck
+weigh_loaded_trucktr8;tr8;Truck weighed
+eval_trs_exittr22_Pcp3;tr22;Exit evaluation for truck
+weigh_loaded_trucktr47;tr47;Truck weighed
+eval_trs_exittr39_Pcp3;tr39;Exit evaluation for truck
+print_w_tickettr25;tr25;Printed weighing ticket for pickup plan
+input_tally_sheettr25;tr25;Tally Sheet for pickup plan
+weigh_loaded_trucktr40;tr40;Truck weighed
+input_tally_sheettr8;tr8;Tally Sheet for pickup plan
+print_w_tickettr8;tr8;Printed weighing ticket for pickup plan
+eval_trs_exittr25_Pcp3;tr25;Exit evaluation for truck
+input_tally_sheettr47;tr47;Tally Sheet for pickup plan
+print_w_tickettr47;tr47;Printed weighing ticket for pickup plan
+weigh_empty_trucktr11;tr11;Truck weighed
+load_trucktr11;tr11;cargo load for truck
+weigh_loaded_trucktr43;tr43;Truck weighed
+eval_trs_exittr8_Pcp3;tr8;Exit evaluation for truck
+weigh_empty_trucktr18;tr18;Truck weighed
+input_tally_sheettr40;tr40;Tally Sheet for pickup plan
+print_w_tickettr40;tr40;Printed weighing ticket for pickup plan
+input_tally_sheettr43;tr43;Tally Sheet for pickup plan
+print_w_tickettr43;tr43;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr28;tr28;Truck weighed
+eval_trs_exittr47_Pcp1;tr47;Exit evaluation for truck
+weigh_loaded_trucktr29;tr29;Truck weighed
+weigh_loaded_trucktr46;tr46;Truck weighed
+eval_trs_exittr43_Pcp3;tr43;Exit evaluation for truck
+load_trucktr18;tr18;cargo load for truck
+eval_trs_exittr40_Pcp3;tr40;Exit evaluation for truck
+weigh_loaded_trucktr42;tr42;Truck weighed
+print_w_tickettr28;tr28;Printed weighing ticket for pickup plan
+input_tally_sheettr28;tr28;Tally Sheet for pickup plan
+weigh_loaded_trucktr37;tr37;Truck weighed
+weigh_loaded_trucktr3;tr3;Truck weighed
+weigh_loaded_trucktr5;tr5;Truck weighed
+eval_trs_exittr28_Pcp3;tr28;Exit evaluation for truck
+input_tally_sheettr5;tr5;Tally Sheet for pickup plan
+print_w_tickettr5;tr5;Printed weighing ticket for pickup plan
+input_tally_sheettr29;tr29;Tally Sheet for pickup plan
+print_w_tickettr29;tr29;Printed weighing ticket for pickup plan
+eval_trs_exittr5_Pcp3;tr5;Exit evaluation for truck
+input_tally_sheettr42;tr42;Tally Sheet for pickup plan
+print_w_tickettr42;tr42;Printed weighing ticket for pickup plan
+print_w_tickettr37;tr37;Printed weighing ticket for pickup plan
+input_tally_sheettr37;tr37;Tally Sheet for pickup plan
+eval_trs_exittr29_Pcp3;tr29;Exit evaluation for truck
+eval_trs_exittr37_Pcp3;tr37;Exit evaluation for truck
+input_tally_sheettr3;tr3;Tally Sheet for pickup plan
+print_w_tickettr3;tr3;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr31;tr31;Truck weighed
+eval_trs_exittr3_Pcp1;tr3;Exit evaluation for truck
+print_w_tickettr46;tr46;Printed weighing ticket for pickup plan
+input_tally_sheettr46;tr46;Tally Sheet for pickup plan
+eval_trs_exittr42_Pcp1;tr42;Exit evaluation for truck
+input_tally_sheettr31;tr31;Tally Sheet for pickup plan
+print_w_tickettr31;tr31;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr41;tr41;Truck weighed
+eval_trs_exittr31_Pcp3;tr31;Exit evaluation for truck
+eval_trs_exittr46_Pcp3;tr46;Exit evaluation for truck
+input_tally_sheettr41;tr41;Tally Sheet for pickup plan
+print_w_tickettr41;tr41;Printed weighing ticket for pickup plan
+eval_trs_exittr41_Pcp3;tr41;Exit evaluation for truck
+weigh_loaded_trucktr2;tr2;Truck weighed
+weigh_loaded_trucktr19;tr19;Truck weighed
+weigh_loaded_trucktr15;tr15;Truck weighed
+weigh_loaded_trucktr21;tr21;Truck weighed
+input_tally_sheettr2;tr2;Tally Sheet for pickup plan
+print_w_tickettr2;tr2;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr48;tr48;Truck weighed
+eval_trs_exittr2_Pcp3;tr2;Exit evaluation for truck
+weigh_loaded_trucktr49;tr49;Truck weighed
+weigh_loaded_trucktr33;tr33;Truck weighed
+input_tally_sheettr19;tr19;Tally Sheet for pickup plan
+print_w_tickettr19;tr19;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr26;tr26;Truck weighed
+input_tally_sheettr49;tr49;Tally Sheet for pickup plan
+print_w_tickettr49;tr49;Printed weighing ticket for pickup plan
+input_tally_sheettr48;tr48;Tally Sheet for pickup plan
+print_w_tickettr48;tr48;Printed weighing ticket for pickup plan
+input_tally_sheettr15;tr15;Tally Sheet for pickup plan
+print_w_tickettr15;tr15;Printed weighing ticket for pickup plan
+eval_trs_exittr15_Pcp3;tr15;Exit evaluation for truck
+weigh_loaded_trucktr10;tr10;Truck weighed
+weigh_loaded_trucktr6;tr6;Truck weighed
+input_tally_sheettr21;tr21;Tally Sheet for pickup plan
+print_w_tickettr21;tr21;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr11;tr11;Truck weighed
+print_w_tickettr10;tr10;Printed weighing ticket for pickup plan
+input_tally_sheettr10;tr10;Tally Sheet for pickup plan
+input_tally_sheettr33;tr33;Tally Sheet for pickup plan
+print_w_tickettr33;tr33;Printed weighing ticket for pickup plan
+eval_trs_exittr19_Pcp3;tr19;Exit evaluation for truck
+eval_trs_exittr49_Pcp3;tr49;Exit evaluation for truck
+eval_trs_exittr48_Pcp3;tr48;Exit evaluation for truck
+print_w_tickettr26;tr26;Printed weighing ticket for pickup plan
+input_tally_sheettr26;tr26;Tally Sheet for pickup plan
+eval_trs_exittr33_Pcp3;tr33;Exit evaluation for truck
+eval_trs_exittr26_Pcp3;tr26;Exit evaluation for truck
+eval_trs_exittr10_Pcp3;tr10;Exit evaluation for truck
+eval_trs_exittr21_Pcp3;tr21;Exit evaluation for truck
+weigh_loaded_trucktr27;tr27;Truck weighed
+input_tally_sheettr11;tr11;Tally Sheet for pickup plan
+print_w_tickettr11;tr11;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr34;tr34;Truck weighed
+input_tally_sheettr6;tr6;Tally Sheet for pickup plan
+print_w_tickettr6;tr6;Printed weighing ticket for pickup plan
+eval_trs_exittr11_Pcp3;tr11;Exit evaluation for truck
+eval_trs_exittr6_Pcp3;tr6;Exit evaluation for truck
+input_tally_sheettr27;tr27;Tally Sheet for pickup plan
+print_w_tickettr27;tr27;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr44;tr44;Truck weighed
+print_w_tickettr44;tr44;Printed weighing ticket for pickup plan
+input_tally_sheettr44;tr44;Tally Sheet for pickup plan
+print_w_tickettr34;tr34;Printed weighing ticket for pickup plan
+input_tally_sheettr34;tr34;Tally Sheet for pickup plan
+eval_trs_exittr27_Pcp3;tr27;Exit evaluation for truck
+eval_trs_exittr44_Pcp1;tr44;Exit evaluation for truck
+eval_trs_exittr34_Pcp3;tr34;Exit evaluation for truck
+weigh_loaded_trucktr7;tr7;Truck weighed
+weigh_loaded_trucktr14;tr14;Truck weighed
+print_w_tickettr14;tr14;Printed weighing ticket for pickup plan
+input_tally_sheettr14;tr14;Tally Sheet for pickup plan
+eval_trs_exittr14_Pcp3;tr14;Exit evaluation for truck
+input_tally_sheettr7;tr7;Tally Sheet for pickup plan
+print_w_tickettr7;tr7;Printed weighing ticket for pickup plan
+eval_trs_exittr7_Pcp3;tr7;Exit evaluation for truck
+weigh_loaded_trucktr16;tr16;Truck weighed
+input_tally_sheettr16;tr16;Tally Sheet for pickup plan
+print_w_tickettr16;tr16;Printed weighing ticket for pickup plan
+weigh_loaded_trucktr24;tr24;Truck weighed
+eval_trs_exittr16_Pcp3;tr16;Exit evaluation for truck
+weigh_loaded_trucktr18;tr18;Truck weighed
+print_w_tickettr18;tr18;Printed weighing ticket for pickup plan
+input_tally_sheettr18;tr18;Tally Sheet for pickup plan
+input_tally_sheettr24;tr24;Tally Sheet for pickup plan
+print_w_tickettr24;tr24;Printed weighing ticket for pickup plan
+eval_trs_exittr24_Pcp3;tr24;Exit evaluation for truck
+eval_trs_exittr18_Pcp3;tr18;Exit evaluation for truck
