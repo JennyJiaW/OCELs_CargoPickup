@@ -1,0 +1,1566 @@
+ocel_IoTobject_id;ocel_object_id;ocel_qualifier;ocel_time
+WS16;tr30;Weight sensor measuring empty truck weight;2024-05-01 15:54:29
+WS13;tr19;Weight sensor measuring empty truck weight;2024-05-01 16:23:31
+WS04;tr34;Weight sensor measuring empty truck weight;2024-05-01 16:57:54
+WS06;tr45;Weight sensor measuring empty truck weight;2024-05-01 16:58:07
+WS09;tr40;Weight sensor measuring empty truck weight;2024-05-01 17:28:48
+WS02;tr21;Weight sensor measuring empty truck weight;2024-05-01 17:43:38
+WS05;tr4;Weight sensor measuring empty truck weight;2024-05-01 17:55:13
+WS07;tr35;Weight sensor measuring empty truck weight;2024-05-01 18:08:17
+WS12;tr1;Weight sensor measuring empty truck weight;2024-05-02 07:33:05
+WS14;tr16;Weight sensor measuring empty truck weight;2024-05-02 07:58:12
+WS10;tr26;Weight sensor measuring empty truck weight;2024-05-02 08:02:45
+WS20;tr6;Weight sensor measuring empty truck weight;2024-05-02 08:29:57
+WS06;tr8;Weight sensor measuring empty truck weight;2024-05-02 09:04:52
+WS01;tr37;Weight sensor measuring empty truck weight;2024-05-02 09:33:06
+WS16;tr38;Weight sensor measuring empty truck weight;2024-05-02 09:38:46
+WS11;tr27;Weight sensor measuring empty truck weight;2024-05-02 10:30:33
+WS07;tr31;Weight sensor measuring empty truck weight;2024-05-02 10:53:13
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-02 10:56:55
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-02 10:56:55
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-02 10:56:55
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-02 10:56:55
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-02 10:56:55
+WS19;tr10;Weight sensor measuring empty truck weight;2024-05-02 10:59:45
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-02 11:20:35
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-02 11:20:35
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-02 11:20:35
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-02 11:20:35
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-02 11:20:35
+WS04;tr48;Weight sensor measuring empty truck weight;2024-05-02 11:22:51
+WS14;tr25;Weight sensor measuring empty truck weight;2024-05-02 11:23:21
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-02 11:23:34
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-02 11:23:34
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-02 11:23:34
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-02 11:23:34
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-02 11:23:34
+WS18;tr20;Weight sensor measuring empty truck weight;2024-05-02 11:25:46
+WS05;tr28;Weight sensor measuring empty truck weight;2024-05-02 11:28:12
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-02 11:29:19
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-02 11:29:19
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-02 11:29:19
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-02 11:29:19
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-02 11:29:19
+WS15;tr36;Weight sensor measuring empty truck weight;2024-05-02 11:43:40
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-02 11:48:42
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-02 11:48:42
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-02 11:48:42
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-02 11:48:42
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-02 11:48:42
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-02 12:37:00
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-02 12:37:00
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-02 12:37:00
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-02 12:37:00
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-02 12:37:00
+WS12;tr42;Weight sensor measuring empty truck weight;2024-05-02 13:19:51
+WS06;tr44;Weight sensor measuring empty truck weight;2024-05-02 13:24:55
+WS08;tr14;Weight sensor measuring empty truck weight;2024-05-02 13:26:43
+WS11;tr9;Weight sensor measuring empty truck weight;2024-05-02 14:14:31
+WS13;tr18;Weight sensor measuring empty truck weight;2024-05-02 14:40:57
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-02 14:53:09
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-02 14:53:09
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-02 14:53:09
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-02 14:53:09
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-02 14:53:09
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-02 14:54:24
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-02 14:54:24
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-02 14:54:24
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-02 14:54:24
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-02 14:54:24
+WS07;tr23;Weight sensor measuring empty truck weight;2024-05-02 15:23:22
+WS14;tr49;Weight sensor measuring empty truck weight;2024-05-02 15:24:58
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-02 15:46:22
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-02 15:46:22
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-02 15:46:22
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-02 15:46:22
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-02 15:46:22
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-02 15:46:32
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-02 15:46:32
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-02 15:46:32
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-02 15:46:32
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-02 15:46:32
+WS08;tr32;Weight sensor measuring empty truck weight;2024-05-02 15:46:53
+WS03;tr33;Weight sensor measuring empty truck weight;2024-05-02 15:49:08
+WS09;tr5;Weight sensor measuring empty truck weight;2024-05-02 15:51:35
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-02 15:54:55
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-02 15:54:55
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-02 15:54:55
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-02 15:54:55
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-02 15:54:55
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-02 16:09:23
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-02 16:09:23
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-02 16:09:23
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-02 16:09:23
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-02 16:09:23
+WS15;tr15;Weight sensor measuring empty truck weight;2024-05-02 16:30:46
+WS14;tr50;Weight sensor measuring empty truck weight;2024-05-02 16:35:43
+WS19;tr7;Weight sensor measuring empty truck weight;2024-05-02 17:07:24
+WS16;tr2;Weight sensor measuring empty truck weight;2024-05-02 17:15:28
+WS07;tr24;Weight sensor measuring empty truck weight;2024-05-02 17:30:32
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-02 17:31:04
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-02 17:31:04
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-02 17:31:04
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-02 17:31:04
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-02 17:31:04
+WS08;tr3;Weight sensor measuring empty truck weight;2024-05-02 19:42:50
+WS15;tr12;Weight sensor measuring empty truck weight;2024-05-03 07:34:47
+WS01;tr29;Weight sensor measuring empty truck weight;2024-05-03 08:02:23
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-03 08:55:42
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-03 08:55:42
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-03 08:55:42
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-03 08:55:42
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-03 08:55:42
+WS11;tr41;Weight sensor measuring empty truck weight;2024-05-03 09:33:23
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-03 09:40:17
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-03 09:40:17
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-03 09:40:17
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-03 09:40:17
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-03 09:40:17
+WS19;tr17;Weight sensor measuring empty truck weight;2024-05-03 09:51:51
+WS02;tr47;Weight sensor measuring empty truck weight;2024-05-03 09:52:44
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-03 10:12:20
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-03 10:12:20
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-03 10:12:20
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-03 10:12:20
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-03 10:12:20
+WS04;tr39;Weight sensor measuring empty truck weight;2024-05-03 10:28:18
+WS08;tr45;Weight sensor measuring empty truck weight;2024-05-03 10:31:19
+WS05;tr40;Weight sensor measuring empty truck weight;2024-05-03 10:33:55
+WS03;tr46;Weight sensor measuring empty truck weight;2024-05-03 10:34:31
+WS10;tr43;Weight sensor measuring empty truck weight;2024-05-03 10:44:43
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-03 11:08:58
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-03 11:08:58
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-03 11:08:58
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-03 11:08:58
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-03 11:08:58
+WS16;tr21;Weight sensor measuring loaded truck weight;2024-05-03 11:14:08
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-03 11:47:13
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-03 11:47:13
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-03 11:47:13
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-03 11:47:13
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-03 11:47:13
+WS14;tr1;Weight sensor measuring empty truck weight;2024-05-03 13:45:20
+WS10;tr4;Weight sensor measuring loaded truck weight;2024-05-03 13:54:55
+WS06;tr13;Weight sensor measuring empty truck weight;2024-05-03 13:55:10
+WS11;tr35;Weight sensor measuring loaded truck weight;2024-05-03 13:56:10
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-03 14:19:41
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-03 14:19:41
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-03 14:19:41
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-03 14:19:41
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-03 14:19:41
+WS02;tr22;Weight sensor measuring empty truck weight;2024-05-03 14:24:38
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-03 14:26:37
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-03 14:26:37
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-03 14:26:37
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-03 14:26:37
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-03 14:26:37
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-03 14:54:42
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-03 14:54:42
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-03 14:54:42
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-03 14:54:42
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-03 14:54:42
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-03 15:43:26
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-03 15:43:26
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-03 15:43:26
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-03 15:43:26
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-03 15:43:26
+WS07;tr34;Weight sensor measuring empty truck weight;2024-05-03 15:43:52
+WS04;tr11;Weight sensor measuring empty truck weight;2024-05-03 15:46:18
+WS15;tr6;Weight sensor measuring empty truck weight;2024-05-03 15:58:47
+WS08;tr5;Weight sensor measuring empty truck weight;2024-05-03 16:38:21
+WS02;tr25;Weight sensor measuring empty truck weight;2024-05-03 16:38:48
+WS03;tr8;Weight sensor measuring loaded truck weight;2024-05-03 17:14:15
+Temp12;Silo12;Temperature sensor measuring silo temperature;2024-05-03 18:02:07
+Humd12;Silo12;Humidity sensor measuring silo humidity;2024-05-03 18:02:07
+GrainTemp34;Silo12;1st Grain Termperature sensor located in the silo;2024-05-03 18:02:07
+GrainTemp35;Silo12;2nd Grain Termperature sensor located in the silo;2024-05-03 18:02:07
+GrainTemp36;Silo12;3rd Grain Termperature sensor located in the silo;2024-05-03 18:02:07
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-03 18:06:15
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-03 18:06:15
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-03 18:06:15
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-03 18:06:15
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-03 18:06:15
+WS20;tr20;Weight sensor measuring loaded truck weight;2024-05-06 07:28:39
+WS06;tr36;Weight sensor measuring empty truck weight;2024-05-06 07:44:45
+WS20;tr48;Weight sensor measuring empty truck weight;2024-05-06 07:45:21
+WS11;tr10;Weight sensor measuring loaded truck weight;2024-05-06 07:57:19
+WS16;tr27;Weight sensor measuring empty truck weight;2024-05-06 09:22:15
+WS05;tr49;Weight sensor measuring empty truck weight;2024-05-06 09:27:23
+WS07;tr19;Weight sensor measuring empty truck weight;2024-05-06 09:51:54
+WS17;tr37;Weight sensor measuring empty truck weight;2024-05-06 09:59:37
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-06 10:05:37
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-06 10:05:37
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-06 10:05:37
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-06 10:05:37
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-06 10:05:37
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-06 10:21:59
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-06 10:21:59
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-06 10:21:59
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-06 10:21:59
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-06 10:21:59
+WS02;tr24;Weight sensor measuring empty truck weight;2024-05-06 10:26:23
+WS13;tr14;Weight sensor measuring loaded truck weight;2024-05-06 10:28:27
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-06 10:58:41
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-06 10:58:41
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-06 10:58:41
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-06 10:58:41
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-06 10:58:41
+WS15;tr28;Weight sensor measuring empty truck weight;2024-05-06 11:10:01
+WS16;tr42;Weight sensor measuring loaded truck weight;2024-05-06 11:48:32
+WS04;tr7;Weight sensor measuring empty truck weight;2024-05-06 11:55:44
+WS05;tr30;Weight sensor measuring empty truck weight;2024-05-06 11:55:54
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-06 11:59:07
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-06 11:59:07
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-06 11:59:07
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-06 11:59:07
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-06 11:59:07
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-06 11:59:40
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-06 11:59:40
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-06 11:59:40
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-06 11:59:40
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-06 11:59:40
+WS16;tr38;Weight sensor measuring loaded truck weight;2024-05-06 12:20:17
+WS12;tr31;Weight sensor measuring loaded truck weight;2024-05-06 12:33:38
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-06 13:48:07
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-06 13:48:07
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-06 13:48:07
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-06 13:48:07
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-06 13:48:07
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-06 13:48:40
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-06 13:48:40
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-06 13:48:40
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-06 13:48:40
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-06 13:48:40
+WS06;tr32;Weight sensor measuring empty truck weight;2024-05-06 14:11:23
+WS20;tr23;Weight sensor measuring loaded truck weight;2024-05-06 14:23:36
+WS02;tr9;Weight sensor measuring empty truck weight;2024-05-06 14:48:04
+WS06;tr39;Weight sensor measuring empty truck weight;2024-05-06 15:01:16
+WS03;tr40;Weight sensor measuring empty truck weight;2024-05-06 15:13:08
+WS17;tr6;Weight sensor measuring empty truck weight;2024-05-06 15:33:32
+WS11;tr17;Weight sensor measuring loaded truck weight;2024-05-06 15:37:40
+WS10;tr12;Weight sensor measuring loaded truck weight;2024-05-06 15:49:34
+WS14;tr16;Weight sensor measuring loaded truck weight;2024-05-06 15:52:26
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-06 15:53:00
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-06 15:53:00
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-06 15:53:00
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-06 15:53:00
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-06 15:53:00
+WS07;tr13;Weight sensor measuring loaded truck weight;2024-05-06 16:16:05
+WS05;tr26;Weight sensor measuring loaded truck weight;2024-05-06 17:45:00
+WS08;tr4;Weight sensor measuring empty truck weight;2024-05-07 08:01:28
+WS16;tr41;Weight sensor measuring loaded truck weight;2024-05-07 08:30:52
+WS04;tr21;Weight sensor measuring empty truck weight;2024-05-07 09:32:14
+WS02;tr46;Weight sensor measuring empty truck weight;2024-05-07 10:43:22
+WS01;tr18;Weight sensor measuring empty truck weight;2024-05-07 10:56:24
+WS06;tr15;Weight sensor measuring loaded truck weight;2024-05-07 11:20:23
+WS05;tr14;Weight sensor measuring empty truck weight;2024-05-07 11:33:15
+WS19;tr50;Weight sensor measuring empty truck weight;2024-05-07 11:34:10
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-07 11:43:36
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-07 11:43:36
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-07 11:43:36
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-07 11:43:36
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-07 11:43:36
+WS17;tr2;Weight sensor measuring empty truck weight;2024-05-07 13:14:47
+WS15;tr29;Weight sensor measuring empty truck weight;2024-05-07 13:47:49
+WS12;tr5;Weight sensor measuring loaded truck weight;2024-05-07 14:13:46
+WS12;tr22;Weight sensor measuring loaded truck weight;2024-05-07 14:17:58
+WS09;tr49;Weight sensor measuring empty truck weight;2024-05-07 14:19:38
+WS12;tr20;Weight sensor measuring empty truck weight;2024-05-07 14:37:46
+WS11;tr36;Weight sensor measuring loaded truck weight;2024-05-07 14:50:47
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-07 15:02:09
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-07 15:02:09
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-07 15:02:09
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-07 15:02:09
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-07 15:02:09
+WS20;tr47;Weight sensor measuring loaded truck weight;2024-05-07 15:06:45
+WS09;tr10;Weight sensor measuring empty truck weight;2024-05-07 15:13:24
+WS10;tr43;Weight sensor measuring empty truck weight;2024-05-07 15:35:46
+WS18;tr42;Weight sensor measuring empty truck weight;2024-05-07 16:02:45
+WS12;tr8;Weight sensor measuring empty truck weight;2024-05-07 16:13:01
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-07 16:30:57
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-07 16:30:57
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-07 16:30:57
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-07 16:30:57
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-07 16:30:57
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-07 16:39:30
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-07 16:39:30
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-07 16:39:30
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-07 16:39:30
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-07 16:39:30
+WS20;tr1;Weight sensor measuring empty truck weight;2024-05-07 16:49:18
+WS15;tr48;Weight sensor measuring loaded truck weight;2024-05-07 17:08:02
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-07 19:18:48
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-07 19:18:48
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-07 19:18:48
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-07 19:18:48
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-07 19:18:48
+WS07;tr7;Weight sensor measuring empty truck weight;2024-05-08 07:12:40
+WS17;tr44;Weight sensor measuring loaded truck weight;2024-05-08 08:16:35
+Temp4;Silo4;Temperature sensor measuring silo temperature;2024-05-08 08:35:16
+Humd4;Silo4;Humidity sensor measuring silo humidity;2024-05-08 08:35:16
+GrainTemp10;Silo4;1st Grain Termperature sensor located in the silo;2024-05-08 08:35:16
+GrainTemp11;Silo4;2nd Grain Termperature sensor located in the silo;2024-05-08 08:35:16
+GrainTemp12;Silo4;3rd Grain Termperature sensor located in the silo;2024-05-08 08:35:16
+WS20;tr38;Weight sensor measuring empty truck weight;2024-05-08 08:48:05
+Temp4;Silo4;Temperature sensor measuring silo temperature;2024-05-08 08:52:19
+Humd4;Silo4;Humidity sensor measuring silo humidity;2024-05-08 08:52:19
+GrainTemp10;Silo4;1st Grain Termperature sensor located in the silo;2024-05-08 08:52:19
+GrainTemp11;Silo4;2nd Grain Termperature sensor located in the silo;2024-05-08 08:52:19
+GrainTemp12;Silo4;3rd Grain Termperature sensor located in the silo;2024-05-08 08:52:19
+WS18;tr27;Weight sensor measuring empty truck weight;2024-05-08 09:18:10
+WS10;tr32;Weight sensor measuring empty truck weight;2024-05-08 09:28:10
+WS19;tr35;Weight sensor measuring empty truck weight;2024-05-08 09:30:32
+WS05;tr33;Weight sensor measuring loaded truck weight;2024-05-08 09:30:40
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-08 09:42:48
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-08 09:42:48
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-08 09:42:48
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-08 09:42:48
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-08 09:42:48
+WS14;tr12;Weight sensor measuring empty truck weight;2024-05-08 10:29:06
+WS09;tr11;Weight sensor measuring loaded truck weight;2024-05-08 10:32:15
+WS05;tr37;Weight sensor measuring empty truck weight;2024-05-08 10:46:54
+WS17;tr23;Weight sensor measuring empty truck weight;2024-05-08 11:26:25
+WS15;tr19;Weight sensor measuring loaded truck weight;2024-05-08 11:30:52
+WS20;tr9;Weight sensor measuring empty truck weight;2024-05-08 11:47:08
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-08 11:48:15
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-08 11:48:15
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-08 11:48:15
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-08 11:48:15
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-08 11:48:15
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-08 14:00:04
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-08 14:00:04
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-08 14:00:04
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-08 14:00:04
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-08 14:00:04
+WS04;tr25;Weight sensor measuring empty truck weight;2024-05-08 14:14:10
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-08 14:43:55
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-08 14:43:55
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-08 14:43:55
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-08 14:43:55
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-08 14:43:55
+WS06;tr14;Weight sensor measuring loaded truck weight;2024-05-08 15:13:31
+WS13;tr30;Weight sensor measuring empty truck weight;2024-05-08 15:31:11
+WS12;tr46;Weight sensor measuring empty truck weight;2024-05-08 15:44:11
+WS17;tr39;Weight sensor measuring empty truck weight;2024-05-08 15:51:40
+WS19;tr40;Weight sensor measuring empty truck weight;2024-05-08 16:09:24
+WS08;tr2;Weight sensor measuring loaded truck weight;2024-05-08 16:12:27
+WS10;tr21;Weight sensor measuring loaded truck weight;2024-05-08 16:15:22
+WS14;tr17;Weight sensor measuring empty truck weight;2024-05-08 16:30:43
+WS07;tr47;Weight sensor measuring empty truck weight;2024-05-08 16:40:47
+WS10;tr34;Weight sensor measuring loaded truck weight;2024-05-08 16:45:23
+WS20;tr49;Weight sensor measuring loaded truck weight;2024-05-08 16:46:47
+WS09;tr41;Weight sensor measuring empty truck weight;2024-05-08 16:50:46
+WS01;tr1;Weight sensor measuring empty truck weight;2024-05-08 16:55:36
+WS11;tr28;Weight sensor measuring loaded truck weight;2024-05-08 17:00:29
+WS05;tr5;Weight sensor measuring empty truck weight;2024-05-08 17:32:34
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-08 19:47:39
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-08 19:47:39
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-08 19:47:39
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-08 19:47:39
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-08 19:47:39
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-09 08:40:07
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-09 08:40:07
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-09 08:40:07
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-09 08:40:07
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-09 08:40:07
+WS19;tr31;Weight sensor measuring empty truck weight;2024-05-09 08:45:34
+WS03;tr36;Weight sensor measuring empty truck weight;2024-05-09 09:03:56
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-09 09:10:03
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-09 09:10:03
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-09 09:10:03
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-09 09:10:03
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-09 09:10:03
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-09 09:30:15
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-09 09:30:15
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-09 09:30:15
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-09 09:30:15
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-09 09:30:15
+WS08;tr27;Weight sensor measuring empty truck weight;2024-05-09 09:51:50
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-09 09:57:50
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-09 09:57:50
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-09 09:57:50
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-09 09:57:50
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-09 09:57:50
+WS13;tr20;Weight sensor measuring empty truck weight;2024-05-09 10:35:55
+WS07;tr4;Weight sensor measuring empty truck weight;2024-05-09 10:52:42
+WS16;tr12;Weight sensor measuring empty truck weight;2024-05-09 10:54:44
+WS09;tr35;Weight sensor measuring loaded truck weight;2024-05-09 11:08:59
+WS18;tr42;Weight sensor measuring empty truck weight;2024-05-09 11:18:56
+WS06;tr6;Weight sensor measuring empty truck weight;2024-05-09 11:22:21
+WS15;tr16;Weight sensor measuring empty truck weight;2024-05-09 11:38:19
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-09 11:47:39
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-09 11:47:39
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-09 11:47:39
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-09 11:47:39
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-09 11:47:39
+WS12;tr18;Weight sensor measuring empty truck weight;2024-05-09 11:48:41
+WS04;tr13;Weight sensor measuring empty truck weight;2024-05-09 12:01:12
+WS19;tr45;Weight sensor measuring loaded truck weight;2024-05-09 12:37:48
+WS19;tr15;Weight sensor measuring empty truck weight;2024-05-09 13:46:02
+WS11;tr11;Weight sensor measuring empty truck weight;2024-05-09 13:48:08
+WS01;tr44;Weight sensor measuring empty truck weight;2024-05-09 13:50:10
+WS08;tr8;Weight sensor measuring loaded truck weight;2024-05-09 14:30:22
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-09 14:45:50
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-09 14:45:50
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-09 14:45:50
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-09 14:45:50
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-09 14:45:50
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-09 14:46:34
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-09 14:46:34
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-09 14:46:34
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-09 14:46:34
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-09 14:46:34
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-09 14:47:23
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-09 14:47:23
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-09 14:47:23
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-09 14:47:23
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-09 14:47:23
+WS16;tr50;Weight sensor measuring empty truck weight;2024-05-09 14:59:07
+WS05;tr3;Weight sensor measuring loaded truck weight;2024-05-09 15:01:12
+WS07;tr24;Weight sensor measuring loaded truck weight;2024-05-09 15:15:33
+WS13;tr7;Weight sensor measuring loaded truck weight;2024-05-09 15:39:04
+WS05;tr43;Weight sensor measuring empty truck weight;2024-05-09 15:40:41
+WS02;tr9;Weight sensor measuring empty truck weight;2024-05-09 15:59:00
+WS01;tr14;Weight sensor measuring empty truck weight;2024-05-09 17:28:54
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-09 17:40:19
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-09 17:40:19
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-09 17:40:19
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-09 17:40:19
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-09 17:40:19
+WS04;tr32;Weight sensor measuring empty truck weight;2024-05-10 07:33:13
+Temp4;Silo4;Temperature sensor measuring silo temperature;2024-05-10 07:53:21
+Humd4;Silo4;Humidity sensor measuring silo humidity;2024-05-10 07:53:21
+GrainTemp10;Silo4;1st Grain Termperature sensor located in the silo;2024-05-10 07:53:21
+GrainTemp11;Silo4;2nd Grain Termperature sensor located in the silo;2024-05-10 07:53:21
+GrainTemp12;Silo4;3rd Grain Termperature sensor located in the silo;2024-05-10 07:53:21
+WS02;tr33;Weight sensor measuring empty truck weight;2024-05-10 07:54:46
+WS16;tr10;Weight sensor measuring loaded truck weight;2024-05-10 08:12:12
+WS08;tr19;Weight sensor measuring empty truck weight;2024-05-10 08:13:19
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-10 09:51:26
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-10 09:51:26
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-10 09:51:26
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-10 09:51:26
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-10 09:51:26
+WS11;tr28;Weight sensor measuring empty truck weight;2024-05-10 09:51:36
+WS05;tr26;Weight sensor measuring empty truck weight;2024-05-10 09:54:18
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-10 10:21:24
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-10 10:21:24
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-10 10:21:24
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-10 10:21:24
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-10 10:21:24
+WS20;tr22;Weight sensor measuring empty truck weight;2024-05-10 10:30:39
+WS17;tr37;Weight sensor measuring empty truck weight;2024-05-10 11:13:26
+WS01;tr49;Weight sensor measuring empty truck weight;2024-05-10 11:27:55
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-10 11:33:28
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-10 11:33:28
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-10 11:33:28
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-10 11:33:28
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-10 11:33:28
+WS18;tr2;Weight sensor measuring empty truck weight;2024-05-10 12:07:31
+WS14;tr6;Weight sensor measuring empty truck weight;2024-05-10 13:46:42
+WS13;tr1;Weight sensor measuring empty truck weight;2024-05-10 14:37:51
+WS03;tr48;Weight sensor measuring empty truck weight;2024-05-10 14:45:05
+WS05;tr23;Weight sensor measuring loaded truck weight;2024-05-10 14:48:18
+WS06;tr36;Weight sensor measuring empty truck weight;2024-05-10 15:19:51
+WS12;tr47;Weight sensor measuring loaded truck weight;2024-05-10 15:21:24
+WS11;tr34;Weight sensor measuring empty truck weight;2024-05-10 15:30:57
+Temp4;Silo4;Temperature sensor measuring silo temperature;2024-05-10 15:53:22
+Humd4;Silo4;Humidity sensor measuring silo humidity;2024-05-10 15:53:22
+GrainTemp10;Silo4;1st Grain Termperature sensor located in the silo;2024-05-10 15:53:22
+GrainTemp11;Silo4;2nd Grain Termperature sensor located in the silo;2024-05-10 15:53:22
+GrainTemp12;Silo4;3rd Grain Termperature sensor located in the silo;2024-05-10 15:53:22
+WS09;tr29;Weight sensor measuring loaded truck weight;2024-05-10 16:08:46
+WS01;tr13;Weight sensor measuring empty truck weight;2024-05-10 19:11:54
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-13 07:25:49
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-13 07:25:49
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-13 07:25:49
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-13 07:25:49
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-13 07:25:49
+WS15;tr40;Weight sensor measuring empty truck weight;2024-05-13 07:37:20
+WS18;tr39;Weight sensor measuring empty truck weight;2024-05-13 07:38:36
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-13 07:40:58
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-13 07:40:58
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-13 07:40:58
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-13 07:40:58
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-13 07:40:58
+WS03;tr3;Weight sensor measuring empty truck weight;2024-05-13 08:22:02
+WS13;tr21;Weight sensor measuring empty truck weight;2024-05-13 09:02:31
+WS12;tr8;Weight sensor measuring empty truck weight;2024-05-13 09:41:21
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-13 09:47:52
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-13 09:47:52
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-13 09:47:52
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-13 09:47:52
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-13 09:47:52
+WS10;tr35;Weight sensor measuring empty truck weight;2024-05-13 09:48:10
+WS17;tr17;Weight sensor measuring loaded truck weight;2024-05-13 09:58:11
+WS20;tr12;Weight sensor measuring empty truck weight;2024-05-13 10:01:21
+WS05;tr32;Weight sensor measuring empty truck weight;2024-05-13 10:32:34
+WS08;tr4;Weight sensor measuring empty truck weight;2024-05-13 10:35:16
+WS18;tr45;Weight sensor measuring empty truck weight;2024-05-13 10:38:22
+WS16;tr41;Weight sensor measuring loaded truck weight;2024-05-13 10:42:20
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-13 10:45:24
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-13 10:45:24
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-13 10:45:24
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-13 10:45:24
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-13 10:45:24
+WS15;tr20;Weight sensor measuring loaded truck weight;2024-05-13 10:47:11
+WS06;tr30;Weight sensor measuring loaded truck weight;2024-05-13 10:55:15
+WS17;tr7;Weight sensor measuring empty truck weight;2024-05-13 10:58:02
+WS07;tr24;Weight sensor measuring empty truck weight;2024-05-13 10:58:20
+WS16;tr25;Weight sensor measuring empty truck weight;2024-05-13 11:31:17
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-13 11:43:12
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-13 11:43:12
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-13 11:43:12
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-13 11:43:12
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-13 11:43:12
+WS01;tr38;Weight sensor measuring loaded truck weight;2024-05-13 12:41:08
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-13 13:44:11
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-13 13:44:11
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-13 13:44:11
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-13 13:44:11
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-13 13:44:11
+WS01;tr9;Weight sensor measuring empty truck weight;2024-05-13 13:59:37
+WS13;tr42;Weight sensor measuring empty truck weight;2024-05-13 14:23:44
+WS19;tr50;Weight sensor measuring loaded truck weight;2024-05-13 15:03:38
+WS06;tr23;Weight sensor measuring empty truck weight;2024-05-13 15:27:33
+WS19;tr31;Weight sensor measuring empty truck weight;2024-05-13 15:31:01
+WS04;tr47;Weight sensor measuring empty truck weight;2024-05-13 15:36:19
+Temp4;Silo4;Temperature sensor measuring silo temperature;2024-05-13 16:16:14
+Humd4;Silo4;Humidity sensor measuring silo humidity;2024-05-13 16:16:14
+GrainTemp10;Silo4;1st Grain Termperature sensor located in the silo;2024-05-13 16:16:14
+GrainTemp11;Silo4;2nd Grain Termperature sensor located in the silo;2024-05-13 16:16:14
+GrainTemp12;Silo4;3rd Grain Termperature sensor located in the silo;2024-05-13 16:16:14
+WS02;tr33;Weight sensor measuring loaded truck weight;2024-05-13 16:24:22
+WS16;tr44;Weight sensor measuring loaded truck weight;2024-05-13 17:08:36
+WS18;tr1;Weight sensor measuring empty truck weight;2024-05-14 07:18:06
+WS19;tr3;Weight sensor measuring empty truck weight;2024-05-14 08:46:12
+WS03;tr43;Weight sensor measuring empty truck weight;2024-05-14 08:48:22
+WS04;tr29;Weight sensor measuring empty truck weight;2024-05-14 08:58:46
+WS17;tr10;Weight sensor measuring empty truck weight;2024-05-14 09:26:57
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-14 09:29:18
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-14 09:29:18
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-14 09:29:18
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-14 09:29:18
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-14 09:29:18
+WS10;tr18;Weight sensor measuring empty truck weight;2024-05-14 09:47:03
+WS07;tr40;Weight sensor measuring empty truck weight;2024-05-14 09:52:33
+WS09;tr15;Weight sensor measuring empty truck weight;2024-05-14 09:53:48
+WS16;tr14;Weight sensor measuring loaded truck weight;2024-05-14 10:00:05
+WS05;tr34;Weight sensor measuring loaded truck weight;2024-05-14 10:16:02
+WS20;tr27;Weight sensor measuring loaded truck weight;2024-05-14 10:19:54
+WS16;tr19;Weight sensor measuring empty truck weight;2024-05-14 10:20:08
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-14 10:53:26
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-14 10:53:26
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-14 10:53:26
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-14 10:53:26
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-14 10:53:26
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-14 10:56:47
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-14 10:56:47
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-14 10:56:47
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-14 10:56:47
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-14 10:56:47
+WS18;tr16;Weight sensor measuring loaded truck weight;2024-05-14 11:37:28
+WS17;tr13;Weight sensor measuring empty truck weight;2024-05-14 11:56:16
+WS02;tr26;Weight sensor measuring empty truck weight;2024-05-14 13:28:03
+WS14;tr8;Weight sensor measuring empty truck weight;2024-05-14 13:34:28
+WS15;tr35;Weight sensor measuring loaded truck weight;2024-05-14 14:27:39
+WS08;tr30;Weight sensor measuring empty truck weight;2024-05-14 14:32:22
+WS01;tr28;Weight sensor measuring empty truck weight;2024-05-14 14:46:36
+WS03;tr17;Weight sensor measuring empty truck weight;2024-05-14 15:26:07
+Temp2;Silo2;Temperature sensor measuring silo temperature;2024-05-14 15:32:24
+Humd2;Silo2;Humidity sensor measuring silo humidity;2024-05-14 15:32:24
+GrainTemp4;Silo2;1st Grain Termperature sensor located in the silo;2024-05-14 15:32:24
+GrainTemp5;Silo2;2nd Grain Termperature sensor located in the silo;2024-05-14 15:32:24
+GrainTemp6;Silo2;3rd Grain Termperature sensor located in the silo;2024-05-14 15:32:24
+WS07;tr25;Weight sensor measuring empty truck weight;2024-05-14 15:43:03
+WS17;tr11;Weight sensor measuring loaded truck weight;2024-05-14 17:09:10
+WS12;tr22;Weight sensor measuring empty truck weight;2024-05-14 17:33:54
+WS08;tr33;Weight sensor measuring empty truck weight;2024-05-14 17:49:17
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-14 17:54:41
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-14 17:54:41
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-14 17:54:41
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-14 17:54:41
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-14 17:54:41
+WS13;tr32;Weight sensor measuring empty truck weight;2024-05-14 18:15:30
+WS17;tr21;Weight sensor measuring loaded truck weight;2024-05-14 18:42:52
+WS02;tr20;Weight sensor measuring empty truck weight;2024-05-14 19:14:42
+WS19;tr36;Weight sensor measuring loaded truck weight;2024-05-15 08:03:56
+WS01;tr44;Weight sensor measuring empty truck weight;2024-05-15 08:27:37
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-15 09:15:43
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-15 09:15:43
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-15 09:15:43
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-15 09:15:43
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-15 09:15:43
+WS03;tr45;Weight sensor measuring empty truck weight;2024-05-15 09:17:12
+WS04;tr41;Weight sensor measuring empty truck weight;2024-05-15 09:21:45
+WS16;tr7;Weight sensor measuring empty truck weight;2024-05-15 09:39:18
+WS19;tr50;Weight sensor measuring empty truck weight;2024-05-15 09:47:03
+WS18;tr4;Weight sensor measuring empty truck weight;2024-05-15 09:50:48
+WS07;tr24;Weight sensor measuring loaded truck weight;2024-05-15 09:58:22
+WS01;tr31;Weight sensor measuring empty truck weight;2024-05-15 10:13:10
+WS07;tr49;Weight sensor measuring empty truck weight;2024-05-15 10:29:07
+WS13;tr39;Weight sensor measuring loaded truck weight;2024-05-15 10:58:48
+WS10;tr37;Weight sensor measuring empty truck weight;2024-05-15 11:00:04
+WS14;tr43;Weight sensor measuring empty truck weight;2024-05-15 11:02:55
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-15 11:49:36
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-15 11:49:36
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-15 11:49:36
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-15 11:49:36
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-15 11:49:36
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-15 11:52:30
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-15 11:52:30
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-15 11:52:30
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-15 11:52:30
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-15 11:52:30
+WS12;tr19;Weight sensor measuring empty truck weight;2024-05-15 11:55:38
+WS04;tr2;Weight sensor measuring loaded truck weight;2024-05-15 11:58:14
+WS03;tr48;Weight sensor measuring empty truck weight;2024-05-15 12:10:58
+WS15;tr6;Weight sensor measuring loaded truck weight;2024-05-15 12:33:57
+Temp4;Silo4;Temperature sensor measuring silo temperature;2024-05-15 13:23:50
+Humd4;Silo4;Humidity sensor measuring silo humidity;2024-05-15 13:23:50
+GrainTemp10;Silo4;1st Grain Termperature sensor located in the silo;2024-05-15 13:23:50
+GrainTemp11;Silo4;2nd Grain Termperature sensor located in the silo;2024-05-15 13:23:50
+GrainTemp12;Silo4;3rd Grain Termperature sensor located in the silo;2024-05-15 13:23:50
+WS09;tr38;Weight sensor measuring empty truck weight;2024-05-15 13:40:45
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-15 13:45:58
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-15 13:45:58
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-15 13:45:58
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-15 13:45:58
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-15 13:45:58
+WS07;tr12;Weight sensor measuring empty truck weight;2024-05-15 14:23:49
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-15 14:52:46
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-15 14:52:46
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-15 14:52:46
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-15 14:52:46
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-15 14:52:46
+WS04;tr1;Weight sensor measuring empty truck weight;2024-05-15 14:53:41
+WS14;tr29;Weight sensor measuring empty truck weight;2024-05-15 15:07:27
+WS20;tr40;Weight sensor measuring empty truck weight;2024-05-15 15:10:34
+WS02;tr46;Weight sensor measuring loaded truck weight;2024-05-15 15:21:29
+WS03;tr8;Weight sensor measuring empty truck weight;2024-05-15 15:39:38
+WS05;tr14;Weight sensor measuring empty truck weight;2024-05-15 15:51:19
+WS06;tr23;Weight sensor measuring loaded truck weight;2024-05-15 16:06:12
+WS06;tr15;Weight sensor measuring empty truck weight;2024-05-15 16:51:27
+WS18;tr10;Weight sensor measuring loaded truck weight;2024-05-15 16:54:17
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-15 16:55:08
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-15 16:55:08
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-15 16:55:08
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-15 16:55:08
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-15 16:55:08
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-15 17:23:08
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-15 17:23:08
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-15 17:23:08
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-15 17:23:08
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-15 17:23:08
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-15 18:34:27
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-15 18:34:27
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-15 18:34:27
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-15 18:34:27
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-15 18:34:27
+WS04;tr27;Weight sensor measuring empty truck weight;2024-05-16 07:27:16
+WS14;tr9;Weight sensor measuring empty truck weight;2024-05-16 08:40:48
+WS05;tr47;Weight sensor measuring loaded truck weight;2024-05-16 08:49:27
+WS07;tr17;Weight sensor measuring loaded truck weight;2024-05-16 09:35:17
+WS05;tr5;Weight sensor measuring loaded truck weight;2024-05-16 09:55:24
+WS02;tr42;Weight sensor measuring empty truck weight;2024-05-16 10:07:36
+WS03;tr16;Weight sensor measuring empty truck weight;2024-05-16 10:20:10
+WS13;tr25;Weight sensor measuring empty truck weight;2024-05-16 10:39:13
+WS06;tr11;Weight sensor measuring empty truck weight;2024-05-16 10:56:11
+WS08;tr22;Weight sensor measuring empty truck weight;2024-05-16 10:56:29
+WS18;tr41;Weight sensor measuring empty truck weight;2024-05-16 10:57:59
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-16 11:35:05
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-16 11:35:05
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-16 11:35:05
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-16 11:35:05
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-16 11:35:05
+WS12;tr45;Weight sensor measuring empty truck weight;2024-05-16 12:01:58
+WS10;tr35;Weight sensor measuring empty truck weight;2024-05-16 13:37:09
+WS14;tr7;Weight sensor measuring loaded truck weight;2024-05-16 13:47:30
+WS06;tr28;Weight sensor measuring empty truck weight;2024-05-16 14:16:12
+WS03;tr18;Weight sensor measuring empty truck weight;2024-05-16 14:35:00
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-16 14:38:06
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-16 14:38:06
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-16 14:38:06
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-16 14:38:06
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-16 14:38:06
+WS16;tr26;Weight sensor measuring loaded truck weight;2024-05-16 14:42:08
+WS14;tr37;Weight sensor measuring empty truck weight;2024-05-16 15:08:17
+WS05;tr44;Weight sensor measuring empty truck weight;2024-05-16 15:30:10
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-16 15:48:02
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-16 15:48:02
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-16 15:48:02
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-16 15:48:02
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-16 15:48:02
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-16 15:54:48
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-16 15:54:48
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-16 15:54:48
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-16 15:54:48
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-16 15:54:48
+WS19;tr3;Weight sensor measuring empty truck weight;2024-05-16 16:04:30
+WS15;tr19;Weight sensor measuring loaded truck weight;2024-05-16 16:39:40
+WS09;tr34;Weight sensor measuring empty truck weight;2024-05-16 17:06:04
+WS10;tr6;Weight sensor measuring empty truck weight;2024-05-16 17:32:25
+WS16;tr2;Weight sensor measuring empty truck weight;2024-05-16 17:36:28
+WS13;tr13;Weight sensor measuring empty truck weight;2024-05-16 17:55:19
+WS14;tr33;Weight sensor measuring empty truck weight;2024-05-17 07:42:47
+WS18;tr9;Weight sensor measuring empty truck weight;2024-05-17 07:51:36
+WS20;tr12;Weight sensor measuring empty truck weight;2024-05-17 08:08:57
+WS12;tr48;Weight sensor measuring empty truck weight;2024-05-17 08:19:39
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-17 08:29:30
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-17 08:29:30
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-17 08:29:30
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-17 08:29:30
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-17 08:29:30
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-17 09:42:36
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-17 09:42:36
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-17 09:42:36
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-17 09:42:36
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-17 09:42:36
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-17 10:17:30
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-17 10:17:30
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-17 10:17:30
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-17 10:17:30
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-17 10:17:30
+WS16;tr23;Weight sensor measuring empty truck weight;2024-05-17 10:21:44
+WS07;tr14;Weight sensor measuring empty truck weight;2024-05-17 10:26:03
+WS01;tr24;Weight sensor measuring empty truck weight;2024-05-17 10:34:49
+WS13;tr17;Weight sensor measuring empty truck weight;2024-05-17 10:37:36
+WS12;tr39;Weight sensor measuring empty truck weight;2024-05-17 10:42:50
+WS19;tr27;Weight sensor measuring loaded truck weight;2024-05-17 11:14:20
+WS19;tr32;Weight sensor measuring loaded truck weight;2024-05-17 11:15:41
+WS20;tr50;Weight sensor measuring loaded truck weight;2024-05-17 11:25:49
+WS03;tr46;Weight sensor measuring empty truck weight;2024-05-17 11:53:12
+WS14;tr8;Weight sensor measuring empty truck weight;2024-05-17 11:58:50
+WS20;tr36;Weight sensor measuring empty truck weight;2024-05-17 13:23:45
+WS18;tr5;Weight sensor measuring empty truck weight;2024-05-17 13:26:55
+WS10;tr16;Weight sensor measuring empty truck weight;2024-05-17 13:38:43
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-17 13:53:02
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-17 13:53:02
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-17 13:53:02
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-17 13:53:02
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-17 13:53:02
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-17 13:58:12
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-17 13:58:12
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-17 13:58:12
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-17 13:58:12
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-17 13:58:12
+WS17;tr4;Weight sensor measuring loaded truck weight;2024-05-17 14:55:41
+Temp4;Silo4;Temperature sensor measuring silo temperature;2024-05-17 14:56:08
+Humd4;Silo4;Humidity sensor measuring silo humidity;2024-05-17 14:56:08
+GrainTemp10;Silo4;1st Grain Termperature sensor located in the silo;2024-05-17 14:56:08
+GrainTemp11;Silo4;2nd Grain Termperature sensor located in the silo;2024-05-17 14:56:08
+GrainTemp12;Silo4;3rd Grain Termperature sensor located in the silo;2024-05-17 14:56:08
+WS16;tr29;Weight sensor measuring empty truck weight;2024-05-17 14:59:42
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-17 15:13:00
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-17 15:13:00
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-17 15:13:00
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-17 15:13:00
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-17 15:13:00
+WS01;tr20;Weight sensor measuring empty truck weight;2024-05-17 15:16:10
+WS06;tr43;Weight sensor measuring empty truck weight;2024-05-17 15:28:39
+WS09;tr38;Weight sensor measuring loaded truck weight;2024-05-17 15:45:04
+WS11;tr25;Weight sensor measuring empty truck weight;2024-05-17 15:48:15
+WS12;tr21;Weight sensor measuring empty truck weight;2024-05-17 15:50:40
+WS07;tr47;Weight sensor measuring empty truck weight;2024-05-17 17:11:31
+WS08;tr49;Weight sensor measuring empty truck weight;2024-05-17 17:18:12
+WS03;tr7;Weight sensor measuring empty truck weight;2024-05-17 19:28:15
+WS04;tr13;Weight sensor measuring empty truck weight;2024-05-20 08:00:00
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-20 08:06:22
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-20 08:06:22
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-20 08:06:22
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-20 08:06:22
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-20 08:06:22
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-20 08:30:28
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-20 08:30:28
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-20 08:30:28
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-20 08:30:28
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-20 08:30:28
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-20 09:16:02
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-20 09:16:02
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-20 09:16:02
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-20 09:16:02
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-20 09:16:02
+WS15;tr18;Weight sensor measuring empty truck weight;2024-05-20 09:51:47
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-20 10:24:56
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-20 10:24:56
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-20 10:24:56
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-20 10:24:56
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-20 10:24:56
+WS10;tr1;Weight sensor measuring empty truck weight;2024-05-20 10:48:28
+WS08;tr26;Weight sensor measuring empty truck weight;2024-05-20 11:36:50
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-20 11:45:10
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-20 11:45:10
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-20 11:45:10
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-20 11:45:10
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-20 11:45:10
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-20 12:38:33
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-20 12:38:33
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-20 12:38:33
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-20 12:38:33
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-20 12:38:33
+WS11;tr15;Weight sensor measuring empty truck weight;2024-05-20 13:44:12
+WS16;tr11;Weight sensor measuring empty truck weight;2024-05-20 13:46:37
+WS05;tr45;Weight sensor measuring loaded truck weight;2024-05-20 13:58:57
+WS06;tr10;Weight sensor measuring empty truck weight;2024-05-20 14:14:34
+WS07;tr16;Weight sensor measuring empty truck weight;2024-05-20 14:40:02
+WS03;tr33;Weight sensor measuring empty truck weight;2024-05-20 15:36:16
+WS12;tr50;Weight sensor measuring empty truck weight;2024-05-20 15:45:24
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-20 15:49:13
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-20 15:49:13
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-20 15:49:13
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-20 15:49:13
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-20 15:49:13
+WS09;tr30;Weight sensor measuring loaded truck weight;2024-05-20 15:57:06
+WS11;tr23;Weight sensor measuring loaded truck weight;2024-05-20 16:00:33
+WS11;tr19;Weight sensor measuring empty truck weight;2024-05-20 16:04:30
+WS10;tr39;Weight sensor measuring empty truck weight;2024-05-20 16:29:17
+WS17;tr42;Weight sensor measuring empty truck weight;2024-05-20 16:36:00
+WS01;tr28;Weight sensor measuring empty truck weight;2024-05-20 16:52:43
+WS03;tr35;Weight sensor measuring empty truck weight;2024-05-21 07:57:13
+WS14;tr38;Weight sensor measuring empty truck weight;2024-05-21 08:02:26
+WS09;tr22;Weight sensor measuring loaded truck weight;2024-05-21 08:15:36
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-21 08:28:49
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-21 08:28:49
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-21 08:28:49
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-21 08:28:49
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-21 08:28:49
+WS15;tr6;Weight sensor measuring empty truck weight;2024-05-21 08:36:35
+WS02;tr49;Weight sensor measuring empty truck weight;2024-05-21 09:28:53
+WS12;tr20;Weight sensor measuring empty truck weight;2024-05-21 09:29:43
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-21 10:09:38
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-21 10:09:38
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-21 10:09:38
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-21 10:09:38
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-21 10:09:38
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-21 10:30:46
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-21 10:30:46
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-21 10:30:46
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-21 10:30:46
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-21 10:30:46
+WS09;tr21;Weight sensor measuring loaded truck weight;2024-05-21 10:34:58
+WS10;tr4;Weight sensor measuring empty truck weight;2024-05-21 10:36:03
+WS11;tr25;Weight sensor measuring empty truck weight;2024-05-21 10:40:27
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-21 10:50:43
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-21 10:50:43
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-21 10:50:43
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-21 10:50:43
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-21 10:50:43
+WS01;tr47;Weight sensor measuring empty truck weight;2024-05-21 11:02:03
+WS17;tr24;Weight sensor measuring empty truck weight;2024-05-21 11:06:31
+WS14;tr40;Weight sensor measuring loaded truck weight;2024-05-21 11:30:22
+WS17;tr29;Weight sensor measuring empty truck weight;2024-05-21 13:27:15
+WS01;tr37;Weight sensor measuring empty truck weight;2024-05-21 13:40:15
+WS11;tr34;Weight sensor measuring empty truck weight;2024-05-21 13:52:21
+WS19;tr46;Weight sensor measuring loaded truck weight;2024-05-21 14:11:09
+WS14;tr8;Weight sensor measuring empty truck weight;2024-05-21 14:27:46
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-21 14:44:46
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-21 14:44:46
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-21 14:44:46
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-21 14:44:46
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-21 14:44:46
+WS12;tr43;Weight sensor measuring loaded truck weight;2024-05-21 15:02:50
+WS18;tr41;Weight sensor measuring loaded truck weight;2024-05-21 15:22:36
+WS19;tr9;Weight sensor measuring empty truck weight;2024-05-21 15:50:23
+WS16;tr44;Weight sensor measuring loaded truck weight;2024-05-21 16:12:04
+WS02;tr2;Weight sensor measuring loaded truck weight;2024-05-21 16:27:13
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-21 16:39:32
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-21 16:39:32
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-21 16:39:32
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-21 16:39:32
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-21 16:39:32
+WS09;tr31;Weight sensor measuring loaded truck weight;2024-05-21 16:59:33
+WS07;tr15;Weight sensor measuring empty truck weight;2024-05-21 17:43:18
+WS12;tr27;Weight sensor measuring empty truck weight;2024-05-21 17:44:31
+WS10;tr38;Weight sensor measuring empty truck weight;2024-05-21 18:36:53
+WS03;tr12;Weight sensor measuring empty truck weight;2024-05-22 07:35:39
+WS20;tr50;Weight sensor measuring loaded truck weight;2024-05-22 07:45:51
+WS01;tr30;Weight sensor measuring empty truck weight;2024-05-22 08:02:03
+WS02;tr10;Weight sensor measuring empty truck weight;2024-05-22 08:31:59
+WS19;tr11;Weight sensor measuring empty truck weight;2024-05-22 08:38:52
+WS04;tr32;Weight sensor measuring empty truck weight;2024-05-22 08:56:13
+WS17;tr28;Weight sensor measuring loaded truck weight;2024-05-22 09:25:08
+WS20;tr13;Weight sensor measuring loaded truck weight;2024-05-22 09:49:10
+WS20;tr5;Weight sensor measuring empty truck weight;2024-05-22 10:30:24
+WS03;tr18;Weight sensor measuring empty truck weight;2024-05-22 10:43:09
+WS18;tr36;Weight sensor measuring loaded truck weight;2024-05-22 11:01:16
+WS05;tr7;Weight sensor measuring loaded truck weight;2024-05-22 11:15:27
+WS13;tr33;Weight sensor measuring empty truck weight;2024-05-22 11:18:34
+WS07;tr48;Weight sensor measuring loaded truck weight;2024-05-22 11:31:38
+WS07;tr1;Weight sensor measuring empty truck weight;2024-05-22 11:33:14
+WS14;tr23;Weight sensor measuring empty truck weight;2024-05-22 13:20:39
+WS18;tr25;Weight sensor measuring empty truck weight;2024-05-22 13:39:07
+WS08;tr21;Weight sensor measuring empty truck weight;2024-05-22 13:52:49
+WS05;tr39;Weight sensor measuring loaded truck weight;2024-05-22 14:05:22
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-22 14:16:31
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-22 14:16:31
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-22 14:16:31
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-22 14:16:31
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-22 14:16:31
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-22 14:53:02
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-22 14:53:02
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-22 14:53:02
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-22 14:53:02
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-22 14:53:02
+WS11;tr4;Weight sensor measuring loaded truck weight;2024-05-22 15:25:51
+WS06;tr19;Weight sensor measuring empty truck weight;2024-05-22 15:29:50
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-22 15:49:08
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-22 15:49:08
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-22 15:49:08
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-22 15:49:08
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-22 15:49:08
+WS14;tr16;Weight sensor measuring empty truck weight;2024-05-22 15:58:36
+WS01;tr49;Weight sensor measuring loaded truck weight;2024-05-22 16:40:13
+WS04;tr43;Weight sensor measuring empty truck weight;2024-05-22 16:41:02
+WS13;tr8;Weight sensor measuring empty truck weight;2024-05-22 16:44:42
+WS20;tr6;Weight sensor measuring empty truck weight;2024-05-22 17:24:09
+WS16;tr9;Weight sensor measuring empty truck weight;2024-05-22 18:25:42
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-23 08:26:56
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-23 08:26:56
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-23 08:26:56
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-23 08:26:56
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-23 08:26:56
+WS11;tr11;Weight sensor measuring empty truck weight;2024-05-23 08:27:58
+WS02;tr42;Weight sensor measuring loaded truck weight;2024-05-23 08:43:54
+WS08;tr24;Weight sensor measuring empty truck weight;2024-05-23 08:52:01
+WS18;tr41;Weight sensor measuring empty truck weight;2024-05-23 09:18:46
+WS20;tr20;Weight sensor measuring empty truck weight;2024-05-23 09:54:05
+WS05;tr34;Weight sensor measuring empty truck weight;2024-05-23 09:59:40
+WS13;tr40;Weight sensor measuring empty truck weight;2024-05-23 10:42:40
+WS02;tr27;Weight sensor measuring empty truck weight;2024-05-23 10:56:32
+WS08;tr10;Weight sensor measuring empty truck weight;2024-05-23 11:18:04
+WS18;tr14;Weight sensor measuring loaded truck weight;2024-05-23 11:31:41
+WS10;tr28;Weight sensor measuring empty truck weight;2024-05-23 12:02:39
+WS01;tr46;Weight sensor measuring empty truck weight;2024-05-23 12:05:00
+WS20;tr35;Weight sensor measuring empty truck weight;2024-05-23 12:09:01
+WS07;tr2;Weight sensor measuring empty truck weight;2024-05-23 12:15:59
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-23 12:21:07
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-23 12:21:07
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-23 12:21:07
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-23 12:21:07
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-23 12:21:07
+WS15;tr26;Weight sensor measuring loaded truck weight;2024-05-23 12:22:16
+WS15;tr37;Weight sensor measuring empty truck weight;2024-05-23 12:24:43
+WS03;tr45;Weight sensor measuring empty truck weight;2024-05-23 13:11:33
+WS02;tr7;Weight sensor measuring empty truck weight;2024-05-23 13:55:47
+WS12;tr44;Weight sensor measuring empty truck weight;2024-05-23 14:04:44
+WS09;tr1;Weight sensor measuring empty truck weight;2024-05-23 14:20:24
+WS17;tr38;Weight sensor measuring empty truck weight;2024-05-23 14:26:00
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-23 14:36:33
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-23 14:36:33
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-23 14:36:33
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-23 14:36:33
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-23 14:36:33
+WS16;tr29;Weight sensor measuring empty truck weight;2024-05-23 14:43:18
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-23 14:54:06
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-23 14:54:06
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-23 14:54:06
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-23 14:54:06
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-23 14:54:06
+WS05;tr47;Weight sensor measuring empty truck weight;2024-05-23 14:55:19
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-23 14:57:24
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-23 14:57:24
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-23 14:57:24
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-23 14:57:24
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-23 14:57:24
+WS08;tr3;Weight sensor measuring loaded truck weight;2024-05-23 15:00:09
+WS10;tr18;Weight sensor measuring empty truck weight;2024-05-23 15:17:43
+WS13;tr48;Weight sensor measuring empty truck weight;2024-05-23 15:18:17
+WS14;tr17;Weight sensor measuring loaded truck weight;2024-05-23 15:21:11
+WS15;tr23;Weight sensor measuring loaded truck weight;2024-05-23 15:36:36
+WS04;tr22;Weight sensor measuring empty truck weight;2024-05-23 15:39:39
+WS12;tr30;Weight sensor measuring empty truck weight;2024-05-23 15:41:19
+WS06;tr5;Weight sensor measuring loaded truck weight;2024-05-23 15:43:00
+WS14;tr43;Weight sensor measuring empty truck weight;2024-05-23 15:49:36
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-23 15:57:38
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-23 15:57:38
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-23 15:57:38
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-23 15:57:38
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-23 15:57:38
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-23 16:08:31
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-23 16:08:31
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-23 16:08:31
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-23 16:08:31
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-23 16:08:31
+WS13;tr13;Weight sensor measuring empty truck weight;2024-05-23 16:39:56
+WS01;tr4;Weight sensor measuring empty truck weight;2024-05-23 16:44:32
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-23 16:57:45
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-23 16:57:45
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-23 16:57:45
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-23 16:57:45
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-23 16:57:45
+WS17;tr33;Weight sensor measuring empty truck weight;2024-05-23 17:19:03
+WS07;tr19;Weight sensor measuring empty truck weight;2024-05-23 18:03:37
+WS12;tr50;Weight sensor measuring empty truck weight;2024-05-23 18:24:32
+WS16;tr12;Weight sensor measuring empty truck weight;2024-05-23 19:35:29
+WS09;tr39;Weight sensor measuring empty truck weight;2024-05-24 07:24:47
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-24 07:28:11
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-24 07:28:11
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-24 07:28:11
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-24 07:28:11
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-24 07:28:11
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-24 08:06:39
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-24 08:06:39
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-24 08:06:39
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-24 08:06:39
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-24 08:06:39
+WS10;tr16;Weight sensor measuring empty truck weight;2024-05-24 08:36:25
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-24 08:44:59
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-24 08:44:59
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-24 08:44:59
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-24 08:44:59
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-24 08:44:59
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-24 09:31:09
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-24 09:31:09
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-24 09:31:09
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-24 09:31:09
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-24 09:31:09
+WS08;tr24;Weight sensor measuring empty truck weight;2024-05-24 10:07:05
+WS06;tr32;Weight sensor measuring empty truck weight;2024-05-24 10:15:06
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-24 10:46:48
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-24 10:46:48
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-24 10:46:48
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-24 10:46:48
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-24 10:46:48
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-24 10:49:19
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-24 10:49:19
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-24 10:49:19
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-24 10:49:19
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-24 10:49:19
+WS11;tr36;Weight sensor measuring empty truck weight;2024-05-24 11:15:16
+WS04;tr34;Weight sensor measuring empty truck weight;2024-05-24 13:18:32
+WS08;tr25;Weight sensor measuring empty truck weight;2024-05-24 13:24:20
+WS06;tr49;Weight sensor measuring empty truck weight;2024-05-24 14:04:36
+WS20;tr9;Weight sensor measuring empty truck weight;2024-05-24 14:18:14
+WS09;tr48;Weight sensor measuring empty truck weight;2024-05-24 14:56:56
+WS18;tr31;Weight sensor measuring empty truck weight;2024-05-24 15:38:03
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-24 16:03:24
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-24 16:03:24
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-24 16:03:24
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-24 16:03:24
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-24 16:03:24
+WS03;tr21;Weight sensor measuring loaded truck weight;2024-05-24 16:03:43
+WS15;tr14;Weight sensor measuring empty truck weight;2024-05-24 16:05:39
+WS16;tr41;Weight sensor measuring loaded truck weight;2024-05-24 16:41:19
+WS08;tr30;Weight sensor measuring empty truck weight;2024-05-24 17:53:11
+WS12;tr10;Weight sensor measuring empty truck weight;2024-05-24 18:12:17
+Temp4;Silo4;Temperature sensor measuring silo temperature;2024-05-24 18:19:24
+Humd4;Silo4;Humidity sensor measuring silo humidity;2024-05-24 18:19:24
+GrainTemp10;Silo4;1st Grain Termperature sensor located in the silo;2024-05-24 18:19:24
+GrainTemp11;Silo4;2nd Grain Termperature sensor located in the silo;2024-05-24 18:19:24
+GrainTemp12;Silo4;3rd Grain Termperature sensor located in the silo;2024-05-24 18:19:24
+WS02;tr42;Weight sensor measuring empty truck weight;2024-05-27 07:30:02
+WS01;tr20;Weight sensor measuring loaded truck weight;2024-05-27 08:03:46
+WS06;tr6;Weight sensor measuring empty truck weight;2024-05-27 08:10:53
+WS03;tr26;Weight sensor measuring empty truck weight;2024-05-27 09:15:21
+WS01;tr37;Weight sensor measuring loaded truck weight;2024-05-27 09:21:39
+WS04;tr46;Weight sensor measuring empty truck weight;2024-05-27 09:25:39
+WS17;tr7;Weight sensor measuring loaded truck weight;2024-05-27 10:33:55
+WS13;tr13;Weight sensor measuring empty truck weight;2024-05-27 10:43:41
+WS14;tr5;Weight sensor measuring empty truck weight;2024-05-27 10:46:57
+WS08;tr23;Weight sensor measuring empty truck weight;2024-05-27 11:25:27
+WS06;tr15;Weight sensor measuring loaded truck weight;2024-05-27 11:39:38
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-27 11:52:23
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-27 11:52:23
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-27 11:52:23
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-27 11:52:23
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-27 11:52:23
+WS12;tr29;Weight sensor measuring loaded truck weight;2024-05-27 12:00:31
+WS16;tr4;Weight sensor measuring loaded truck weight;2024-05-27 12:27:31
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-27 13:30:32
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-27 13:30:32
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-27 13:30:32
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-27 13:30:32
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-27 13:30:32
+WS10;tr11;Weight sensor measuring empty truck weight;2024-05-27 13:36:42
+WS17;tr17;Weight sensor measuring empty truck weight;2024-05-27 13:47:28
+WS16;tr1;Weight sensor measuring empty truck weight;2024-05-27 13:58:43
+WS07;tr25;Weight sensor measuring empty truck weight;2024-05-27 14:57:28
+WS19;tr3;Weight sensor measuring empty truck weight;2024-05-27 15:26:32
+WS10;tr49;Weight sensor measuring empty truck weight;2024-05-27 15:45:23
+WS13;tr35;Weight sensor measuring empty truck weight;2024-05-27 15:52:39
+WS11;tr8;Weight sensor measuring empty truck weight;2024-05-27 16:04:02
+WS19;tr50;Weight sensor measuring empty truck weight;2024-05-27 16:31:41
+WS15;tr40;Weight sensor measuring loaded truck weight;2024-05-27 16:37:02
+WS15;tr16;Weight sensor measuring empty truck weight;2024-05-27 16:49:29
+WS05;tr32;Weight sensor measuring loaded truck weight;2024-05-27 16:52:17
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-27 16:54:17
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-27 16:54:17
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-27 16:54:17
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-27 16:54:17
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-27 16:54:17
+WS01;tr19;Weight sensor measuring empty truck weight;2024-05-27 17:07:59
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-27 17:33:00
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-27 17:33:00
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-27 17:33:00
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-27 17:33:00
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-27 17:33:00
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-27 18:47:37
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-27 18:47:37
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-27 18:47:37
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-27 18:47:37
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-27 18:47:37
+WS16;tr21;Weight sensor measuring empty truck weight;2024-05-27 18:49:23
+WS17;tr27;Weight sensor measuring empty truck weight;2024-05-28 07:34:06
+WS11;tr44;Weight sensor measuring loaded truck weight;2024-05-28 07:45:09
+WS09;tr9;Weight sensor measuring empty truck weight;2024-05-28 07:46:40
+WS20;tr2;Weight sensor measuring empty truck weight;2024-05-28 08:38:33
+WS02;tr31;Weight sensor measuring empty truck weight;2024-05-28 08:49:22
+WS06;tr34;Weight sensor measuring loaded truck weight;2024-05-28 09:09:40
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-28 09:17:08
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-28 09:17:08
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-28 09:17:08
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-28 09:17:08
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-28 09:17:08
+WS01;tr36;Weight sensor measuring empty truck weight;2024-05-28 09:40:44
+WS19;tr45;Weight sensor measuring empty truck weight;2024-05-28 10:23:45
+WS06;tr33;Weight sensor measuring loaded truck weight;2024-05-28 10:37:16
+WS15;tr24;Weight sensor measuring empty truck weight;2024-05-28 11:18:05
+WS11;tr14;Weight sensor measuring empty truck weight;2024-05-28 11:36:36
+WS04;tr12;Weight sensor measuring empty truck weight;2024-05-28 11:52:55
+WS13;tr6;Weight sensor measuring empty truck weight;2024-05-28 11:56:33
+WS17;tr20;Weight sensor measuring empty truck weight;2024-05-28 12:20:00
+WS08;tr47;Weight sensor measuring loaded truck weight;2024-05-28 12:42:47
+WS06;tr42;Weight sensor measuring loaded truck weight;2024-05-28 12:57:13
+WS19;tr30;Weight sensor measuring empty truck weight;2024-05-28 13:25:33
+WS03;tr22;Weight sensor measuring empty truck weight;2024-05-28 13:38:02
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-28 13:40:44
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-28 13:40:44
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-28 13:40:44
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-28 13:40:44
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-28 13:40:44
+WS18;tr18;Weight sensor measuring empty truck weight;2024-05-28 13:49:08
+WS16;tr48;Weight sensor measuring empty truck weight;2024-05-28 13:55:56
+WS12;tr15;Weight sensor measuring empty truck weight;2024-05-28 14:32:13
+WS02;tr28;Weight sensor measuring loaded truck weight;2024-05-28 14:40:34
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-28 15:53:21
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-28 15:53:21
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-28 15:53:21
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-28 15:53:21
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-28 15:53:21
+WS20;tr11;Weight sensor measuring empty truck weight;2024-05-28 15:56:18
+WS14;tr26;Weight sensor measuring loaded truck weight;2024-05-28 16:01:13
+WS02;tr37;Weight sensor measuring empty truck weight;2024-05-28 16:14:23
+WS13;tr39;Weight sensor measuring empty truck weight;2024-05-28 16:34:39
+WS09;tr3;Weight sensor measuring empty truck weight;2024-05-28 16:36:41
+WS17;tr23;Weight sensor measuring empty truck weight;2024-05-28 16:41:46
+WS05;tr1;Weight sensor measuring loaded truck weight;2024-05-28 16:42:17
+WS14;tr46;Weight sensor measuring empty truck weight;2024-05-28 16:47:05
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-28 16:48:54
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-28 16:48:54
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-28 16:48:54
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-28 16:48:54
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-28 16:48:54
+WS11;tr50;Weight sensor measuring empty truck weight;2024-05-28 17:13:15
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-28 19:24:14
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-28 19:24:14
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-28 19:24:14
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-28 19:24:14
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-28 19:24:14
+WS02;tr21;Weight sensor measuring empty truck weight;2024-05-29 07:41:04
+WS04;tr41;Weight sensor measuring empty truck weight;2024-05-29 07:56:41
+Temp1;Silo1;Temperature sensor measuring silo temperature;2024-05-29 08:37:39
+Humd1;Silo1;Humidity sensor measuring silo humidity;2024-05-29 08:37:39
+GrainTemp1;Silo1;1st Grain Termperature sensor located in the silo;2024-05-29 08:37:39
+GrainTemp2;Silo1;2nd Grain Termperature sensor located in the silo;2024-05-29 08:37:39
+GrainTemp3;Silo1;3rd Grain Termperature sensor located in the silo;2024-05-29 08:37:39
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-29 09:09:00
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-29 09:09:00
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-29 09:09:00
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-29 09:09:00
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-29 09:09:00
+WS05;tr7;Weight sensor measuring empty truck weight;2024-05-29 09:14:52
+WS19;tr4;Weight sensor measuring empty truck weight;2024-05-29 09:26:03
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-05-29 10:39:45
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-05-29 10:39:45
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-05-29 10:39:45
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-05-29 10:39:45
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-05-29 10:39:45
+WS20;tr10;Weight sensor measuring empty truck weight;2024-05-29 10:43:03
+WS15;tr32;Weight sensor measuring empty truck weight;2024-05-29 10:43:05
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-29 11:04:29
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-29 11:04:29
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-29 11:04:29
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-29 11:04:29
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-29 11:04:29
+WS08;tr36;Weight sensor measuring empty truck weight;2024-05-29 11:51:09
+WS07;tr9;Weight sensor measuring empty truck weight;2024-05-29 13:34:23
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-29 13:36:02
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-29 13:36:02
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-29 13:36:02
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-29 13:36:02
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-29 13:36:02
+WS14;tr29;Weight sensor measuring empty truck weight;2024-05-29 14:11:46
+WS17;tr17;Weight sensor measuring loaded truck weight;2024-05-29 14:20:35
+WS19;tr38;Weight sensor measuring loaded truck weight;2024-05-29 14:28:28
+WS17;tr45;Weight sensor measuring empty truck weight;2024-05-29 14:34:43
+WS12;tr13;Weight sensor measuring empty truck weight;2024-05-29 14:51:34
+WS14;tr15;Weight sensor measuring empty truck weight;2024-05-29 14:51:54
+WS13;tr24;Weight sensor measuring empty truck weight;2024-05-29 14:56:31
+WS10;tr43;Weight sensor measuring loaded truck weight;2024-05-29 15:04:06
+WS10;tr23;Weight sensor measuring empty truck weight;2024-05-29 15:21:29
+WS08;tr16;Weight sensor measuring empty truck weight;2024-05-29 15:37:28
+WS19;tr22;Weight sensor measuring empty truck weight;2024-05-29 15:46:21
+WS06;tr44;Weight sensor measuring empty truck weight;2024-05-29 15:57:12
+WS03;tr49;Weight sensor measuring loaded truck weight;2024-05-29 16:23:04
+WS02;tr25;Weight sensor measuring empty truck weight;2024-05-29 16:45:51
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-29 16:55:14
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-29 16:55:14
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-29 16:55:14
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-29 16:55:14
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-29 16:55:14
+WS10;tr19;Weight sensor measuring empty truck weight;2024-05-29 17:16:38
+WS20;tr8;Weight sensor measuring empty truck weight;2024-05-29 19:16:17
+WS03;tr48;Weight sensor measuring empty truck weight;2024-05-30 07:35:03
+WS08;tr40;Weight sensor measuring empty truck weight;2024-05-30 08:09:02
+WS09;tr35;Weight sensor measuring empty truck weight;2024-05-30 08:09:38
+WS06;tr47;Weight sensor measuring empty truck weight;2024-05-30 08:10:59
+WS17;tr2;Weight sensor measuring empty truck weight;2024-05-30 08:45:13
+WS04;tr34;Weight sensor measuring empty truck weight;2024-05-30 08:54:30
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-30 08:57:26
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-30 08:57:26
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-30 08:57:26
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-30 08:57:26
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-30 08:57:26
+WS15;tr20;Weight sensor measuring empty truck weight;2024-05-30 09:30:19
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-30 09:30:23
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-30 09:30:23
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-30 09:30:23
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-30 09:30:23
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-30 09:30:23
+WS09;tr7;Weight sensor measuring empty truck weight;2024-05-30 09:39:06
+WS18;tr12;Weight sensor measuring loaded truck weight;2024-05-30 10:06:20
+WS03;tr27;Weight sensor measuring empty truck weight;2024-05-30 10:19:52
+WS05;tr11;Weight sensor measuring empty truck weight;2024-05-30 10:28:20
+WS19;tr37;Weight sensor measuring loaded truck weight;2024-05-30 10:31:49
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-30 11:01:12
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-30 11:01:12
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-30 11:01:12
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-30 11:01:12
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-30 11:01:12
+WS14;tr14;Weight sensor measuring empty truck weight;2024-05-30 11:10:56
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-30 11:12:00
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-30 11:12:00
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-30 11:12:00
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-30 11:12:00
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-30 11:12:00
+Temp4;Silo4;Temperature sensor measuring silo temperature;2024-05-30 11:39:04
+Humd4;Silo4;Humidity sensor measuring silo humidity;2024-05-30 11:39:04
+GrainTemp10;Silo4;1st Grain Termperature sensor located in the silo;2024-05-30 11:39:04
+GrainTemp11;Silo4;2nd Grain Termperature sensor located in the silo;2024-05-30 11:39:04
+GrainTemp12;Silo4;3rd Grain Termperature sensor located in the silo;2024-05-30 11:39:04
+WS19;tr26;Weight sensor measuring empty truck weight;2024-05-30 11:52:16
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-30 11:53:11
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-30 11:53:11
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-30 11:53:11
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-30 11:53:11
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-30 11:53:11
+WS16;tr42;Weight sensor measuring empty truck weight;2024-05-30 11:59:02
+WS09;tr18;Weight sensor measuring loaded truck weight;2024-05-30 12:07:23
+WS07;tr31;Weight sensor measuring loaded truck weight;2024-05-30 12:32:22
+WS09;tr10;Weight sensor measuring empty truck weight;2024-05-30 13:30:23
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-30 13:45:26
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-30 13:45:26
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-30 13:45:26
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-30 13:45:26
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-30 13:45:26
+WS10;tr1;Weight sensor measuring empty truck weight;2024-05-30 13:56:24
+WS18;tr28;Weight sensor measuring empty truck weight;2024-05-30 14:09:58
+WS17;tr39;Weight sensor measuring empty truck weight;2024-05-30 14:12:29
+Temp19;Silo19;Temperature sensor measuring silo temperature;2024-05-30 14:40:20
+Humd19;Silo19;Humidity sensor measuring silo humidity;2024-05-30 14:40:20
+GrainTemp55;Silo19;1st Grain Termperature sensor located in the silo;2024-05-30 14:40:20
+GrainTemp56;Silo19;2nd Grain Termperature sensor located in the silo;2024-05-30 14:40:20
+GrainTemp57;Silo19;3rd Grain Termperature sensor located in the silo;2024-05-30 14:40:20
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-30 14:49:58
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-30 14:49:58
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-30 14:49:58
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-30 14:49:58
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-30 14:49:58
+WS20;tr4;Weight sensor measuring loaded truck weight;2024-05-30 14:55:36
+WS05;tr29;Weight sensor measuring loaded truck weight;2024-05-30 15:17:30
+WS19;tr32;Weight sensor measuring empty truck weight;2024-05-30 15:29:15
+WS11;tr5;Weight sensor measuring loaded truck weight;2024-05-30 15:50:29
+WS11;tr21;Weight sensor measuring loaded truck weight;2024-05-30 15:51:27
+WS09;tr30;Weight sensor measuring loaded truck weight;2024-05-30 16:02:03
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-30 16:15:08
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-30 16:15:08
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-30 16:15:08
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-30 16:15:08
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-30 16:15:08
+WS04;tr13;Weight sensor measuring empty truck weight;2024-05-30 16:19:48
+WS12;tr9;Weight sensor measuring empty truck weight;2024-05-30 16:33:29
+WS18;tr16;Weight sensor measuring empty truck weight;2024-05-30 16:52:41
+WS05;tr22;Weight sensor measuring empty truck weight;2024-05-30 18:13:51
+WS10;tr36;Weight sensor measuring empty truck weight;2024-05-30 18:35:58
+WS02;tr50;Weight sensor measuring loaded truck weight;2024-05-30 18:52:39
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-05-30 19:03:20
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-05-30 19:03:20
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-05-30 19:03:20
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-05-30 19:03:20
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-05-30 19:03:20
+WS17;tr24;Weight sensor measuring empty truck weight;2024-05-31 07:38:37
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-31 09:22:23
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-31 09:22:23
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-31 09:22:23
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-31 09:22:23
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-31 09:22:23
+WS13;tr41;Weight sensor measuring empty truck weight;2024-05-31 09:41:28
+WS01;tr38;Weight sensor measuring empty truck weight;2024-05-31 09:46:59
+WS14;tr15;Weight sensor measuring loaded truck weight;2024-05-31 09:52:00
+WS09;tr33;Weight sensor measuring empty truck weight;2024-05-31 09:52:09
+WS16;tr46;Weight sensor measuring empty truck weight;2024-05-31 10:01:10
+WS20;tr12;Weight sensor measuring empty truck weight;2024-05-31 10:03:47
+WS14;tr25;Weight sensor measuring empty truck weight;2024-05-31 10:06:12
+WS17;tr48;Weight sensor measuring loaded truck weight;2024-05-31 10:44:52
+WS15;tr44;Weight sensor measuring loaded truck weight;2024-05-31 11:10:29
+WS11;tr3;Weight sensor measuring empty truck weight;2024-05-31 11:35:45
+WS18;tr47;Weight sensor measuring loaded truck weight;2024-05-31 11:48:31
+WS17;tr49;Weight sensor measuring empty truck weight;2024-05-31 11:53:40
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-31 11:54:18
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-31 11:54:18
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-31 11:54:18
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-31 11:54:18
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-31 11:54:18
+WS14;tr45;Weight sensor measuring empty truck weight;2024-05-31 13:34:24
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-05-31 13:56:10
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-05-31 13:56:10
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-05-31 13:56:10
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-05-31 13:56:10
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-05-31 13:56:10
+WS19;tr34;Weight sensor measuring empty truck weight;2024-05-31 13:58:59
+WS13;tr23;Weight sensor measuring empty truck weight;2024-05-31 14:02:26
+WS08;tr14;Weight sensor measuring empty truck weight;2024-05-31 14:11:35
+WS18;tr35;Weight sensor measuring empty truck weight;2024-05-31 14:21:42
+WS07;tr7;Weight sensor measuring empty truck weight;2024-05-31 14:25:09
+WS01;tr40;Weight sensor measuring empty truck weight;2024-05-31 14:30:42
+WS16;tr43;Weight sensor measuring empty truck weight;2024-05-31 14:50:51
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-05-31 14:56:42
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-05-31 14:56:42
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-05-31 14:56:42
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-05-31 14:56:42
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-05-31 14:56:42
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-05-31 15:53:11
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-05-31 15:53:11
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-05-31 15:53:11
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-05-31 15:53:11
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-05-31 15:53:11
+WS08;tr2;Weight sensor measuring loaded truck weight;2024-05-31 16:38:22
+WS13;tr11;Weight sensor measuring loaded truck weight;2024-05-31 19:39:46
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-06-03 08:00:03
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-06-03 08:00:03
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-06-03 08:00:03
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-06-03 08:00:03
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-06-03 08:00:03
+Temp11;Silo11;Temperature sensor measuring silo temperature;2024-06-03 08:06:22
+Humd11;Silo11;Humidity sensor measuring silo humidity;2024-06-03 08:06:22
+GrainTemp31;Silo11;1st Grain Termperature sensor located in the silo;2024-06-03 08:06:22
+GrainTemp32;Silo11;2nd Grain Termperature sensor located in the silo;2024-06-03 08:06:22
+GrainTemp33;Silo11;3rd Grain Termperature sensor located in the silo;2024-06-03 08:06:22
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-06-03 08:10:43
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-06-03 08:10:43
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-06-03 08:10:43
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-06-03 08:10:43
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-06-03 08:10:43
+WS19;tr42;Weight sensor measuring empty truck weight;2024-06-03 08:34:15
+WS08;tr39;Weight sensor measuring empty truck weight;2024-06-03 08:44:48
+WS07;tr6;Weight sensor measuring loaded truck weight;2024-06-03 10:32:52
+WS06;tr17;Weight sensor measuring empty truck weight;2024-06-03 10:40:30
+WS04;tr32;Weight sensor measuring empty truck weight;2024-06-03 10:44:08
+WS19;tr18;Weight sensor measuring empty truck weight;2024-06-03 10:51:23
+WS13;tr4;Weight sensor measuring empty truck weight;2024-06-03 10:57:47
+Temp7;Silo7;Temperature sensor measuring silo temperature;2024-06-03 12:16:53
+Humd7;Silo7;Humidity sensor measuring silo humidity;2024-06-03 12:16:53
+GrainTemp19;Silo7;1st Grain Termperature sensor located in the silo;2024-06-03 12:16:53
+GrainTemp20;Silo7;2nd Grain Termperature sensor located in the silo;2024-06-03 12:16:53
+GrainTemp21;Silo7;3rd Grain Termperature sensor located in the silo;2024-06-03 12:16:53
+WS11;tr37;Weight sensor measuring empty truck weight;2024-06-03 13:30:45
+WS08;tr8;Weight sensor measuring empty truck weight;2024-06-03 14:19:58
+WS17;tr12;Weight sensor measuring empty truck weight;2024-06-03 14:39:06
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-06-03 14:44:53
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-06-03 14:44:53
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-06-03 14:44:53
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-06-03 14:44:53
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-06-03 14:44:53
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-03 14:54:08
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-03 14:54:08
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-03 14:54:08
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-03 14:54:08
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-03 14:54:08
+WS14;tr15;Weight sensor measuring empty truck weight;2024-06-03 14:58:40
+WS12;tr20;Weight sensor measuring loaded truck weight;2024-06-03 15:34:36
+WS19;tr31;Weight sensor measuring empty truck weight;2024-06-03 15:46:18
+WS15;tr16;Weight sensor measuring loaded truck weight;2024-06-03 15:54:59
+WS05;tr24;Weight sensor measuring empty truck weight;2024-06-03 15:56:11
+WS09;tr46;Weight sensor measuring empty truck weight;2024-06-03 16:04:05
+WS16;tr23;Weight sensor measuring empty truck weight;2024-06-03 16:13:14
+WS02;tr41;Weight sensor measuring empty truck weight;2024-06-03 16:17:00
+WS13;tr14;Weight sensor measuring empty truck weight;2024-06-03 17:09:38
+WS14;tr27;Weight sensor measuring loaded truck weight;2024-06-03 17:26:40
+WS06;tr10;Weight sensor measuring empty truck weight;2024-06-03 17:56:49
+WS07;tr33;Weight sensor measuring loaded truck weight;2024-06-03 18:17:51
+WS07;tr30;Weight sensor measuring empty truck weight;2024-06-03 19:09:21
+WS03;tr28;Weight sensor measuring loaded truck weight;2024-06-04 07:42:44
+WS12;tr1;Weight sensor measuring empty truck weight;2024-06-04 07:43:52
+WS04;tr34;Weight sensor measuring loaded truck weight;2024-06-04 08:24:13
+WS08;tr47;Weight sensor measuring empty truck weight;2024-06-04 08:44:30
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-06-04 09:07:55
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-06-04 09:07:55
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-06-04 09:07:55
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-06-04 09:07:55
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-06-04 09:07:55
+WS10;tr44;Weight sensor measuring empty truck weight;2024-06-04 09:35:17
+WS18;tr26;Weight sensor measuring loaded truck weight;2024-06-04 09:40:34
+WS12;tr5;Weight sensor measuring empty truck weight;2024-06-04 09:56:55
+WS02;tr9;Weight sensor measuring empty truck weight;2024-06-04 10:15:38
+WS04;tr29;Weight sensor measuring empty truck weight;2024-06-04 10:17:12
+WS14;tr38;Weight sensor measuring loaded truck weight;2024-06-04 10:19:38
+WS07;tr43;Weight sensor measuring empty truck weight;2024-06-04 10:39:16
+WS05;tr50;Weight sensor measuring empty truck weight;2024-06-04 10:49:50
+Temp9;Silo9;Temperature sensor measuring silo temperature;2024-06-04 10:50:08
+Humd9;Silo9;Humidity sensor measuring silo humidity;2024-06-04 10:50:08
+GrainTemp25;Silo9;1st Grain Termperature sensor located in the silo;2024-06-04 10:50:08
+GrainTemp26;Silo9;2nd Grain Termperature sensor located in the silo;2024-06-04 10:50:08
+GrainTemp27;Silo9;3rd Grain Termperature sensor located in the silo;2024-06-04 10:50:08
+WS03;tr22;Weight sensor measuring empty truck weight;2024-06-04 10:57:07
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-04 11:13:20
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-04 11:13:20
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-04 11:13:20
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-04 11:13:20
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-04 11:13:20
+WS19;tr6;Weight sensor measuring empty truck weight;2024-06-04 11:30:31
+WS11;tr36;Weight sensor measuring empty truck weight;2024-06-04 13:33:20
+WS12;tr3;Weight sensor measuring empty truck weight;2024-06-04 13:41:12
+WS08;tr48;Weight sensor measuring empty truck weight;2024-06-04 14:04:11
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-06-04 14:13:32
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-06-04 14:13:32
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-06-04 14:13:32
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-06-04 14:13:32
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-06-04 14:13:32
+WS03;tr25;Weight sensor measuring empty truck weight;2024-06-04 14:16:33
+WS19;tr2;Weight sensor measuring empty truck weight;2024-06-04 14:57:21
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-04 14:57:42
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-04 14:57:42
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-04 14:57:42
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-04 14:57:42
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-04 14:57:42
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-06-04 15:16:22
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-06-04 15:16:22
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-06-04 15:16:22
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-06-04 15:16:22
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-06-04 15:16:22
+WS16;tr13;Weight sensor measuring loaded truck weight;2024-06-04 15:57:49
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-04 15:59:05
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-04 15:59:05
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-04 15:59:05
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-04 15:59:05
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-04 15:59:05
+WS17;tr35;Weight sensor measuring loaded truck weight;2024-06-04 16:00:28
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-06-04 16:15:15
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-06-04 16:15:15
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-06-04 16:15:15
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-06-04 16:15:15
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-06-04 16:15:15
+WS01;tr15;Weight sensor measuring empty truck weight;2024-06-04 16:18:43
+WS08;tr21;Weight sensor measuring empty truck weight;2024-06-04 16:54:01
+WS07;tr4;Weight sensor measuring loaded truck weight;2024-06-04 16:54:25
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-06-04 17:01:32
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-06-04 17:01:32
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-06-04 17:01:32
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-06-04 17:01:32
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-06-04 17:01:32
+WS05;tr45;Weight sensor measuring loaded truck weight;2024-06-04 17:02:33
+WS09;tr24;Weight sensor measuring loaded truck weight;2024-06-04 17:37:11
+WS14;tr20;Weight sensor measuring empty truck weight;2024-06-05 07:56:03
+WS10;tr19;Weight sensor measuring loaded truck weight;2024-06-05 08:33:33
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-06-05 09:41:29
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-06-05 09:41:29
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-06-05 09:41:29
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-06-05 09:41:29
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-06-05 09:41:29
+WS17;tr40;Weight sensor measuring empty truck weight;2024-06-05 09:43:14
+WS03;tr17;Weight sensor measuring empty truck weight;2024-06-05 09:51:34
+WS11;tr37;Weight sensor measuring empty truck weight;2024-06-05 09:58:12
+WS10;tr7;Weight sensor measuring empty truck weight;2024-06-05 10:25:32
+WS07;tr12;Weight sensor measuring empty truck weight;2024-06-05 10:30:39
+WS06;tr14;Weight sensor measuring loaded truck weight;2024-06-05 11:00:46
+WS08;tr9;Weight sensor measuring empty truck weight;2024-06-05 11:21:36
+WS01;tr39;Weight sensor measuring loaded truck weight;2024-06-05 11:25:53
+WS13;tr49;Weight sensor measuring loaded truck weight;2024-06-05 11:30:48
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-06-05 11:39:11
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-06-05 11:39:11
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-06-05 11:39:11
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-06-05 11:39:11
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-06-05 11:39:11
+WS12;tr46;Weight sensor measuring empty truck weight;2024-06-05 11:57:10
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-05 13:10:51
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-05 13:10:51
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-05 13:10:51
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-05 13:10:51
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-05 13:10:51
+WS16;tr18;Weight sensor measuring empty truck weight;2024-06-05 13:54:24
+WS20;tr8;Weight sensor measuring empty truck weight;2024-06-05 14:44:50
+WS09;tr42;Weight sensor measuring loaded truck weight;2024-06-05 14:45:17
+WS15;tr47;Weight sensor measuring empty truck weight;2024-06-05 14:49:30
+WS18;tr10;Weight sensor measuring empty truck weight;2024-06-05 14:53:19
+Temp3;Silo3;Temperature sensor measuring silo temperature;2024-06-05 15:00:24
+Humd3;Silo3;Humidity sensor measuring silo humidity;2024-06-05 15:00:24
+GrainTemp7;Silo3;1st Grain Termperature sensor located in the silo;2024-06-05 15:00:24
+GrainTemp8;Silo3;2nd Grain Termperature sensor located in the silo;2024-06-05 15:00:24
+GrainTemp9;Silo3;3rd Grain Termperature sensor located in the silo;2024-06-05 15:00:24
+WS14;tr32;Weight sensor measuring empty truck weight;2024-06-05 15:17:16
+WS11;tr28;Weight sensor measuring empty truck weight;2024-06-05 16:10:53
+WS06;tr16;Weight sensor measuring empty truck weight;2024-06-05 16:38:21
+WS04;tr5;Weight sensor measuring loaded truck weight;2024-06-05 16:57:56
+WS12;tr1;Weight sensor measuring empty truck weight;2024-06-05 17:37:21
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-05 18:04:42
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-05 18:04:42
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-05 18:04:42
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-05 18:04:42
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-05 18:04:42
+WS08;tr41;Weight sensor measuring loaded truck weight;2024-06-05 18:12:27
+WS18;tr38;Weight sensor measuring empty truck weight;2024-06-06 09:19:45
+WS09;tr22;Weight sensor measuring loaded truck weight;2024-06-06 09:35:54
+WS15;tr23;Weight sensor measuring empty truck weight;2024-06-06 10:38:22
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-06 10:44:49
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-06 10:44:49
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-06 10:44:49
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-06 10:44:49
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-06 10:44:49
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-06 10:51:45
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-06 10:51:45
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-06 10:51:45
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-06 10:51:45
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-06 10:51:45
+WS01;tr31;Weight sensor measuring empty truck weight;2024-06-06 11:07:46
+WS01;tr30;Weight sensor measuring empty truck weight;2024-06-06 13:22:54
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-06 14:09:35
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-06 14:09:35
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-06 14:09:35
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-06 14:09:35
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-06 14:09:35
+WS19;tr40;Weight sensor measuring loaded truck weight;2024-06-06 14:09:57
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-06 14:10:56
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-06 14:10:56
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-06 14:10:56
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-06 14:10:56
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-06 14:10:56
+WS07;tr36;Weight sensor measuring loaded truck weight;2024-06-06 14:37:41
+WS05;tr43;Weight sensor measuring loaded truck weight;2024-06-06 14:39:08
+WS19;tr34;Weight sensor measuring empty truck weight;2024-06-06 14:46:54
+WS02;tr44;Weight sensor measuring empty truck weight;2024-06-06 15:22:26
+WS14;tr48;Weight sensor measuring loaded truck weight;2024-06-06 16:38:39
+Temp14;Silo14;Temperature sensor measuring silo temperature;2024-06-07 08:14:38
+Humd14;Silo14;Humidity sensor measuring silo humidity;2024-06-07 08:14:38
+GrainTemp40;Silo14;1st Grain Termperature sensor located in the silo;2024-06-07 08:14:38
+GrainTemp41;Silo14;2nd Grain Termperature sensor located in the silo;2024-06-07 08:14:38
+GrainTemp42;Silo14;3rd Grain Termperature sensor located in the silo;2024-06-07 08:14:38
+WS19;tr20;Weight sensor measuring loaded truck weight;2024-06-07 08:38:47
+WS07;tr32;Weight sensor measuring loaded truck weight;2024-06-07 09:43:22
+WS17;tr2;Weight sensor measuring loaded truck weight;2024-06-10 08:52:53
+WS16;tr28;Weight sensor measuring loaded truck weight;2024-06-10 10:09:38
+WS15;tr37;Weight sensor measuring loaded truck weight;2024-06-10 12:03:16
+WS03;tr38;Weight sensor measuring loaded truck weight;2024-06-10 15:15:34
+WS16;tr50;Weight sensor measuring loaded truck weight;2024-06-10 16:51:00
+WS12;tr31;Weight sensor measuring loaded truck weight;2024-06-10 18:08:48
+WS09;tr44;Weight sensor measuring loaded truck weight;2024-06-11 07:44:28
+WS14;tr1;Weight sensor measuring loaded truck weight;2024-06-11 10:17:56
